@@ -30,6 +30,157 @@
   ],
   "items": [
     {
+      "id": "pv-1792342691324-3442",
+      "title": "Girl 20",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792342691324-3442.webp",
+      "prompt": "A young woman with dark, wind-swept hair stands in a misty landscape wearing sunglasses and carrying a backpack.\n\nSubject: A young woman with shoulder-length black hair, fair skin, and a calm, neutral expression looking slightly to the side.\n\nClothing: She wears a navy blue wool coat over a beige knit sweater, accessorized with dark-tinted sunglasses and a black backpack on her shoulders.\n\nAction: Standing still in a three-quarter pose, facing forward with a relaxed posture as wind gently blows her hair across her face.\n\nEnvironment: A hazy, atmospheric outdoor setting featuring rolling green hills partially obscured by low-lying fog or mist in the background.\n\nCamera: Medium shot capturing the subject from the waist up with a shallow depth of field that blurs the distant landscape to emphasize the foreground figure.\n\nLighting: Soft, diffused natural light typical of an overcast morning, creating gentle shadows and a cool, muted color palette.\n\nStyle Details: Cinematic photography aesthetic with high dynamic range, realistic textures, and a moody, atmospheric tone.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T17:04:48.805Z"
+    },
+    {
+      "id": "pv-1792342733035-3716",
+      "title": "Girl 21",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792342733035-3716.webp",
+      "prompt": "A young woman with long dark hair tied in a high ponytail sits on a black Royal Enfield motorcycle at night.\n\nSubject: A young woman with fair skin and large dark eyes, looking directly at the camera with a soft expression. Her hair is styled in a high ponytail with loose strands framing her face. She wears a delicate necklace with a small pendant and rings on her fingers.\n\nClothing: She wears a maroon and black zip-up hoodie featuring white piping along the sleeves and a Chicago Bulls logo on the left chest. She is wearing light-wash blue denim jeans with a subtle textured pattern.\n\nAction: She sits casually on the motorcycle seat, leaning slightly forward with her hands clasped together resting on the glossy black fuel tank near a chrome side mirror. Her posture is relaxed and confident.\n\nEnvironment: The setting is an urban street at night, with a chain-link fence behind her, blurred city lights in the distance, and trees visible above the fence. A car is parked or moving in the background.\n\nCamera: Medium shot capturing the subject from the waist up, with a shallow depth of field that keeps the woman and motorcycle sharp while blurring the background streetlights and traffic.\n\nLighting: Artificial nighttime lighting creates soft highlights on her face and the reflective surfaces of the motorcycle, with ambient city glow providing a cool-toned backdrop.\n\nStyle Details: Realistic photograph with high detail, natural skin texture, and vibrant colors enhanced by night-time urban lighting.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T17:04:48.805Z"
+    },
+    {
+      "id": "pv-1792342767397-2433",
+      "title": "Girl 22",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792342767397-2433.webp",
+      "prompt": "A young woman sits casually on the open door sill of a white luxury SUV at dusk.\n\nSubject: A young woman with long dark hair wearing a white baseball cap with the text \"alo\" on it.\n\nClothing: She wears a fitted white long-sleeved top, light blue patterned jeans, and white pointed-toe boots.\n\nAction: She is seated with one leg bent and resting on the door frame, looking directly at the camera with a relaxed expression.\n\nEnvironment: The vehicle is parked outdoors in a residential area with houses and trees visible in the background under a cloudy evening sky.\n\nCamera: Medium shot capturing the subject from the waist up within the open car door, with a shallow depth of field blurring the background.\n\nLighting: Soft ambient light from the twilight sky mixed with interior cabin lighting that illuminates the passenger side.\n\nStyle Details: High-resolution photography with natural color grading and realistic textures.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T17:04:48.805Z"
+    },
+    {
+      "id": "pv-1792342802601-1094",
+      "title": "Girl 23",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792342802601-1094.webp",
+      "prompt": "A woman in traditional Indian attire stands gracefully holding a small oil lamp suspended by a string.\n\nSubject: A young woman with long dark hair and a warm smile, wearing a bindi on her forehead and traditional jewelry including a maang tikka and jhumka earrings.\n\nClothing: She wears a vibrant lehenga choli featuring a magenta blouse with gold embroidery and a teal skirt with floral patterns, draped with a sheer dupatta in shades of pink and teal.\n\nAction: Her right hand gently holds the string of a hanging diya while her left hand supports the base, gazing softly to the side with an expression of calm joy.\n\nEnvironment: The background is filled with vertical strings of warm fairy lights creating a bokeh effect, with additional small clay lamps hanging at varying heights around her.\n\nCamera: Medium shot capturing the subject from the waist up, with shallow depth of field blurring the background lights into soft glowing orbs.\n\nLighting: Warm ambient lighting from the surrounding string lights and the lamp she holds, casting a golden glow on her face and outfit.\n\nStyle Details: Photorealistic portrait with rich color saturation and festive atmosphere typical of Diwali celebrations.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T17:04:48.807Z"
+    },
+    {
+      "id": "pv-1792342838179-8732",
+      "title": "man 17",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792342838179-8732.webp",
+      "prompt": "A man in a dark suit stands before a burning sports car on a wet, reflective surface at night.\n\nSubject: A bearded man with dark hair wearing a black suit jacket and trousers over a white dress shirt and black tie.\n\nClothing: The man wears a formal black suit with a white button-up shirt and a black necktie; his shoes are polished black leather.\n\nAction: He stands facing forward with one hand covering his eyes in a gesture of despair or exhaustion, while the other hand is tucked into his trouser pocket.\n\nEnvironment: A sleek black sports car is engulfed in intense flames behind him on a wet asphalt surface that reflects the fire and smoke rising into the dark sky.\n\nCamera: The shot is framed at eye level with a medium-full body perspective, capturing the subject from head to toe against the backdrop of the burning vehicle.\n\nLighting: Intense orange and red light emanates from the large fire behind the man, casting dramatic highlights on his face and suit while creating deep shadows in the foreground.\n\nStyle Details: High-contrast cinematic photography with vivid color grading emphasizing the fiery oranges against the dark tones of the night scene.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "People",
+      "tags": [
+        "man",
+        "boy"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T17:04:48.807Z"
+    },
+    {
+      "id": "pv-1792342878059-5026",
+      "title": "Girl 24",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792342878059-5026.webp",
+      "prompt": "A woman in a red dress holds a bouquet of sunflowers and white flowers close to her face as she smells them.\n\nSubject: A young woman with long dark hair and a bindi on her forehead.\n\nClothing: She wears a textured red top with three-quarter sleeves and dangling earrings.\n\nAction: She stands in profile looking down at the flowers, holding the bouquet tightly against her chest.\n\nEnvironment: The background is a dark urban street scene featuring horizontal streaks of orange and blue light from passing traffic.\n\nCamera: Shot with a shallow depth of field that blurs the background into motion trails while keeping the subject sharp.\n\nLighting: Warm golden light illuminates the woman's face and hair, creating a soft glow around the flowers against the dark surroundings.\n\nStyle Details: The image has a cinematic quality with high contrast between the warm foreground and cool background tones.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T17:04:48.807Z"
+    },
+    {
+      "id": "pv-1792342935797-5536",
+      "title": "ad 9",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792342935797-5536.webp",
+      "prompt": "A woman in a bright yellow t-shirt and white shorts sits outdoors under a vivid blue sky, holding a large jar of Nector Blueberry Spread toward the camera while lifting a spoonful of thick purple jam to her mouth with a joyful expression.\n\nSubject: A smiling woman with dark wavy hair, wearing bold yellow sunglasses and gold hoop earrings, captured from a low angle looking up at her face and hands.\n\nClothing: She wears a fitted yellow short-sleeve t-shirt and light beige shorts; her fingers are stained with blueberry jam, and she holds a silver spoon dripping with thick purple spread.\n\nAction: She is mid-bite, eyes closed in delight, holding the jar close to the lens with one hand and bringing the spoon to her lips with the other, juice running down her chin.\n\nEnvironment: Lush green foliage frames the background with palm trees visible on the right side, set against a clear blue sky with scattered white clouds.\n\nCamera: Shot from a low angle looking upward, emphasizing the subject’s face and the product label, with shallow depth of field blurring the background slightly.\n\nLighting: Bright natural sunlight illuminates the scene from above, casting soft shadows and highlighting the glossy texture of the jam and the woman’s skin.\n\nStyle Details: High-resolution commercial photography with vibrant saturated colors, crisp focus on the subject and product, clean composition typical of lifestyle advertising.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Advertising",
+      "tags": [
+        "ad",
+        "ads",
+        "products"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T17:04:48.807Z"
+    },
+    {
+      "id": "pv-1792342982727-7317",
+      "title": "man 20",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792342982727-7317.webp",
+      "prompt": "A cinematic close-up of a man with dark hair and a beard standing in the snow beside a massive dragon head looming behind him.\n\nSubject: A young man with short black hair styled upwards, a full dark beard, and intense eyes gazing off to the side.\n\nClothing: He wears a heavy dark leather tunic with studded details and a thick fur collar that frames his neck and shoulders.\n\nAction: The man stands in profile looking forward while snow falls around him; behind him a large dragon head is visible in soft focus, its snout and teeth clearly defined as it looks toward the same direction.\n\nEnvironment: A cold snowy landscape with falling snowflakes creating a wintry atmosphere and muted blue-grey tones throughout the scene.\n\nCamera: Shot with a shallow depth of field that keeps the man sharply in focus while blurring the dragon’s face slightly to emphasize scale and proximity.\n\nLighting: Cool natural light diffuses through the overcast sky, casting soft shadows and highlighting the texture of the fur and scales.\n\nStyle Details: High-fidelity photorealistic rendering with cinematic color grading, subtle film grain, and atmospheric depth that mimics a high-budget fantasy film still.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "People",
+      "tags": [
+        "man",
+        "boy"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T17:04:48.810Z"
+    },
+    {
+      "id": "pv-1792343025796-9121",
+      "title": "Girl 25",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792343025796-9121.webp",
+      "prompt": "A woman sits on stone steps in an urban rooftop setting, gazing thoughtfully into the distance.\n\nSubject: A woman with dark hair pulled back into a low bun, featuring defined cheekbones and a contemplative expression.\n\nClothing: She wears a structured, oversized emerald green wool coat over a black outfit, paired with tall black leather boots that have pointed toes.\n\nAction: Her hands are clasped together under her chin in a resting pose, while she looks off to the side away from the camera.\n\nEnvironment: The setting is an outdoor rooftop terrace featuring grey stone steps, a metal railing to the left, and blurred city buildings with brick chimneys in the background.\n\nCamera: Shot from a slightly low angle using a medium shot that frames the subject from head to toe against the architectural backdrop.\n\nLighting: Soft, cool-toned ambient light suggests late afternoon or early evening, casting gentle shadows and creating a calm mood.\n\nStyle Details: High-fashion editorial aesthetic with a cinematic color palette emphasizing deep greens and cool blues.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T17:04:48.810Z"
+    },
+    {
+      "id": "pv-1792343066754-9846",
+      "title": "Girl 26",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792343066754-9846.webp",
+      "prompt": "A young woman stands in a serene pose within an ornate white architectural setting.\n\nSubject: A young woman with long dark hair and soft facial features looking downward with a gentle expression.\n\nClothing: She wears a light grey traditional outfit featuring intricate beadwork and embroidery along the neckline, sleeves, and hem, paired with a sheer dupatta draped over her head and shoulders adorned with delicate lace trim and scattered embellishments.\n\nAction: Her right hand gently holds the edge of the veil near her face while her left hand rests softly against her abdomen.\n\nEnvironment: The background consists of white stone arches and domes characteristic of Mughal architecture, creating a bright and airy atmosphere.\n\nCamera: The shot is framed as a medium close-up with a shallow depth of field that blurs the architectural details behind her to emphasize her figure.\n\nLighting: Soft natural daylight illuminates the scene evenly, casting gentle shadows and highlighting the texture of her clothing.\n\nStyle Details: High-resolution photography with a clean aesthetic and subtle color grading that enhances the ethereal quality of the fabric and setting.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T17:04:48.810Z"
+    },
+    {
       "id": "pv-1792342162580-477",
       "title": "Girl 15",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792342162580-477.webp",
@@ -944,5 +1095,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T16:56:43.663Z"
+  "updated_at": "2026-10-18T17:04:48.810Z"
 }
