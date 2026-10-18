@@ -11,6 +11,38 @@
   ],
   "items": [
     {
+      "id": "pv-1792308192342",
+      "title": "Cute Girl",
+      "image_url": "images/pv-1792308192342.webp",
+      "prompt": "A young woman sits gracefully on dark, barnacle-covered rocks by the ocean at night.\n\nSubject: A young woman with long, dark hair cascading over her shoulders and a soft, gentle smile directed at the camera.\n\nClothing: She wears a vibrant pink, floor-length gown featuring intricate white floral lace detailing across the bodice and sleeves, paired with dangling earrings and a delicate necklace.\n\nAction: She is seated with her hands clasped gently in her lap, leaning slightly forward with a relaxed posture.\n\nEnvironment: The setting is a rocky shoreline at night, with dark ocean waves crashing softly behind her against a pitch-black sky.\n\nCamera: Shot from a medium-full angle with a shallow depth of field that keeps the subject sharp while softly blurring the background rocks and water.\n\nLighting: Illuminated by a focused artificial light source that highlights her face and gown against the deep shadows of the night, creating a high-contrast, moody atmosphere.\n\nStyle Details: High-resolution real photograph with rich color saturation and a cinematic nighttime aesthetic.",
+      "negative_prompt": "",
+      "model": "Flux.1 Dev",
+      "category": "Portrait",
+      "tags": [
+        "woman",
+        "girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T07:23:12.356Z"
+    },
+    {
+      "id": "pv-1792308091773",
+      "title": "Woman",
+      "image_url": "images/pv-1792308091773.webp",
+      "prompt": "A young woman with long dark wavy hair wearing a silver tiara and a pink dress sits at a table with a pink birthday cake in front of her.\n\nSubject: A young woman with long dark wavy hair wearing a silver tiara and a pink dress sits at a table with a pink birthday cake in front of her.\n\nClothing: She wears a light pink off-shoulder dress with puffy sleeves, a delicate necklace, and a sparkling tiara on her head.\n\nAction: She rests her chin on her hand, looking directly at the camera with a soft smile.\n\nEnvironment: The setting is decorated for a celebration with white balloons, a large pink bow in the background, tall pink candles with bows, crystal glasses, and a pink frosted cake with lit candles.\n\nCamera: Shot from a medium close-up angle with a shallow depth of field that blurs the background slightly to emphasize the subject.\n\nLighting: Warm ambient light highlights her face and the glowing candle flames create soft reflections on the scene.\n\nStyle Details: The image has a dreamy, romantic aesthetic with a pastel color palette dominated by shades of pink and white.",
+      "negative_prompt": "",
+      "model": "z-image-turbo",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T07:21:31.787Z"
+    },
+    {
       "id": "pv-1792307696627",
       "title": "Chinese Girl",
       "image_url": "images/pv-1792307696627.webp",
@@ -69,5 +101,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T07:14:56.643Z"
+  "updated_at": "2026-10-18T07:23:12.362Z"
 }
