@@ -42,22 +42,6 @@
       "created_at": "2026-10-18T14:17:26.864Z"
     },
     {
-      "id": "pv-1792332966064-7187",
-      "title": "Cute GIrl 03",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792332966064-7187.webp",
-      "prompt": "Phụ nữ trưởng thành 20 tuổi. Người phụ nữ ngồi trên ghế mây của hiên, thân trên hơi nghiêng về phía trước. Nghiêng đầu sang trái màn hình, hai tay từ vai buông xuống thẳng.Nhân vật - Biểu cảm:Khuôn mặt hình oval nhỏ với cằm ngắn mảnh, đôi mắt lớn hình chữ nhật ngang màu xám nâu có độ tròn ở phần dưới. Lông mày mảnh, mũi nhỏ, đôi môi hồng nhạt bóng mịn khép lại với nụ cười e ấp. Nhìn vào máy ảnh. Tóc nâu dài sóng xõa xuống ngực, phần trên lỏng lẻo búi lại để lại lớp tóc mái mỏng. Chỉ có lọn tóc bên trái viền sáng màu vàng. Làn da kem đào sáng, mặt hơi hồng nhạt. Đối lập với độ sáng ngược sáng, mặt trước khuôn mặt dịu dàng.Trang phục - Tư thế:Váy làm từ vải sinh thành với họa tiết lá hoa mịn màu xám xanh. Viền ren V sâu và nút thắt nhỏ ở giữa ngực, tay áo ren hoa dài đến khuỷu tay trong suốt và viền bèo ở gấu. Cổ tay bên phải màn hình đeo hai vòng đen mảnh. Hai khuỷu tay đặt gần cơ thể, cẳng tay thả xuống trên đùi. Đầu tay hướng ra ngoài phần dưới. Hai đùi hướng xuống dưới, ngồi yên bình nghiêng nhẹ về trước.Nền - Ánh sáng:Trên bàn tròn đá cẩm thạch trắng xám phía trước tay trái, ly cà phê đá với ống hút đen. Phía sau bên trái là cây trồng chậu, phía sau giữa là khung cửa sổ đen, các ghế và bàn khác, bên phải là đệm ngồi màu trắng. Ánh sáng chéo ấm áp từ phía sau bên trái chiếu viền tóc và tay áo. Khuôn mặt trong ánh sáng dịu dàng sáng sủa, không nhuộm toàn bộ bằng màu cam.Bố cục - Máy ảnh:Góc nhìn hơi cao từ phía chính diện. Đặt bàn tròn ở phía trước tay trái, nhân vật ở giữa bên phải. Tỷ lệ dọc 1087:1447. Để lại chút không gian phía trên đầu, từ đầu đến đùi trên. Khuôn mặt lớn, hai cẳng tay hướng xuống phần dưới, nền mờ nông.Kết cấu - Phong cách:Giữ kết cấu vải sinh thành và xám xanh, làn da hồng nhạt mỏng, viền sáng vàng trên tóc trong phong cách ảnh tinh tế. Kết hợp chi tiết khuôn mặt dịu dàng và ren hoa trong suốt.",
-      "negative_prompt": "",
-      "model": "z-image-turbo",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-18T14:17:26.865Z"
-    },
-    {
       "id": "pv-1792312987543-330",
       "title": "Japanese Girl",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792312987543-330.webp",
@@ -254,5 +238,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T14:20:15.370Z"
+  "updated_at": "2026-10-18T14:20:19.443Z"
 }
