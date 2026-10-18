@@ -30,6 +30,113 @@
   ],
   "items": [
     {
+      "id": "pv-1792339179075-7979",
+      "title": "man",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792339179075-7979.webp",
+      "prompt": "A handsome man with a beard stands confidently on a glass observation deck overlooking a misty mountain valley.\n\nSubject: A young man with short brown hair and a well-groomed beard, wearing dark sunglasses.\n\nClothing: He wears a blue and white varsity jacket with patches on the sleeves and chest over a plain white t-shirt, paired with light-wash denim jeans and grey and white sneakers.\n\nAction: He leans casually against the glass railing with his left arm resting on the metal handrail, looking directly at the camera with a relaxed posture.\n\nEnvironment: The setting is a high-altitude glass walkway or bridge with transparent flooring and glass panels, offering a view of a winding road below and a vast landscape of green pine forests shrouded in low-hanging clouds and mist.\n\nCamera: The shot is taken from a medium-full angle at eye level, capturing the subject's full body against the expansive background.\n\nLighting: Soft, diffused natural light illuminates the scene evenly, creating a cool, atmospheric mood with no harsh shadows.\n\nStyle Details: High-resolution photography with realistic textures and depth of field that keeps the subject sharp while slightly softening the distant mountains.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "People",
+      "tags": [
+        "man",
+        "boy"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T16:06:59.473Z"
+    },
+    {
+      "id": "pv-1792339262093-7803",
+      "title": "man 1",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792339262093-7803.webp",
+      "prompt": "A man sits in a wooden boat holding a bouquet of purple water lilies under a bright blue sky with fluffy white clouds.\n\nSubject: A bearded man with dark curly hair and sunglasses, featuring intricate tattoos on both forearms.\n\nClothing: He wears an unbuttoned light blue and white striped shirt, loose-fitting white trousers, and white sneakers.\n\nAction: He sits cross-legged in the boat, holding a bunch of purple water lilies in his hands while looking off to the side.\n\nEnvironment: The boat floats on a lake covered with green lily pads and purple flowers, with distant trees and houses visible on the horizon.\n\nCamera: Shot from a low angle inside the boat looking up at the subject, capturing a wide view of the sky and water.\n\nLighting: Bright natural sunlight illuminates the scene from above, casting soft shadows and highlighting the vibrant colors of the flowers and sky.\n\nStyle Details: High-resolution photograph with vivid saturation and clear detail in textures like wood grain and fabric.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "People",
+      "tags": [
+        "man",
+        "boy"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T16:06:59.473Z"
+    },
+    {
+      "id": "pv-1792339343637-4399",
+      "title": "girl",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792339343637-4399.webp",
+      "prompt": "A sharp portrait of a young woman with brown hair pulled back and loose strands framing her face, looking directly at the camera with a neutral expression.\n\nSubject: A young woman with fair skin, blue eyes, and light brown hair tied back in a messy bun with wisps of hair blowing around her face.\n\nClothing: She wears a dark coat and a thick, textured black scarf wrapped around her neck, with a tan leather strap from a shoulder bag visible over her left shoulder.\n\nAction: She stands still and stares forward while the surrounding figures move past her, creating a sense of isolation amidst motion.\n\nEnvironment: A busy urban street scene with blurred pedestrians in the background, suggesting a crowded city atmosphere.\n\nCamera: Shot with a slow shutter speed to create strong motion blur on the moving people in the foreground and background, isolating the sharp focus on the central subject.\n\nLighting: Soft, diffused daylight illuminates her face evenly without harsh shadows, maintaining a natural and realistic tone.\n\nStyle Details: High-contrast depth of field with selective focus, capturing a candid street photography aesthetic.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T16:06:59.473Z"
+    },
+    {
+      "id": "pv-1792339396869-6001",
+      "title": "Cute Girl 10",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792339396869-6001.webp",
+      "prompt": "A young woman stands in a field of tall pampas grass at dusk, holding a large white feather plume gently against her chest.\n\nSubject: A young woman with long dark wavy hair and soft features, looking upward and to the side with a gentle smile.\n\nClothing: She wears a light pink floral dress made of sheer fabric with ruffled sleeves and a draped neckline.\n\nAction: Her hands hold a large white pampas grass plume close to her chest, while she gazes thoughtfully into the distance.\n\nEnvironment: Tall feathery pampas grass surrounds her in soft focus, with a muted purple and pink sky suggesting twilight or sunset.\n\nCamera: Medium shot with shallow depth of field blurring the background grass and foreground elements to emphasize the subject.\n\nLighting: Soft ambient light from the setting sun creates a dreamy glow on her face and dress with gentle shadows.\n\nStyle Details: Ethereal and romantic aesthetic with pastel tones, soft focus, and natural film-like texture.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T16:06:59.473Z"
+    },
+    {
+      "id": "pv-1792339462574-675",
+      "title": "man",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792339462574-675.webp",
+      "prompt": "A man stands barefoot on a wet cobblestone street at night, holding the hand of a glowing, ethereal woman in a flowing white gown as they dance together.\n\nSubject: A bearded man with dark curly hair and a luminous woman whose form is composed of bright, warm light, appearing to float slightly above the ground.\n\nClothing: The man wears an unbuttoned white long-sleeved shirt with sleeves rolled up and dark trousers; the woman is dressed in a long, sheer white gown that trails behind her like mist.\n\nAction: The man stands with one hand in his pocket while extending his other arm to hold the woman's raised hand, leading her in a graceful dance pose.\n\nEnvironment: An elegant European-style city street at night with ornate buildings lining the road and vintage multi-globe streetlamps casting warm light on the slick pavement.\n\nCamera: A medium shot capturing the couple from the knees up, framed against the dark background of the city with reflections visible on the wet ground.\n\nLighting: Warm ambient light from the streetlamps illuminates the scene, creating a soft glow around the woman and reflecting brightly off the rain-slicked cobblestones.\n\nStyle Details: A cinematic, romantic atmosphere with high contrast between the glowing subject and the dark surroundings, featuring a dreamlike quality to the luminous figure.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "People",
+      "tags": [
+        "man",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T16:06:59.473Z"
+    },
+    {
+      "id": "pv-1792339558767-5803",
+      "title": "man 3",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792339558767-5803.webp",
+      "prompt": "A man sits comfortably in a brown leather armchair reading an open book by the window at night.\n\nSubject: A man with dark curly hair and a beard is seated in a relaxed posture, holding an open hardcover book on his lap.\n\nClothing: He wears a black turtleneck sweater, dark trousers, and brown leather loafers.\n\nAction: The man is looking down intently at the pages of the book he is holding with both hands.\n\nEnvironment: He is seated in a large brown leather armchair next to a window showing blurred city lights outside at night.\n\nCamera: The shot is framed from a slightly low angle, capturing the subject from the knees up with a shallow depth of field that blurs the background.\n\nLighting: A warm desk lamp illuminates the scene from the left, casting soft shadows and highlighting the texture of the leather chair and the man’s face.\n\nStyle Details: The image has a cinematic quality with rich contrast between the warm interior tones and the cool blue hues of the night outside.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "People",
+      "tags": [
+        "man",
+        "boy"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T16:06:59.475Z"
+    },
+    {
+      "id": "pv-1792339605270-2112",
+      "title": "ComfyUI 00028",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792339605270-2112.webp",
+      "prompt": "A woman stands triumphantly on a rocky mountain peak with her arms spread wide against a backdrop of misty green valleys and swirling clouds.\n\nSubject: A young woman with long dark hair styled in a half-updo, wearing round dark sunglasses and looking upwards with a serene expression.\n\nClothing: She wears a vibrant red long-sleeved blouse featuring ruffled details down the front and at the cuffs, paired with light-wash wide-leg jeans that have a distressed rip at the knee, and white sneakers.\n\nAction: Her arms are extended horizontally to her sides in an open-armed gesture, palms facing up, while she tilts her head back slightly to gaze into the sky.\n\nEnvironment: The setting is a high-altitude mountain summit with jagged dark rocks beneath her feet, overlooking a vast valley filled with dense green forests partially obscured by low-hanging white mist and clouds.\n\nCamera: Shot from a medium-full length perspective at eye level, capturing the full figure against the expansive landscape with a depth of field that keeps the subject sharp while softening the distant mountains.\n\nLighting: The scene is lit by soft, diffused natural light typical of an overcast day or high altitude, creating even illumination without harsh shadows and enhancing the cool tones of the mist.\n\nStyle Details: Realistic photography with a focus on vibrant color contrast between the red clothing and the cool blue-green environment, capturing a candid travel moment.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T16:06:59.475Z"
+    },
+    {
       "id": "pv-1792339096452-6223",
       "title": "girl 11",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792339096452-6223.webp",
@@ -515,5 +622,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T15:59:32.564Z"
+  "updated_at": "2026-10-18T16:06:59.475Z"
 }
