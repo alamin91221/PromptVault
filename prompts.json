@@ -11,8 +11,7 @@
   ],
   "category_covers": {
     "All": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792312987543-330.webp",
-    "Portrait": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/cat-cover-portrait-1792316478799.webp",
-    "Animals": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792306527725.webp"
+    "Portrait": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/cat-cover-portrait-1792316478799.webp"
   },
   "models": [
     "z-image-turbo",
@@ -223,5 +222,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T09:41:47.928Z"
+  "updated_at": "2026-10-18T09:41:49.537Z"
 }
