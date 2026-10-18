@@ -29,6 +29,20 @@
   ],
   "items": [
     {
+      "id": "pv-1792338656257-8710",
+      "title": "food 2",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792338656257-8710.webp",
+      "prompt": "Create an ultra-realistic cinematic food advertisement featuring a towering stack of crispy fried chicken pieces suspended above a rustic cast-iron skillet, with several individual chicken pieces flying outward at different heights. The chicken must have extremely detailed crunchy golden-brown coating, irregular crispy flakes and juicy meat visible where one piece is broken open. Capture hot oil droplets, crunchy crumbs, seasoning particles and tiny herbs exploding through the air. Add dramatic streams of honey glaze and spicy sauce curving around the chicken in dynamic arcs. The skillet is visible underneath but the chicken is primarily floating above it, not arranged on a plate. Deep black background, warm amber bokeh, subtle steam and smoke, intense cinematic rim lighting, glowing golden highlights, realistic grease reflections, high-speed photography, 85mm lens, shallow depth of field, frozen-action food photography, luxurious restaurant advertising aesthetic, photorealistic 8K detail.Negative prompt: plate, porcelain dish, bowl, clean food arrangement, cartoon chicken, CGI look, rubbery texture, smooth coating, raw chicken, distorted anatomy, duplicate pieces, blurry crumbs.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Food",
+      "tags": [
+        "food"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T15:51:09.790Z"
+    },
+    {
       "id": "pv-1792338482777-2333",
       "title": "food",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792338482777-2333.webp",
@@ -410,5 +424,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T15:48:22.133Z"
+  "updated_at": "2026-10-18T15:51:09.790Z"
 }
