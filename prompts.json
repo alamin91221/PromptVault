@@ -22,6 +22,56 @@
   ],
   "items": [
     {
+      "id": "pv-1792312987543-330",
+      "title": "Japanese Girl",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792312987543-330.webp",
+      "prompt": "A night street portrait of a young woman wearing an elaborate kimono in an urban setting, the furisode kimono primarily teal-green and embroidered with exquisite butterfly and floral patterns in rich layered colors from light to deep green, accented with white, pale blue, and gold flowers and lifelike colorful butterflies. One large blue-black butterfly is especially prominent at the center of the hem, surrounded by intricate patterns of cherry blossoms, plum blossoms, and small flowers. The kimono fabric has a silk-like glossy texture. A wide brocade obi is tied at the waist with complex geometric patterns and embroidery, decorated with colorful tassels and traditional knots. She wears a refined hair ornament, her brown short hair slightly fluffy with a blue flower pinned in it. Her pose is elegant, right hand gently raised to her forehead as if feeling the night breeze or gazing into the distance, left hand relaxed at her side with fingers slightly curled, her gaze directed upward, expression calm and thoughtful, facial contours soft, makeup refined but not exaggerated, lips natural pink, overall temperament gentle yet modern. She wears beige-white wooden geta sandals with simple surfaces contrasting with the kimono, standing on a sidewalk paved with gray square tiles that reflect a faint glow. The background is a blurred city night scene with distant high-rises and flickering neon lights, warm yellow, cool white, and orange-red bokeh scattered in the darkness, modern building structures along the street, metal beams and lighting fixtures overhead, and bright white streetlamps creating an urban night atmosphere. The composition is a medium shot with the subject slightly left of center, body slightly turned, head tilted up to form graceful lines. The lens focuses on the subject with deep background blur, highlighting her details and the exquisite clothing; light comes mainly from surrounding streetlights and building lights, from the side and above, creating soft highlights and shadows on the kimono, enhancing volume and casting a faint shadow on the ground. The interwoven light and shadow create a quiet dreamlike mood. The palette is cool overall, combining teal, gray-blue, black, and warm yellow contrast, with visual focus on her face and the kimono patterns, especially the large butterfly. The composition is narrative, like a poetic moment, full of Japanese aesthetic refinement and modern urban alienation, presenting a unique mood where tradition and modernity blend, like a high-quality portrait shot with a professional camera, with strong artistic expression and emotional tension.",
+      "negative_prompt": "",
+      "model": "z-image-turbo",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "japanese",
+        "japanese girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T08:45:08.844Z"
+    },
+    {
+      "id": "pv-1792312987903-2461",
+      "title": "Kpop styles girl",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792312987903-2461.webp",
+      "prompt": "At the center of a futuristic stage, two young women dance under vivid lights. In the foreground, a dancer in a pink cropped top and voluminous ruffled short skirt steps forward dynamically, her shoulder-length dark straight hair framing a bright smile, eyes looking toward the camera. Her top carries black artistic lettering, paired with white knee-high socks and thick-soled lace-up boots; her right arm swings naturally while her left hand holds a microphone, body leaning slightly forward with rhythmic motion. Behind her, another dancer in a white slip dress with long loose hair moves in sync, her expression cooler and lips slightly pouty, creating a contrast. They form the visual focus against a huge LED screen displaying flowing abstract geometric patterns in blue and red, with stage floor reflecting multicolored light in rippling patterns. A blurred audience in the background holds glowing light sticks, creating an energetic live-show atmosphere. The mid-shot composition, slightly low angle, blue-dominant lighting with pink and purple halos, crisp silhouettes, and saturated details capture a dynamic concert moment with immersive pop-performance energy.",
+      "negative_prompt": "",
+      "model": "z-image-turbo",
+      "category": "Portrait",
+      "tags": [
+        "kpop girl",
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T08:45:08.844Z"
+    },
+    {
+      "id": "pv-1792312988284-5978",
+      "title": "Fashion Girl",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792312988284-5978.webp",
+      "prompt": "A young woman stands in a tropical resort-style indoor bar, wearing a bright purple satin off-shoulder bodycon dress with gathered folds at the waist, a short hem ending at mid-thigh, and black pointed high heels with gold toe ornaments. She wears black gloves, her right hand hanging naturally and her left hand on her hip, confident and alluring. Her long black hair falls smoothly over her shoulders with a pink bow hair accessory; her makeup is delicate, her gaze soft toward one side, and her lips slightly curved in a languid, charming expression. Behind her is a round woven rattan chair and a cluster of colorful hand-painted directional signs reading “BEACH”, “SURFING”, “Waikiki”, “KILAUEA”, and “Bar” in rough handwritten lettering in green, yellow, red, blue, and light green, arranged along a white metal railing. To the right, a tall palm tree is lit in purple-blue, echoing the neon palette; hanging spherical lamps glow warm yellow, with white pipes and blue decorations above, pale tiled walls, and dark wooden flooring. The space is bathed in soft colored light—purple, blue, and orange-yellow—creating a dreamy, slightly迷离 nightlife atmosphere; a bright circular flare appears in the lower right foreground, adding depth and a candid, fashionable resort-party mood.",
+      "negative_prompt": "",
+      "model": "z-image-turbo",
+      "category": "Portrait",
+      "tags": [
+        "woman",
+        "girl",
+        "fashion girl",
+        "styles girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T08:45:08.845Z"
+    },
+    {
       "id": "pv-1792312645252-9537",
       "title": "Chinese girl",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792312645252-9537.webp",
@@ -168,5 +218,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T08:37:46.743Z"
+  "updated_at": "2026-10-18T08:45:08.845Z"
 }
