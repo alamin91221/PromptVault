@@ -29,6 +29,21 @@
   ],
   "items": [
     {
+      "id": "pv-1792338823574-5735",
+      "title": "girl",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792338823574-5735.webp",
+      "prompt": "Ultra realistic fashion portrait of a beautiful woman surrounded by flowing translucent white fabric, soft wind blowing hair naturally, elegant white sleeveless dress, minimal monochrome aesthetic, airy silk fabric wrapping around the frame, dreamy cinematic lighting, soft diffused daylight, luxury editorial photography, ethereal atmosphere, delicate skin texture, soft shadows, high fashion Vogue style, centered composition, clean white background, graceful movement, 85mm lens, shallow depth of field, ultra detailed, premium beauty campaign, soft matte tones, natural facial expression, floating fabric motion, sophisticated feminine aesthetic",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T15:53:56.274Z"
+    },
+    {
       "id": "pv-1792338656257-8710",
       "title": "food 2",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792338656257-8710.webp",
@@ -424,5 +439,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T15:51:09.790Z"
+  "updated_at": "2026-10-18T15:53:56.274Z"
 }
