@@ -1,17 +1,26 @@
-*.iml
-.gradle
+# PromptVault — GitHub Data & Assets Only
+# Keep Android source code and Admin panel PRIVATE on local disk only
+
+# Android App Source Code
+/app/
+/gradle/
+/gradlew
+/gradlew.bat
+/build.gradle.kts
+/settings.gradle.kts
+/gradle.properties
+
+# Admin Panel & Local Server (Local only)
+/admin/
+/run_admin.bat
+/README.md
+
+# Build Caches & IDE
+/.idea/
+/.gradle/
+/.kotlin/
+/build/
 /local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+*.iml
 .DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
-.kotlin
 *.bak
