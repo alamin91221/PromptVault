@@ -6,7 +6,8 @@
     "Nature",
     "Cyberpunk",
     "3D",
-    "Fantasy"
+    "Fantasy",
+    "animals"
   ],
   "items": [
     {
@@ -25,5 +26,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T06:53:32.030Z"
+  "updated_at": "2026-10-18T06:55:12.056Z"
 }
