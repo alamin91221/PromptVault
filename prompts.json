@@ -9,6 +9,16 @@
     "Fantasy",
     "Animals"
   ],
+  "category_covers": {
+    "All": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792312987543-330.webp",
+    "Portrait": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792312987543-330.webp",
+    "Anime": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792307696627.webp",
+    "Nature": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792305788080.webp",
+    "Cyberpunk": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792309981771-7542.webp",
+    "3D": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792308091773.webp",
+    "Fantasy": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792308192342.webp",
+    "Animals": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792306527725.webp"
+  },
   "models": [
     "z-image-turbo",
     "Midjourney v7",
