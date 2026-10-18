@@ -30,6 +30,115 @@
   ],
   "items": [
     {
+      "id": "pv-1792339745101-201",
+      "title": "man 4",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792339745101-201.webp",
+      "prompt": "A young man with dark tousled hair and a blindfold stands in the center of the frame, surrounded by floating black-and-white photographs.\n\nSubject: A young man with dark tousled hair, a thick mustache, and a short beard, wearing a white cloth blindfold over his eyes. He has a small stud earring in his left ear.\n\nClothing: He wears a plain black hooded sweatshirt with the hood resting on his shoulders.\n\nAction: His head is tilted slightly upward and to the side, with a calm, neutral expression on his face as he gazes forward despite being blindfolded. Several vintage-style photographs are suspended in mid-air around him, some blurred in the foreground and background.\n\nEnvironment: The setting appears to be indoors with sheer curtains visible behind him, through which soft blue-tinted light filters. The floating photos create a surreal, dreamlike atmosphere.\n\nCamera: Shot from a low angle looking up at the subject, with a shallow depth of field that keeps the man in sharp focus while blurring the surrounding photographs and background elements.\n\nLighting: Cool-toned lighting with a strong blue cast dominates the scene, creating high contrast between the shadows on his face and the bright highlights on his forehead and blindfold. The light source seems to come from above and slightly behind, casting soft shadows that emphasize his facial features.\n\nStyle Details: The image has a cinematic, moody aesthetic with a cool color palette dominated by blues and blacks. There is a slight film grain texture and a sense of motion blur on the floating photos, enhancing the surreal quality of the moment.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "People",
+      "tags": [
+        "man",
+        "boy"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T16:15:36.551Z"
+    },
+    {
+      "id": "pv-1792339810463-8497",
+      "title": "Cute Girl 11",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792339810463-8497.webp",
+      "prompt": "A young woman stands in a field of tall white pampas grass, holding a large bunch near her face as she tilts her head back to look upward with a serene expression.\n\nSubject: A young woman with long dark wavy hair and a nose ring.\n\nClothing: She wears a red sari with gold woven borders and a matching blouse featuring intricate gold embroidery on the sleeves.\n\nAction: She holds a large bunch of white pampas grass in her right hand, tilting her head back to look upward with a soft smile and closed eyes.\n\nEnvironment: The background consists of tall white pampas grass that is softly blurred, creating a dreamy bokeh effect with hints of green foliage.\n\nCamera: Shot with a shallow depth of field using a portrait orientation, focusing sharply on the subject while blurring the background to emphasize her features.\n\nLighting: Soft natural sunlight filters through the grass, casting a warm golden glow on her skin and highlighting the texture of the pampas grass.\n\nStyle Details: The image has a soft, ethereal quality with a shallow depth of field that emphasizes the subject against the blurred background.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T16:15:36.551Z"
+    },
+    {
+      "id": "pv-1792339934148-7796",
+      "title": "Cute Girl 12",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792339934148-7796.webp",
+      "prompt": "A woman sits in a wooden boat on a vast lake filled with pink lotus flowers under a bright blue sky with fluffy white clouds.\n\nSubject: A young woman with long wavy brown hair and fair skin sitting upright in a small wooden boat, holding a bouquet of pink lotus flowers close to her chest.\n\nClothing: She wears a light purple sleeveless dress with thin straps and a gathered bodice, the fabric draping naturally over her legs as she sits barefoot on the wooden floorboards.\n\nAction: Her gaze is directed slightly upward and to the side, away from the camera, while her hands gently cradle the stems of the lotus flowers in her lap.\n\nEnvironment: The boat floats on a calm lake covered with large green lily pads and blooming pink lotus flowers, with a distant tree-lined shore visible under a dramatic sky filled with voluminous white clouds.\n\nCamera: Shot from a low angle looking up at the subject, emphasizing the height of the sky and the expanse of the flower-filled lake, with a shallow depth of field that keeps the woman in sharp focus while softly blurring the background.\n\nLighting: Bright natural daylight illuminates the scene evenly, casting soft shadows within the boat and highlighting the texture of the dress and the delicate petals of the flowers.\n\nStyle Details: The image has a vivid, high-saturation color palette with rich blues, purples, and greens, rendered in a realistic photographic style that emphasizes clarity and natural textures.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T16:15:36.551Z"
+    },
+    {
+      "id": "pv-1792339972729-7974",
+      "title": "man 5",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792339972729-7974.webp",
+      "prompt": "A young man with styled dark hair and a beard sits casually against a black graphic background featuring large white typography and orange geometric shapes.\n\nSubject: A young man with short dark hair, a trimmed beard, and dark sunglasses looking directly at the camera with a relaxed expression.\n\nClothing: He is wearing a bright red hooded sweatshirt with drawstrings, black trousers, and red, white, and black high-top sneakers with visible logos. Several rings are worn on his fingers.\n\nAction: The man is seated in a slouching pose with one leg bent and the other extended, hands resting loosely near his lap, conveying a laid-back attitude.\n\nEnvironment: A stylized graphic background composed of a black grid pattern overlaid with large white text reading \"chill out\" and scattered orange circles and squares.\n\nCamera: Shot from a slightly low angle looking up at the subject, utilizing a wide-angle perspective that distorts the edges to emphasize the typography.\n\nLighting: Bright, even studio lighting illuminates the subject clearly against the dark background with minimal shadows on his face.\n\nStyle Details: High-contrast commercial photography style with bold color blocking and graphic design elements integrated into the composition.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "People",
+      "tags": [
+        "man"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T16:15:36.553Z"
+    },
+    {
+      "id": "pv-1792340014279-7191",
+      "title": "Girl 13",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792340014279-7191.webp",
+      "prompt": "A young woman taking a mirror selfie on a staircase.\n\nSubject: A young woman with long dark hair and fair skin stands confidently in the center of the frame. She has a slender build with visible abs and is looking directly at her phone screen with a neutral expression.\n\nClothing: She wears a black off-the-shoulder crop top with \"VOGUE\" printed in large white letters across the chest, paired with loose-fitting black jeans secured by a wide belt featuring silver grommets and a large buckle. A long silver chain necklace hangs around her neck.\n\nAction: She holds a smartphone up with her left hand to capture the reflection in a mirror, while her right hand rests casually near her hip. Her stance is wide and grounded on the stairs.\n\nEnvironment: The setting is an indoor staircase with cream-colored steps and white railings. The walls are decorated with black graffiti-style drawings and text, including visible words like \"VEGE\" and \"RA\". A yellow frame borders the right side of the mirror.\n\nCamera: The image is a vertical mirror selfie taken at eye level, capturing the subject from head to toe within the reflection.\n\nLighting: Warm artificial light illuminates the scene from above and slightly behind, casting soft shadows and highlighting the texture of her clothing and skin.\n\nStyle Details: The photo has a candid, urban aesthetic with high contrast between the dark outfit and the lighter background elements.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T16:15:36.553Z"
+    },
+    {
+      "id": "pv-1792340060438-8355",
+      "title": "man,woman",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792340060438-8355.webp",
+      "prompt": "A close-up selfie of a young couple outdoors under a clear blue sky.\n\nSubject: A woman with long dark hair making a playful kissing face and squinting her eyes, positioned next to a man with thick curly dark hair and a short beard who is smiling gently at the camera.\n\nClothing: The man wears a white crew-neck t-shirt and a silver chain necklace, while the woman wears a dark sleeveless top.\n\nAction: The man holds his right hand up to the woman's face, cupping her cheek with his fingers as she puckers her lips for a kiss.\n\nEnvironment: Green trees are visible in the background against a bright blue sky.\n\nCamera: Shot from a low angle looking up at the subjects, likely taken with a smartphone or wide-angle lens typical of selfies.\n\nLighting: Warm golden sunlight hits their faces from the side, creating soft highlights and gentle shadows.\n\nStyle Details: Naturalistic photography with high detail in skin texture and hair strands.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "People",
+      "tags": [
+        "man",
+        "woman",
+        "girl",
+        "boy"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T16:15:36.556Z"
+    },
+    {
+      "id": "pv-1792340112290-4173",
+      "title": "man 6",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792340112290-4173.webp",
+      "prompt": "A handsome man with a beard stands in a golden wheat field at sunset.\n\nSubject: A well-groomed man with dark hair styled upwards and a full beard, looking directly at the camera with a slight smile.\n\nClothing: He wears a crisp white button-down shirt with sleeves rolled to the elbows, tucked into dark trousers secured by a brown leather belt. He is accessorized with a wristwatch on his left arm and a bracelet on his right.\n\nAction: He stands facing forward with both hands casually placed in his trouser pockets.\n\nEnvironment: The setting is an open field of tall golden wheat stalks that reach up to the subject's waist. The background features a dramatic sky filled with clouds illuminated by the warm, glowing light of the sun low on the horizon.\n\nCamera: The shot is framed as a medium shot capturing the subject from the thighs up, utilizing a shallow depth of field to blur the foreground wheat and distant background while keeping the subject sharp.\n\nLighting: The scene is lit by strong backlighting from the setting sun, creating a bright rim light around the subject's hair and shoulders and casting a warm, golden hue over the entire image.\n\nStyle Details: The photograph has a cinematic quality with high dynamic range, emphasizing the contrast between the bright sky and the darker foreground elements.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "People",
+      "tags": [
+        "man",
+        "boy"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T16:15:36.556Z"
+    },
+    {
       "id": "pv-1792339179075-7979",
       "title": "man",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792339179075-7979.webp",
@@ -622,5 +731,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T16:06:59.475Z"
+  "updated_at": "2026-10-18T16:15:36.556Z"
 }
