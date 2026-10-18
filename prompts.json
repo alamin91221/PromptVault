@@ -74,22 +74,6 @@
       "created_at": "2026-10-18T14:17:26.865Z"
     },
     {
-      "id": "pv-1792333034336-2927",
-      "title": "Cute GIrl 04",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792333034336-2927.webp",
-      "prompt": "梦幻自然光花园人像，柔焦胶片质感，竖幅近距离肖像构图；年轻女性，muse般的面庞，黑色长发蓬松微乱，面部居中偏上作为主视觉，白皙偏暖象牙肤调，橘粉眼妆与水润珊瑚唇，正面安静凝视镜头，头部略抬，嘴唇轻启，眼神湿润疏离、无笑意；身体只露出少量肩颈，被花枝遮挡。前景粉色、蓝紫色小花和绿色枝叶中等密度环绕面部并局部遮挡，背景蓝绿色自然虚化。上方斜侧日光穿过花枝，在脸颊、鼻翼、下巴 and 颈部形成真实斑驳叶影，皮肤细腻柔亮，鼻梁和唇部有自然高光，浅景深，前景花朵虚化，轻微胶片颗粒",
-      "negative_prompt": "",
-      "model": "z-image-turbo",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-18T14:17:26.866Z"
-    },
-    {
       "id": "pv-1792312987543-330",
       "title": "Japanese Girl",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792312987543-330.webp",
@@ -286,5 +270,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T14:17:26.866Z"
+  "updated_at": "2026-10-18T14:20:10.850Z"
 }
