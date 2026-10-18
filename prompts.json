@@ -29,6 +29,20 @@
   ],
   "items": [
     {
+      "id": "pv-1792338482777-2333",
+      "title": "food",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792338482777-2333.webp",
+      "prompt": "Macro food photography of a crispy martabak telur tearing open mid-air, thin golden wrapper shattering with a crack, hot filling of minced beef, scallions, and egg bursting outward. Flecks of fried onion and pepper suspended in motion, steam visible, glossy oil sheen catching the light. Warm Indonesian street-stall lighting, tungsten + charcoal warmth, dramatic rim light, ultra high texture detail (bubbled wrapper, layered interior).Editorial food shot, shallow depth of field, bokeh of night market signage, Nikon Z9 look, 105mm macro, fast shutter freeze, hyper-real crumbs. --ar 3:4",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Food",
+      "tags": [
+        "food"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T15:48:22.133Z"
+    },
+    {
       "id": "pv-1792338390106-1846",
       "title": "girl",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792338390106-1846.webp",
@@ -396,5 +410,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T15:47:57.056Z"
+  "updated_at": "2026-10-18T15:48:22.133Z"
 }
