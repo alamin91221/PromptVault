@@ -7,7 +7,7 @@
     "Cyberpunk",
     "3D",
     "Fantasy",
-    "animals"
+    "Animals"
   ],
   "models": [
     "z-image-turbo",
@@ -22,16 +22,30 @@
   ],
   "items": [
     {
+      "id": "pv-1792312645252-9537",
+      "title": "Chinese girl",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792312645252-9537.webp",
+      "prompt": "A side-profile portrait of an elegant Eastern woman in refined Hanfu, her glossy black hair piled high with a few loose strands falling beside her ear, adorned with simple classical hair ornaments. Her face is delicate, brows and eyes finely drawn, her gaze deep and faintly melancholic toward the right side of the frame, lips gently pressed in a quiet, introspective expression. She wears an ivory cross-collar ruqun, a vivid red wide silk ribbon tied in an elegant bow at her chest with two ends hanging down, contrasting with a red velvet cloak embroidered with gold floral motifs and edged by a thick, soft white fox-fur collar. Her hands rest lightly before her abdomen, fingers slender and neatly manicured. The composition is a half-body close view occupying most of the frame, set in an ancient interior corridor with dark wooden walls and traditional Chinese lattice windows, square warm-yellow lanterns hanging above, blurred windows and architectural outlines in the distance. Soft light enters from the left and above, modeling her face, shoulders, and cloak with gentle transitions and deep but unobtrusive shadows; the warm lantern glow contrasts with cooler surroundings, creating a quiet, story-rich classical atmosphere.",
+      "negative_prompt": "",
+      "model": "z-image-turbo",
+      "category": "Portrait",
+      "tags": [],
+      "is_premium": true,
+      "created_at": "2026-10-18T08:37:46.740Z"
+    },
+    {
       "id": "pv-1792309981771-7542",
-      "title": "man",
+      "title": "Cyber Racer",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792309981771-7542.webp",
       "prompt": "A young man crouches on a gravel driveway in front of an orange sports car with the sun flaring behind it.\n\nSubject: A young man with dark hair and a short beard wearing dark sunglasses.\n\nClothing: He wears a bright orange bomber jacket covered in black graffiti-style text, a black t-shirt underneath, loose black cargo pants, and chunky orange and black sneakers.\n\nAction: The subject is crouching low to the ground, looking directly at the camera with a neutral expression, his hands resting near his knees.\n\nEnvironment: The setting is a residential driveway paved with small grey stones, with a large red brick house featuring chimneys in the background and green trees visible behind the car.\n\nCamera: Shot from a slightly low angle to emphasize the subject's pose, utilizing a wide-angle lens that captures the full width of the car and the surrounding environment.\n\nLighting: Strong backlighting from the sun creates a bright starburst flare over the car's windshield, casting long shadows on the gravel and highlighting the texture of the jacket.\n\nStyle Details: The image has a high-contrast, slightly grainy aesthetic typical of film photography with vibrant orange tones dominating the color palette.",
       "negative_prompt": "",
       "model": "z-image-turbo",
-      "category": "Portrait",
+      "category": "Cyberpunk",
       "tags": [
         "man",
-        "boy"
+        "boy",
+        "Cyberpunk",
+        "Portrait"
       ],
       "is_premium": false,
       "created_at": "2026-10-18T07:54:08.207Z"
@@ -47,54 +61,59 @@
       "tags": [
         "woman",
         "girl",
-        "cute girl"
+        "cute girl",
+        "Portrait"
       ],
       "is_premium": true,
       "created_at": "2026-10-18T07:54:08.208Z"
     },
     {
       "id": "pv-1792308192342",
-      "title": "Cute Girl",
+      "title": "Ocean Night Dream",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792308192342.webp",
       "prompt": "A young woman sits gracefully on dark, barnacle-covered rocks by the ocean at night.\n\nSubject: A young woman with long, dark hair cascading over her shoulders and a soft, gentle smile directed at the camera.\n\nClothing: She wears a vibrant pink, floor-length gown featuring intricate white floral lace detailing across the bodice and sleeves, paired with dangling earrings and a delicate necklace.\n\nAction: She is seated with her hands clasped gently in her lap, leaning slightly forward with a relaxed posture.\n\nEnvironment: The setting is a rocky shoreline at night, with dark ocean waves crashing softly behind her against a pitch-black sky.\n\nCamera: Shot from a medium-full angle with a shallow depth of field that keeps the subject sharp while softly blurring the background rocks and water.\n\nLighting: Illuminated by a focused artificial light source that highlights her face and gown against the deep shadows of the night, creating a high-contrast, moody atmosphere.\n\nStyle Details: High-resolution real photograph with rich color saturation and a cinematic nighttime aesthetic.",
       "negative_prompt": "",
       "model": "Flux.1 Dev",
-      "category": "Portrait",
+      "category": "Fantasy",
       "tags": [
         "woman",
-        "girl"
+        "girl",
+        "Fantasy",
+        "Portrait"
       ],
       "is_premium": false,
       "created_at": "2026-10-18T07:23:12.356Z"
     },
     {
       "id": "pv-1792308091773",
-      "title": "Woman",
+      "title": "Princess Birthday",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792308091773.webp",
       "prompt": "A young woman with long dark wavy hair wearing a silver tiara and a pink dress sits at a table with a pink birthday cake in front of her.\n\nSubject: A young woman with long dark wavy hair wearing a silver tiara and a pink dress sits at a table with a pink birthday cake in front of her.\n\nClothing: She wears a light pink off-shoulder dress with puffy sleeves, a delicate necklace, and a sparkling tiara on her head.\n\nAction: She rests her chin on her hand, looking directly at the camera with a soft smile.\n\nEnvironment: The setting is decorated for a celebration with white balloons, a large pink bow in the background, tall pink candles with bows, crystal glasses, and a pink frosted cake with lit candles.\n\nCamera: Shot from a medium close-up angle with a shallow depth of field that blurs the background slightly to emphasize the subject.\n\nLighting: Warm ambient light highlights her face and the glowing candle flames create soft reflections on the scene.\n\nStyle Details: The image has a dreamy, romantic aesthetic with a pastel color palette dominated by shades of pink and white.",
       "negative_prompt": "",
       "model": "z-image-turbo",
-      "category": "Portrait",
+      "category": "3D",
       "tags": [
         "girl",
         "woman",
-        "cute girl",
-        "cute woman"
+        "3D",
+        "Portrait"
       ],
       "is_premium": true,
       "created_at": "2026-10-18T07:21:31.787Z"
     },
     {
       "id": "pv-1792307696627",
-      "title": "Chinese Girl",
+      "title": "Chinese Girl Assassin",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792307696627.webp",
       "prompt": "生成一张角色卡。图片提示词如下国风女刺客，冷冽气质，超写实肖像，8K高清， 极致细节。年轻女子，面容精致，眼神凌厉冷冽，微侧头回眸看向镜头，表情肃杀疏离。黑发高束，发丝飞散，发饰为黑银色金属发簪与流苏，耳饰为长链条耳坠，多耳洞。身穿黑白渐变古风刺客服饰，白色轻纱与黑色皮革拼接， 肩部有金属环扣与绑带，颈部佩戴黑色项圈。 逆光+侧逆光，发丝与衣料边缘高光明显，背景暗色虚化，冷色调，氛围感强，武侠东方美学，超写实，电影级质感，浅景深，细节丰富， 皮肤质感细腻，睫毛根根分明，眼妆精致，唇色暗红，风轻微吹动发丝。\n镜头:85mm定焦镜头，光圈f/1.8 构图:近景人像，三分法构图，人物占画面70% 色彩风格:冷色调(蓝灰为主)，低饱和，高对比画面风格:超写实摄影，电影质感，武侠氛围",
       "negative_prompt": "卡通，动漫，3D,CG,插画，低清，模糊，噪点， 过度磨皮，塑料感，失真，畸形手指，多余手指， 脸部扭曲，五官变形，眼睛变形，色彩过艳和饱和， 过曝，穿模，水印，文字，logo,边框，二维码， 拼接图，重复人物，背景杂乱，光线混乱，色彩脏， HDR过度，锐化过度，AI痕迹，假发感，皮肤像蜡",
       "model": "z-image-turbo",
-      "category": "Portrait",
+      "category": "Anime",
       "tags": [
         "girl",
-        "woman"
+        "Anime",
+        "Fantasy",
+        "Portrait"
       ],
       "is_premium": false,
       "created_at": "2026-10-18T07:14:56.641Z"
@@ -110,7 +129,8 @@
       "tags": [
         "cute girl",
         "girl",
-        "woman"
+        "woman",
+        "Portrait"
       ],
       "is_premium": true,
       "created_at": "2026-10-18T07:10:04.256Z"
@@ -122,26 +142,31 @@
       "prompt": "The picture shows a baby kitten with red hair cleaning an old yellow Volkswagen Beetle with a large soapy sponge. He is dressed in gray car wash overalls and yellow rubber boots. The car is covered in thick white foam.The cat is focused, with a little foam on his hands and face. The driveway is wet and bubbling, the sun is shining brightly.",
       "negative_prompt": "",
       "model": "z-image-turbo",
-      "category": "animals",
-      "tags": [],
+      "category": "Animals",
+      "tags": [
+        "cat",
+        "animals",
+        "Animals"
+      ],
       "is_premium": false,
       "created_at": "2026-10-18T06:55:27.830Z"
     },
     {
       "id": "pv-1792305788080",
-      "title": "cute girl",
+      "title": "Sakura Girl",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792305788080.webp",
       "prompt": "subject: an adult Chinese woman in her mid-20s, smooth pale skin, delicate oval face, dark expressive eyes, soft matte rose-red lips, delicate lashes, elegant collarbones, and long silky black hair\n超写实电影级人像摄影。竖幅9:16构图。低角度仰拍，聚焦于人物面部。拍摄对象站在春日盛开的樱花树下。柔和的自然光透过枝叶，在脸庞、颈项和白色T恤上投下斑驳的光影。略显凌乱的头发随风飘动，几缕发丝在微风中摇曳。拍摄对象仰望天空，神情宁静而梦幻。肌肤柔和透亮，妆容自然，纹理逼真，双眸栩栩如生。使用85mm人像镜头拍摄，浅景深，奶油般的背景虚化，前景和背景中樱花花瓣的柔和虚化。明亮轻盈的氛围，柔和的粉彩色调，透过枝叶隐约可见的蔚蓝天空。自然光，高动态范围，电影级光线，头发上细腻的高光，柔和的阴影过渡，逼真的肌肤纹理，微妙的电影级色彩调校，梦幻般的春日氛围，充满情感的叙事性摄影。前景花朵部分遮盖画面，景深强，构图层次丰富，专业人像摄影，捕捉自然瞬间，展现生活方式类杂志美学，细节极其丰富，品质卓越，照片级真实感，逼真的镜头虚化，顶级相机品质。无过度修图，无美颜滤镜，无夸张妆容，无奇幻效果，无卡通风格，无额外配饰，无面部或身体改变。精确参考风格：仰视，樱花盛开，柔和的阳光透过树叶，梦幻般的春日氛围，浅景深，电影般的自然人像，写实摄影。",
       "negative_prompt": "",
       "model": "z-image-turbo",
-      "category": "Portrait",
+      "category": "Nature",
       "tags": [
         "girl",
-        "woman"
+        "Nature",
+        "Portrait"
       ],
       "is_premium": false,
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T08:02:29.503Z"
+  "updated_at": "2026-10-18T08:37:46.743Z"
 }
