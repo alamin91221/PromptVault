@@ -7,7 +7,8 @@
     "Cyberpunk",
     "3D",
     "Fantasy",
-    "Animals"
+    "Animals",
+    "Advertising"
   ],
   "category_covers": {
     "All": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792312987543-330.webp",
@@ -20,16 +21,72 @@
   },
   "models": [
     "z-image-turbo",
-    "Midjourney v7",
-    "Midjourney v6.1",
     "Flux.1 Dev",
     "Flux.1 Schnell",
     "SDXL 1.0",
-    "Niji 6",
-    "Ideogram v2",
-    "Recraft V3"
+    "Moss Image"
   ],
   "items": [
+    {
+      "id": "pv-1792335414192-1478",
+      "title": "ad 01",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792335414192-1478.webp",
+      "prompt": "Matcha Latte] STYLE & ART DIRECTION: Modern minimalist food advertising aesthetics, Swiss-style advertising composition, premium restaurant social media branding, editorial design for an FMCG campaign, visuals for startup food brands, Pinterest-style food poster aesthetics, playful geometric advertising structure, modern in-app branding style, minimalist luxury restaurant marketing. MAIN OBJECT: Hyper-realistic food hero placed in the center of the composition, striking premium food photography design, floating or suspended presentation, realistic glossy textures, detailing of fresh ingredients, mouth-watering commercial presentation, studio-quality dish rendering, premium restaurant advertising campaign atmosphere.  LAYOUT & COMPOSITION: Maintain the EXACT composition structure as sampled: large, rounded organic cream background centered on a vibrant full-color backdrop, large, lowercase type placed behind the protagonist and the hero's food object positioned in the center, overlapping, small branding/navigation strip aligned at the top, short editorial text block positioned on the left, floating rounded ingredient or flavor labels in the UI aligned vertically on the right, minimal decorative micro-icons, clean asymmetrical spacing, large breakout room, premium minimalist style hierarchy, social media poster composition. Typography: Large, bold typeface with rounded lowercase letters, modern geometric sans-serif font system, minimal supporting text, clear typography hierarchy for emerging brands, soft, rounded commercial lettering, large-scale typography treatment hidden behind objects.  DEPTH AND LIGHT: Soft premium studio lighting, high-quality food highlights, realistic soft shadows, subtle glossy reflections, cinematic commercial lighting, highly detailed texture rendering, high-quality depth separation. ADDITIONAL DESIGN DETAILS: Rounded pill-shaped labels, small plus icons, minimal floating elements in the UI, app-like composition, fresh ingredient garnish, soft shadow blending, modern food delivery branding system, clean visuals, minimal geometric balance. COLOR PALETTE: [PRIMARY BRAND COLOR], cream/off-white, warm accent tones, high-contrast food colors, minimal black typography accents, a modern premium commercial palette.  Quality: Ultra-high resolution, Behance-level food ad quality, 8k commercial rendering, Pinterest-style restaurant ad campaign design, premium FMCG branding aesthetics, professional art direction, high-quality editorial food poster.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Advertising",
+      "tags": [
+        "ads",
+        "product"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T15:05:00.470Z"
+    },
+    {
+      "id": "pv-1792335521917-3933",
+      "title": "ad 02",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792335521917-3933.webp",
+      "prompt": "Professional studio product photography of a [Milk Shake Bottle], perfectly centered. The product is surrounded by dynamic, swirling liquid splashes that wrap around its form, frozen in motion.\nThe background is a clean, minimalist gradient that precisely matches the color palette and branding of the [Milk Shake Bottle].\nHigh end commercial lighting, cinematic atmosphere, sharp focus, realistic reflections, and droplets of water on the surface.\nUltra clean composition, premium advertising aesthetic, hyper realistic materials, 8K resolution, poster grade quality",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Advertising",
+      "tags": [
+        "ads",
+        "product"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T15:05:00.471Z"
+    },
+    {
+      "id": "pv-1792335775612-6123",
+      "title": "ad 03",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792335775612-6123.webp",
+      "prompt": "Ultra-premium yogurt commercial advertising poster, luxury dairy product campaign, award-winning Behance-style food advertisement, Photoshop-quality commercial design, premium product photography, ultra-realistic CGI compositing, editorial branding, 8K ultra-detailed, vertical 3:4 format. Create a vibrant luxury commercial advertisement for a globally recognized strawberry yogurt brand that communicates freshness, premium quality, healthy living, and happiness with a clean editorial aesthetic inspired by Danone, Chobani, and Yoplait campaigns. The hero concept features a giant authentic strawberry yogurt tub acting as a seat while a smiling young athletic woman sits naturally on the lid enjoying yogurt, creating a playful, modern, premium commercial lifestyle scene. Use a vibrant luxury pink background with bright strawberry pink gradients, soft hot pink radial glow, pastel pink highlights, smooth cream transitions, subtle studio backdrop, floating light particles, soft ambient haze, premium vignette, abstract curved graphic shapes, and minimal editorial textures. The yogurt container should occupy approximately 65 to 70 percent of the poster height and feature glossy premium plastic packaging, bright pink branding, a white lid, minimal luxury label, strawberry graphics, high-protein branding, clean modern packaging, realistic reflections, and professional product photography quality. The model wears a casual sporty monochrome pink outfit with crop top, shorts, lightweight cardigan, white sneakers, natural makeup, and a joyful smile while holding a spoon filled with strawberry yogurt in one hand and a yogurt cup in the other, with her legs hanging naturally over the edge. Behind her place oversized editorial serif typography reading \"CREAMY\" in large white letters, partially hidden behind the model to create premium depth. Add the headline \"Fresh. Creamy. Naturally Delicious.\" in the upper left using modern editorial sans-serif typography with luxury spacing. In the upper right create a circular infographic featuring \"15g Protein\", \"Live Cultures\", and \"All Natural\" with premium editorial hierarchy. Print a minimal icon row on the yogurt tub highlighting High Protein, Live Probiotics, No Artificial Preservatives, Rich Calcium, and Natural Ingredients using modern minimalist iconography. Surround the composition with floating fresh strawberries, strawberry slices, mint leaves, yogurt droplets, cream splashes, tiny bubbles, and fruit particles. Wrap a large realistic creamy yogurt splash around the base of the tub with glossy highlights and strawberries emerging naturally from the splash. Illuminate the entire composition using premium commercial studio lighting with large softboxes, soft front lighting, subtle pink rim lighting, HDR reflections, glossy highlights, natural shadows, and luxury beauty-product lighting. Use a premium color palette of hot pink, strawberry pink, rose pink, cream white, soft beige, fresh red strawberries, mint green leaves, and pure white yogurt. Maintain professional visual hierarchy, rule of thirds, balanced composition, luxury editorial spacing, strong focal point, integrated typography, negative space optimization, foreground, middle ground and background separation, and Behance-quality commercial layout. Apply advanced commercial retouching, professional compositing, luxury color grading, micro-contrast enhancement, Dodge and Burn, premium skin retouching, product enhancement, realistic reflections, high-end masking, depth of field, and advertising campaign finishing. Enhance the scene with floating particles, soft glow, lens bloom, cream droplets, fruit motion, sparkles, depth haze, atmospheric lighting, and premium bokeh. Style references include Danone Global Campaign, Chobani Commercial Advertising, Yoplait Premium Branding, Behance Product Posters, Luxury FMCG Advertising, Editorial Lifestyle Campaigns, Modern Food Photography, and Commercial Product Design. Simulate Sony A7R V commercial studio photography using an 85mm portrait lens and 100mm product lens with ultra-realistic HDR, premium CGI plus photography blend, award-winning advertising quality, extreme detail, magazine cover quality, and editorial branding in a vertical 3:4 8K composition. Negative prompt: low quality, blurry packaging, distorted anatomy, incorrect product proportions, poor typography, flat lighting, cluttered composition, oversaturated colors, unrealistic yogurt texture, duplicate strawberries, cartoon style, watermark, low detail, cheap advertisement, bad reflections, weak shadows, messy layout.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Advertising",
+      "tags": [
+        "ads",
+        "product"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T15:05:00.471Z"
+    },
+    {
+      "id": "pv-1792335882531-8096",
+      "title": "ad 04",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792335882531-8096.webp",
+      "prompt": "Create a premium fitness product advertisement poster for [Product Name].\n\nTheme: [Color Theme] gradient background, energetic and modern.\n\nScene:\nA stylish [Model Type] female/male fitness model wearing [Outfit Color], holding [Product Name] pouch in front with close-up hand perspective.\n\nProduct Details:\nBrand: [Brand Name]\nFlavor: [Flavor Name]\nMain headline: [Main Headline]\nSub heading: [Sub Heading]\n\nSide Features:\n• [Protein Amount]\n• [Feature 1]\n• [Feature 2]\n• [Feature 3]\n\nElements:\nFloating oats, nuts, chocolate pieces, splash effects, ingredient particles flying.\n\nTypography:\nBold premium commercial fonts, clean product spotlight layout\n\nOutput:\nUltra realistic, cinematic lighting, premium product poster, 4K square format.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Advertising",
+      "tags": [
+        "ads",
+        "product"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T15:05:00.472Z"
+    },
     {
       "id": "pv-1792334959203-3105",
       "title": "Cute Girl 02",
@@ -259,5 +316,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T14:50:08.387Z"
+  "updated_at": "2026-10-18T15:05:00.472Z"
 }
