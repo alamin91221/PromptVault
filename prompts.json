@@ -11,6 +11,18 @@
   ],
   "items": [
     {
+      "id": "pv-1792306527725",
+      "title": "Cat",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792306527725.webp",
+      "prompt": "The picture shows a baby kitten with red hair cleaning an old yellow Volkswagen Beetle with a large soapy sponge. He is dressed in gray car wash overalls and yellow rubber boots. The car is covered in thick white foam.The cat is focused, with a little foam on his hands and face. The driveway is wet and bubbling, the sun is shining brightly.",
+      "negative_prompt": "",
+      "model": "z-image-turbo",
+      "category": "animals",
+      "tags": [],
+      "is_premium": false,
+      "created_at": "2026-10-18T06:55:27.830Z"
+    },
+    {
       "id": "pv-1792305788080",
       "title": "cute girl",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792305788080.webp",
@@ -26,5 +38,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T06:55:12.056Z"
+  "updated_at": "2026-10-18T06:55:27.833Z"
 }
