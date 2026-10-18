@@ -28,6 +28,38 @@
   ],
   "items": [
     {
+      "id": "pv-1792335955667-3615",
+      "title": "ad 05",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792335955667-3615.webp",
+      "prompt": "Ultra-realistic premium mixed berry beverage advertisement poster design, luxury summer smoothie campaign style, clean white background with soft pink-purple gradient glow effects, subtle glossy reflections, floating berry particles and cinematic studio lighting, modern commercial Instagram ad aesthetic with trendy energetic composition. On the extreme right side, showcase a crystal-clear tall glass filled with thick mixed berry smoothie/blast drink in rich raspberry-purple tones, realistic texture with crushed berries and ice cubes visible inside, glossy condensation droplets on the glass surface, dramatic berry juice splash explosion behind the glass with dynamic motion, floating strawberries, raspberries, blueberries, blackberries and mint leaves around the drink for freshness and luxury visual appeal. Bottom right corner filled with premium fresh fruits composition including sliced strawberries, raspberries, blueberries, blackberries, scattered berry cubes, mint leaves, reflective water droplets and ice cubes placed on glossy reflective surface for high-end commercial beverage photography look. Left side reserved for typography and health benefits layout. Large bold\n\neye-catching heading:\n\n\"BERRY\" in oversized matte black textured brush typography with rough paint texture.\n\n\"BLAST' in vibrant neon berry-pink gradient brush lettering with glossy highlights, soft glow edges and trendy liquid paint effect\n\nBelow heading, stylish handwritten subheading in elegant Poppins italic font\n\n\"Fresh Berry Energy\"\n\nBelow the heading showcase 4 premium floating glassmorphism benefit banners with rounded corners, soft shadows, glossy berry-pink gradient ribbons, subtle neon glow outlines and clean minimal icons. Use modern Poppins typography for benefits:\n\nRich in Antioxidants\n\nSupports Skin Glow\n\nBoosts Immunity\n\n100% Refreshing\n\nAdd modern trendy effects like floating berry juice droplets, glowing liquid trails, realistic splash arcs. soft lens flare, subtle holographic reflections, luxury sparkle particles, minimal tropical leaf shadows.\n\nglossy wet texture details, smooth motion blur effects and soft ambient pink lighting for premium social media marketing appeal Typography must be bold, clean and highly readable with luxury spacing and modern layout hierarchy. Composition should feel vibrant, refreshing, youthful, premium and viral-worthy for Instagram beverage branding.\n\nHyper-realistic textures, ultra-detailed commercial food photography, sharp focus, studio-quality beverage advertisement aesthetic, luxury branding design, vibrant berry red-pink-purple palette. high clarity, photorealistic splash details.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Advertising",
+      "tags": [
+        "ad",
+        "ads",
+        "products"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T15:07:34.833Z"
+    },
+    {
+      "id": "pv-1792336021404-5199",
+      "title": "ad 06",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792336021404-5199.webp",
+      "prompt": "Ultra-realistic premium mixed lime - lemon beverage advertisement poster design, luxury summer smoothie campaign style, clean white background with soft lime green-gradient glow effects, subtle glossy reflections, floating mint and lime and citron particles and cinematic studio lighting, modern commercial Instagram ad aesthetic with trendy energetic composition. On the extreme right side, showcase a crystal-clear tall glass filled with thick  lime and citron smoothie/blast drink in rich lime reen tones, realistic texture with crushed lime and mint and citrus and ice cubes visible inside, glossy condensation droplets on the glass surface, dramatic lemon juice splash explosion behind the glass with dynamic motion, floating lemon, mints, citrus, bergamontand mint leaves around the drink for freshness and luxury visual appeal. Bottom right corner filled with premium fresh fruits composition including sliced lemon, lime, mint, bergamont, scattered cubes, mint leaves, reflective water droplets and ice cubes placed on glossy reflective surface for high-end commercial beverage photography look. Left side reserved for typography and health benefits layout. Large bold\n\neye-catching heading:\n\n\"Mintox\" in oversized matte black textured brush typography with rough paint texture.\n\n\"Lime' in vibrant neon lime green  gradient brush lettering with glossy highlights, soft glow edges and trendy liquid paint effect\n\nBelow heading, stylish handwritten subheading in elegant Poppins italic font\n\n\"Fresh Lemonade Energy\"\n\nBelow the heading showcase 4 premium floating glassmorphism benefit banners with rounded corners, soft shadows, glossy lime vibrant gradient brushes, subtle neon glow outlines and clean minimal icons. Use modern Poppins typography for benefits:\n\nRich in Antioxidants\n\nSupports Skin Glow\n\nBoosts Immunity\n\n100% Refreshing\n\nAdd modern trendy effects like floating lime  leomon mint juice droplets, glowing liquid trails, realistic splash arcs. soft lens flare, subtle holographic reflections, luxury sparkle particles, minimal tropical leaf shadows.\n\nglossy wet texture details, smooth motion blur effects and soft ambient lemon green lighting for premium social media marketing appeal Typography must be bold, clean and highly readable with luxury spacing and modern layout hierarchy. Composition should feel vibrant, refreshing, youthful, premium and viral-worthy for Instagram beverage branding.\n\nHyper-realistic textures, ultra-detailed commercial food photography, sharp focus, studio-quality beverage advertisement aesthetic, luxury branding design, vibrant lime yellow green palette. high clarity, photorealistic splash details.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Advertising",
+      "tags": [
+        "ad",
+        "ads",
+        "products"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T15:07:34.833Z"
+    },
+    {
       "id": "pv-1792335414192-1478",
       "title": "ad 01",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792335414192-1478.webp",
@@ -316,5 +348,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T15:05:00.472Z"
+  "updated_at": "2026-10-18T15:07:34.833Z"
 }
