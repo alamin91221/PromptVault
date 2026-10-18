@@ -30,6 +30,112 @@
   ],
   "items": [
     {
+      "id": "pv-1792342162580-477",
+      "title": "Girl 15",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792342162580-477.webp",
+      "prompt": "A woman with long dark hair stands in a softly lit outdoor setting at night.\n\nSubject: A young woman with long, wavy dark brown hair that cascades over her shoulders and down her back. She has a fair complexion, defined eyebrows, and is looking off to the side with a gentle, contemplative expression. Her lips are slightly parted in a soft smile.\n\nClothing: She wears a white, long-sleeved top featuring a subtle textured pattern and a V-neckline. A sheer white fabric is wrapped loosely around her neck like a scarf or choker. On her left wrist, she wears a stack of bright red bangles.\n\nAction: Her head is turned slightly to the right as she gazes away from the camera. Her hands are clasped gently in front of her waist. She wears large, ornate silver hoop earrings with dangling elements and a delicate necklace with a small pendant.\n\nEnvironment: The background is dark and out of focus, suggesting an outdoor night scene. Several warm, glowing orbs of light are visible behind her, creating a bokeh effect that suggests string lights or festive illumination.\n\nCamera: The shot is a medium close-up focusing on the upper body. The depth of field is shallow, keeping the subject sharp while rendering the background into soft, circular blurs.\n\nLighting: The scene is lit by warm ambient light coming from behind and to the side, creating a soft glow around her hair and shoulders. Her face is evenly illuminated with gentle shadows that highlight her features without harshness.\n\nStyle Details: The image has a cinematic quality with a warm color palette dominated by golds and deep blacks. There is a slight film grain texture visible, giving it an authentic photographic feel rather than a digital render.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T16:56:43.657Z"
+    },
+    {
+      "id": "pv-1792342210298-5000",
+      "title": "Girl 16",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792342210298-5000.webp",
+      "prompt": "A woman stands confidently on a rooftop terrace with her arms resting on the railing and one leg crossed over the other.\n\nSubject: A young woman with dark hair pulled back into a low bun, fair skin, and closed eyes looking upward in a serene expression.\n\nClothing: She wears a structured grey double-breasted blazer dress featuring wide lapels, black buttons, and a cinched waist with a thick brown leather belt and silver buckle. She is wearing tall black leather boots and two delicate gold necklaces.\n\nAction: Her arms are extended outward resting on the metal railing of the balcony, while her body is angled slightly to the side with one knee bent in a relaxed pose.\n\nEnvironment: The setting is an elevated urban rooftop overlooking a sprawling city skyline with modern skyscrapers visible in the distance under a clear sky, with green trees and rooftops below.\n\nCamera: Shot from a medium-full angle with a shallow depth of field that keeps the subject sharp while softly blurring the distant city background.\n\nLighting: Warm golden hour sunlight illuminates the scene from the side, casting soft shadows and highlighting the texture of her clothing and skin.\n\nStyle Details: High-fashion editorial aesthetic with natural color grading and a clean, polished photographic finish.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T16:56:43.658Z"
+    },
+    {
+      "id": "pv-1792342245021-2977",
+      "title": "Girl 17",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792342245021-2977.webp",
+      "prompt": "A young woman with long dark hair wearing over-ear headphones and sunglasses.  \n\nClothing: She wears a simple black top, round reflective sunglasses and large over-ear headphones.\n\nAction: She is adjusting headphones on her head with one hand while resting the other near her chin, looking upward with a contemplative expression. \n\nEnvironment:  A stark black background featuring a large mustard-yellow circle behind her head.\n\nStyle Details: The image has a high-contrast monochrome aesthetic with selective color highlighting the yellow circle and the golden reflections in the sunglasses. Visible scratches and dust marks overlay the entire frame to simulate an aged or distressed film texture.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T16:56:43.658Z"
+    },
+    {
+      "id": "pv-1792342303445-3650",
+      "title": "Girl 18",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792342303445-3650.webp",
+      "prompt": "A young woman stands under a large black umbrella on a wet cobblestone street during a snowy evening.\n\nSubject: A fair-skinned woman with long brown hair styled in an updo, featuring bright blue eyes and red lipstick. She wears a decorative headpiece made of red berries and white frosted leaves.\n\nClothing: She is dressed in a black long-sleeved dress with a textured knit pattern on the bodice and sleeves.\n\nAction: The woman holds the umbrella handle with her right hand, looking back over her left shoulder directly at the camera with a calm expression.\n\nEnvironment: The setting is an urban street covered in light snow, featuring blurred buildings in the distance and a decorated Christmas tree with warm yellow lights behind her.\n\nCamera: The shot utilizes a shallow depth of field that keeps the woman sharp while rendering the background traffic lights and city elements as soft bokeh circles.\n\nLighting: The scene is lit by cool ambient daylight mixed with the warm glow of streetlights and festive decorations, creating a high-contrast look between the dark foreground and bright background highlights.\n\nStyle Details: The image has a cinematic color grading with a cool blue tone dominating the shadows and a soft, slightly grainy texture typical of high-end photography.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T16:56:43.658Z"
+    },
+    {
+      "id": "pv-1792342335945-1187",
+      "title": "man 13",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792342335945-1187.webp",
+      "prompt": "A man stands confidently in front of a black BMW on a foggy night street.\n\nSubject: A well-groomed man with short dark hair and a beard, wearing dark sunglasses.\n\nClothing: He wears a grey quilted puffer vest over a black long-sleeved shirt and black trousers.\n\nAction: He leans casually against the front of the car, looking directly at the camera with a serious expression.\n\nEnvironment: The scene is set on a wet asphalt road at night, surrounded by atmospheric fog or steam rising from the ground.\n\nCamera: Shot with a telephoto lens to compress the background, creating a shallow depth of field that blurs the distant streetlights into soft bokeh orbs.\n\nLighting: Dramatic and moody, illuminated by the car's headlights and ambient city glow reflecting off the wet pavement.\n\nStyle Details: High-contrast photography with a cinematic color palette emphasizing cool tones and atmospheric haze.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "People",
+      "tags": [
+        "man",
+        "boy"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T16:56:43.660Z"
+    },
+    {
+      "id": "pv-1792342378394-5128",
+      "title": "ad",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792342378394-5128.webp",
+      "prompt": "A refreshing pink energy drink can surrounded by fresh litchis and green leaves against a soft pink background.\n\nSubject: A tall pink aluminum can with condensation droplets covering its surface, labeled \"Drink\" with a lightning bolt icon above it, and \"Litchi flavour\" written in elegant white script below. The can also displays \"ENERGY DRINK\" and \"250 ml\" near the bottom.\n\nClothing: Not applicable as this is a product shot of a beverage can.\n\nAction: The can stands upright while whole litchis, peeled litchis revealing their translucent white flesh, and green leaves float around it in mid-air with water droplets splashing dynamically around them.\n\nEnvironment: A minimalist studio setting with a solid pastel pink backdrop featuring large faint text reading \"FRESH DRINK\" behind the main subject. The surface beneath is wet with scattered water droplets reflecting light.\n\nCamera: Centered composition with a shallow depth of field keeping the can sharp while slightly softening the floating fruit elements, suggesting a macro lens for detailed texture capture.\n\nLighting: Bright and even studio lighting that highlights the condensation on the can and creates glossy reflections on the wet surfaces, enhancing the fresh and cool aesthetic.\n\nStyle Details: High-resolution commercial photography with vibrant color grading emphasizing pinks and whites, clean post-processing to enhance water droplet clarity and fruit texture, giving a polished advertisement look.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Advertising",
+      "tags": [
+        "ad",
+        "ads",
+        "products"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T16:56:43.660Z"
+    },
+    {
+      "id": "pv-1792342573678-7885",
+      "title": "Girl 19",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792342573678-7885.webp",
+      "prompt": "A four-panel collage of a young woman posing with sunflowers in warm outdoor light.\n\nSubject: A young woman with long dark hair styled with a half-up braid and loose tendrils framing her face. She has fair skin, defined eyebrows, and is wearing gold jhumka-style earrings and a delicate necklace.\n\nClothing: She wears a deep maroon or burgundy dress made of sheer, flowing fabric with lace detailing on the cuffs and neckline. The sleeves are wide and billowy.\n\nAction: In the top left panel she touches her hair while holding sunflowers; in the top right she looks over her shoulder carrying a white purse; in the bottom left she smells the flowers with eyes closed; in the bottom right she gazes upward holding her handbag.\n\nEnvironment: A neutral beige or light grey wall serves as the background, with soft shadows suggesting an outdoor setting near a building or garden.\n\nCamera: Medium close-up shots capturing the subject from the waist up, with a shallow depth of field that keeps the focus on her face and upper body.\n\nLighting: Warm golden sunlight illuminates the scene from the side, creating soft highlights on her hair and skin while casting gentle shadows against the wall.\n\nStyle Details: Naturalistic photography with a warm color palette emphasizing the contrast between the maroon dress and bright yellow sunflowers, featuring soft focus and natural film-like grain.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T16:56:43.663Z"
+    },
+    {
       "id": "pv-1792340232760-8632",
       "title": "man,woman",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792340232760-8632.webp",
@@ -838,5 +944,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T16:22:44.876Z"
+  "updated_at": "2026-10-18T16:56:43.663Z"
 }
