@@ -31,6 +31,137 @@
   ],
   "items": [
     {
+      "id": "pv-1792345497537-286",
+      "title": "Car 2",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792345497537-286.webp",
+      "prompt": "A glossy black Maruti Suzuki Fronx SUV parked on wet grass under a large tree with misty forest background and a dark horse standing nearby.\n\nSubject: A sleek black Maruti Suzuki Fronx SUV with its headlights illuminated, positioned prominently in the foreground.\n\nClothing: Not applicable as there are no people or animals wearing clothing visible.\n\nAction: The car is stationary, parked on grass, while a dark horse stands calmly in the background near a wooden fence.\n\nEnvironment: A misty outdoor setting with lush green grass, a large overhanging tree providing canopy cover, and a blurred forest backdrop with soft morning fog.\n\nCamera: Low-angle front-three-quarter view emphasizing the car’s grille and headlights, with shallow depth of field blurring the distant trees.\n\nLighting: Soft diffused ambient light from early morning or dusk, creating subtle reflections on the wet car surface and grass, with gentle shadows under the tree.\n\nStyle Details: High-contrast cinematic composition with moody atmospheric tone, enhanced by water droplets on the car body and selective focus to highlight vehicle design details.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Car",
+      "tags": [
+        "car"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T17:51:35.592Z"
+    },
+    {
+      "id": "pv-1792345539402-8630",
+      "title": "Car 3",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792345539402-8630.webp",
+      "prompt": "A black Lamborghini Huracán splashing through a wet road in a forested area with motion blur and falling leaves.\n\nSubject: A sleek black Lamborghini Huracán supercar dominates the foreground, featuring sharp angular lines, distinctive Y-shaped LED headlights, and a visible gold bull emblem on the hood. The license plate reads KL 60 Y 1324.\n\nClothing: No people are visible in the image to describe clothing or attire.\n\nAction: The car is captured mid-motion driving aggressively through standing water, creating large splashes around the tires, with blurred background trees indicating high speed.\n\nEnvironment: A dark, wet asphalt road surrounded by a dense forest of tall pine trees under an overcast sky, with scattered brown autumn leaves floating in the air and on the ground.\n\nCamera: Low angle shot emphasizing the car's stance, with motion blur applied to the background foliage to convey velocity and a shallow depth of field keeping the vehicle sharp.\n\nLighting: Dramatic contrast between cool blue ambient light reflecting off the wet surfaces and warm orange glow from streetlights in the background, creating reflections on the water and road.\n\nStyle Details: Cinematic composition with high dynamic range, realistic textures, motion blur effects, and a gritty, high-octane atmosphere reminiscent of automotive advertising photography.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Car",
+      "tags": [
+        "car"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T17:51:35.592Z"
+    },
+    {
+      "id": "pv-1792345582825-5418",
+      "title": "Girl 60",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792345582825-5418.webp",
+      "prompt": "A young woman sits gracefully on a large circular swing decorated with pink flowers and green vines, framed by a glowing neon sign that spells \"LOVE\" with a heart symbol at the top.\n\nSubject: A young woman with long dark hair cascading over her shoulders, fair skin, and soft features.\n\nClothing: She wears an elegant white floral-patterned traditional kurta and wide-legged trousers, paired with a sheer dupatta draped over her shoulders, and pink embellished sandals.\n\nAction: She is seated with one leg crossed over the other, hands resting gently on her lap, gazing directly at the camera with a calm expression.\n\nEnvironment: The setting is a vibrant nighttime scene featuring a large circular swing adorned with lush greenery and pink roses, with a colorful amusement park or carnival in the background illuminated by various lights.\n\nCamera: The shot is taken from a straight-on angle with a medium framing that captures the subject from head to toe, emphasizing the circular composition of the swing and the depth of the background.\n\nLighting: Warm ambient lighting highlights the subject while colorful neon signs and festive lights create a lively atmosphere in the background.\n\nStyle Details: The image has a polished photographic quality with vibrant colors and a romantic ambiance enhanced by the glowing neon sign and floral decorations.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T17:51:35.593Z"
+    },
+    {
+      "id": "pv-1792345629768-5035",
+      "title": "Girl 61",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792345629768-5035.webp",
+      "prompt": "A young woman with long dark hair and a bindi poses in various elegant night-time street portraits.\n\nSubject: A young woman with long, straight dark brown hair, bangs, and a small red bindi on her forehead. She has a soft smile and a nose ring.\n\nClothing: She wears a black traditional kurta featuring intricate gold embroidery around the neckline and cuffs. In one pose, she holds a black quilted handbag with a gold chain strap.\n\nAction: She is captured in four different poses, including resting her chin on her hand, looking over her shoulder, and gently touching her hair.\n\nEnvironment: The setting is an urban street at night, featuring blurred city lights, streetlamps, and building facades in the background.\n\nCamera: The images are close-up portraits with a shallow depth of field that creates a strong bokeh effect from the background lights.\n\nLighting: The scene is lit by warm ambient street lighting that highlights her face and hair against the dark night sky.\n\nStyle Details: High-quality photography with a cinematic color palette, soft focus on the background, and natural skin texture.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T17:51:35.593Z"
+    },
+    {
+      "id": "pv-1792345674894-8227",
+      "title": "Girl 62",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792345674894-8227.webp",
+      "prompt": "A collage-style photo montage featuring a young woman in multiple poses and outfits, centered on her wearing an oversized denim jacket over a black crop top with a star pendant, paired with loose olive cargo pants and chunky sneakers, hands in pockets, standing confidently outdoors.\n\nSubject: A young woman with long dark hair styled with a side braid, fair skin, expressive eyes, and subtle makeup including winged eyeliner.\n\nClothing: Denim jacket worn open over a black V-neck crop top with a star pendant necklace, olive green cargo pants with multiple pockets and drawstrings, chunky white and black sneakers, small hoop earrings, and a delicate chain necklace.\n\nAction: Standing upright with hands in pockets, looking slightly upward and to the side; other panels show her taking a mirror selfie, wearing headphones, shielding eyes from sun, and posing for filmstrip-style shots.\n\nEnvironment: Urban outdoor setting with blurred city buildings in background, concrete steps or ledge beneath feet, decorative elements like torn paper textures, pink hearts, stars, handwritten notes (“music is my therapy”, “keep it cute”), and vintage photo frames overlaid across the composition.\n\nCamera: Medium shot framing the central figure from mid-thigh up, with surrounding panels varying in scale and perspective; shallow depth of field blurs background elements while keeping subject sharp.\n\nLighting: Natural daylight with soft shadows, warm ambient glow suggesting late afternoon sun, highlights on hair and denim fabric, gentle contrast enhancing facial features without harshness.\n\nStyle Details: Collage aesthetic combining real photographs with graphic overlays including glittery text (“Princess”, “angel energy”), polaroid frames, film strips, torn paper edges, doodled hearts and stars, muted pastel tones mixed with earthy clothing colors, nostalgic Y2K-inspired fashion vibe.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T17:51:35.595Z"
+    },
+    {
+      "id": "pv-1792345713180-4679",
+      "title": "Girl 63",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792345713180-4679.webp",
+      "prompt": "A triptych-style black and white portrait of a young woman with dark hair styled in an updo, featuring delicate strands framing her face.\n\nSubject: A young woman with dark hair styled in an elegant updo, adorned with a bindi on her forehead, wearing ornate traditional jhumka earrings.\n\nClothing: She wears a light-colored floral-patterned kurta with a sheer dupatta draped over her shoulders and arms, featuring delicate lace detailing at the cuffs.\n\nAction: Her gaze is soft and contemplative in the top panel, looking slightly upward; in the middle panel, she looks downward with closed eyes; in the bottom panel, she gently holds a sprig of baby's breath flowers near her chest.\n\nEnvironment: The background is softly blurred and neutral, keeping focus entirely on the subject without distraction.\n\nCamera: Close-up framing that captures facial expressions and hand details, with a shallow depth of field to isolate the subject from the background.\n\nLighting: Soft, diffused lighting creates gentle shadows and highlights across her face and hands, enhancing texture and mood.\n\nStyle Details: High-contrast black and white photography with a torn paper collage effect separating the three panels, evoking a cinematic editorial aesthetic.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T17:51:35.595Z"
+    },
+    {
+      "id": "pv-1792345777844-1894",
+      "title": "Girl 64",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792345777844-1894.webp",
+      "prompt": "A young woman takes a mirror selfie in a bathroom with warm pink and purple ambient lighting.\n\nSubject: A young woman with long dark brown hair styled with a side braid, fair skin, and defined eyebrows looking directly at the camera reflection.\n\nClothing: She wears a deep burgundy dress featuring puffed short sleeves and a square neckline, accessorized with a silver watch on her left wrist, a thin silver bracelet, a delicate necklace with a small ring pendant, and stud earrings.\n\nAction: She holds a pink glittery smartphone in her right hand to capture the reflection while her left arm rests across her midsection.\n\nEnvironment: The setting is a bathroom interior with purple walls, a visible sink area to the left, and a vertical light fixture on the right side of the mirror frame.\n\nCamera: Shot as a close-up mirror selfie with a slight upward angle capturing the subject from the waist up.\n\nLighting: Soft warm lighting with pink and purple tones reflecting off the skin and background creating a vibrant atmosphere.\n\nStyle Details: High-quality realistic photography with smooth skin texture and clear focus on the subject.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T17:51:35.595Z"
+    },
+    {
+      "id": "pv-1792345814808-9211",
+      "title": "Car 4",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792345814808-9211.webp",
+      "prompt": "A black SUV speeding through a wet forest road at night with splashing water and motion blur.\n\nSubject: A glossy black Hyundai Creta SUV dominates the foreground, featuring a prominent chrome grille, illuminated LED headlights, and roof rails.\n\nClothing: Not visible as the subject is a vehicle.\n\nAction: The car is driving aggressively forward through deep puddles, creating large white splashes on both sides, with fallen leaves scattered across the wet asphalt.\n\nEnvironment: A dense forest setting at night with tall trees lining the road, illuminated by warm orange streetlights in the background and reflections on the wet ground.\n\nCamera: Low angle shot emphasizing speed and power, with motion blur applied to the background trees and foreground elements to convey high velocity.\n\nLighting: Dramatic contrast between cool blue ambient light from the forest and warm golden glow from distant streetlights reflecting off the wet surfaces and car body.\n\nStyle Details: Cinematic composition with dynamic motion effects, realistic water physics, high-contrast lighting, and a gritty urban adventure aesthetic reminiscent of racing game posters.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Car",
+      "tags": [
+        "car"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T17:51:35.598Z"
+    },
+    {
+      "id": "pv-1792345882337-4028",
+      "title": "Car 5",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792345882337-4028.webp",
+      "prompt": "A close-up view of a sleek black sports car parked on a wet city street during a rainstorm.\n\nSubject: A glossy black high-performance sports car featuring distinctive round headlights with glowing amber rings and a modern front grille.\n\nClothing: Not applicable.\n\nAction: The vehicle is stationary, facing slightly to the right, with raindrops beading heavily across its hood and windshield.\n\nEnvironment: An urban street setting at night with blurred city lights and buildings in the background.\n\nCamera: A tight low-angle shot emphasizing the front bumper and wheel arch, utilizing a shallow depth of field that renders the background into soft bokeh.\n\nLighting: Dramatic ambient lighting from wet pavement reflections and glowing orange traffic signals, creating high contrast against the dark surroundings.\n\nObjects: Raindrops scattered across the car's surface, blurred street lights, and wet asphalt reflecting the scene.\n\nText/Graphics: Not visible.\n\nStyle Details: Cinematic photography with a moody atmosphere, enhanced by vibrant color grading that highlights the amber glow against deep blacks.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Car",
+      "tags": [
+        "car"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T17:51:35.598Z"
+    },
+    {
       "id": "pv-1792345437172-5534",
       "title": "man 59",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792345437172-5534.webp",
@@ -1752,5 +1883,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T17:44:51.979Z"
+  "updated_at": "2026-10-18T17:51:35.598Z"
 }
