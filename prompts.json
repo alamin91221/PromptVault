@@ -29,6 +29,21 @@
   ],
   "items": [
     {
+      "id": "pv-1792338879840-990",
+      "title": "anime",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792338879840-990.webp",
+      "prompt": "A vibrant anime-style digital artwork in VibrantlySharp and animeniji style showcases \"glowing teal eyes\" emerging just above the surface of a midnight ocean. The eyes are framed by long, wet, clinging black lashes and strands of tangled, soaked black hair, conveying a sense of profound melancholy. Golden rain falls in shimmering, thread-like trails, contrasting with the deep blue and indigo hues of the water, where dim, glowing embers drift like a drowned constellation, casting flickering reflections. The scene is enveloped in a hauntingly tranquil atmosphere, illuminated by cinematic lighting and painterly water textures, emphasizing emotional silence and poetic visual beauty.Iluminação e sombras DSLR profissionaisA fotografia é assustadoramente bela, com uma aura luminosa",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "anime",
+        "girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T15:54:56.627Z"
+    },
+    {
       "id": "pv-1792338823574-5735",
       "title": "girl",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792338823574-5735.webp",
@@ -439,5 +454,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T15:53:56.274Z"
+  "updated_at": "2026-10-18T15:54:56.627Z"
 }
