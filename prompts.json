@@ -30,6 +30,113 @@
   ],
   "items": [
     {
+      "id": "pv-1792340232760-8632",
+      "title": "man,woman",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792340232760-8632.webp",
+      "prompt": "A romantic portrait of a couple sitting together on a large tree branch under a night sky with a full moon.\n\nSubject: A young woman with long brown hair styled in a thick braid and a young man with dark curly hair and a beard, both looking at each other affectionately.\n\nClothing: The woman wears a royal blue traditional tunic with white embroidery and a light grey scarf, while the man is dressed in a crisp white shirt and matching trousers.\n\nAction: They are seated side-by-side on a thick tree branch, gazing into each other's eyes with soft expressions.\n\nEnvironment: A deep blue night sky featuring a large full moon and silhouetted tree branches framing the top of the scene.\n\nCamera: Medium shot composition capturing both subjects from the waist up with a shallow depth of field that keeps them sharp against the background.\n\nLighting: Soft ambient light illuminating their faces, creating a gentle glow around the moon and highlighting the textures of their clothing.\n\nStyle Details: High-resolution photography with rich color saturation and a cinematic night-time atmosphere.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "People",
+      "tags": [
+        "man",
+        "woman",
+        "boy",
+        "girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T16:22:44.871Z"
+    },
+    {
+      "id": "pv-1792340291237-4114",
+      "title": "Girl 13",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792340291237-4114.webp",
+      "prompt": "A majestic female warrior with flaming wings stands resolute in a fiery battlefield.\n\nSubject: A woman with dark hair and a determined expression, wearing an elaborate golden crown and ornate armor.\n\nClothing: She wears a red armored bodice with intricate gold filigree and glowing cracks resembling molten lava, layered over a long-sleeved red garment, with feathered shoulder pauldrons and arm guards.\n\nAction: She stands facing forward, holding the hilt of a weapon in her right hand, with a small cut on her cheek.\n\nEnvironment: The background is a chaotic battlefield filled with smoke, embers, and distant fires under a dark, stormy sky.\n\nCamera: A medium shot captures the subject from the waist up, with a shallow depth of field that blurs the fiery background to emphasize the figure.\n\nLighting: Intense warm light emanates from the glowing cracks in her armor and the burning wings, casting dramatic highlights on her face and creating deep shadows against the dark backdrop.\n\nStyle Details: The image features hyper-realistic textures with high contrast between the bright orange flames and the dark environment, rendered with cinematic color grading and a sense of epic scale.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T16:22:44.872Z"
+    },
+    {
+      "id": "pv-1792340331282-575",
+      "title": "Girl 14",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792340331282-575.webp",
+      "prompt": "A woman stands in a calm, contemplative pose with her eyes closed against a coastal backdrop.\n\nSubject: A young woman with shoulder-length brown hair and freckles across her nose and cheeks.\n\nClothing: She wears a simple black short-sleeved top and has a dark grey coat draped loosely over her shoulders.\n\nAction: Her head is tilted slightly upward, her eyes are closed, and strands of windblown hair rest on her forehead; two seagulls fly in the background above her head.\n\nEnvironment: The setting is an open ocean with gentle waves visible behind her under a muted sky.\n\nCamera: Medium close-up shot with soft depth of field that keeps the subject sharp while blurring the birds and distant horizon.\n\nLighting: Natural, diffused daylight creates soft shadows and a cool, overcast atmosphere.\n\nStyle Details: Realistic photography with a cinematic color palette emphasizing blues and greys.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T16:22:44.873Z"
+    },
+    {
+      "id": "pv-1792340392759-2722",
+      "title": "Girl 15",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792340392759-2722.webp",
+      "prompt": "A young woman with long dark hair styled in a half-updo poses in four different angles wearing a pink traditional outfit.\n\nSubject: A young woman with fair skin and long, dark brown hair styled in a half-up, half-down arrangement with a center parting. She has a small black bindi on her forehead and wears subtle makeup featuring defined eyeliner and soft pink lips.\n\nClothing: She is wearing a dusty pink saree or lehenga made of a sheer, textured fabric with gold embroidery along the borders and neckline. She accessorizes with a floral gold choker necklace, large ornate gold earrings, and a stack of maroon and pearl bangles on her wrist.\n\nAction: The subject poses in four distinct variations; she looks at the camera, gazes away thoughtfully, winks playfully, and touches her hair near her ear while resting her chin on her hand.\n\nEnvironment: The setting is an indoor room with neutral-colored walls and dark wood furniture visible in the background, including a wooden cabinet or door frame.\n\nCamera: The images are close-up selfies taken from a front-facing angle, capturing the subject from the chest up with a shallow depth of field that blurs the background.\n\nLighting: Soft, diffused indoor lighting illuminates her face evenly, creating gentle shadows and highlighting the texture of her skin and clothing without harsh glare.\n\nStyle Details: The photos are realistic digital captures with natural color grading and high detail in facial features and fabric textures.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T16:22:44.873Z"
+    },
+    {
+      "id": "pv-1792340470229-9403",
+      "title": "Girl 16",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792340470229-9403.webp",
+      "prompt": "A young woman with dark curly hair and round glasses gazes upward with a joyful smile as she holds glowing fairy lights in her cupped hands, while a luminous red butterfly hovers beside them.\n\nSubject: A young woman with dark curly hair and round glasses, wearing a warm expression.\n\nClothing: She wears a deep red dress with gathered sleeves and a V-neckline, complemented by dangling blue earrings.\n\nAction: Her hands are cupped together holding a string of glowing fairy lights, looking upward at a luminous red butterfly hovering near her palms.\n\nEnvironment: The background is a soft-focus forest bathed in rich crimson tones with bokeh light spots scattered around.\n\nCamera: Shot with a shallow depth of field that keeps the subject sharp while blurring the background into a dreamy wash of color.\n\nLighting: Warm ambient glow from the fairy lights illuminates her face and hands, creating soft highlights against the deep red surroundings.\n\nStyle Details: The image features a magical realism aesthetic with glowing elements, subtle sparkles around the butterfly, and a cinematic color palette dominated by reds and golds.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T16:22:44.873Z"
+    },
+    {
+      "id": "pv-1792340508250-2075",
+      "title": "man 13",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792340508250-2075.webp",
+      "prompt": "A young man with curly dark hair and a beard stands in profile holding a large bouquet of sunflowers and white flowers close to his face.\n\nSubject: A young man with thick curly dark hair, a short beard, and wearing dark sunglasses.\n\nClothing: He wears a light-colored button-up shirt with the top buttons undone, revealing part of his chest.\n\nAction: He holds a large bouquet of sunflowers and smaller white flowers close to his face, appearing to smell them while looking down.\n\nEnvironment: The background is a dark urban street at night with blurred streaks of orange and blue light from passing traffic or city lights.\n\nCamera: Shot with a shallow depth of field that keeps the subject sharp while blurring the background into motion streaks, suggesting a slow shutter speed.\n\nLighting: Warm golden light illuminates the man’s face and shirt from the side, creating soft highlights and deep shadows against the dark surroundings.\n\nStyle Details: The image has a cinematic, moody aesthetic with high contrast between warm foreground tones and cool background hues.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "People",
+      "tags": [
+        "man",
+        "boy"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T16:22:44.874Z"
+    },
+    {
+      "id": "pv-1792340546204-6317",
+      "title": "Girl 17",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792340546204-6317.webp",
+      "prompt": "A serene portrait of a young woman with long, dark wavy hair standing outdoors at night.\n\nSubject: A young woman with fair skin and long, voluminous dark brown wavy hair cascading over her shoulders. She has closed eyes and a soft, contented smile, looking slightly downward.\n\nClothing: She wears an elegant teal-blue traditional tunic featuring intricate floral embroidery on the bodice and sheer sleeves. A matching translucent dupatta is draped over her left shoulder. She accessorizes with a single pearl drop earring in her visible ear.\n\nAction: Her head is tilted gently to the side, eyes closed in a peaceful expression. Her hands are clasped loosely together in front of her waist, resting against the fabric of her dress.\n\nEnvironment: The setting is an outdoor night scene with dark green foliage and palm-like leaves visible in the background on the left. A blurred railing or structure appears on the right side, suggesting a balcony or garden area.\n\nLighting: Warm artificial light illuminates her face and hair from above and slightly behind, creating a soft rim light effect that highlights the texture of her hair against the dark surroundings. The background is dimly lit with out-of-focus warm bokeh lights in the distance.\n\nCamera: Shot as a medium close-up portrait with a shallow depth of field that keeps the subject sharp while blurring the background elements significantly.\n\nStyle Details: High-quality realistic photography with natural skin tones, soft focus on the background, and a cinematic night-time atmosphere.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T16:22:44.876Z"
+    },
+    {
       "id": "pv-1792339745101-201",
       "title": "man 4",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792339745101-201.webp",
@@ -731,5 +838,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T16:15:36.556Z"
+  "updated_at": "2026-10-18T16:22:44.876Z"
 }
