@@ -42,22 +42,6 @@
       "created_at": "2026-10-18T14:17:26.864Z"
     },
     {
-      "id": "pv-1792332896754-2425",
-      "title": "Cute GIrl 02",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792332896754-2425.webp",
-      "prompt": "Ultra-realistic smartphone photo of a beautiful young Japanese woman with smooth porcelain skin, soft natural facial features, large warm brown eyes, glossy pink lips, and long silky dark brown hair worn naturally loose. She is sitting in a cozy modern café, resting her chin on one hand while smiling gently at the camera. She wears a sleeveless cream knit top, a cream scrunchie, and delicate green jade bead bracelets, creating a simple yet elegant everyday look. A cold iced drink with a straw sits on the wooden table beside a smartphone, while the softly blurred café interior with warm lighting, exposed ceiling beams, and customers chatting naturally fills the background. The image is framed as a casual close-up portrait, as if a friend quickly captured the moment using a modern flagship smartphone. Realistic indoor lighting, authentic skin texture, subtle HDR, slight handheld imperfections, natural sensor noise, balanced exposure, mild computational photography, and gentle front-camera softness. No DSLR look, no studio lighting, no beauty filters, no artificial bokeh, and no AI-perfect sharpness—just a genuine candid mobile phone photo with an authentic social media aesthetic, ultra-photorealistic, 3:4 aspect ratio.",
-      "negative_prompt": "",
-      "model": "z-image-turbo",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-18T14:17:26.865Z"
-    },
-    {
       "id": "pv-1792332966064-7187",
       "title": "Cute GIrl 03",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792332966064-7187.webp",
@@ -270,5 +254,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T14:20:10.850Z"
+  "updated_at": "2026-10-18T14:20:15.370Z"
 }
