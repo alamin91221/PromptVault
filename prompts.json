@@ -26,6 +26,70 @@
   ],
   "items": [
     {
+      "id": "pv-1792332590051-3101",
+      "title": "Cute GIrl 01",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792332590051-3101.webp",
+      "prompt": "Subjek Utama:Potret close-up seorang wanita muda Asia berwajah oval dengan fitur wajah yang halus dan tatapan mata yang tenang mengarah ke samping kanan kamera.Ekspresi dan Riasan:Ekspresi wajah natural dan santai.Alis tertata rapi, eyeliner tipis, dan sedikit maskara.Pipi dengan sentuhan blush-on tipis berwarna peach/merah muda.Bibir dengan lipstik berwarna nude pink dengan finish satin.Gaya Rambut:Rambut berwarna cokelat tua yang ditata dalam gaya cepol acak (messy updo) di bagian atas kepala. Helaian-helaian rambut halus (anak rambut) dibiarkan terurai secara natural di sekitar wajah dan telinga untuk memberikan kesan kasual dan romantis.Pakaian:Mengenakan sweater rajut (cable-knit) tebal berwarna krem atau putih tulang (off-white) dengan kerah kura-kura (turtleneck). Tekstur rajutan terlihat jelas dan detail.Pencahayaan:Pencahayaan lembut (soft lighting) yang datang dari arah depan samping, memberikan efek highlight yang halus pada tulang pipi dan hidung, serta menciptakan suasana yang hangat (cozy).Latar Belakang (Background):Latar belakang buram sempurna (heavy bokeh) yang menunjukkan suasana interior sebuah kafe di malam hari.Terdapat kilauan lampu-lampu warm white dan kuning keemasan yang membentuk lingkaran-lingkaran bokeh yang estetik.Siluet kursi kayu dan kaca jendela kafe terlihat samar di kejauhan.Komposisi dan Gaya Fotografi:Frame: Potret medium close-up (dari dada ke atas).Sudut Pandang: Sejajar mata (eye-level).Fokus: Fokus tajam pada wajah subjek, sementara latar belakang out-of-focus.Gaya: Fotografi potret candid-style yang natural dengan depth of field yang sangat dangkal (shallow depth of field). Palet warna hangat dan sinematik.",
+      "negative_prompt": "",
+      "model": "z-image-turbo",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T14:17:26.864Z"
+    },
+    {
+      "id": "pv-1792332896754-2425",
+      "title": "Cute GIrl 02",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792332896754-2425.webp",
+      "prompt": "Ultra-realistic smartphone photo of a beautiful young Japanese woman with smooth porcelain skin, soft natural facial features, large warm brown eyes, glossy pink lips, and long silky dark brown hair worn naturally loose. She is sitting in a cozy modern café, resting her chin on one hand while smiling gently at the camera. She wears a sleeveless cream knit top, a cream scrunchie, and delicate green jade bead bracelets, creating a simple yet elegant everyday look. A cold iced drink with a straw sits on the wooden table beside a smartphone, while the softly blurred café interior with warm lighting, exposed ceiling beams, and customers chatting naturally fills the background. The image is framed as a casual close-up portrait, as if a friend quickly captured the moment using a modern flagship smartphone. Realistic indoor lighting, authentic skin texture, subtle HDR, slight handheld imperfections, natural sensor noise, balanced exposure, mild computational photography, and gentle front-camera softness. No DSLR look, no studio lighting, no beauty filters, no artificial bokeh, and no AI-perfect sharpness—just a genuine candid mobile phone photo with an authentic social media aesthetic, ultra-photorealistic, 3:4 aspect ratio.",
+      "negative_prompt": "",
+      "model": "z-image-turbo",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T14:17:26.865Z"
+    },
+    {
+      "id": "pv-1792332966064-7187",
+      "title": "Cute GIrl 03",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792332966064-7187.webp",
+      "prompt": "Phụ nữ trưởng thành 20 tuổi. Người phụ nữ ngồi trên ghế mây của hiên, thân trên hơi nghiêng về phía trước. Nghiêng đầu sang trái màn hình, hai tay từ vai buông xuống thẳng.Nhân vật - Biểu cảm:Khuôn mặt hình oval nhỏ với cằm ngắn mảnh, đôi mắt lớn hình chữ nhật ngang màu xám nâu có độ tròn ở phần dưới. Lông mày mảnh, mũi nhỏ, đôi môi hồng nhạt bóng mịn khép lại với nụ cười e ấp. Nhìn vào máy ảnh. Tóc nâu dài sóng xõa xuống ngực, phần trên lỏng lẻo búi lại để lại lớp tóc mái mỏng. Chỉ có lọn tóc bên trái viền sáng màu vàng. Làn da kem đào sáng, mặt hơi hồng nhạt. Đối lập với độ sáng ngược sáng, mặt trước khuôn mặt dịu dàng.Trang phục - Tư thế:Váy làm từ vải sinh thành với họa tiết lá hoa mịn màu xám xanh. Viền ren V sâu và nút thắt nhỏ ở giữa ngực, tay áo ren hoa dài đến khuỷu tay trong suốt và viền bèo ở gấu. Cổ tay bên phải màn hình đeo hai vòng đen mảnh. Hai khuỷu tay đặt gần cơ thể, cẳng tay thả xuống trên đùi. Đầu tay hướng ra ngoài phần dưới. Hai đùi hướng xuống dưới, ngồi yên bình nghiêng nhẹ về trước.Nền - Ánh sáng:Trên bàn tròn đá cẩm thạch trắng xám phía trước tay trái, ly cà phê đá với ống hút đen. Phía sau bên trái là cây trồng chậu, phía sau giữa là khung cửa sổ đen, các ghế và bàn khác, bên phải là đệm ngồi màu trắng. Ánh sáng chéo ấm áp từ phía sau bên trái chiếu viền tóc và tay áo. Khuôn mặt trong ánh sáng dịu dàng sáng sủa, không nhuộm toàn bộ bằng màu cam.Bố cục - Máy ảnh:Góc nhìn hơi cao từ phía chính diện. Đặt bàn tròn ở phía trước tay trái, nhân vật ở giữa bên phải. Tỷ lệ dọc 1087:1447. Để lại chút không gian phía trên đầu, từ đầu đến đùi trên. Khuôn mặt lớn, hai cẳng tay hướng xuống phần dưới, nền mờ nông.Kết cấu - Phong cách:Giữ kết cấu vải sinh thành và xám xanh, làn da hồng nhạt mỏng, viền sáng vàng trên tóc trong phong cách ảnh tinh tế. Kết hợp chi tiết khuôn mặt dịu dàng và ren hoa trong suốt.",
+      "negative_prompt": "",
+      "model": "z-image-turbo",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T14:17:26.865Z"
+    },
+    {
+      "id": "pv-1792333034336-2927",
+      "title": "Cute GIrl 04",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792333034336-2927.webp",
+      "prompt": "梦幻自然光花园人像，柔焦胶片质感，竖幅近距离肖像构图；年轻女性，muse般的面庞，黑色长发蓬松微乱，面部居中偏上作为主视觉，白皙偏暖象牙肤调，橘粉眼妆与水润珊瑚唇，正面安静凝视镜头，头部略抬，嘴唇轻启，眼神湿润疏离、无笑意；身体只露出少量肩颈，被花枝遮挡。前景粉色、蓝紫色小花和绿色枝叶中等密度环绕面部并局部遮挡，背景蓝绿色自然虚化。上方斜侧日光穿过花枝，在脸颊、鼻翼、下巴 and 颈部形成真实斑驳叶影，皮肤细腻柔亮，鼻梁和唇部有自然高光，浅景深，前景花朵虚化，轻微胶片颗粒",
+      "negative_prompt": "",
+      "model": "z-image-turbo",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T14:17:26.866Z"
+    },
+    {
       "id": "pv-1792312987543-330",
       "title": "Japanese Girl",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792312987543-330.webp",
@@ -222,5 +286,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T09:41:49.537Z"
+  "updated_at": "2026-10-18T14:17:26.866Z"
 }
