@@ -30,6 +30,155 @@
   ],
   "items": [
     {
+      "id": "pv-1792345000362-4201",
+      "title": "Girl 53",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792345000362-4201.webp",
+      "prompt": "A woman with long dark wavy hair stands in front of a glowing ring light against a black background.\n\nSubject: A woman with voluminous dark wavy hair and rectangular sunglasses looking directly at the camera.\n\nClothing: She wears a black denim jacket over a black top, accessorized with a silver hoop earring and a ring on her finger.\n\nAction: She holds her index finger vertically against her lips in a shushing gesture while maintaining direct eye contact.\n\nEnvironment: The setting is a dark studio space dominated by a large circular ring light positioned directly behind her head.\n\nCamera: Shot as a medium close-up with a shallow depth of field that keeps the subject sharp while blurring the background elements.\n\nLighting: High-contrast lighting features a bright rim light from the ring source creating a halo effect around her hair and shoulders.\n\nStyle Details: The image has a high-fashion editorial aesthetic with clean lines, deep blacks, and a polished photographic finish.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T17:44:37.364Z"
+    },
+    {
+      "id": "pv-1792345048532-9105",
+      "title": "man 53",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792345048532-9105.webp",
+      "prompt": "A man in a silver puffer jacket takes a bite of pepperoni pizza with melted cheese stretching from his mouth.\n\nSubject: A fair-skinned man with short brown hair and a trimmed beard, wearing dark sunglasses that reflect the scene around him.\n\nClothing: He wears a shiny metallic silver quilted puffer jacket over a black ribbed tank top, accessorized with a thin silver chain necklace.\n\nAction: He holds a large slice of pepperoni pizza in his right hand and is mid-bite, with melted cheese dripping down his chin. His expression appears focused on the food.\n\nEnvironment: The background is a smooth, light blue-grey gradient that fades to black at the edges, creating a spotlight effect around the subject.\n\nCamera: Shot from a low angle looking up at the subject, utilizing a wide-angle lens that creates a slight fisheye distortion and emphasizes the foreground action.\n\nLighting: Bright studio lighting illuminates the subject from the front, highlighting the sheen on his jacket and the texture of the pizza, with soft shadows defining his facial features.\n\nStyle Details: High-contrast commercial photography with vibrant colors and sharp focus on the food and face.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "People",
+      "tags": [
+        "man",
+        "boy"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T17:44:37.364Z"
+    },
+    {
+      "id": "pv-1792345094240-3277",
+      "title": "man 54",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792345094240-3277.webp",
+      "prompt": "A man with dark curly hair and a beard holds a large bouquet of sunflowers and daisies wrapped in brown paper.\n\nSubject: A young man with thick dark curly hair, a full beard and mustache, wearing black rectangular sunglasses.\n\nClothing: He wears a light-colored, textured linen button-up shirt that is slightly unbuttoned at the collar.\n\nAction: He holds the bouquet close to his chest with both hands, looking down at the flowers with a soft expression.\n\nEnvironment: The background is a blurred city street at night with bokeh lights from streetlamps and traffic in warm tones.\n\nCamera: A medium close-up shot with a shallow depth of field that keeps the subject sharp while blurring the background significantly.\n\nLighting: Warm golden ambient light illuminates his hair and face, creating soft highlights and a romantic nighttime atmosphere.\n\nStyle Details: High-quality photography with natural textures, realistic lighting, and a cinematic color palette emphasizing warm yellows and deep shadows.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "People",
+      "tags": [
+        "man",
+        "boy"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T17:44:37.365Z"
+    },
+    {
+      "id": "pv-1792345136352-8405",
+      "title": "man 54",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792345136352-8405.webp",
+      "prompt": "A young woman stands gracefully in the center of a celebratory composition surrounded by floating black and white polaroid-style photographs of herself.\n\nSubject: A young woman with long dark hair styled half-up, wearing ornate gold earrings and a delicate bindi on her forehead.\n\nClothing: She wears an intricately embroidered beige blouse with floral patterns and a soft dusty pink saree draped elegantly over one shoulder.\n\nAction: Her right hand gently touches the side of her head near her ear while her left arm rests across her waist, gazing thoughtfully to the side with a serene expression.\n\nEnvironment: The background is a dreamy purple-hued space filled with floating floral elements and soft bokeh lights, creating a magical atmosphere around the central figure and surrounding photos.\n\nCamera: Shot with a medium close-up framing that emphasizes the subject’s upper body and facial expression, with shallow depth of field blurring the background to highlight the layered composition.\n\nLighting: Soft directional lighting illuminates her face and attire from the front-left, casting gentle shadows and enhancing the texture of her clothing and jewelry.\n\nStyle Details: The image features a polished digital collage aesthetic with elegant white cursive typography reading “Happy Birthday Rusana” at the bottom, blending photographic realism with artistic post-processing effects like glowing light rays and translucent overlays.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T17:44:37.731Z"
+    },
+    {
+      "id": "pv-1792345183510-8703",
+      "title": "man 55",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792345183510-8703.webp",
+      "prompt": "A woman with long dark hair sits on a white floor against a teal background.\n\nSubject: A young woman with fair skin and long straight black hair parted in the middle, looking directly at the camera with a neutral expression.\n\nClothing: She wears a white sleeveless top under an oversized emerald green satin button-up shirt worn off one shoulder, paired with light-wash wide-leg jeans and black platform sneakers with white laces.\n\nAction: She is seated on the ground with her legs bent and crossed at the ankles, leaning slightly forward with one hand resting on the floor behind her for support.\n\nEnvironment: The setting is a minimalist studio space featuring a seamless teal backdrop that transitions to a white floor.\n\nCamera: Shot from a high angle looking down at the subject, utilizing a medium shot that captures the full seated figure and outfit details.\n\nLighting: Soft studio lighting creates gentle shadows on the floor and highlights the sheen of the green fabric while maintaining even illumination on the face.\n\nStyle Details: High-fashion editorial aesthetic with a cool color palette emphasizing teal and emerald tones.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T17:44:37.731Z"
+    },
+    {
+      "id": "pv-1792345271934-3574",
+      "title": "man 56",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792345271934-3574.webp",
+      "prompt": "A close-up portrait of a young woman adorned in traditional floral jewelry and holding a peacock feather.\n\nSubject: A young woman with dark wavy hair, wearing a white jasmine flower crown and a delicate pearl maang tikka on her forehead. She has a gold nose ring connected by a chain to her ear, large flower-shaped earrings, and a pearl necklace with a central yellow and white flower pendant. Her eyes are closed in a serene expression, and she holds a vibrant peacock feather near her face.\n\nClothing: She wears a light-colored top featuring pink floral patterns along the neckline, which is trimmed with sparkling rhinestones.\n\nAction: Her head is tilted slightly downward as she gazes at the peacock feather held gently in her hand, which is painted with red henna.\n\nEnvironment: The background features a large tree trunk and soft-focus green leaves against a bright sky.\n\nCamera: Shot with a shallow depth of field that keeps the subject sharp while blurring the background elements.\n\nLighting: Soft natural daylight illuminates her face from above, creating gentle highlights on her skin and jewelry.\n\nStyle Details: The image has a warm, dreamy aesthetic with soft focus and vibrant colors typical of high-end portrait photography.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T17:44:37.731Z"
+    },
+    {
+      "id": "pv-1792345313835-645",
+      "title": "man 57",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792345313835-645.webp",
+      "prompt": "A young woman with long dark hair sits casually on the hood of a white BMW M5 sports car.\n\nSubject: A young woman with long, straight dark brown hair and fair skin, wearing subtle makeup with defined eyes and lips. She has a delicate silver necklace and small stud earrings. Her expression is calm and contemplative as she gazes slightly upward and to her right.\n\nClothing: She wears a traditional red kurta tunic featuring intricate white and black floral embroidery around the neckline and chest. The outfit is paired with loose-fitting, wide-leg white trousers that drape elegantly over her legs. She completes the look with white strappy high-heeled sandals. On her left wrist, she wears a silver watch or bracelet.\n\nAction: She sits relaxed on the front bumper of the car, leaning back slightly with her hands resting flat on the hood near the headlights and grille. Her posture is confident yet casual, with one leg crossed over the other.\n\nEnvironment: The setting appears to be an outdoor residential street or driveway during the day. A white building with windows is visible in the background to the left, while green trees and foliage are blurred in the distance behind the car.\n\nCamera: The shot is taken from a low angle, looking up at the subject, emphasizing her presence against the vehicle. The framing is a medium shot that captures her full figure and the front of the car. The depth of field is shallow, keeping the woman and the car's details sharp while softly blurring the background.\n\nLighting: Natural daylight illuminates the scene evenly, casting soft shadows under the car and on the ground. The light highlights the texture of her clothing and the glossy finish of the car’s paint without creating harsh contrasts.\n\nStyle Details: The image has a clean, high-resolution photographic quality with vibrant colors and realistic textures. There is no digital art or rendering style; it appears to be a professional lifestyle photograph with natural color grading.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T17:44:37.732Z"
+    },
+    {
+      "id": "pv-1792345352220-1225",
+      "title": "man 58",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792345352220-1225.webp",
+      "prompt": "A young woman takes a mirror selfie while wearing sunglasses and traditional Indian attire.\n\nSubject: A young woman with long dark wavy hair styled in a half-up braid, featuring soft makeup and a calm expression.\n\nClothing: She wears a white embroidered kurta with pink floral patterns paired with a sheer pink dupatta draped over her shoulder, accessorized with large gold jhumka earrings and a smartwatch on her wrist.\n\nAction: She holds a black smartphone in her right hand to capture the reflection while looking at the screen with a relaxed posture.\n\nEnvironment: The setting is an interior space featuring a tall arched mirror with integrated LED lighting, marble walls, and blurred background elements including a hanging light fixture and greenery.\n\nCamera: Shot as a close-up mirror selfie with a shallow depth of field that keeps the subject sharp while blurring the background details.\n\nLighting: Soft ambient indoor lighting highlights her face and outfit without harsh shadows, creating a warm and polished atmosphere.\n\nStyle Details: High-resolution photography with natural color grading and clean composition emphasizing fashion and lifestyle aesthetics.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T17:44:37.742Z"
+    },
+    {
+      "id": "pv-1792345391378-106",
+      "title": "Car",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792345391378-106.webp",
+      "prompt": "A white Suzuki Swift hatchback speeds through a wet forest road at night, splashing water and scattering autumn leaves as it charges forward.\n\nSubject: A white Suzuki Swift hatchback with black side mirrors and black alloy wheels dominates the foreground, featuring a visible license plate reading KL 60 Y 1324.\n\nClothing: The vehicle has no clothing but features glossy paintwork reflecting the surroundings and a prominent silver Suzuki emblem on the front grille.\n\nAction: The car is captured in motion with dynamic water splashes around the tires and blurred autumn leaves flying through the air, conveying high speed and momentum.\n\nEnvironment: The setting is a dark forest road at night with tall trees lining the path, illuminated by warm orange light from the left side that contrasts with the cool blue tones of the scene.\n\nCamera: The shot uses a low-angle perspective to emphasize the car’s power, with motion blur on the background and foreground elements to enhance the sense of velocity.\n\nLighting: Bright headlights cut through the darkness while ambient warm light from the left creates dramatic reflections on the wet asphalt and highlights the water spray.\n\nStyle Details: The image features high-contrast cinematic lighting, a gritty texture reminiscent of action movie posters, and a stylized motion blur effect that enhances the sense of speed.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Fantasy",
+      "tags": [
+        "car"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T17:44:37.742Z"
+    },
+    {
+      "id": "pv-1792345437172-5534",
+      "title": "man 59",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792345437172-5534.webp",
+      "prompt": "A young woman with long wavy brown hair sits in a wicker chair on a wooden deck at night, smiling softly at the camera.\n\nSubject: A young woman with long wavy brown hair and bangs, wearing a nose ring and large dangling earrings.\n\nClothing: She wears a black button-down shirt tucked into light blue wide-leg jeans with frayed hems, paired with white and black sneakers.\n\nAction: She sits relaxed in a round wicker chair with one leg crossed over the other, her left arm resting on the back of the chair while she gazes gently forward.\n\nEnvironment: The setting is an outdoor garden deck at night, featuring lush green plants, a potted plant to the left, and a wooden acoustic guitar leaning against a post behind her.\n\nCamera: Shot from a low angle with a medium framing that captures the subject from mid-thigh up, emphasizing the chair and surrounding decor.\n\nLighting: Warm ambient light emanates from colorful string lights arranged in an archway above and around the scene, casting soft glows on the foliage and creating a cozy nighttime atmosphere.\n\nStyle Details: The image has a natural photographic quality with realistic textures, subtle depth of field blurring the background slightly, and vibrant yet warm color tones enhanced by the decorative lighting.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T17:44:37.743Z"
+    },
+    {
       "id": "pv-1792344388225-32",
       "title": "Girl 43",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792344388225-32.webp",
@@ -1602,5 +1751,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T17:36:10.837Z"
+  "updated_at": "2026-10-18T17:44:37.743Z"
 }
