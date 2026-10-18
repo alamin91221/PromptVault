@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-18T00:00:00Z",
+  "updated_at": "2026-10-18T06:43:08.419Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -11,76 +11,19 @@
   ],
   "items": [
     {
-      "id": "pv-001",
-      "title": "Ethereal Beauty",
-      "image_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=900&q=80",
-      "prompt": "Ultra detailed portrait of a beautiful woman with blue hair, flowers and butterflies, soft cinematic lighting, dreamy atmosphere, shallow depth of field, 8k, photorealistic, studio lighting, highly detailed, ornate, fantasy art.",
-      "negative_prompt": "low quality, blurry, bad anatomy, extra fingers, text, watermark, signature",
-      "model": "Midjourney v7",
+      "id": "pv-1792305788080",
+      "title": "cute girl",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792305788080.webp",
+      "prompt": "subject: an adult Chinese woman in her mid-20s, smooth pale skin, delicate oval face, dark expressive eyes, soft matte rose-red lips, delicate lashes, elegant collarbones, and long silky black hair\n超写实电影级人像摄影。竖幅9:16构图。低角度仰拍，聚焦于人物面部。拍摄对象站在春日盛开的樱花树下。柔和的自然光透过枝叶，在脸庞、颈项和白色T恤上投下斑驳的光影。略显凌乱的头发随风飘动，几缕发丝在微风中摇曳。拍摄对象仰望天空，神情宁静而梦幻。肌肤柔和透亮，妆容自然，纹理逼真，双眸栩栩如生。使用85mm人像镜头拍摄，浅景深，奶油般的背景虚化，前景和背景中樱花花瓣的柔和虚化。明亮轻盈的氛围，柔和的粉彩色调，透过枝叶隐约可见的蔚蓝天空。自然光，高动态范围，电影级光线，头发上细腻的高光，柔和的阴影过渡，逼真的肌肤纹理，微妙的电影级色彩调校，梦幻般的春日氛围，充满情感的叙事性摄影。前景花朵部分遮盖画面，景深强，构图层次丰富，专业人像摄影，捕捉自然瞬间，展现生活方式类杂志美学，细节极其丰富，品质卓越，照片级真实感，逼真的镜头虚化，顶级相机品质。无过度修图，无美颜滤镜，无夸张妆容，无奇幻效果，无卡通风格，无额外配饰，无面部或身体改变。精确参考风格：仰视，樱花盛开，柔和的阳光透过树叶，梦幻般的春日氛围，浅景深，电影般的自然人像，写实摄影。",
+      "negative_prompt": "",
+      "model": "z-image-turbo",
       "category": "Portrait",
-      "tags": ["portrait", "flowers", "butterflies", "ethereal", "fantasy"],
-      "is_premium": true,
-      "created_at": "2026-10-01T10:00:00Z"
-    },
-    {
-      "id": "pv-002",
-      "title": "Neon Samurai 2099",
-      "image_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=900&q=80",
-      "prompt": "Cyberpunk samurai warrior standing in rain-slicked Tokyo street, glowing magenta and cyan neon katana, holographic armor reflections, volumetric fog, hyperdetailed cinematic unreal engine 5 render, anamorphic lens flare.",
-      "negative_prompt": "cartoon, oversaturated, deformed hands, low resolution, bad lighting",
-      "model": "Stable Diffusion 3.5",
-      "category": "Cyberpunk",
-      "tags": ["cyberpunk", "samurai", "neon", "katana", "tokyo"],
+      "tags": [
+        "girl",
+        "woman"
+      ],
       "is_premium": false,
-      "created_at": "2026-10-05T14:30:00Z"
-    },
-    {
-      "id": "pv-003",
-      "title": "Anime Starlight Sorceress",
-      "image_url": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=900&q=80",
-      "prompt": "Vibrant anime girl sorceress casting celestial magic in a cosmic night sky, pastel pink flowing hair, glowing star particles, Makoto Shinkai style, masterwork illustration, crisp lines, rich colors, 4k wallpaper.",
-      "negative_prompt": "bad hands, missing limbs, dark blurry background, sketch",
-      "model": "Niji 6",
-      "category": "Anime",
-      "tags": ["anime", "magic", "stars", "celestial", "illustration"],
-      "is_premium": false,
-      "created_at": "2026-10-08T09:15:00Z"
-    },
-    {
-      "id": "pv-004",
-      "title": "Astronaut in Cosmic Wilderness",
-      "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=900&q=80",
-      "prompt": "A lone futuristic astronaut standing on an alien cliff overlooking a swirling purple galaxy and glowing twin moons, bioluminescent alien flora, cinematic sci-fi film still, NASA realism mixed with surreal wonder, 8k resolution.",
-      "negative_prompt": "earth, standard astronaut suit, blurry, low res, watermark",
-      "model": "DALL-E 3",
-      "category": "Nature",
-      "tags": ["astronaut", "space", "galaxy", "sci-fi", "alien"],
-      "is_premium": true,
-      "created_at": "2026-10-10T16:45:00Z"
-    },
-    {
-      "id": "pv-005",
-      "title": "Cyberpunk Synthwave Cat",
-      "image_url": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&w=900&q=80",
-      "prompt": "A cute fluffy cat wearing glowing futuristic neon pink sunglasses, sitting on a cyberpunk rooftop, retro 80s synthwave aesthetic, vaporwave neon palette, sharp focus, detailed fur texture, octane render.",
-      "negative_prompt": "ugly, deformed eyes, washed out, low contrast, text",
-      "model": "Midjourney v7",
-      "category": "Cyberpunk",
-      "tags": ["cat", "cyberpunk", "synthwave", "glasses", "neon"],
-      "is_premium": false,
-      "created_at": "2026-10-12T11:20:00Z"
-    },
-    {
-      "id": "pv-006",
-      "title": "Mystic Pagoda in Mountain Fog",
-      "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=900&q=80",
-      "prompt": "Ancient oriental pagoda nestled amidst jagged misty mountain peaks at dawn, cherry blossom petals drifting on breeze, golden sunlight piercing through morning fog, traditional watercolor style with modern digital precision, tranquil atmosphere.",
-      "negative_prompt": "modern buildings, roads, electric poles, saturated unnatural colors",
-      "model": "Flux.1 Dev",
-      "category": "Nature",
-      "tags": ["nature", "pagoda", "mountains", "dawn", "peaceful"],
-      "is_premium": false,
-      "created_at": "2026-10-15T08:00:00Z"
+      "created_at": "2026-10-18T06:43:08.413Z"
     }
   ]
 }
