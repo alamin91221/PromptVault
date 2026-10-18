@@ -9,6 +9,19 @@
     "Fantasy",
     "animals"
   ],
+  "models": [
+    "z-image-turbo",
+    "Midjourney v7",
+    "Midjourney v6.1",
+    "Flux.1 Dev",
+    "Flux.1 Schnell",
+    "Stable Diffusion 3.5",
+    "SDXL 1.0",
+    "DALL-E 3",
+    "Niji 6",
+    "Ideogram v2",
+    "Recraft V3"
+  ],
   "items": [
     {
       "id": "pv-1792309981771-7542",
