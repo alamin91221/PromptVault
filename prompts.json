@@ -9,7 +9,8 @@
     "Fantasy",
     "Animals",
     "Advertising",
-    "Food"
+    "Food",
+    "People"
   ],
   "category_covers": {
     "All": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792312987543-330.webp",
@@ -29,10 +30,10 @@
   ],
   "items": [
     {
-      "id": "pv-1792338964192-9718",
-      "title": "girl 8",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792338964192-9718.webp",
-      "prompt": "A close-up portrait of a woman holding a fluffy white cat that obscures the lower half of her face.\n\nSubject: A young woman with long dark hair and brown eyes peering over a large, fluffy white Persian cat which is held in front of her chest. The cat has amber eyes and a pink nose.\n\nClothing: The woman wears a deep burgundy velvet garment featuring an ornate gold embellished neckline. Her hand, decorated with intricate henna tattoos, supports the cat from underneath.\n\nAction: The woman holds the cat gently against her body while looking directly at the camera with a calm expression.\n\nEnvironment: The setting appears to be indoors with a blurred background suggesting a domestic interior space.\n\nCamera: A tight close-up shot with a shallow depth of field that keeps the subject sharp while blurring the background softly.\n\nLighting: Soft, warm indoor lighting illuminates the scene evenly without harsh shadows.\n\nStyle Details: High-resolution photographic quality with natural skin tones and realistic fur texture.",
+      "id": "pv-1792339096452-6223",
+      "title": "girl 11",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792339096452-6223.webp",
+      "prompt": "A young woman leans casually against the front hood of a black BMW parked on a tree-lined street.\n\nSubject: A young woman with long dark brown hair styled with a side braid, fair skin, and a contemplative expression looking off to her right.\n\nClothing: She wears a dark grey plaid button-down shirt with sleeves rolled up to the elbows, tucked into loose-fitting dark grey wide-leg jeans. She has a thin silver necklace with a small circular pendant and delicate bracelets on both wrists.\n\nAction: She is leaning back against the car with her hands in her front pockets, one leg crossed over the other at the knee.\n\nEnvironment: The setting is an urban street with lush green trees lining the road in the background. Other cars are visible driving down the road behind her.\n\nCamera: Shot from a low angle looking up slightly at the subject, utilizing a shallow depth of field to blur the background traffic and foliage while keeping the car's grille and logo sharp.\n\nLighting: Natural daylight with soft shadows, suggesting late afternoon sun filtering through the trees.\n\nStyle Details: Realistic photography with natural color grading, slight film grain, and high dynamic range capturing reflections on the car's glossy paint.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -41,22 +42,7 @@
         "woman"
       ],
       "is_premium": false,
-      "created_at": "2026-10-18T15:59:10.190Z"
-    },
-    {
-      "id": "pv-1792339005313-8267",
-      "title": "girl 9",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792339005313-8267.webp",
-      "prompt": "A young woman stands in a field of tall grass under a bright blue sky with scattered clouds.\n\nSubject: A woman with long dark wavy hair and a warm smile looking over her shoulder at the camera.\n\nClothing: She wears a pink floral halter top tied at the back and high-waisted light blue jeans, accessorized with dangling earrings and bracelets.\n\nAction: She stands in profile facing left but turns her head to look back, holding a small cluster of bright pink flowers behind her back.\n\nEnvironment: The setting is a vast field of tall green grass with white feathery plumes, likely pampas grass or similar ornamental grasses, stretching into the distance with a line of trees and palm trees on the horizon.\n\nCamera: Shot from a low angle looking up at the subject, utilizing a shallow depth of field that blurs the foreground grass blades while keeping the woman sharp.\n\nLighting: Bright natural sunlight illuminates the scene from above and slightly behind, creating soft highlights on her hair and skin with a warm, airy atmosphere.\n\nStyle Details: High-resolution real photograph with vibrant colors, clear details in the fabric textures and grass, and a composition that emphasizes the subject against the expansive sky.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman"
-      ],
-      "is_premium": true,
-      "created_at": "2026-10-18T15:59:10.190Z"
+      "created_at": "2026-10-18T15:59:09.837Z"
     },
     {
       "id": "pv-1792339051601-3884",
@@ -71,13 +57,28 @@
         "woman"
       ],
       "is_premium": false,
-      "created_at": "2026-10-18T15:59:10.190Z"
+      "created_at": "2026-10-18T15:59:09.834Z"
     },
     {
-      "id": "pv-1792339096452-6223",
-      "title": "girl 11",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792339096452-6223.webp",
-      "prompt": "A young woman leans casually against the front hood of a black BMW parked on a tree-lined street.\n\nSubject: A young woman with long dark brown hair styled with a side braid, fair skin, and a contemplative expression looking off to her right.\n\nClothing: She wears a dark grey plaid button-down shirt with sleeves rolled up to the elbows, tucked into loose-fitting dark grey wide-leg jeans. She has a thin silver necklace with a small circular pendant and delicate bracelets on both wrists.\n\nAction: She is leaning back against the car with her hands in her front pockets, one leg crossed over the other at the knee.\n\nEnvironment: The setting is an urban street with lush green trees lining the road in the background. Other cars are visible driving down the road behind her.\n\nCamera: Shot from a low angle looking up slightly at the subject, utilizing a shallow depth of field to blur the background traffic and foliage while keeping the car's grille and logo sharp.\n\nLighting: Natural daylight with soft shadows, suggesting late afternoon sun filtering through the trees.\n\nStyle Details: Realistic photography with natural color grading, slight film grain, and high dynamic range capturing reflections on the car's glossy paint.",
+      "id": "pv-1792339005313-8267",
+      "title": "girl 9",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792339005313-8267.webp",
+      "prompt": "A young woman stands in a field of tall grass under a bright blue sky with scattered clouds.\n\nSubject: A woman with long dark wavy hair and a warm smile looking over her shoulder at the camera.\n\nClothing: She wears a pink floral halter top tied at the back and high-waisted light blue jeans, accessorized with dangling earrings and bracelets.\n\nAction: She stands in profile facing left but turns her head to look back, holding a small cluster of bright pink flowers behind her back.\n\nEnvironment: The setting is a vast field of tall green grass with white feathery plumes, likely pampas grass or similar ornamental grasses, stretching into the distance with a line of trees and palm trees on the horizon.\n\nCamera: Shot from a low angle looking up at the subject, utilizing a shallow depth of field that blurs the foreground grass blades while keeping the woman sharp.\n\nLighting: Bright natural sunlight illuminates the scene from above and slightly behind, creating soft highlights on her hair and skin with a warm, airy atmosphere.\n\nStyle Details: High-resolution real photograph with vibrant colors, clear details in the fabric textures and grass, and a composition that emphasizes the subject against the expansive sky.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T15:59:09.831Z"
+    },
+    {
+      "id": "pv-1792338964192-9718",
+      "title": "girl 8",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792338964192-9718.webp",
+      "prompt": "A close-up portrait of a woman holding a fluffy white cat that obscures the lower half of her face.\n\nSubject: A young woman with long dark hair and brown eyes peering over a large, fluffy white Persian cat which is held in front of her chest. The cat has amber eyes and a pink nose.\n\nClothing: The woman wears a deep burgundy velvet garment featuring an ornate gold embellished neckline. Her hand, decorated with intricate henna tattoos, supports the cat from underneath.\n\nAction: The woman holds the cat gently against her body while looking directly at the camera with a calm expression.\n\nEnvironment: The setting appears to be indoors with a blurred background suggesting a domestic interior space.\n\nCamera: A tight close-up shot with a shallow depth of field that keeps the subject sharp while blurring the background softly.\n\nLighting: Soft, warm indoor lighting illuminates the scene evenly without harsh shadows.\n\nStyle Details: High-resolution photographic quality with natural skin tones and realistic fur texture.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -86,7 +87,7 @@
         "woman"
       ],
       "is_premium": false,
-      "created_at": "2026-10-18T15:59:10.192Z"
+      "created_at": "2026-10-18T15:59:09.829Z"
     },
     {
       "id": "pv-1792338879840-990",
@@ -101,7 +102,7 @@
         "girl"
       ],
       "is_premium": true,
-      "created_at": "2026-10-18T15:54:56.627Z"
+      "created_at": "2026-10-18T15:54:56.621Z"
     },
     {
       "id": "pv-1792338823574-5735",
@@ -116,7 +117,7 @@
         "woman"
       ],
       "is_premium": false,
-      "created_at": "2026-10-18T15:53:56.274Z"
+      "created_at": "2026-10-18T15:53:56.269Z"
     },
     {
       "id": "pv-1792338656257-8710",
@@ -130,7 +131,7 @@
         "food"
       ],
       "is_premium": false,
-      "created_at": "2026-10-18T15:51:09.790Z"
+      "created_at": "2026-10-18T15:51:09.781Z"
     },
     {
       "id": "pv-1792338482777-2333",
@@ -144,7 +145,7 @@
         "food"
       ],
       "is_premium": false,
-      "created_at": "2026-10-18T15:48:22.133Z"
+      "created_at": "2026-10-18T15:48:22.127Z"
     },
     {
       "id": "pv-1792338390106-1846",
@@ -514,5 +515,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T15:59:10.192Z"
+  "updated_at": "2026-10-18T15:59:32.564Z"
 }
