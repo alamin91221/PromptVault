@@ -30,6 +30,165 @@
   ],
   "items": [
     {
+      "id": "pv-1792343830648-6053",
+      "title": "Girl 35",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792343830648-6053.webp",
+      "prompt": "A woman reclining in a wooden boat on a calm pond holding a white water lily.\n\nSubject: A woman with long dark wavy hair and fair skin, looking down gently at the flower she holds.\n\nClothing: She wears an elegant sheer white outfit with intricate gold embroidery along the neckline and sleeves, paired with pearl jewelry including a necklace and earrings.\n\nAction: She rests her chin on her hand while holding a single white water lily by its stem, gazing downward in quiet contemplation.\n\nEnvironment: The boat is weathered wood with green moss growing along the edges, floating on still water dotted with large green lily pads.\n\nCamera: Shot from a slightly elevated angle focusing closely on the subject with soft background blur to emphasize depth and intimacy.\n\nLighting: Warm golden hour sunlight bathes her face and dress in a gentle glow, creating soft shadows and enhancing the tranquil mood.\n\nStyle Details: Naturalistic photography with rich textures, subtle color grading, and a dreamy yet grounded aesthetic that evokes serenity and elegance.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T17:25:37.759Z"
+    },
+    {
+      "id": "pv-1792343876666-1585",
+      "title": "ad 11",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792343876666-1585.webp",
+      "prompt": "A refreshing can of Olipop Peach Sorely & Cream soda sits centered amidst a bed of fresh peaches and melting ice cubes.\n\nSubject: A single aluminum beverage can with the brand name \"Olipop\" printed in bold orange letters, featuring a peach graphic and text reading \"Peaches Sorely & Cream\".\n\nClothing: The can has a matte finish with condensation droplets clinging to its surface, indicating it is cold.\n\nAction: The can is standing upright, surrounded by scattered ice cubes that are partially melted and glistening with water droplets.\n\nEnvironment: The background consists of a dense pile of ripe peaches with fuzzy skin, filling the entire frame around the central product.\n\nCamera: A close-up shot taken from a high angle looking down at the arrangement, emphasizing the textures of the fruit and ice.\n\nLighting: Bright, warm sunlight illuminates the scene from above, casting soft shadows and highlighting the moisture on the can and fruit.\n\nStyle Details: The image features a vibrant color palette dominated by shades of orange and peach, with a shallow depth of field that keeps the central can sharp while softly blurring the surrounding peaches.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Advertising",
+      "tags": [
+        "ad",
+        "ads",
+        "products"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T17:25:37.760Z"
+    },
+    {
+      "id": "pv-1792343921028-226",
+      "title": "Girl 36",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792343921028-226.webp",
+      "prompt": "A young woman stands in a warm, golden-hued portrait surrounded by soft floral elements and ghostly double exposures of her own face in the background.\n\nSubject: A young South Asian woman with long dark wavy hair, fair skin, and a gentle smile looking directly at the camera. She has a small bindi on her forehead and is wearing traditional jewelry including dangling earrings.\n\nClothing: She wears an elegant mustard-yellow saree with intricate gold embroidery and beadwork along the border and pallu, draped over a black long-sleeved blouse with subtle detailing at the cuffs.\n\nAction: She stands in a poised, relaxed pose with one hand gently holding the edge of her saree near her waist, exuding calm confidence and grace.\n\nEnvironment: The setting is richly decorated with large cream-colored flowers and autumnal leaves floating around her, creating a dreamy, romantic atmosphere enhanced by layered translucent overlays of her face in the background.\n\nCamera: Shot with a soft-focus lens that blurs the background slightly while keeping the subject sharp, using a medium close-up framing to emphasize facial expression and upper body elegance.\n\nLighting: Warm golden sunlight filters through from above and behind, casting gentle highlights on her hair and shoulders, creating a glowing, ethereal effect with soft shadows and high-key tones.\n\nStyle Details: The image features a cinematic color grade with warm amber and gold tones, enhanced by double exposure effects, floral overlays, and a slightly vintage film grain texture for emotional depth.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T17:25:37.760Z"
+    },
+    {
+      "id": "pv-1792343956328-6832",
+      "title": "Man 36",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792343956328-6832.webp",
+      "prompt": "A muscular man with dark hair and a beard stands in the foreground holding an assault rifle, his expression stern and focused.\n\nSubject: A rugged man with short dark hair, a full beard, and intense eyes looking directly at the viewer. He has visible sweat on his forehead and dirt smudged across his face and arms.\n\nClothing: He wears a worn-out green and beige vertically striped polo shirt with bloodstains on the left shoulder and chest. His sleeves are rolled up or torn, revealing dirty forearms. He wears dark, possibly denim, trousers that appear soiled.\n\nAction: The man grips a black assault rifle firmly with both hands, holding it across his body in a ready stance. His posture is upright and defensive, conveying readiness for combat.\n\nEnvironment: The background depicts a devastated urban landscape engulfed in flames and smoke. Silhouettes of zombie-like figures are visible in the distance, moving through the fiery chaos. Ruined buildings frame the scene on either side.\n\nCamera: The shot is a medium close-up focusing on the man from the waist up, with a shallow depth of field that blurs the apocalyptic background to emphasize the subject.\n\nLighting: Dramatic warm lighting bathes the scene in intense orange and red hues from the surrounding fire, casting deep shadows and highlighting the textures of sweat, blood, and grime on the subject’s skin and clothing.\n\nStyle Details: The image features high contrast with a cinematic color palette dominated by fiery oranges and dark shadows, creating a gritty, hyper-realistic atmosphere reminiscent of a zombie apocalypse movie poster.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "People",
+      "tags": [
+        "man",
+        "boy"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T17:25:37.760Z"
+    },
+    {
+      "id": "pv-1792344059700-57",
+      "title": "Girl 37",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792344059700-57.webp",
+      "prompt": "A low-angle shot of a young woman reaching toward the camera with both hands against a bright blue sky.\n\nSubject: A young woman with curly brown hair and freckles looking directly at the lens with an open mouth expression.\n\nClothing: She wears a thick, cream-colored cable-knit turtleneck sweater and mustard-yellow trousers.\n\nAction: Her arms are extended forward with palms facing the viewer in a reaching gesture, while her hair is blowing wildly in the wind.\n\nEnvironment: The background is a clear, deep blue sky with wispy clouds and a bright sunburst flaring near the top right corner.\n\nCamera: Shot from a very low angle looking up at the subject, utilizing a wide-angle perspective that exaggerates the size of her hands in the foreground.\n\nLighting: Strong backlighting from the sun creates a high-contrast silhouette effect on her hair and casts deep shadows across her face and clothing.\n\nStyle Details: The image has a vibrant, high-saturation color palette with a sharp focus on the subject's eyes and hands while the background remains clear.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T17:25:37.760Z"
+    },
+    {
+      "id": "pv-1792344097860-8990",
+      "title": "Girl 38",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792344097860-8990.webp",
+      "prompt": "A young woman with fair skin and dark hair styled in an elaborate updo sits gracefully on a wooden surface, gazing directly at the camera with a soft smile.\n\nSubject: A young East Asian woman with large, expressive eyes, defined eyebrows, and a gentle, confident expression. Her dark hair is styled in a complex, high bun adorned with intricate gold and pearl hairpins, dangling chains, and floral ornaments.\n\nClothing: She wears an elegant, off-the-shoulder gown in pale cream or champagne silk, featuring a structured bodice with gold embroidery and a sheer, flowing overlay. A translucent green sash is tied around her waist, and the fabric drapes softly over her legs.\n\nAction: She sits with one knee slightly raised, her right hand gently touching her chin in a poised gesture, while her left arm rests along her side. Her gaze is direct and engaging.\n\nEnvironment: The setting appears to be an interior room with traditional Asian aesthetics, featuring dark wooden furniture and a backdrop of a screen or wall decorated with ink-wash style paintings of trees and mountains.\n\nCamera: Shot from a slightly low angle in a medium close-up, utilizing a shallow depth of field that keeps the subject sharp while softly blurring the background elements.\n\nLighting: Soft, diffused lighting illuminates her face and upper body from the front, creating gentle highlights on her skin and the sheer fabric without harsh shadows.\n\nStyle Details: High-fashion editorial photography with a polished, glossy finish, rich color grading emphasizing golds and greens, and a composition that mimics a magazine cover layout.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T17:25:37.762Z"
+    },
+    {
+      "id": "pv-1792344133150-7726",
+      "title": "Girl 39",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792344133150-7726.webp",
+      "prompt": "A woman in a flower shop carefully arranging tall pink roses in a glass vase.\n\nSubject: A young woman with dark hair pulled back into a messy bun, featuring loose strands framing her face and warm skin tone.\n\nClothing: She wears a crisp white button-up shirt with sleeves rolled up to the elbows under a dark green apron that has a small pink tag on the chest pocket.\n\nAction: Her hands are gently holding the stems of the roses inside a clear glass vase, looking down at her work with a focused and calm expression.\n\nEnvironment: The setting is a well-stocked flower shop filled with various bouquets in vases and buckets, including white flowers and colorful blooms in the background, alongside wooden shelving and a hanging pendant light.\n\nCamera: Shot from a medium close-up angle that captures the subject from the waist up, emphasizing her hands and the flowers while keeping the busy shop environment visible behind her.\n\nLighting: Soft indoor lighting with a warm glow from an overhead lamp creating gentle highlights on her face and skin, casting subtle shadows that add depth to the scene.\n\nStyle Details: Naturalistic photography with high detail in textures like fabric and petals, maintaining a clean and realistic aesthetic without digital filters or stylization.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T17:25:37.762Z"
+    },
+    {
+      "id": "pv-1792344175368-3799",
+      "title": "Girl 40",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792344175368-3799.webp",
+      "prompt": "A young woman with dark wavy hair stands outdoors holding a bouquet of red roses wrapped in brown paper and carrying a burgundy leather shoulder bag.\n\nSubject: A young woman with dark wavy shoulder-length hair, closed eyes, and a serene smile tilting her head back slightly.\n\nClothing: She wears a black sleeveless dress with thin straps, a pearl necklace, and small pearl earrings.\n\nAction: She holds the bouquet of red roses close to her chest with both hands while standing next to a white car.\n\nEnvironment: The setting is an outdoor street scene with trees, buildings in the background, and dappled sunlight on the pavement.\n\nCamera: Medium shot capturing the subject from the waist up with a shallow depth of field blurring the background slightly.\n\nLighting: Bright natural sunlight creates soft highlights on her skin and hair with gentle shadows defining her features.\n\nStyle Details: Natural color palette with warm tones, realistic texture on the leather bag and paper wrapping, and authentic photographic quality.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T17:25:37.762Z"
+    },
+    {
+      "id": "pv-1792344210730-8925",
+      "title": "Girl 41",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792344210730-8925.webp",
+      "prompt": "A young woman sits at a table during a birthday celebration, resting her chin on her hand while gazing thoughtfully downward.\n\nSubject: A young woman with dark hair styled in a half-updo and loose strands framing her face, wearing small stud earrings and a nose ring.\n\nClothing: She wears a white button-down shirt with the sleeves rolled up slightly.\n\nAction: Her right hand supports her chin as she looks down at the table with a soft, contemplative expression.\n\nEnvironment: The setting is decorated for a birthday party with sheer curtains in the background adorned with pink ribbons and fairy lights. White balloons float on the right side of the frame. On the table sits a large bouquet of red roses wrapped in pink paper, a white frosted cake with lit candles and a plaque reading \"Happy Birthday Riya 16\", two cupcakes with number candles, and several lit pillar candles in glass holders.\n\nCamera: The shot is a medium close-up taken from a slightly elevated angle, focusing on the subject and the items on the table.\n\nLighting: Warm ambient light from the candles and background fairy lights creates a soft glow on her face, casting gentle shadows and highlighting the texture of the cake and flowers.\n\nStyle Details: The image has a candid, intimate atmosphere with a shallow depth of field that blurs the background slightly to emphasize the subject and foreground objects.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T17:25:37.765Z"
+    },
+    {
+      "id": "pv-1792344322928-5130",
+      "title": "Girl 42",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792344322928-5130.webp",
+      "prompt": "A young woman with dark, windblown hair takes a playful selfie outdoors on a sunny day.\n\nSubject: A young woman with short, tousled black hair and a playful expression, her eyes squinted shut as she pouts her lips for the camera.\n\nClothing: She wears a floral print sleeveless top featuring ruffled straps and a loose, breezy fit.\n\nAction: Her right arm is raised high above her head while she holds the camera with her left hand to capture a close-up selfie angle.\n\nEnvironment: The background shows a suburban street lined with single-story houses under a bright blue sky with scattered clouds.\n\nCamera: Shot from a low, wide-angle perspective typical of a handheld selfie, capturing a significant portion of the subject's arm and torso in the foreground.\n\nLighting: Bright natural sunlight illuminates the scene from above, casting soft shadows and highlighting the texture of her hair and clothing.\n\nStyle Details: The image has a vintage film aesthetic with warm color tones, visible scratches, dust specks, and a burnt-edge border resembling an old photograph.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T17:25:37.765Z"
+    },
+    {
       "id": "pv-1792343180561-9492",
       "title": "Girl 27",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792343180561-9492.webp",
@@ -1268,5 +1427,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T17:16:43.000Z"
+  "updated_at": "2026-10-18T17:25:37.765Z"
 }
