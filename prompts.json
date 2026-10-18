@@ -15,7 +15,6 @@
     "Midjourney v6.1",
     "Flux.1 Dev",
     "Flux.1 Schnell",
-    "Stable Diffusion 3.5",
     "SDXL 1.0",
     "DALL-E 3",
     "Niji 6",
@@ -57,7 +56,7 @@
     {
       "id": "pv-1792308192342",
       "title": "Cute Girl",
-      "image_url": "images/pv-1792308192342.webp",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792308192342.webp",
       "prompt": "A young woman sits gracefully on dark, barnacle-covered rocks by the ocean at night.\n\nSubject: A young woman with long, dark hair cascading over her shoulders and a soft, gentle smile directed at the camera.\n\nClothing: She wears a vibrant pink, floor-length gown featuring intricate white floral lace detailing across the bodice and sleeves, paired with dangling earrings and a delicate necklace.\n\nAction: She is seated with her hands clasped gently in her lap, leaning slightly forward with a relaxed posture.\n\nEnvironment: The setting is a rocky shoreline at night, with dark ocean waves crashing softly behind her against a pitch-black sky.\n\nCamera: Shot from a medium-full angle with a shallow depth of field that keeps the subject sharp while softly blurring the background rocks and water.\n\nLighting: Illuminated by a focused artificial light source that highlights her face and gown against the deep shadows of the night, creating a high-contrast, moody atmosphere.\n\nStyle Details: High-resolution real photograph with rich color saturation and a cinematic nighttime aesthetic.",
       "negative_prompt": "",
       "model": "Flux.1 Dev",
@@ -72,7 +71,7 @@
     {
       "id": "pv-1792308091773",
       "title": "Woman",
-      "image_url": "images/pv-1792308091773.webp",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792308091773.webp",
       "prompt": "A young woman with long dark wavy hair wearing a silver tiara and a pink dress sits at a table with a pink birthday cake in front of her.\n\nSubject: A young woman with long dark wavy hair wearing a silver tiara and a pink dress sits at a table with a pink birthday cake in front of her.\n\nClothing: She wears a light pink off-shoulder dress with puffy sleeves, a delicate necklace, and a sparkling tiara on her head.\n\nAction: She rests her chin on her hand, looking directly at the camera with a soft smile.\n\nEnvironment: The setting is decorated for a celebration with white balloons, a large pink bow in the background, tall pink candles with bows, crystal glasses, and a pink frosted cake with lit candles.\n\nCamera: Shot from a medium close-up angle with a shallow depth of field that blurs the background slightly to emphasize the subject.\n\nLighting: Warm ambient light highlights her face and the glowing candle flames create soft reflections on the scene.\n\nStyle Details: The image has a dreamy, romantic aesthetic with a pastel color palette dominated by shades of pink and white.",
       "negative_prompt": "",
       "model": "z-image-turbo",
@@ -89,7 +88,7 @@
     {
       "id": "pv-1792307696627",
       "title": "Chinese Girl",
-      "image_url": "images/pv-1792307696627.webp",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792307696627.webp",
       "prompt": "生成一张角色卡。图片提示词如下国风女刺客，冷冽气质，超写实肖像，8K高清， 极致细节。年轻女子，面容精致，眼神凌厉冷冽，微侧头回眸看向镜头，表情肃杀疏离。黑发高束，发丝飞散，发饰为黑银色金属发簪与流苏，耳饰为长链条耳坠，多耳洞。身穿黑白渐变古风刺客服饰，白色轻纱与黑色皮革拼接， 肩部有金属环扣与绑带，颈部佩戴黑色项圈。 逆光+侧逆光，发丝与衣料边缘高光明显，背景暗色虚化，冷色调，氛围感强，武侠东方美学，超写实，电影级质感，浅景深，细节丰富， 皮肤质感细腻，睫毛根根分明，眼妆精致，唇色暗红，风轻微吹动发丝。\n镜头:85mm定焦镜头，光圈f/1.8 构图:近景人像，三分法构图，人物占画面70% 色彩风格:冷色调(蓝灰为主)，低饱和，高对比画面风格:超写实摄影，电影质感，武侠氛围",
       "negative_prompt": "卡通，动漫，3D,CG,插画，低清，模糊，噪点， 过度磨皮，塑料感，失真，畸形手指，多余手指， 脸部扭曲，五官变形，眼睛变形，色彩过艳和饱和， 过曝，穿模，水印，文字，logo,边框，二维码， 拼接图，重复人物，背景杂乱，光线混乱，色彩脏， HDR过度，锐化过度，AI痕迹，假发感，皮肤像蜡",
       "model": "z-image-turbo",
@@ -104,7 +103,7 @@
     {
       "id": "pv-1792307404241",
       "title": "Chinese Girl",
-      "image_url": "images/pv-1792307404241.webp",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792307404241.webp",
       "prompt": "摄影风格：冷白清透CCD生活照风 \n写真方向：都市艺术生活写真 \n场景方向：美术馆外大台阶 / 极简白色石材 / 户外雕塑区 \n服装方向：黑灰色修身削肩背心 + 燕麦色高腰针织包臀短裙 \n气质标签：清冷、知性、克制、高级、轻微纯欲 \n五官方向：真实清冷淡颜，干净高级，不网红 \n五官细节：偏窄鹅蛋脸，面部轮廓利落但不锐利，面中轻微饱满；细长清亮杏眼，眼神安静克制；鼻梁流畅挺直；唇形自然克制，低饱和裸粉色；整体有高级耐看感，不幼态，不甜妹化 \n发型方向：黑色长发自然披散或低扎，发丝顺滑，脸侧少量碎发，整体利落 \n身形方向：轻盈纤细，上围饱满自然 \n线条强调：强 镜头方向：大腿及上半身 \n姿态动作：站在台阶边缘，身体轻微侧向镜头，双手自然放在身前 \n光线氛围：冷白日光主导 + 石材反射光 + 极弱柔闪 \n滤镜效果：冷白高光 + 低饱和蓝灰CCD色彩 + 轻颗粒 + 轻数码噪点 \n画幅比例：9:16 \n补充要求：削肩背心自然突出肩颈、锁骨、胸线，针织短裙强调腰臀衔接与修长比例，人物要清冷耐看，有都市艺术气质",
       "negative_prompt": "",
       "model": "z-image-turbo",
@@ -145,5 +144,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T07:54:08.208Z"
+  "updated_at": "2026-10-18T08:02:27.480Z"
 }
