@@ -26,22 +26,6 @@
   ],
   "items": [
     {
-      "id": "pv-1792332590051-3101",
-      "title": "Cute GIrl 01",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792332590051-3101.webp",
-      "prompt": "Subjek Utama:Potret close-up seorang wanita muda Asia berwajah oval dengan fitur wajah yang halus dan tatapan mata yang tenang mengarah ke samping kanan kamera.Ekspresi dan Riasan:Ekspresi wajah natural dan santai.Alis tertata rapi, eyeliner tipis, dan sedikit maskara.Pipi dengan sentuhan blush-on tipis berwarna peach/merah muda.Bibir dengan lipstik berwarna nude pink dengan finish satin.Gaya Rambut:Rambut berwarna cokelat tua yang ditata dalam gaya cepol acak (messy updo) di bagian atas kepala. Helaian-helaian rambut halus (anak rambut) dibiarkan terurai secara natural di sekitar wajah dan telinga untuk memberikan kesan kasual dan romantis.Pakaian:Mengenakan sweater rajut (cable-knit) tebal berwarna krem atau putih tulang (off-white) dengan kerah kura-kura (turtleneck). Tekstur rajutan terlihat jelas dan detail.Pencahayaan:Pencahayaan lembut (soft lighting) yang datang dari arah depan samping, memberikan efek highlight yang halus pada tulang pipi dan hidung, serta menciptakan suasana yang hangat (cozy).Latar Belakang (Background):Latar belakang buram sempurna (heavy bokeh) yang menunjukkan suasana interior sebuah kafe di malam hari.Terdapat kilauan lampu-lampu warm white dan kuning keemasan yang membentuk lingkaran-lingkaran bokeh yang estetik.Siluet kursi kayu dan kaca jendela kafe terlihat samar di kejauhan.Komposisi dan Gaya Fotografi:Frame: Potret medium close-up (dari dada ke atas).Sudut Pandang: Sejajar mata (eye-level).Fokus: Fokus tajam pada wajah subjek, sementara latar belakang out-of-focus.Gaya: Fotografi potret candid-style yang natural dengan depth of field yang sangat dangkal (shallow depth of field). Palet warna hangat dan sinematik.",
-      "negative_prompt": "",
-      "model": "z-image-turbo",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-18T14:17:26.864Z"
-    },
-    {
       "id": "pv-1792312987543-330",
       "title": "Japanese Girl",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792312987543-330.webp",
@@ -238,5 +222,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T14:20:19.443Z"
+  "updated_at": "2026-10-18T14:20:23.940Z"
 }
