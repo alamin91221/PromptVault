@@ -90,7 +90,7 @@
       "prompt": "A young man crouches on a gravel driveway in front of an orange sports car with the sun flaring behind it.\n\nSubject: A young man with dark hair and a short beard wearing dark sunglasses.\n\nClothing: He wears a bright orange bomber jacket covered in black graffiti-style text, a black t-shirt underneath, loose black cargo pants, and chunky orange and black sneakers.\n\nAction: The subject is crouching low to the ground, looking directly at the camera with a neutral expression, his hands resting near his knees.\n\nEnvironment: The setting is a residential driveway paved with small grey stones, with a large red brick house featuring chimneys in the background and green trees visible behind the car.\n\nCamera: Shot from a slightly low angle to emphasize the subject's pose, utilizing a wide-angle lens that captures the full width of the car and the surrounding environment.\n\nLighting: Strong backlighting from the sun creates a bright starburst flare over the car's windshield, casting long shadows on the gravel and highlighting the texture of the jacket.\n\nStyle Details: The image has a high-contrast, slightly grainy aesthetic typical of film photography with vibrant orange tones dominating the color palette.",
       "negative_prompt": "",
       "model": "z-image-turbo",
-      "category": "Cyberpunk",
+      "category": "Portrait",
       "tags": [
         "man",
         "boy",
@@ -218,5 +218,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T08:45:08.845Z"
+  "updated_at": "2026-10-18T09:05:20.326Z"
 }
