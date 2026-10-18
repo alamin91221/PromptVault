@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">PromptVault</string>
+    <string name="app_tagline">এআই আর্ট এবং প্রম্পট</string>
+    <string name="tagline_discover">এআই আর্ট আবিষ্কার করুন</string>
+    <string name="tagline_explore">প্রম্পট অন্বেষণ করুন</string>
+    <string name="tagline_inspire">অনুপ্রেরণা পান</string>
+    <string name="get_started">শুরু করুন</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">হোম</string>
+    <string name="nav_explore">এক্সপ্লোর</string>
+    <string name="nav_categories">ক্যাটাগরি</string>
+    <string name="nav_favorites">পছন্দসমূহ</string>
+    <string name="nav_history">ইতিহাস</string>
+    <string name="nav_settings">সেটিংস</string>
+
+    <!-- Home Screen -->
+    <string name="category_all">সব</string>
+    <string name="badge_new">নতুন</string>
+    <string name="badge_premium">প্রিমিয়াম</string>
+    <string name="unlocked_time_left">আনলক করা আছে • %s বাকি</string>
+    <string name="ad_badge">বিজ্ঞাপন</string>
+    <string name="native_ad_title">সীমা ছাড়া তৈরি করুন</string>
+    <string name="native_ad_subtitle">Gemini 2.5 ট্রাই করুন</string>
+    <string name="empty_home_title">কোনো প্রম্পট পাওয়া যায়নি</string>
+    <string name="empty_home_desc">অন্য কিছু দিয়ে অনুসন্ধান করুন অথবা রিফ্রেশ করতে নিচে টানুন।</string>
+
+    <!-- Detail Screen -->
+    <string name="view_prompt">প্রম্পট দেখুন</string>
+    <string name="unlock_prompt">প্রম্পট আনলক করুন</string>
+    <string name="more_like_this">এই রকম আরও</string>
+    <string name="saved_to_favorites">পছন্দের তালিকায় যোগ করা হয়েছে</string>
+    <string name="removed_from_favorites">পছন্দের তালিকা থেকে সরানো হয়েছে</string>
+    <string name="share_image">ছবি শেয়ার করুন</string>
+    <string name="save_image">ছবি সেভ করুন</string>
+
+    <!-- Prompt Popup -->
+    <string name="prompt_title">প্রম্পট</string>
+    <string name="negative_prompt_title">নেগেটিভ প্রম্পট</string>
+    <string name="model_title">মডেল</string>
+    <string name="btn_copy">কপি</string>
+    <string name="btn_copied">কপি হয়েছে!</string>
+    <string name="btn_close">বন্ধ করুন</string>
+    <string name="prompt_copied_toast">প্রম্পট ক্লিপবোর্ডে কপি করা হয়েছে!</string>
+    <string name="negative_prompt_copied_toast">নেগেটিভ প্রম্পট কপি হয়েছে!</string>
+    <string name="model_copied_toast">মডেলের নাম কপি হয়েছে!</string>
+    <string name="share_prompt">প্রম্পট শেয়ার করুন</string>
+
+    <!-- Premium Modal -->
+    <string name="premium_prompt_title">প্রিমিয়াম প্রম্পট</string>
+    <string name="premium_prompt_desc">এই প্রম্পটটি %1$d ঘণ্টার জন্য আনলক করতে একটি ছোট রিওয়ার্ডেড বিজ্ঞাপন দেখুন।</string>
+    <string name="premium_benefit_duration">%1$d ঘণ্টার জন্য আনলক</string>
+    <string name="premium_benefit_no_limits">আনলক সময়ে কোনো সীমাবদ্ধতা নেই</string>
+    <string name="premium_benefit_support">অ্যাপটি সমর্থন করুন</string>
+    <string name="premium_benefit_more">আরও অসাধারণ প্রম্পট সংগ্রহ</string>
+    <string name="btn_watch_ad">বিজ্ঞাপন দেখে আনলক করুন</string>
+    <string name="btn_not_now">এখন নয়</string>
+    <string name="ad_loading">বিজ্ঞাপন লোড হচ্ছে...</string>
+    <string name="ad_failed">বিজ্ঞাপন লোড হতে ব্যর্থ হয়েছে। আবার চেষ্টা করুন।</string>
+    <string name="ad_reward_success">প্রম্পটটি সফলভাবে %1$d ঘণ্টার জন্য আনলক করা হয়েছে!</string>
+
+    <!-- Categories Screen -->
+    <string name="categories_title">ক্যাটাগরিসমূহ</string>
+    <string name="items_count">%1$d টি প্রম্পট</string>
+
+    <!-- Search Screen -->
+    <string name="search_hint">প্রম্পট, ট্যাগ, মডেল অনুসন্ধান করুন...</string>
+    <string name="clear_search">মুছুন</string>
+    <string name="search_no_results">"%s" এর জন্য কোনো ফলাফল পাওয়া যায়নি</string>
+
+    <!-- Favorites Screen -->
+    <string name="favorites_title">পছন্দের তালিকা</string>
+    <string name="no_favorites_title">এখনো কোনো পছন্দ যোগ করা হয়নি</string>
+    <string name="no_favorites_desc">যেকোনো কার্ডে হার্ট আইকন ট্যাপ করে এখানে সেভ করুন।</string>
+
+    <!-- Settings Screen -->
+    <string name="appearance">চেহারা (থিম)</string>
+    <string name="theme_system">সিস্টেম ডিফল্ট</string>
+    <string name="theme_dark">ডার্ক মোড</string>
+    <string name="theme_light">লাইট মোড</string>
+    <string name="language">ভাষা (Language)</string>
+    <string name="lang_english">English (ইংরেজি)</string>
+    <string name="lang_bangla">বাংলা</string>
+    <string name="notifications">বিজ্ঞপ্তি</string>
+    <string name="auto_refresh">স্বয়ংক্রিয় রিফ্রেশ</string>
+    <string name="download_wifi_only">শুধুমাত্র Wi-Fi এ ডাউনলোড</string>
+    <string name="clear_cache">ক্যাশ খালি করুন</string>
+    <string name="cache_cleared">ক্যাশ সফলভাবে সাফ করা হয়েছে</string>
+    <string name="manage_ad_consent">বিজ্ঞাপন সম্মতি ব্যবস্থাপনা</string>
+    <string name="about_version">সম্পর্কে (v%1$s)</string>
+    <string name="rate_app">রেটিং দিন</string>
+    <string name="share_app">অ্যাপ শেয়ার করুন</string>
+    <string name="privacy_policy">গোপনীয়তা নীতি</string>
+
+    <!-- Loading & Offline Screens -->
+    <string name="loading_content_title">কনটেন্ট লোড হচ্ছে...</string>
+    <string name="loading_content_desc">GitHub থেকে সর্বশেষ প্রম্পট এবং বিজ্ঞাপন সেটিংস আনা হচ্ছে</string>
+    <string name="check_step_connection">কানেকশন পরীক্ষা করা হচ্ছে</string>
+    <string name="check_step_prompts">prompts.json আনা হচ্ছে</string>
+    <string name="check_step_config">ads_config.json আনা হচ্ছে</string>
+    <string name="check_step_cache">লোকাল ক্যাশ আপডেট করা হচ্ছে</string>
+
+    <string name="offline_title">আপনি অফলাইনে আছেন</string>
+    <string name="offline_desc">ক্যাশ করা কনটেন্ট দেখানো হচ্ছে। কিছু সুবিধা সীমিত হতে পারে।</string>
+    <string name="btn_try_again">আবার চেষ্টা করুন</string>
+    <string name="btn_view_cached">ক্যাশ কনটেন্ট দেখুন</string>
+
+    <!-- Maintenance & Update -->
+    <string name="maintenance_title">রক্ষণাবেক্ষণ চলছে</string>
+    <string name="force_update_title">আপডেট প্রয়োজন</string>
+    <string name="force_update_desc">PromptVault এর একটি নতুন সংস্করণ উপলব্ধ। নতুন প্রম্পট উপভোগ করতে আপডেট করুন।</string>
+    <string name="btn_update_now">এখনই আপডেট করুন</string>
+</resources>

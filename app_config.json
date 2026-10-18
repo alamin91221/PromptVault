@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "app": {
+    "maintenance_mode": false,
+    "maintenance_message": "PromptVault is undergoing scheduled maintenance. Please check back shortly!",
+    "min_version_code": 1,
+    "update_url": "https://play.google.com/store/apps/details?id=com.nilasharafi.promptvault",
+    "force_update": false
+  },
+  "ads": {
+    "master_enabled": true,
+    "use_test_ads": true,
+    "banner": {
+      "enabled": true,
+      "unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "screens": ["home", "detail"],
+      "position": "bottom"
+    },
+    "interstitial": {
+      "enabled": true,
+      "unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "show_every_n_prompt_views": 3,
+      "min_interval_seconds": 60,
+      "max_per_session": 8,
+      "skip_for_first_n_actions": 2
+    },
+    "native": {
+      "enabled": true,
+      "unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "start_after_items": 4,
+      "every_n_items": 7
+    },
+    "rewarded": {
+      "enabled": true,
+      "unit_id": "ca-app-pub-3940256099942544/5224354917"
+    }
+  },
+  "premium": {
+    "unlock_duration_hours": 48,
+    "unlock_scope": "single",
+    "ads_required_per_unlock": 1
+  }
+}

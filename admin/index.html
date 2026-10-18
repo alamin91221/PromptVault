@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PromptVault — Admin Panel</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="dark-mode">
+
+  <!-- Top App Navigation -->
+  <header class="app-header">
+    <div class="header-left">
+      <div class="brand-logo" title="PromptVault Studio">
+        <svg viewBox="0 0 108 108" width="32" height="32">
+          <rect width="108" height="108" rx="24" fill="url(#pGradBg)"/>
+          <path d="M38,28 L58,28 C70,28 76,35 76,46 C76,57 70,64 58,64 L48,64 L48,80 L38,80 Z M48,38 L48,54 L57,54 C63,54 66,51 66,46 C66,41 63,38 57,38 Z" fill="url(#pGradFg)"/>
+          <defs>
+            <linearGradient id="pGradBg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#2D124D"/><stop offset="100%" stop-color="#140A28"/></linearGradient>
+            <linearGradient id="pGradFg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#7C4DFF"/><stop offset="100%" stop-color="#E040FB"/></linearGradient>
+          </defs>
+        </svg>
+      </div>
+      <div>
+        <div class="brand-row">
+          <h1 class="brand-title">PromptVault</h1>
+          <span class="version-badge">v1.0</span>
+        </div>
+        <span class="brand-subtitle" id="subTitleMode">Prompt Gallery & Remote Control</span>
+      </div>
+    </div>
+
+    <div class="header-right">
+      <nav class="nav-tabs" aria-label="Main Navigation">
+        <button id="tabDashboard" class="tab-btn active" type="button">📊 Dashboard</button>
+        <button id="tabPosts" class="tab-btn" type="button">🖼️ Prompts (<span id="tabPostsCount">0</span>)</button>
+        <button id="tabConfig" class="tab-btn" type="button">⚙️ Ads & App Config</button>
+      </nav>
+
+      <div class="connection-pill" id="connectionStatus" title="System Connection Status">
+        <span class="status-dot disconnected" id="statusDot"></span>
+        <span id="connectionLabel">Connecting...</span>
+      </div>
+
+      <button id="themeToggleBtn" class="icon-btn" type="button" title="Toggle Theme (Dark / Light)">🌓</button>
+      <button id="settingsBtn" class="icon-btn" type="button" title="GitHub & Storage Settings">🔑</button>
+    </div>
+  </header>
+
+  <!-- Offline / Fallback Helper Notice (Shown only if on file:// without local server) -->
+  <div id="offlineBanner" class="offline-banner" style="display: none;">
+    <div class="offline-content">
+      <span class="offline-icon">💡</span>
+      <div class="offline-text">
+        <strong>Standalone Offline Mode:</strong> Changes are saved to browser storage. For 1-click automatic disk sync with your project files (<code>prompts.json</code> & <code>images/</code>), double-click <strong>run_admin.bat</strong>!
+      </div>
+    </div>
+    <div class="offline-actions">
+      <button id="btnBannerImportPrompts" class="btn btn-sm btn-outline" type="button">📂 Import prompts.json</button>
+      <button id="btnBannerExportPrompts" class="btn btn-sm btn-outline" type="button">💾 Export prompts.json</button>
+      <button id="btnDismissBanner" class="close-banner-btn" type="button" title="Dismiss">&times;</button>
+    </div>
+  </div>
+
+  <!-- Hidden File Input for JSON Importing -->
+  <input type="file" id="jsonFileInput" accept=".json,application/json" style="display: none;">
+
+  <!-- Main Container -->
+  <main class="main-content">
+
+    <!-- VIEW: DASHBOARD -->
+    <section id="viewDashboard" class="view-section active">
+      <div class="section-header">
+        <div>
+          <h2>Overview & Analytics</h2>
+          <p class="section-desc">Real-time statistics of your prompt gallery and AdMob configuration</p>
+        </div>
+        <div class="action-buttons">
+          <button id="btnNewPostFromDash" class="btn btn-primary" type="button">+ Add New Prompt</button>
+          <button id="btnRefreshData" class="btn btn-secondary" type="button">🔄 Reload / Sync</button>
+        </div>
+      </div>
+
+      <!-- Stats Grid -->
+      <div class="stats-grid">
+        <div class="stat-card">
+          <div class="stat-icon purple">🖼️</div>
+          <div>
+            <div class="stat-value" id="statTotalPosts">0</div>
+            <div class="stat-label">Total Prompts</div>
+          </div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon gold">👑</div>
+          <div>
+            <div class="stat-value" id="statPremiumPosts">0</div>
+            <div class="stat-label">Premium (Ad Locked)</div>
+          </div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon cyan">✨</div>
+          <div>
+            <div class="stat-value" id="statFreePosts">0</div>
+            <div class="stat-label">Free Prompts</div>
+          </div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon green">📁</div>
+          <div>
+            <div class="stat-value" id="statCategoriesCount">0</div>
+            <div class="stat-label">Categories</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Dashboard Row -->
+      <div class="dashboard-row">
+        <!-- Category Breakdown -->
+        <div class="card category-breakdown-card">
+          <div class="card-header-flex">
+            <h3>Categories Breakdown</h3>
+            <button id="btnManageCategories" class="btn btn-sm btn-outline" type="button">+ Manage</button>
+          </div>
+          <div id="categoryBreakdownList" class="category-breakdown-list">
+            <div class="skeleton-line"></div>
+          </div>
+        </div>
+
+        <!-- Repository & Storage Info -->
+        <div class="card quick-info-card">
+          <h3>Storage & Environment</h3>
+          <div class="info-item">
+            <span class="info-label">Active Mode:</span>
+            <span class="info-val highlight-val" id="infoMode">Detecting...</span>
+          </div>
+          <div class="info-item">
+            <span class="info-label">Location / Repo:</span>
+            <span class="info-val" id="infoRepoName">Local Project</span>
+          </div>
+          <div class="info-item">
+            <span class="info-label">Branch:</span>
+            <span class="info-val" id="infoBranch">main</span>
+          </div>
+          <div class="info-item">
+            <span class="info-label">Last Saved:</span>
+            <span class="info-val" id="infoLastUpdated">Never</span>
+          </div>
+          <div class="info-item">
+            <span class="info-label">AdMob Master:</span>
+            <span class="info-val" id="infoAdsStatus">Enabled</span>
+          </div>
+
+          <div class="backup-actions">
+            <div class="backup-btn-grid">
+              <button id="btnDownloadPromptsBackup" class="btn btn-sm btn-outline" type="button">📥 Download prompts.json</button>
+              <button id="btnDownloadConfigBackup" class="btn btn-sm btn-outline" type="button">📥 Download app_config.json</button>
+            </div>
+            <div class="backup-btn-grid">
+              <button id="btnUploadPromptsDirect" class="btn btn-sm btn-secondary" type="button">📂 Import prompts.json</button>
+              <button id="btnUploadConfigDirect" class="btn btn-sm btn-secondary" type="button">📂 Import app_config.json</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- VIEW: POSTS -->
+    <section id="viewPosts" class="view-section">
+      <div class="section-header">
+        <div>
+          <h2>Prompts Management</h2>
+          <p class="section-desc">Create, search, edit, toggle premium status and remove prompts</p>
+        </div>
+        <div class="action-buttons">
+          <button id="btnAddNewPost" class="btn btn-primary" type="button">+ Add New Prompt</button>
+        </div>
+      </div>
+
+      <!-- Filters & Search Toolbar -->
+      <div class="posts-toolbar">
+        <div class="search-box">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="postSearchInput" placeholder="Search prompts by title, prompt text, AI model, tags...">
+          <button id="btnClearSearch" class="btn-clear-search" type="button" title="Clear search" style="display: none;">&times;</button>
+        </div>
+
+        <div class="filter-controls">
+          <select id="filterCategorySelect" class="form-select" aria-label="Filter Category">
+            <option value="All">All Categories</option>
+          </select>
+
+          <select id="filterPremiumSelect" class="form-select" aria-label="Filter Type">
+            <option value="All">All Types</option>
+            <option value="premium">👑 Premium Only</option>
+            <option value="free">✨ Free Only</option>
+          </select>
+
+          <select id="sortSelect" class="form-select" aria-label="Sort Order">
+            <option value="newest">Newest First</option>
+            <option value="oldest">Oldest First</option>
+            <option value="title">Title (A-Z)</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Posts Grid -->
+      <div id="postsListContainer" class="posts-grid">
+        <!-- Rendered dynamically -->
+      </div>
+    </section>
+
+    <!-- VIEW: CONFIG -->
+    <section id="viewConfig" class="view-section">
+      <div class="section-header">
+        <div>
+          <h2>Ads & App Remote Configuration</h2>
+          <p class="section-desc">Manage AdMob ad units, frequency rules and app maintenance flags in real-time</p>
+        </div>
+        <div class="action-buttons">
+          <button id="btnSaveConfig" class="btn btn-primary" type="button">💾 Save Configuration</button>
+        </div>
+      </div>
+
+      <div class="config-tabs-nav">
+        <button id="tabFriendlyConfig" class="subtab-btn active" type="button">Visual Form Editor</button>
+        <button id="tabRawConfig" class="subtab-btn" type="button">Raw JSON Editor</button>
+      </div>
+
+      <!-- Friendly Form -->
+      <div id="friendlyConfigContainer" class="config-container active">
+        <form id="configForm" class="config-form" onsubmit="event.preventDefault();">
+          
+          <!-- App Info Section -->
+          <div class="card config-card">
+            <h3>App Control & Maintenance</h3>
+            <div class="form-grid">
+              <div class="form-group">
+                <label class="switch-label">
+                  <input type="checkbox" id="cfgMaintenanceMode">
+                  <span class="slider"></span>
+                  <strong>Maintenance Mode</strong>
+                </label>
+                <small>When enabled, users will see the maintenance screen</small>
+              </div>
+
+              <div class="form-group">
+                <label class="switch-label">
+                  <input type="checkbox" id="cfgForceUpdate">
+                  <span class="slider"></span>
+                  <strong>Force Update</strong>
+                </label>
+                <small>Block older app versions and prompt for update</small>
+              </div>
+
+              <div class="form-group full-width">
+                <label for="cfgMaintenanceMsg">Maintenance Message</label>
+                <input type="text" id="cfgMaintenanceMsg" class="form-input" placeholder="PromptVault is currently undergoing maintenance...">
+              </div>
+
+              <div class="form-group">
+                <label for="cfgMinVersionCode">Minimum Version Code</label>
+                <input type="number" id="cfgMinVersionCode" class="form-input" value="1" min="1">
+              </div>
+
+              <div class="form-group">
+                <label for="cfgUpdateUrl">Update Play Store URL</label>
+                <input type="text" id="cfgUpdateUrl" class="form-input" placeholder="https://play.google.com/store/apps/details?id=com.nilasharafi.promptvault">
+              </div>
+            </div>
+          </div>
+
+          <!-- AdMob Master & Premium Section -->
+          <div class="card config-card">
+            <h3>AdMob Master & Premium Rules</h3>
+            <div class="form-grid">
+              <div class="form-group">
+                <label class="switch-label">
+                  <input type="checkbox" id="cfgMasterAds">
+                  <span class="slider"></span>
+                  <strong>Master Ads Enabled</strong>
+                </label>
+                <small>Global kill-switch for all advertisements</small>
+              </div>
+
+              <div class="form-group">
+                <label class="switch-label">
+                  <input type="checkbox" id="cfgUseTestAds">
+                  <span class="slider"></span>
+                  <strong>Use Google Test Ads</strong>
+                </label>
+                <small>Safe mode to avoid AdMob policy violations during development</small>
+              </div>
+
+              <div class="form-group">
+                <label for="cfgUnlockDuration">Unlock Duration (Hours)</label>
+                <input type="number" id="cfgUnlockDuration" class="form-input" value="48" min="1">
+              </div>
+
+              <div class="form-group">
+                <label for="cfgUnlockScope">Unlock Scope</label>
+                <select id="cfgUnlockScope" class="form-select">
+                  <option value="single">Single Prompt Only</option>
+                  <option value="all">All Premium Prompts</option>
+                </select>
+              </div>
+
+              <div class="form-group">
+                <label for="cfgAdsRequiredPerUnlock">Rewarded Ads Required</label>
+                <input type="number" id="cfgAdsRequiredPerUnlock" class="form-input" value="1" min="1" max="5">
+              </div>
+            </div>
+          </div>
+
+          <!-- Banner Ads -->
+          <div class="card config-card">
+            <h3>Banner Ads</h3>
+            <div class="form-grid">
+              <div class="form-group">
+                <label class="switch-label">
+                  <input type="checkbox" id="cfgBannerEnabled">
+                  <span class="slider"></span>
+                  <strong>Banner Enabled</strong>
+                </label>
+              </div>
+
+              <div class="form-group">
+                <label for="cfgBannerPosition">Position</label>
+                <select id="cfgBannerPosition" class="form-select">
+                  <option value="bottom">Bottom of Screen</option>
+                  <option value="top">Top of Screen</option>
+                </select>
+              </div>
+
+              <div class="form-group full-width">
+                <label for="cfgBannerUnitId">Banner Ad Unit ID</label>
+                <input type="text" id="cfgBannerUnitId" class="form-input" placeholder="ca-app-pub-3940256099942544/6300978111">
+              </div>
+            </div>
+          </div>
+
+          <!-- Interstitial Ads -->
+          <div class="card config-card">
+            <h3>Interstitial Ads Frequency</h3>
+            <div class="form-grid">
+              <div class="form-group">
+                <label class="switch-label">
+                  <input type="checkbox" id="cfgInterstitialEnabled">
+                  <span class="slider"></span>
+                  <strong>Interstitial Enabled</strong>
+                </label>
+              </div>
+              <div class="form-group">
+                <label for="cfgIntEveryN">Show Every N Prompt Views</label>
+                <input type="number" id="cfgIntEveryN" class="form-input" value="3" min="1">
+              </div>
+              <div class="form-group">
+                <label for="cfgIntMinSec">Minimum Interval (Seconds)</label>
+                <input type="number" id="cfgIntMinSec" class="form-input" value="60" min="0">
+              </div>
+              <div class="form-group">
+                <label for="cfgIntMaxSession">Max Per Session</label>
+                <input type="number" id="cfgIntMaxSession" class="form-input" value="8" min="1">
+              </div>
+              <div class="form-group">
+                <label for="cfgIntSkipFirst">Skip First N Actions</label>
+                <input type="number" id="cfgIntSkipFirst" class="form-input" value="2" min="0">
+              </div>
+              <div class="form-group full-width">
+                <label for="cfgIntUnitId">Interstitial Ad Unit ID</label>
+                <input type="text" id="cfgIntUnitId" class="form-input" placeholder="ca-app-pub-3940256099942544/1033173712">
+              </div>
+            </div>
+          </div>
+
+          <!-- Rewarded & Native Ads -->
+          <div class="card config-card">
+            <h3>Rewarded & Native Ads</h3>
+            <div class="form-grid">
+              <div class="form-group">
+                <label class="switch-label">
+                  <input type="checkbox" id="cfgRewardedEnabled">
+                  <span class="slider"></span>
+                  <strong>Rewarded Ad Enabled</strong>
+                </label>
+                <small>Used for unlocking premium prompts</small>
+              </div>
+
+              <div class="form-group">
+                <label class="switch-label">
+                  <input type="checkbox" id="cfgNativeEnabled">
+                  <span class="slider"></span>
+                  <strong>Native Ad in Feed Enabled</strong>
+                </label>
+                <small>Blends native ads directly into feed cards</small>
+              </div>
+
+              <div class="form-group">
+                <label for="cfgNativeStartAfter">Native: Start After Items</label>
+                <input type="number" id="cfgNativeStartAfter" class="form-input" value="4" min="1">
+              </div>
+
+              <div class="form-group">
+                <label for="cfgNativeEveryN">Native: Every N Items</label>
+                <input type="number" id="cfgNativeEveryN" class="form-input" value="7" min="1">
+              </div>
+
+              <div class="form-group full-width">
+                <label for="cfgRewardedUnitId">Rewarded Ad Unit ID</label>
+                <input type="text" id="cfgRewardedUnitId" class="form-input" placeholder="ca-app-pub-3940256099942544/5224354917">
+              </div>
+
+              <div class="form-group full-width">
+                <label for="cfgNativeUnitId">Native Ad Unit ID</label>
+                <input type="text" id="cfgNativeUnitId" class="form-input" placeholder="ca-app-pub-3940256099942544/2247696110">
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+
+      <!-- Raw JSON Container -->
+      <div id="rawConfigContainer" class="config-container">
+        <div class="raw-editor-toolbar">
+          <span>Editing <code>app_config.json</code> directly:</span>
+          <button id="btnFormatRawConfig" class="btn btn-sm btn-outline" type="button">✨ Format JSON</button>
+        </div>
+        <textarea id="rawConfigEditor" class="code-editor" spellcheck="false"></textarea>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- MODAL: ADD / EDIT POST -->
+  <div id="postModal" class="modal-backdrop">
+    <div class="modal-dialog modal-large">
+      <div class="modal-header">
+        <h3 id="modalPostTitle">Add New Prompt</h3>
+        <button id="btnClosePostModal" class="close-btn" type="button">&times;</button>
+      </div>
+      <form id="postForm" class="modal-body">
+        <input type="hidden" id="editPostId">
+
+        <div class="form-group">
+          <label for="postTitleInput">Title *</label>
+          <input type="text" id="postTitleInput" class="form-input" required placeholder="e.g. Neon Samurai 2099">
+        </div>
+
+        <!-- Image Upload Section -->
+        <div class="form-group">
+          <label>Image Source *</label>
+          <div class="image-upload-tabs">
+            <button type="button" id="tabUploadFile" class="img-tab active">Upload & Convert to WebP</button>
+            <button type="button" id="tabImageUrl" class="img-tab">Paste URL</button>
+          </div>
+
+          <div id="uploadFileArea" class="upload-dropzone">
+            <input type="file" id="imageFileInput" accept="image/*" style="display: none;">
+            <div id="dropzoneContent">
+              <span class="dropzone-icon">📁</span>
+              <p><strong>Click or drag & drop image here</strong></p>
+              <small>Auto-converts to optimized WebP (~1600px, 85% quality) and saves directly to <code>images/</code></small>
+            </div>
+            <div id="imagePreviewContainer" class="image-preview-box" style="display: none;">
+              <img id="imagePreviewImg" src="" alt="Preview">
+              <div class="image-preview-meta">
+                <span id="imageSizeLabel">0 KB</span>
+                <button type="button" id="btnRemoveImage" class="btn btn-sm btn-danger">Change Image</button>
+              </div>
+            </div>
+          </div>
+
+          <div id="imageUrlArea" style="display: none;">
+            <input type="text" id="postImageUrlInput" class="form-input" placeholder="https://images.unsplash.com/... or images/pv-001.webp">
+            <div id="urlPreviewContainer" class="image-preview-box" style="display: none; margin-top: 10px;">
+              <img id="urlPreviewImg" src="" alt="URL Preview">
+              <div class="image-preview-meta">
+                <span>URL Preview</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="postPromptInput">Prompt Text * (Supports বাংলা and English)</label>
+          <textarea id="postPromptInput" class="form-textarea" rows="4" required placeholder="Ultra detailed prompt text... e.g. Cyberpunk samurai warrior standing in rain..."></textarea>
+          <div class="input-char-counter"><span id="promptCharCount">0</span> characters</div>
+        </div>
+
+        <div class="form-group">
+          <label for="postNegativePromptInput">Negative Prompt (Optional)</label>
+          <textarea id="postNegativePromptInput" class="form-textarea" rows="2" placeholder="low quality, blurry, deformed, bad anatomy, text, watermark..."></textarea>
+        </div>
+
+        <div class="form-row-2">
+          <div class="form-group">
+            <label for="postCategorySelect">Category *</label>
+            <div class="category-input-row">
+              <select id="postCategorySelect" class="form-select"></select>
+              <button type="button" id="btnAddNewCategory" class="btn btn-sm btn-outline">+ New</button>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="postModelInput">AI Model</label>
+            <input type="text" id="postModelInput" class="form-input" list="modelSuggestions" placeholder="Midjourney v7, SD 3.5, Flux, DALL-E 3...">
+            <datalist id="modelSuggestions">
+              <option value="Midjourney v7">
+              <option value="Stable Diffusion 3.5">
+              <option value="Flux.1 Dev">
+              <option value="Flux.1 Schnell">
+              <option value="DALL-E 3">
+              <option value="Niji 6">
+            </datalist>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="postTagsInput">Tags (comma separated)</label>
+          <input type="text" id="postTagsInput" class="form-input" placeholder="neon, samurai, cyberpunk, portrait">
+        </div>
+
+        <div class="form-group">
+          <label class="switch-label">
+            <input type="checkbox" id="postPremiumToggle">
+            <span class="slider"></span>
+            <strong>👑 Premium Prompt (Unlocked via Rewarded Ad)</strong>
+          </label>
+        </div>
+
+        <div class="modal-footer">
+          <button type="button" id="btnCancelPost" class="btn btn-secondary">Cancel</button>
+          <button type="submit" id="btnSavePost" class="btn btn-primary">Save Prompt</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- MODAL: GITHUB SETTINGS -->
+  <div id="settingsModal" class="modal-backdrop">
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <h3>GitHub & Storage Settings</h3>
+        <button id="btnCloseSettingsModal" class="close-btn" type="button">&times;</button>
+      </div>
+      <div class="modal-body">
+        <p class="modal-desc">
+          When running locally with <strong>run_admin.bat</strong>, changes save directly to your project files on disk.
+          You can optionally connect your GitHub repository to sync with GitHub Pages or remote branches!
+        </p>
+
+        <form id="settingsForm">
+          <div class="form-group">
+            <label for="ghOwnerInput">GitHub Username / Owner</label>
+            <input type="text" id="ghOwnerInput" class="form-input" value="alamin91221" placeholder="alamin91221">
+          </div>
+
+          <div class="form-group">
+            <label for="ghRepoInput">Repository Name</label>
+            <input type="text" id="ghRepoInput" class="form-input" value="PromptVault" placeholder="PromptVault">
+          </div>
+
+          <div class="form-group">
+            <label for="ghBranchInput">Branch</label>
+            <input type="text" id="ghBranchInput" class="form-input" value="main">
+          </div>
+
+          <div class="form-group">
+            <label for="ghTokenInput">Personal Access Token (PAT)</label>
+            <input type="password" id="ghTokenInput" class="form-input" placeholder="github_pat_... or ghp_...">
+            <small class="form-hint">
+              Requires <strong>Contents: Read and Write</strong> permission on this repository.
+            </small>
+          </div>
+
+          <div class="modal-footer">
+            <button type="button" id="btnDisconnectGh" class="btn btn-danger">Clear Token</button>
+            <button type="submit" id="btnSaveGhSettings" class="btn btn-primary">Save & Connect</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL: CATEGORIES MANAGEMENT -->
+  <div id="categoryModal" class="modal-backdrop">
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <h3>Manage Categories</h3>
+        <button id="btnCloseCategoryModal" class="close-btn" type="button">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div class="add-cat-inline">
+          <input type="text" id="newCatInput" class="form-input" placeholder="New category name (e.g. Sci-Fi, Vintage)...">
+          <button type="button" id="btnCreateCategory" class="btn btn-primary">+ Add</button>
+        </div>
+        <div id="categoryListManage" class="cat-manage-list"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification Container -->
+  <div id="toastContainer" class="toast-container" aria-live="polite"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
