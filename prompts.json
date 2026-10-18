@@ -11,6 +11,37 @@
   ],
   "items": [
     {
+      "id": "pv-1792309981771-7542",
+      "title": "man",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792309981771-7542.webp",
+      "prompt": "A young man crouches on a gravel driveway in front of an orange sports car with the sun flaring behind it.\n\nSubject: A young man with dark hair and a short beard wearing dark sunglasses.\n\nClothing: He wears a bright orange bomber jacket covered in black graffiti-style text, a black t-shirt underneath, loose black cargo pants, and chunky orange and black sneakers.\n\nAction: The subject is crouching low to the ground, looking directly at the camera with a neutral expression, his hands resting near his knees.\n\nEnvironment: The setting is a residential driveway paved with small grey stones, with a large red brick house featuring chimneys in the background and green trees visible behind the car.\n\nCamera: Shot from a slightly low angle to emphasize the subject's pose, utilizing a wide-angle lens that captures the full width of the car and the surrounding environment.\n\nLighting: Strong backlighting from the sun creates a bright starburst flare over the car's windshield, casting long shadows on the gravel and highlighting the texture of the jacket.\n\nStyle Details: The image has a high-contrast, slightly grainy aesthetic typical of film photography with vibrant orange tones dominating the color palette.",
+      "negative_prompt": "",
+      "model": "z-image-turbo",
+      "category": "Portrait",
+      "tags": [
+        "man",
+        "boy"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-18T07:54:08.207Z"
+    },
+    {
+      "id": "pv-1792309981916-3783",
+      "title": "Girl",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792309981916-3783.webp",
+      "prompt": "A close-up selfie of a young woman with blonde-highlighted hair in a messy bun, wearing an Argentina national football team jersey and holding a Starbucks drink to her lips.\n\nSubject: A young woman with fair skin, dark eyes, and blonde highlights in her brown hair styled in a high messy bun. She has defined eyebrows, long eyelashes, and is looking directly at the camera with a playful expression while sipping from a straw.\n\nClothing: She wears a white and light blue vertical striped Argentina football jersey featuring the AFA crest on the left chest and the number 10 in black on the front. The jersey has black trim around the neckline and sleeves, and she wears a gold cross earring and a delicate gold necklace with a small pendant.\n\nAction: She is holding a clear plastic cup containing an iced coffee beverage with a green straw to her mouth, tilting her head slightly back as she takes a sip. Her left hand grips the cup firmly while her right arm extends forward in a selfie pose.\n\nEnvironment: The background shows a large professional football stadium filled with spectators during a match. A green pitch is visible with players on the field, and advertising boards displaying YPF logos line the perimeter of the field.\n\nCamera: Shot as a close-up selfie with a shallow depth of field that blurs the stadium crowd and field in the background to emphasize the subject's face and upper body.\n\nLighting: Bright natural daylight illuminates the scene evenly, highlighting her facial features and creating soft shadows within the jersey folds.\n\nObjects: A clear plastic Starbucks cup filled with an iced coffee drink and a green straw is held in her left hand.\n\nText/Graphics: The Argentina Football Association crest is visible on her chest, the number 10 is printed on the front of her jersey, and a blue wristband with white text reading ARGENTINA is worn on her left wrist.\n\nStyle Details: High-resolution photography with vibrant colors and sharp focus on the subject against a blurred stadium backdrop.",
+      "negative_prompt": "",
+      "model": "z-image-turbo",
+      "category": "Portrait",
+      "tags": [
+        "woman",
+        "girl",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-18T07:54:08.208Z"
+    },
+    {
       "id": "pv-1792308192342",
       "title": "Cute Girl",
       "image_url": "images/pv-1792308192342.webp",
@@ -101,5 +132,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T07:23:12.362Z"
+  "updated_at": "2026-10-18T07:54:08.208Z"
 }
