@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T06:23:32.926Z",
+  "updated_at": "2026-10-19T06:34:06.959Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,231 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1792391040398-5391",
+      "title": "Girl 77",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792391040398-5391.webp",
+      "prompt": "坐姿中景，约24 year-old黑长卷发女子饰红玫瑰，戴红色长耳环和多层项链，穿红花装饰黑露肩薄纱袖长裙。一手抱金色雕花手镜于胸前，另一臂搭木梳妆台，看镜头。身后大镜映出背侧，桌上玻璃瓶、红花和烛台，暖金光。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T06:34:06.947Z"
+    },
+    {
+      "id": "pv-1792391131082-322",
+      "title": "Girl 78",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792391131082-322.webp",
+      "prompt": "近景，约24 year-old女子盘发簪红花，红色眼妆，眼下与唇边有暗红滴状妆饰。一手托脸，微笑看镜头。穿红蕾丝领边黑裙、系带长袖套，戴多层黑珠颈链。红帘与白烛背景虚化，暖光。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T06:34:06.948Z"
+    },
+    {
+      "id": "pv-1792391172056-5385",
+      "title": "Girl 79",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792391172056-5385.webp",
+      "prompt": "面部与胸部特写，约24 year-old黑长卷发女子佩戴黑红花朵发饰与黑发夹，涂红色眼影及口红，嘴唇微张。穿黑红花卉蕾丝露肩上衣，戴红玫瑰蕾丝颈饰、花形戒指及腕饰。一手举至嘴边，尖长指甲有黑红装饰。蓬松发丝向右展开，纯红背景，柔和正面光与发丝高光。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T06:34:06.948Z"
+    },
+    {
+      "id": "pv-1792391216247-6935",
+      "title": "Girl 80",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792391216247-6935.webp",
+      "prompt": "全身奇幻造型人像，一名约22 year-old女子坐在银灰色岩石上，黑色长双马尾带有红色发丝与蝙蝠翼发饰，偏头看向镜头。她穿红黑配色露肩短裙，领口呈蝙蝠形锯齿，颈间有黑色尖领和十字吊饰，脚穿红色亮面过膝厚底高跟靴。一手撑在岩石上，一手竖握黑色三叉戟，一膝抬起。背景左上是巨大满月，周围有深蓝夜空、白色颗粒与岩石，冷色逆光照亮发丝和亮面衣料。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T06:34:06.948Z"
+    },
+    {
+      "id": "pv-1792391254117-332",
+      "title": "Girl 81",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792391254117-332.webp",
+      "prompt": "全身坐姿，约25 year-old棕黑长发女子穿细链吊带黑色开衩长裙，戴长耳坠，赤足侧坐湿地，双腿弯向前方，回头看镜头，一手撑地。黑裙拖尾铺向右侧，周围散落红玫瑰、花瓣和一杯红酒，通道路灯与湿地反射暖黄光。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T06:34:06.955Z"
+    },
+    {
+      "id": "pv-1792391291933-2942",
+      "title": "Girl 82",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792391291933-2942.webp",
+      "prompt": "坐姿照，约25 year-old棕黑长发女子戴流苏耳环，穿细链肩带黑色开衩长裙。交腿坐黄黑混凝土路沿，一手举红酒杯，红玫瑰束横放腿上，侧头看镜头。夜间通道向远处延伸，湿地反射成排暖黄路灯，背景浅景深虚化。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T06:34:06.956Z"
+    },
+    {
+      "id": "pv-1792391333550-3150",
+      "title": "Girl 83",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792391333550-3150.webp",
+      "prompt": "半身近景，约25 year-old女子披散棕黑长发，戴蝴蝶形流苏耳环，穿金属细链肩带黑裙。一手举装暗红液体的高脚杯靠近脸侧，另一臂搭桌沿，直视镜头。前景暗红玫瑰，背景成排圆形灯光虚化，暖金色低照度光线。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T06:34:06.956Z"
+    },
+    {
+      "id": "pv-1792391368528-4559",
+      "title": "Girl 84",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792391368528-4559.webp",
+      "prompt": "A stunning Chinese woman in her early thirties taking a casual selfie in a modern gym, capturing a moment of fitness and elegance.\nShe has a feminine figure with tall, long legs, wearing sleek black athletic leggings, fitted shorts, and a breathable sports top.\nThe lighting is soft and diffused, highlighting her skin texture and the subtle sheen of her athletic wear.\nThe composition focuses on her upper body and face, with a blurred gym background featuring exercise equipment.\nShot on 35mm film, high resolution, natural skin tones, realistic details, photorealistic, 4k.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T06:34:06.956Z"
+    },
+    {
+      "id": "pv-1792391412227-7758",
+      "title": "Girl 85",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792391412227-7758.webp",
+      "prompt": "A vertical gothic portrait photograph shot close and slightly below her eye line, 85mm at f/1.8, framing her from the waist up so her face, the bear and the goblet all sit in the picture with the room falling away behind her.\n\nAn adult woman in her early twenties stands turned three-quarters toward the lens and looks straight into it with one eye, smiling a small, sweet, entirely wrong smile — lips closed at the corners but parted in the middle, a wet gleam on the lower lip, one brow lifted. A single long lock of hair falls diagonally across her face and completely covers her right eye and part of her cheek. The eye that shows is striking and pale — a cold pale gold-green with a dark ring at the iris edge and a small hard catchlight, lashes heavy and matte. The eye that is hidden is covered not by a patch but by a single dark purple rose pressed flat over the socket, held in place by a thin black cord across her face. Her skin is porcelain pale and matte, and her visible cheek carries a faint dusty pink flush; her mouth is small. Her hair is very long, straight and floor-length pale lavender-pink with a slightly silvery cast in the highlights, falling in flat heavy sheets past her shoulders on both sides.\n\nHer head is simply dressed: a wide black lace bonnet or cap sits back on her crown with a frilled standing edge and one large black silk bow on it, and only a small cluster of a few roses is pinned at one side of the bonnet near her temple — three or four blooms at most, in deep purple and magenta with one dusty pink, some black ribbon trailing off them and a tiny heart charm wired into the cluster; the rest of her head is left clean. At her throat is a large black silk bow over a high ruffled collar. She wears a black gothic dress in matte black fabric: a bodice covered in dense vertical rows of ruffles with small mother-of-pearl buttons and black lace inserts, tight elbow-length sleeves in black lace trimmed with black ribbon bows and cuffs, and a gathered skirt below. A purple leather cuff with a buckle sits on the wrist she is using, and the whole outfit carries the same violet-and-magenta note as the rose at her eye.\n\nIn her left arm, held up against her body, is a handmade teddy bear: pale mauve-pink plush gone soft with wear, its head stitched on with a heavy black seam running over the crown and down one cheek, one eye a mismatched purple plastic button sewn on with four black thread holes while the other eye is only a dark stitched cross in thread with no button at all, a heart-shaped patch sewn over its chest with black stitching, another stitched seam across its belly and one arm, loose thread ends, a black ribbon at its neck and small black ribbon bows tied at random on its limbs, and one arm hanging limp. In her other hand, raised to the level of her chin, is a heavy cut-glass goblet filled nearly to the brim with deep red liquid that is much thicker than wine — one drip already running down the outside of the glass and a couple of dark drops fallen onto her fingers and the lace cuff beside it.\n\nBehind her is a rich, deep interior: a tall gothic window with heavy stone mullions in a cross pattern, backed by a blazing flat magenta-pink light so the whole window is a saturated hot panel behind her head, black star-like grit scattered across it; dark carved wooden panelling and a tall cabinet in shadow on the left, a dado rail, a heavy framed portrait and a wall sconce with a candle burning further back in the dark, and a couple of loose roses with black ribbon trailing down the wall. The floorboards catch one long red reflection.\n\nLight is mixed and theatrical: a cold white key from the front left at around 5600K on her face and the bear's stitched cheek, the magenta window throwing a hard pink rim along the right side of her hair and the edge of her shoulder so the pale hair goes hot pink where it crosses it, a warm 2400K candle glow from the sconce behind her on the woodwork, and the red liquid itself picking up a small bright specular through the glass onto her knuckles and chin. Palette is held to black, violet, magenta, dusty rose and the deep red of the goblet. Focus is sharp on her visible eye, the lace at her cuff and the button on the bear, with the window and the panelling falling soft behind her; visible fabric weave and lace texture, real plush fibre and loose thread, glass with heavy refraction and a caustic on her hand, fine skin texture under the matte finish, faint grain in the dark areas, and a sweet, poised, quietly unhinged stillness.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T06:34:06.957Z"
+    },
+    {
+      "id": "pv-1792391448343-2374",
+      "title": "Girl 86",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792391448343-2374.webp",
+      "prompt": "全身棚拍，一名约21 year-old女子坐在黑色高方台上，黑色中分长卷发半束，抬眼看向镜头。她穿黑色细肩带褶皱上衣与层叠薄纱长裙，双腿交叠，一只赤脚垂在空中，另一只脚尖触地；一手搭在膝上，另一手撑住台面。背后展开一对巨大的黑色羽翼，尖长羽毛向两侧上方延伸，黑纱飘带和裙摆铺向右侧地面。背景与地面均为深红色，侧前光呈现羽毛的亮面与纱裙纹理。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T06:34:06.958Z"
+    },
+    {
+      "id": "pv-1792391486622-5584",
+      "title": "Girl 87",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792391486622-5584.webp",
+      "prompt": "坐姿肖像，约22 year-old女子留半扎黑长卷发，穿黑色吊带褶皱纱裙，戴珍珠耳钉及细金手镯。双腿并拢偏向左侧，双手叠放膝上，直视镜头。巨大黑羽翼在背后向两侧展开，纱裙铺于座位，深红背景，柔亮棚拍光。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T06:34:06.958Z"
+    },
+    {
+      "id": "pv-1792391521117-3642",
+      "title": "Girl 88",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792391521117-3642.webp",
+      "prompt": "A beautiful East-asian female social media influencer, tall and feminine figure, captured mid-stream on a live webcam.\nSeductive pose and expression, confident gaze, elegant posture.\nMedium close-up shot, camera angle slightly low to enhance commanding presence.\nSoftly lit with warm ambient lighting, highlighting smooth skin and flowing hair.\nMinimalist studio background with subtle bokeh effects, drawing focus to the subject.\nWearing modern, form-fitting satin attire that accentuates silhouette without revealing intimate details.\nPolished, professional demeanor suitable for streaming content, radiating allure.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T06:34:06.958Z"
+    },
+    {
+      "id": "pv-1792391558161-8801",
+      "title": "Girl 89",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792391558161-8801.webp",
+      "prompt": "坐姿近景，约21 year-old女子梳骷髅蝴蝶结双马尾，一手托脸，另一臂搭膝，直视镜头。穿黑白骨骼吊带裙，戴十字耳环与银链，眼下黑心形妆、上臂条码和膝旁星形图案。剥落灰墙背景，冷色柔光。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T06:34:06.958Z"
+    },
+    {
+      "id": "pv-1792391595802-2466",
+      "title": "Girl 90",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792391595802-2466.webp",
+      "prompt": "中景，约21 year-old女子黑双马尾系骷髅蝴蝶结，穿黑白骨骼印花吊带蓬裙，戴银链和十字耳环，上臂有条码图案。一手捻发梢，一手垂在裙前，直视镜头。身旁锈管与剥落灰墙，厂房背景虚化，柔和冷光。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T06:34:06.959Z"
+    },
+    {
+      "id": "pv-1792391629455-4716",
+      "title": "Girl 91",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792391629455-4716.webp",
+      "prompt": "A stunning East Asian office lady with precise, realistic anatomy and a poised, feminine stance,\nleaning slightly on a  office desk.\nHer straight, medium-length hair is parted to the side, framing a focused face,\nadorned with delicate gold earrings and a subtle silver necklace.\nShe wears a fitted black pencil mini skirt, a crisp white dress shirt with sleeves rolled to the elbows,\npaired with sheer pantyhose and sleek black high heels.\nA mechanical keyboard and a steaming ceramic coffee cup rest on the desk beside her,\ncapturing a moment of quiet professional pause.\nThe scene is illuminated by soft, natural daylight streaming from a large window,\ncreating gentle shadows and emphasizing clean lines and professional elegance.\nRendered in a medium shot that centers her posture and attire,\ngrounded firmly in the modern office environment.\nShot on 50mm f/1.4 lens, Kodak Portra 400 film stock,\nhigh detail, realistic skin texture, subtle film grain.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T06:34:06.959Z"
+    },
     {
       "id": "pv-1792390903859-6593",
       "title": "Girl 76",
