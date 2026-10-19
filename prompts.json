@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T11:37:25.883Z",
+  "updated_at": "2026-10-19T11:37:50.871Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,26 +39,10 @@
   ],
   "items": [
     {
-      "id": "pv-1792409673174-4057",
-      "title": "Girl 00053",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409673174-4057.webp",
-      "prompt": "以年轻成年女性的普通日常为主体，用环境人像而非商业肖像的方式拍摄；人物置于真实生活空间中，通过偏心构图、大量环境留白、前景遮挡与框景建立观察距离，在伸手、回头、整理衣物、坐下、发呆等未完成动作中抓取瞬间；人物很少刻意直视镜头，表情保持克制和若有所思。使用自然窗光、逆光、侧逆光或局部硬质阳光，允许脸部明暗不均、高光溢出与阴影丢失；画面保持胶片式轻微偏色、低至中饱和、柔和反差、细颗粒、泛光、轻微失焦和不完全锐利的光学质感。空间保留普通家具、生活杂物、植物、窗帘等真实生活证据，让整张照片看起来不像一场写真，而像多年以后偶然翻到的一张私人照片。",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl"
-      ],
-      "is_premium": true,
-      "created_at": "2026-10-19T11:37:25.881Z"
-    },
-    {
-      "id": "pv-1792409711983-4396",
-      "title": "Girl 00054",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409711983-4396.webp",
-      "prompt": "Ultra realistic close-up portrait of a beautiful young East Asian woman with the exact facial structure and soft feminine features from the reference image, natural glowing skin, subtle makeup, glossy peach lips, soft dimples, warm gentle smile, relaxed confident expression, medium-length dark brown wavy hair with natural volume and soft flyaways, direct eye contact with camera.\n\nKeep the exact composition, framing, pose, lighting, shadows, and cinematic mood from the original portrait reference. Warm golden hour sunlight hitting half of the face and body, dramatic soft shadows across the chest and background, dark blurred background with rich contrast and shallow depth of field.\n\nOutfit should be elegant minimal aesthetic fashion: cream ribbed knit top, soft beige wool overcoat casually draped over shoulders, delicate gold necklace, luxury clean-girl aesthetic, cozy premium fashion vibe.\n\nPhoto should feel natural and candid, not overposed. Preserve realistic skin texture, natural facial proportions, cinematic highlights, smooth warm color grading, luxury lifestyle photography look, ultra detailed, DSLR quality, 85mm lens, f/1.8 depth of field, high sharpness on eyes and face, soft background bokeh, premium Instagram aesthetic, realistic lighting, photorealistic, 4k.\n\nNegative prompt: cartoon, anime, exaggerated smile, oversaturated skin, plastic skin, distorted face, bad anatomy, low quality, blurry eyes, extra accessories, text, watermark, overediting, harsh HDR, duplicate features, unnatural pose, fake AI look, over sharpened skin.",
+      "id": "pv-1792409843208-9024",
+      "title": "Girl 00057",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409843208-9024.webp",
+      "prompt": "High-end photorealistic 3:2 editorial close-up of a clearly adult Asian woman, fair luminous natural skin, subtle freckles, dark almond-shaped brown eyes, glossy coral-pink lips, warm coral makeup, long jet-black hair pulled back with one curved strand across her forehead and cheek. Colorful beaded earrings and a pastel yellow, mint, coral, blue and ivory crochet garment. One hand gently cradling her cheek. Soft high-key studio lighting, pale gray-white background, realistic skin, hair and textile texture, cinematic color grading, subtle film grain, ultra-HD beauty photography. No text, logos, watermark, CGI, plastic skin, or distorted hands.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -68,23 +52,8 @@
         "cute girl"
       ],
       "is_premium": false,
-      "created_at": "2026-10-19T11:37:25.882Z"
-    },
-    {
-      "id": "pv-1792409752298-369",
-      "title": "Girl 00055",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409752298-369.webp",
-      "prompt": "A hyper-realistic surreal composite scene set on a wooden tabletop. A large oversized smartphone dominates the frame, creating a strong dimensional-break illusion. On the phone screen, the woman from the reference image appears much larger in a close-up winter environment, smiling happily while holding a clear glass with a visible Pepsi logo on it.\n\nA real human hand pours dark Pepsi cola from a cold bottle covered in condensation droplets directly toward the phone screen. The liquid visually breaks through the display and flows into the glass she is holding inside the screen, creating a powerful surreal effect.\n\nA closed book and a black pen sit on the wooden table beside the oversized phone to emphasize scale distortion. Warm natural lighting, soft cinematic shadows, ultra-sharp liquid splash details, hyper-realistic skin texture, realistic reflections on glass and screen, surreal cinematic advertising look, professional commercial photography quality, 8K realism.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl"
-      ],
-      "is_premium": true,
-      "created_at": "2026-10-19T11:37:25.882Z"
+      "created_at": "2026-10-19T11:37:25.857Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792409785449-6927",
@@ -100,13 +69,31 @@
         "cute girl"
       ],
       "is_premium": false,
-      "created_at": "2026-10-19T11:37:25.883Z"
+      "created_at": "2026-10-19T11:37:25.851Z",
+      "is_draft": false
     },
     {
-      "id": "pv-1792409843208-9024",
-      "title": "Girl 00057",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409843208-9024.webp",
-      "prompt": "High-end photorealistic 3:2 editorial close-up of a clearly adult Asian woman, fair luminous natural skin, subtle freckles, dark almond-shaped brown eyes, glossy coral-pink lips, warm coral makeup, long jet-black hair pulled back with one curved strand across her forehead and cheek. Colorful beaded earrings and a pastel yellow, mint, coral, blue and ivory crochet garment. One hand gently cradling her cheek. Soft high-key studio lighting, pale gray-white background, realistic skin, hair and textile texture, cinematic color grading, subtle film grain, ultra-HD beauty photography. No text, logos, watermark, CGI, plastic skin, or distorted hands.",
+      "id": "pv-1792409752298-369",
+      "title": "Girl 00055",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409752298-369.webp",
+      "prompt": "A hyper-realistic surreal composite scene set on a wooden tabletop. A large oversized smartphone dominates the frame, creating a strong dimensional-break illusion. On the phone screen, the woman from the reference image appears much larger in a close-up winter environment, smiling happily while holding a clear glass with a visible Pepsi logo on it.\n\nA real human hand pours dark Pepsi cola from a cold bottle covered in condensation droplets directly toward the phone screen. The liquid visually breaks through the display and flows into the glass she is holding inside the screen, creating a powerful surreal effect.\n\nA closed book and a black pen sit on the wooden table beside the oversized phone to emphasize scale distortion. Warm natural lighting, soft cinematic shadows, ultra-sharp liquid splash details, hyper-realistic skin texture, realistic reflections on glass and screen, surreal cinematic advertising look, professional commercial photography quality, 8K realism.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T11:37:25.849Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792409711983-4396",
+      "title": "Girl 00054",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409711983-4396.webp",
+      "prompt": "Ultra realistic close-up portrait of a beautiful young East Asian woman with the exact facial structure and soft feminine features from the reference image, natural glowing skin, subtle makeup, glossy peach lips, soft dimples, warm gentle smile, relaxed confident expression, medium-length dark brown wavy hair with natural volume and soft flyaways, direct eye contact with camera.\n\nKeep the exact composition, framing, pose, lighting, shadows, and cinematic mood from the original portrait reference. Warm golden hour sunlight hitting half of the face and body, dramatic soft shadows across the chest and background, dark blurred background with rich contrast and shallow depth of field.\n\nOutfit should be elegant minimal aesthetic fashion: cream ribbed knit top, soft beige wool overcoat casually draped over shoulders, delicate gold necklace, luxury clean-girl aesthetic, cozy premium fashion vibe.\n\nPhoto should feel natural and candid, not overposed. Preserve realistic skin texture, natural facial proportions, cinematic highlights, smooth warm color grading, luxury lifestyle photography look, ultra detailed, DSLR quality, 85mm lens, f/1.8 depth of field, high sharpness on eyes and face, soft background bokeh, premium Instagram aesthetic, realistic lighting, photorealistic, 4k.\n\nNegative prompt: cartoon, anime, exaggerated smile, oversaturated skin, plastic skin, distorted face, bad anatomy, low quality, blurry eyes, extra accessories, text, watermark, overediting, harsh HDR, duplicate features, unnatural pose, fake AI look, over sharpened skin.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -116,7 +103,25 @@
         "cute girl"
       ],
       "is_premium": false,
-      "created_at": "2026-10-19T11:37:25.883Z"
+      "created_at": "2026-10-19T11:37:25.847Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792409673174-4057",
+      "title": "Girl 00053",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409673174-4057.webp",
+      "prompt": "以年轻成年女性的普通日常为主体，用环境人像而非商业肖像的方式拍摄；人物置于真实生活空间中，通过偏心构图、大量环境留白、前景遮挡与框景建立观察距离，在伸手、回头、整理衣物、坐下、发呆等未完成动作中抓取瞬间；人物很少刻意直视镜头，表情保持克制和若有所思。使用自然窗光、逆光、侧逆光或局部硬质阳光，允许脸部明暗不均、高光溢出与阴影丢失；画面保持胶片式轻微偏色、低至中饱和、柔和反差、细颗粒、泛光、轻微失焦和不完全锐利的光学质感。空间保留普通家具、生活杂物、植物、窗帘等真实生活证据，让整张照片看起来不像一场写真，而像多年以后偶然翻到的一张私人照片。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T11:37:25.844Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792409586249-598",
