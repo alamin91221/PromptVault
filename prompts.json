@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T05:36:47.570Z",
+  "updated_at": "2026-10-19T05:58:31.553Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,21 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1792389484774-2870",
+      "title": "Anime Girl",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792389484774-2870.webp",
+      "prompt": "3D, masterpiece, best quality, ultra detailed, absurdres, sharp focus, intricate details, cinematic dramatic lighting, strong chiaroscuro,\n\nhalloween maid girl, long white hair, blue eyes, black and orange gothic dress with corset, orange headband with bat, holding three-tier pumpkin cake with number 2 candle, holding jack-o'-lantern, striped thigh-high stockings, warm indoor cafe with hanging lamps and confetti",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "anime",
+        "girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T05:58:31.553Z"
+    },
     {
       "id": "pv-1792388184819-1365",
       "title": "Anime Girl 02",
