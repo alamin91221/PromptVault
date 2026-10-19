@@ -31,6 +31,196 @@
   ],
   "items": [
     {
+      "id": "pv-1792382796282-2790",
+      "title": "Food 5",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792382796282-2790.webp",
+      "prompt": "A close-up of a glossy black ceramic bowl of ramen on a scratched stainless steel counter at a futuristic night-market food stall, a pair of lacquered red chopsticks lifting a tangle of thick, chewy noodles out of the broth so they rise in a dripping arc into a dense cloud of steam. The rich amber broth glistens with floating droplets of chili oil, topped with slices of seared pork belly with charred edges, a halved soft-boiled egg with a jammy orange yolk, a sheet of nori, a swirl of pink fish cake and a scatter of bright green scallions. The steam curls upward and catches the colored light, refracting the glow of holographic signs and LED billboards along a foggy, rain-slicked market street, where blurred magenta, cyan and electric yellow shapes of a floating holographic koi and stacked unreadable neon signs bleed softly into the mist. Behind the bowl, red plastic stools stand scattered around low tables, a vendor’s gloved hands work over a hissing wok in a burst of orange flame, and a few silhouetted customers in hooded rain jackets sit hunched over their bowls, all softly out of focus. Neon from the street washes the left side of the bowl and noodles in cyan and magenta while a warm bare bulb above the stall lights the broth and toppings in gold, with tiny highlights on every oil droplet. Handheld close-up at counter height with shallow depth of field keeping the noodles, toppings and steam sharp while the billboards dissolve into large soft bokeh. Oversaturated night street-food photograph with soft grain, slight halation around the neon and rich food texture.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Food",
+      "tags": [
+        "Food"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T04:06:51.136Z"
+    },
+    {
+      "id": "pv-1792382733268-3710",
+      "title": "Girl 68",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792382733268-3710.webp",
+      "prompt": "A long-haired figure in a dark oversized bomber jacket leans on the iron railing of a city balcony at night, seen from behind, their loose hair lifting in the breeze and one hand holding a half-empty glass bottle that dangles over the edge. They are a soft, blurred silhouette in the foreground against a vivid nocturnal cityscape. Below and beyond, a wide river reflects the warm orange and yellow streetlights in long, rippling streaks, with a small lit tour boat leaving a wake across the water. On the right in the mid-ground stands a grand neoclassical building with a columned facade and a green copper dome, outlined in bright white floodlights. A busy boulevard runs along the waterfront into the distance, with car headlights and red taillights streaking past, a lone cyclist under a lamppost, a red traffic light glowing at the nearest crossing and a yellow-lit tram crossing a bridge further away. A faint drizzle catches the light as tiny glinting specks in the air, and the dark sky holds a low orange haze from the city glow. Low-angle shot across the railing, with the foreground figure and railing softly out of focus while the river, building, traffic and bridge stay crisp and detailed. Raw, grainy 1990s analog color snapshot with warm sodium-vapor tones, slight halation around the lights, visible film grain and no digital sharpening.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T04:06:51.131Z"
+    },
+    {
+      "id": "pv-1792382614477-123",
+      "title": "Anime 4",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792382614477-123.webp",
+      "prompt": "A determined young woman with a short black bob and a red racing jacket leans low over a sleek red motorbike as she speeds through a rain-soaked Tokyo street at night. Neon signs in pink, cyan and yellow reflect in the wet asphalt, rain streaks across the frame, and her headlight cuts a bright cone through the mist. Dynamic low three-quarter angle with strong motion blur on the background, bold anime cel shading with vivid colors and sharp highlights.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "anime",
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T04:06:51.129Z"
+    },
+    {
+      "id": "pv-1792382577108-1096",
+      "title": "Anime 3",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792382577108-1096.webp",
+      "prompt": "A cozy village bakery at dawn. A cheerful baker with freckles, rosy cheeks and a thick cinnamon-brown braid pulls a wooden peel of golden crescent-moon-shaped croissants out of a glowing stone oven, flour dusted across her green apron and rolled-up sleeves. Wooden shelves behind her are stacked with round loaves and jars of jam, steam curls in the warm golden light from the window, and a hand-lettered chalkboard on the wall reads \"LUNA BAKERY - fresh crescents daily\". Medium shot, warm semi-realistic anime illustration with soft lighting and rich detail.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "anime",
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T04:06:51.126Z"
+    },
+    {
+      "id": "pv-1792382526421-6247",
+      "title": "Anime 2",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792382526421-6247.webp",
+      "prompt": "A young woman with long silver hair and pale violet eyes stands on the tiled rooftop of an old Japanese inn at night, holding a glowing paper lantern in one hand. She wears an indigo kimono patterned with small white crescent moons and a loose obi that flutters in the wind. Behind her an enormous full moon fills half the sky, soft clouds drifting across it, and the warm orange lantern light mixes with the cool blue moonlight on her face. Full-body shot from a slightly low angle, detailed anime illustration with soft painterly shading and fine linework.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "anime",
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T04:06:51.123Z"
+    },
+    {
+      "id": "pv-1792382380978-8575",
+      "title": "Girl 67",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792382380978-8575.webp",
+      "prompt": "A Japanese girl leaning against a wall, shown from the side, upper body only. She exudes confidence, looking directly at the viewer with her head slightly tilted downward. Her short black hair frames her face, and she wears a sleek black latex crop top. The wall behind her is covered in graffiti, illuminated by weak, moody lighting that enhances the gritty urban vibe.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "japanese girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T04:06:51.120Z"
+    },
+    {
+      "id": "pv-1792382270796-3308",
+      "title": "Animals",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792382270796-3308.webp",
+      "prompt": "Two fluffy white ducklings glide serenely across a sun-drenched emerald pool, their soft downy feathers contrasting sharply with the crystalline green water beneath them. The scene is captured from a high-angle perspective, using a 50mm lens at f/4 to create a shallow depth of field that keeps the ducks sharply focused while gently blurring the rippling water surface and distant reflections. Sunlight glints off the water’s surface in sparkling starburst patterns, casting dappled shadows of overhanging trees into the pool below. Each duckling leaves gentle concentric ripples trailing behind as they swim in parallel, their bright orange beaks and dark eyes adding vibrant accents to the composition. The color palette is rich yet natural—vibrant aqua greens, warm golden sunlight, and pure white plumage—evoking a sense of peaceful summer tranquility. The overall atmosphere is idyllic and calming, with every element carefully staged to highlight the innocence and harmony of nature.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Animals",
+      "tags": [],
+      "is_premium": false,
+      "created_at": "2026-10-19T03:58:07.156Z"
+    },
+    {
+      "id": "pv-1792382225851-1068",
+      "title": "Girl 68",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792382225851-1068.webp",
+      "prompt": "这是一张拥有极致细节，超高质量、高清晰的照片，照片中有一位20岁的中国女性，有着迷人的眼睛，真实细腻的肌肤，身穿清新时尚的碎花雪纺上衣，泡泡短袖褶边设计，搭配浅蓝色紧身牛仔裤。她留着黑色长发，头上戴着发箍，右手手腕戴着翡翠手镯。下着大雨，全身湿透，头发贴着皮肤，皮肤上沾满雨水，坐在植物园的长凳上，背后靠着大片盛开的蔷薇花，摆着随机动态的姿势，看着镜头，活泼可爱充满灵气。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "beautiful woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T03:58:07.152Z"
+    },
+    {
+      "id": "pv-1792382170385-5914",
+      "title": "Girl 67",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792382170385-5914.webp",
+      "prompt": "一位年轻女性侧身倚靠在繁茂的绿植与白色花簇旁，她留着柔顺的黑色齐肩发，额前刘海自然垂落，发间点缀着小巧精致的透明发夹，眼神温柔清澈地望向镜头，嘴角微微上扬带着恬静甜美的微笑，脸颊泛着自然柔和的红晕。她身穿一件轻盈飘逸的浅米色碎花连衣裙，裙身上布满淡紫色与绿色交织的小碎花图案，领口和袖口有细腻的荷叶边装饰，裙摆自然垂坠，随着微风轻轻摇曳。她的右臂优雅抬起，手掌张开轻触头顶上方垂落的白色花朵枝条，仿佛在与花枝互动，姿态灵动而充满诗意。一条细长的金色链条斜挎包带从她的左肩延伸至腰侧，在光影中闪烁着温润光泽。前景是她抬手所触的繁密花枝，洁白小花与深绿叶片层层叠叠，部分花瓣被阳光穿透形成半透明质感，叶片边缘因光线照射呈现出柔和的高光。中景是她身体的大部分轮廓以及身旁浓密的蕨类植物与攀爬藤蔓，叶片纹理清晰可见，深浅不一的绿色层次丰富。背景是虚化的庭院石板小径与模糊的木质围栏或建筑结构，地面铺着大小不一的灰色石块，被斑驳的树影覆盖，营造出朦胧而宁静的空间感。整幅画面采用倾斜角度构图，人物头部略微倾斜，视线朝向观者，引导观众目光从她的脸庞、抬起的手臂自然过渡到上方的花枝，再延伸至背景深处。光影氛围温暖柔和，来自侧面偏上的自然光透过树叶间隙洒落，在她发丝、肩颈与裙摆上形成细腻的明暗过渡，阴影部分柔和而不生硬，整体色调偏向低饱和度的暖灰绿色系，带有轻微胶片颗粒感，呈现出一种清新文艺且略带复古滤镜效果的视觉风格，仿佛用一部老旧数码相机在午后拍摄，具有生活化的真实感与情感温度，整个场景散发着青春、自由、自然生长的气息，如同一幅沉浸于春日庭院中的静物肖像画，充满了诗意与温柔的叙事感。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "beautiful woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T03:58:07.149Z"
+    },
+    {
+      "id": "pv-1792382060353-3937",
+      "title": "Girl 66",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792382060353-3937.webp",
+      "prompt": "一位年轻女性作为画面主体，她拥有白皙的肌肤和精致的五官，深邃的眼眸凝视着镜头，眼神中带着一丝温柔与沉静，微微张开的嘴唇呈现出自然的粉嫩色泽，几缕发丝轻柔地垂落在额前，增添了几分慵懒与随性，她的长发被精心盘起，发髻上点缀着一朵洁白的花朵装饰，耳畔佩戴着珍珠耳钉，颈部则挂着一条纤细的银色项链，项链上镶嵌着一颗小巧的雪花状吊坠，整体造型优雅而富有诗意，她身穿一件飘逸的绿色抹胸长裙，裙身采用半透明的轻薄面料，呈现出柔和的渐变色调，从深绿到浅绿过渡自然，裙摆的褶皱与纹理在光线下显得层次丰富，她的右手轻轻抬起，手指微曲，姿态优雅地搭在肩头，仿佛在整理衣衫或沉浸在自己的思绪中，前景部分有模糊的绿色植物叶片作为遮挡，营造出一种若隐若现的视觉效果，仿佛观众正透过树叶间隙窥见这一幕，中景是人物的全身轮廓，她站在一个充满自然气息的户外环境中，背景虚化处理，呈现出柔和的绿色调和隐约的树木轮廓，光影柔和均匀，光线来自侧面，形成自然的明暗过渡，突出了面部轮廓和服装质感，整体构图采用中心构图法，人物居中，头部略微倾斜，营造出一种平衡又不失动态感的画面，视觉引导由人物的眼神直接引向观者，同时裙摆的流动线条和手部的姿态也引导视线向下延伸，光影氛围宁静而梦幻，带有轻微的胶片颗粒感和复古色调，整体呈现出一种如梦似幻的文艺气质，仿佛是一张用业余相机拍摄的日常写真，带有真实的生活感和温度，色彩饱和度适中，细节丰富，皮肤质感细腻，布料纹理清晰可见，背景的散景效果增强了画面的纵深感，整体风格兼具唯美与真实，既有艺术摄影的精致感，又保留了生活瞬间的自然与随意",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "beautiful woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T03:58:07.146Z"
+    },
+    {
+      "id": "pv-1792381977194-5229",
+      "title": "Girl 65",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792381977194-5229.webp",
+      "prompt": "这是一张精致的户外人像摄影，细节丰富，光影自然。画面主体是一位年轻的中国女孩，站在户外公园里，郁郁葱葱，阳光灿烂。 女孩留着齐腰的长直发，搭在一侧的肩膀上，头上戴着一朵红花。头发是黑色的，充满质感，露出额头，很显年轻和元气。 上身穿一件浅色的雪纺长袖上衣，褶边低胸设计。 她伸出一只手拨弄着头上的红花，头歪向一侧，眼睛看向别处微微一笑，表情害羞。她妆容精致，皮肤细节自然而又清晰。 背景里阳光灿烂，阳光照在脸上，手的影子投在脸上。这张照片，构图惊艳，充满意境，仿佛时间凝固。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "beautiful woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T03:58:07.143Z"
+    },
+    {
+      "id": "pv-1792381864675-3098",
+      "title": "Girl 64",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792381864675-3098.webp",
+      "prompt": "一位年轻女性坐在日式料理店的吧台前，她有着齐刘海和及肩的棕色长发，皮肤白皙，五官精致，大眼睛明亮有神，正微微侧头看向镜头，嘴角带着温柔甜美的微笑，双手轻轻托着脸颊，姿态优雅而自然，身穿一件粉色碎花连衣裙，裙摆轻盈飘逸，上面印有可爱的卡通图案，袖子是荷叶边设计，增添了几分甜美气息，手腕上佩戴着多串手链，包括金色链条、彩色珠串和编织手绳，细节丰富，充满少女感，她的右手无名指戴着一枚简约的戒指，指甲修剪整齐并涂有淡色指甲油，整体造型清新可人，前景是她身体的大部分和面部特写，占据画面左侧主要位置，构图上采用近景拍摄，突出人物主体，中景是吧台桌面，上面摆放着一盘精美的寿司拼盘，木质托盘内铺满绿色海苔和松针作为装饰，寿司种类丰富，包括三文鱼寿司、蟹肉棒、天妇罗等，色彩鲜艳，旁边还有一杯琥珀色的饮品，可能是清酒或威士忌，以及一双筷子、一个小碟子和一个黑色小盒子，背景是餐厅内部环境，深色墙面搭配金色金属格栅屏风，屏风呈扇形网格状，边缘有柔和的灯带照明，营造出温暖的氛围，上方天花板装有嵌入式射灯，光线均匀洒落，右侧可见部分餐桌椅和另一张桌子，远处墙上挂着一幅书法作品，内容为“真味”二字，字体工整，增添文化气息，整个空间色调以黑、金、粉为主，对比鲜明又和谐统一，构图采用中心偏左的人物构图，利用吧台线条引导视线向右延伸，同时通过人物与食物的呼应关系形成视觉平衡，光影方面，主要光源来自顶部射灯和屏风背光，形成柔和的暖黄色调，人物面部受光均匀，阴影自然，背景稍暗但细节清晰，营造出温馨私密的用餐氛围，整体画面具有日常业余设备拍摄的真实质感，略带轻微噪点和自然的相机色彩表现，仿佛用手机或便携相机随手记录下的生活瞬间，呈现出一种亲切、真实且富有艺术美感的影像风格，画面细腻，层次分明，既有现代都市生活的精致感，又不失生活化的温度与情感，仿佛能闻到食物的香气，感受到此刻的宁静与满足",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "beautiful woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T03:58:07.141Z"
+    },
+    {
       "id": "pv-1792345497537-286",
       "title": "Car 2",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792345497537-286.webp",
@@ -1883,5 +2073,5 @@
       "created_at": "2026-10-18T06:50:11.315Z"
     }
   ],
-  "updated_at": "2026-10-18T17:51:35.598Z"
+  "updated_at": "2026-10-19T04:08:10.753Z"
 }
