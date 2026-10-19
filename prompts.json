@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T06:03:42.612Z",
+  "updated_at": "2026-10-19T06:04:21.851Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -51,7 +51,8 @@
         "girl"
       ],
       "is_premium": false,
-      "created_at": "2026-10-19T06:03:42.612Z"
+      "created_at": "2026-10-19T06:03:42.603Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792389745115-1679",
@@ -67,7 +68,8 @@
         "woman"
       ],
       "is_premium": true,
-      "created_at": "2026-10-19T06:02:46.813Z"
+      "created_at": "2026-10-19T06:02:46.803Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792389629727-377",
@@ -83,7 +85,8 @@
         "woman"
       ],
       "is_premium": true,
-      "created_at": "2026-10-19T06:00:52.479Z"
+      "created_at": "2026-10-19T06:00:52.470Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792389484774-2870",
@@ -98,7 +101,8 @@
         "girl"
       ],
       "is_premium": true,
-      "created_at": "2026-10-19T05:58:31.553Z"
+      "created_at": "2026-10-19T05:58:31.544Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792388184819-1365",
