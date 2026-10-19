@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T11:51:56.027Z",
+  "updated_at": "2026-10-19T11:57:45.051Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,85 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1792410749879-4516",
+      "title": "Girl 00071",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792410749879-4516.webp",
+      "prompt": "[Location]: subway exit / vending machine / bus stop / convenience store\n[Outfit]: jacket + fitted top + mini skirt/shorts + knee-high socks + sneakers\n[Action]: crouching, sitting low, bending down, fixing hair/shoes, caught mid-motion\n\nCreate a 9:16 ultra-realistic night portrait of an adult East Asian woman in her early 20s. Use a close 28–35mm perspective with a slightly low camera angle, letting one knee or leg enter the foreground for stronger depth.\n\nThe body should stay in an unfinished everyday action rather than a perfect model pose — low center of gravity, natural hip/waist twist, loose shoulders, hair slightly messy from movement, then suddenly looking directly into the camera.\n\nUse harsh on-camera direct flash as the main light. Keep the subject much brighter than the dark environment, with realistic highlights on skin, hair and fabric, subtle high-ISO grain, imperfect nighttime exposure, and natural background lights.\n\nPrioritize real skin texture, visible pores, natural flyaway hair, believable clothing folds and anatomy. Avoid plastic skin, beauty filters, studio lighting, CGI look, stiff posing, extreme wide-angle distortion, or overly cinematic grading.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T11:57:45.049Z"
+    },
+    {
+      "id": "pv-1792410830544-5209",
+      "title": "Girl 00072",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792410830544-5209.webp",
+      "prompt": "Photorealistic adult East Asian woman, long straight dark hair, soft natural makeup, glowing skin, elegant black one-piece dress, delicate silver jewelry, confident cute expression, modern Seoul night street, cinematic lighting, smartphone photography, realistic skin texture, premium fashion aesthetic, ultra-detailed, 4K.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T11:57:45.051Z"
+    },
+    {
+      "id": "pv-1792410950382-9770",
+      "title": "ad 9",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792410950382-9770.webp",
+      "prompt": "A luxury minimalist anime editorial poster featuring, designed as a premium high-fashion magazine cover in a vertical 4:5 composition.Ultra-detailed painterly anime illustration with crisp linework, museum-quality rendering, soft cinematic lighting, premium editorial aesthetics, and subtle brushstroke textures.The character occupies approximately 65% of the frame, posed confidently with one hand extended toward the viewer in a dynamic perspective. Hair flows naturally with elegant motion. Expression is calm, determined, and iconic to the character. The background is clean matte white with abundant negative space, enhanced by large semi-transparent abstract typography, oversized geometric brush strokes, soft paint splashes, thin futuristic UI graphics, Japanese typography, minimal editorial labels, clan symbols, circular emblems, barcode elements, micro typography, technical design lines, and premium graphic layout.Place the character's first name in huge bold uppercase typography on the left side, with the surname beneath in smaller spaced lettering. Add subtle Japanese text, anime series title, inspirational quote, clan name, ability name, emblem icons, and futuristic interface details arranged like a luxury fashion campaign.Color grading follows a monochromatic palette based entirely on the character's signature colors. Background graphics, typography, paint strokes, symbols, interface lines, jacket accents, glow effects, and decorative elements all match this theme.Soft volumetric lighting, glossy eyes with beautiful reflections, cinematic shadows, premium color harmony, highly detailed hair strands, realistic fabric folds, clean luxury composition, sharp focus, elegant minimalism, collectible poster quality, ArtStation masterpiece, trending editorial design, ultra high resolution, 8K.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Advertising",
+      "tags": [
+        "ad",
+        "ads"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T11:57:45.051Z"
+    },
+    {
+      "id": "pv-1792410991229-8593",
+      "title": "Girl 00074",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792410991229-8593.webp",
+      "prompt": "Ultra-realistic Gen Z selfie photo collage, three vertical smartphone flash selfies of a young woman with long wavy black hair, soft dewy glass skin, rosy blush, glossy peach lips, natural makeup, wearing a faded blue-gray sleeveless Nirvana tank top, silver chain necklace, black nail polish with nail art, posing with hand under chin, playful wink with tongue out, and warm smiling expression. Direct front-facing flash photography, clean light gray wall background, high contrast shadows, candid Instagram aesthetic, sharp facial details, shallow depth of field, Y2K vibe, soft skin texture, photorealistic, 35mm lens, high resolution.\n\nPrompt :\n\nUltra-realistic late-night flash selfie collage, three stacked smartphone photos of a young woman with shoulder-length dark hair, luminous skin, subtle blush, glossy pink lips, natural Korean-inspired makeup, wearing a blue-gray sleeveless tank top, silver chain necklace, resting face on hand, playful wink, looking sideways, and kissing-face expression. Direct camera flash creating bright highlights and deep shadows, dim indoor bedroom background, casual candid selfie aesthetic, soft messy hair, photorealistic skin texture, high detail eyes and lips, Instagram/Tumblr vibe, 35mm photography, realistic lighting, ultra-sharp focus, high resolution.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T11:57:45.051Z"
+    },
+    {
+      "id": "pv-1792411060440-8364",
+      "title": "Girl 00075",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792411060440-8364.webp",
+      "prompt": "A young East Asian woman with a short black bob haircut and wispy bangs is sitting in her cozy high-rise streamer studio at night. She is wearing an elegant dusty-rose fantasy dress with floral details and soft flowing sleeves.The room is illuminated by warm desk lighting, RGB keyboard glow, and distant city lights through a large floor-to-ceiling window.At first she is focused on her monitor as if reading chat messages. After a few seconds she slowly turns her chair toward the camera. She notices the viewer, pauses briefly, then rests her chin lightly on one hand.A subtle playful smile appears. She gently tilts her head, brushes a loose strand of hair away from her face, and maintains soft eye contact with the camera.Natural breathing, realistic blinking, delicate facial micro-expressions, relaxed posture.No exaggerated gestures. No waving. No dancing. No sudden movements. No speaking.Cinematic realism, authentic human behavior, natural body motion, realistic hair physics, warm atmosphere, shallow depth of field, premium lifestyle content, 10-second shot, single continuous camera take.At the end of the shot she slowly looks back toward her monitor.Her smile gradually fades into a relaxed neutral expression.She lightly adjusts her keyboard with one hand and continues reading chat.exaggerated smile, overacting, dancing, idol performance, heart gesture, excessive hand movement, fast motion, talking, lip sync, cartoon motion, distorted fingers, facial morphing, identity drift, camera shake, low quality animation, blinking too much, unnatural head movement",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T11:57:45.051Z"
+    },
     {
       "id": "pv-1792410680327-2691",
       "title": "Girl 00070",
