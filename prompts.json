@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T05:35:23.567Z",
+  "updated_at": "2026-10-19T05:36:47.570Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,22 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1792388184819-1365",
+      "title": "Anime Girl 02",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792388184819-1365.webp",
+      "prompt": "Illustration of a silver-haired girl in a dark, flowing gown stands beneath a massive, luminous full moon, her gaze soft and contemplative as she holds a single white rose. Her hair cascades in ethereal waves, catching the moonlight, while countless white roses bloom around her in a shadowy garden. The scene is serene and mysterious, bathed in cool blue and silver tones, evoking a gothic elegance. Her expression is quiet, almost melancholic, as if lost in thought or memory. The contrast between the glowing moon and the deep shadows creates a dreamlike, otherworldly atmosphere.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "anime",
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T05:36:47.570Z"
+    },
     {
       "id": "pv-1792388094674-1420",
       "title": "Anime Girl",
