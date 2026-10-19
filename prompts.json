@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T07:02:04.031Z",
+  "updated_at": "2026-10-19T07:02:48.804Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,85 +39,10 @@
   ],
   "items": [
     {
-      "id": "pv-1792392938782-1442",
-      "title": "Girl 104",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392938782-1442.webp",
-      "prompt": "A realistic close-up photograph of a 23-year-old Taiwanese woman waiting on a quiet urban train platform in the early morning. She has warm light-brown skin, a softly oval face, shoulder-length dark brown hair slightly tousled by the arriving train’s breeze, and minimal natural makeup. Her expression shows anxious anticipation: eyes wide but sharply focused down the tracks, brows lifted unevenly, lips pressed together as if waiting for an important answer. She wears a pale stone-colored trench coat over a muted gray knit sweater and a charcoal knitted scarf, with one hand twisting the frayed edge of the scarf while the other rests tensely near her coat lapel. A blurred electronic timetable, platform safety line, metal railing, and distant train lights create a believable background without readable text. Frame her from the chest up at eye level, with her positioned slightly off-center and the tracks receding behind her. Cool overcast daylight mixes with soft fluorescent platform lighting, revealing natural skin texture, subtle fabric wrinkles, faint under-eye tension, and realistic shadows. Shallow depth of field, documentary-style candid composition, authentic photographic proportions, no glamour retouching.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-19T07:02:04.028Z"
-    },
-    {
-      "id": "pv-1792392996831-5628",
-      "title": "Girl 105",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392996831-5628.webp",
-      "prompt": "A realistic close-up photograph of a 22-year-old Taiwanese woman with softly rounded facial features, warm light-olive skin, shoulder-length dark brown hair tucked neatly behind her ears, and subtle natural makeup. She wears a pastel pink knit sweater with gently rumpled fabric at the shoulders. Her hands are tucked behind her back as she leans slightly forward, posing in a candy-colored bedroom filled with pale mint shelves, powder-blue storage boxes, peach-colored wall accents, and a small glass jar of pastel candies. She gives an adorable but faintly suspicious fake-innocent smile: her eyes are rounded almost too perfectly, her curled lashes lifted, and her lips arranged in a sweet, carefully rehearsed grin. Her expression should feel charming yet knowingly deceptive, without becoming exaggerated or cartoonish. Frame her from the chest up in a centered half-body composition, photographed at eye level with a 50mm lens. Soft daylight enters from a nearby window, creating gentle shadows under her chin and realistic highlights in her eyes and hair. Preserve natural skin texture, believable anatomy, subtle fabric detail, and authentic photographic depth of field.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-19T07:02:04.028Z"
-    },
-    {
-      "id": "pv-1792393031314-9435",
-      "title": "Girl 106",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792393031314-9435.webp",
-      "prompt": "A realistic cinematic photograph of a 22-year-old Korean woman standing beside a stationary train carriage on a quiet railway platform, leaning lightly against the smooth metal side. She has long, naturally straight dark brown hair with a few loose strands framing her face, subtle everyday makeup, natural skin texture, and a slender, believable build. Her head is turned toward the camera, meeting it with a soft direct gaze and a calm neutral expression, lips slightly parted. She wears a loose off-white knitted sweater over a muted red top, with the sleeves casually rolled to her elbows. The composition is a mid-torso portrait at eye level, with her positioned slightly off-center and the train receding behind her to create gentle depth. The carriage window reflects pale daylight and indistinct shapes. In the background, a station structure of metal beams and glass panes fades into muted sky tones and distant foliage. Diffused natural daylight creates soft highlights across the sweater and individual hair strands without harsh shadows. Shallow depth of field, restrained color palette, quiet candid atmosphere, authentic photographic proportions, no text, no logos, no temporary props.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-19T07:02:04.028Z"
-    },
-    {
-      "id": "pv-1792393080461-657",
-      "title": "Girl 00001",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792393080461-657.webp",
-      "prompt": "A young Taiwanese woman stands on a wet city street at twilight holding bicycle handlebars, her gaze directed upward and to the side with a thoughtful, slightly weary expression. Her dark hair is loosely tousled by wind, framing her face as she wears an olive-green jacket over a cream button-up shirt and dark trousers. A beige tote bag hangs from her shoulder, its flap partially open revealing a small mountain patch. She grips the bike frame firmly, posture relaxed yet alert. Behind her, rain-slicked pavement reflects neon signs—blue vertical signage in Chinese characters reading 台北市聯合醫院 points left, while red traffic lights and glowing shopfronts blur into motion with scooters passing by. Distant skyscrapers loom against a muted sky. The scene is captured at medium distance, shallow depth of field, cinematic lighting that highlights wet surfaces and ambient glow from street lamps and storefronts, creating a moody urban atmosphere.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-19T07:02:04.028Z"
-    },
-    {
-      "id": "pv-1792393131587-3836",
-      "title": "Girl 00002",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792393131587-3836.webp",
-      "prompt": "A compelling, intimate close-up portrait of a Japanese woman, captured from a slightly elevated, high-angle perspective looking down upon her. The woman, poised and guarded, holds a hunched posture with her arms loosely folded across her chest. She tilts her head downward, looking toward the lower frame, obscuring her full expression.\n\nShe has dark, raven hair styled in a subtle wave, heavily streaked with distinct, textured white and silver highlights that catch the light. Tucked delicately into her hair near the temple is a complex, handmade white kanzashi flower ornament, composed of delicate silk petals and perhaps a small cluster of tiny pearl stamens, offering a soft contrast to her dark tresses.\n\nHalf of her face is obscured by oversized, gold-rimmed aviator-style sunglasses with deep, warm, sepia-tinted lenses. These lenses do not reveal her eyes but instead mirror the scene before her—a complex, fractured reflection of a warm-lit, indistinct interior, perhaps a traditional izakaya or temple garden, rendering her thoughts truly enigmatic.\n\nThe woman is clad in a richly decorated, heavy-fabric kimono jacket. The deep-toned, near-black silk surface is a canvas for an intricate dance of stylized, traditional Japanese patterns. Hundreds of meticulous small blossoms—cherry (sakura) and plum (ume) in hues of deep crimson, ivory white, indigo blue, and muted gold—are woven into a dense, overlapping tapestry that bleeds across the sleeves and lapel, catching the light with a subtle sheen.\n\nThe artistic rendering is highly textured, blending painterly brushwork with cinematic photo-realism. Fine, trembled linework outlines her form and the floral patterns, creating a fragile, almost vulnerable boundary. The texture of the canvas and underlying pigment is intentionally visible, bleeding through the colors. The lighting is low and warm, casting dramatic, soft light that highlights the texture of her white hair, the silk flower, and a golden glint on the rim of her sunglasses, while plunging the folded layers of her kimono into intimate shadow, evoking a profound, quiet, and guarded cinematic mood.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-19T07:02:04.030Z"
-    },
-    {
-      "id": "pv-1792393181168-4045",
-      "title": "Girl 00003",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792393181168-4045.webp",
-      "prompt": "A painterly, vertical portrait of a young Japanese woman standing on a sun-drenched balcony overlooking a rustic Mediterranean courtyard. She gazes thoughtfully into the distance, her side profile sculpted by radiant, low-angle golden-hour sunlight. Her dark, wavy hair is loosely gathered in an effortless updo, with soft tendrils grazing the graceful curve of her neck and bare shoulders.\n\nShe is dressed in a vibrant scarlet off-the-shoulder peasant blouse featuring delicate ruffled tiers and billowy, lightweight sleeves, paired with a floor-length, flowing skirt in a muted mint-green tone that drapes elegantly around her silhouette. Subtle bohemian accessories catch the warm illumination: ornate filigree earrings dangling near her jawline, a slender gold bangle circling her wrist, and a barely-there pendant necklace resting on her collarbone. Her posture is poised yet contemplative—one hand rests gently upon the weathered wrought-iron balustrade, while the other tenderly grazes a cluster of vivid, scarlet bougainvillea spilling over the stone ledge.\n\nThe background architecture exudes Mediterranean charm, framed by sun-baked terracotta and warm ochre stucco walls with visible peeling textures, alongside an aged, dark-timbered doorway in soft focus. Lush, translucent foliage and cascading clusters of fiery red blossoms envelope the scene, casting intricate dappled shadows across the balcony floor.\n\nThe lighting is dramatic and romantic, featuring chiaroscuro contrasts between honeyed rim light across her skin and fabric folds, and cool, velvety ambient shadows enfolding the courtyard behind her. Artistically, the piece balances realistic anatomical precision with an expressive, tactile post-impressionistic style—incorporating thick impasto brushstrokes on illuminated petals and highlights, contrasted with smooth, glazed, atmospheric layers in the deep shadows, capturing a fleeting, nostalgic summer reverie in rich, cinematic 8K fidelity.",
+      "id": "pv-1792393250806-8234",
+      "title": "Girl 00005",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792393250806-8234.webp",
+      "prompt": "A highly detailed, photorealistic vertical portrait of a young adult woman wearing an elaborate burgundy and black Gothic ensemble. The composition closely frames her head, shoulders, and upper torso, emphasizing her face and the intricate textures of her clothing. She looks directly into the camera with her head gently tilted, wearing a restrained, quietly playful expression. Her softly oval face has a delicate jawline, a small chin, and a slender nose. Her complexion is fair and luminous, with rosy blush across her cheeks and a gentle highlight on the bridge and tip of her nose.\nHer large brown eyes feature clear catchlights, softly shaded pinkish-brown eyelids, delicate eyeliner, and defined upper lashes. Her eyebrows are fine, gently arched, and naturally brown. A tiny black cross-shaped mark appears beneath the outer corner of the eye on the viewer’s right. Her lips are drawn into a slight pout, with the lower lip subtly pushed forward and the corners of her mouth gently turned down, creating a cute, faintly sulky expression. The pout is soft and delicate rather than exaggerated, giving her face a playful, doll-like charm. Her cheeks remain smooth and softly flushed, enhancing the youthful and endearing quality of her expression.\nHer long, dark chestnut hair has a silky texture, subtle warm highlights, and a slightly off-center part. Sweeping front sections frame her face, while the longer lengths fall over both shoulders. Loose strands cross her forehead and cheeks. Burgundy ribbon bows with ornate oval centerpieces decorate the lower front sections of her hair. An oversized bonnet-like headdress surrounds the crown of her head, combining richly patterned wine-red fabric, layered black lace, scalloped ruffles, and glossy satin bows. Antique-gold ornaments and delicate hanging chains embellish its sides.\nAround her neck is a fitted black leather choker with a rectangular antique-brass buckle and visible adjustment holes. A decorative pendant hangs from its center, featuring a deep red faceted gemstone enclosed in an ornate metallic setting, finished with a tiny dangling red bead. A matching elongated earring is visible on the viewer’s right, combining fine gold-toned metalwork with a red stone.\nHer dress is made from lustrous burgundy fabric woven with dark floral patterns. Full sleeves and layered black lace create a richly textured outline around her shoulders. The broad, low, squared neckline is edged with delicate scalloped lace, while the fitted bodice features a central satin bow and a small ornamental jewel. Light catches the fabric’s folds, revealing alternating areas of glossy red sheen and deep shadow. Lace, ribbons, and patterned textiles remain individually distinguishable.\nThe background is a softly blurred, warmly illuminated interior with dark red curtains, indistinct antique-style furnishings, and a glowing table lamp on the left. Beyond the lamp, a narrow window area contains cool blue and white nighttime bokeh. Warm light illuminates her face and reflects through individual strands of hair, separating her from the darker surroundings. The shallow depth of field, intimate framing, and rich contrast produce a polished editorial portrait with a romantic Gothic mood, realistic material textures, and finely rendered photographic detail.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -126,7 +51,8 @@
         "woman"
       ],
       "is_premium": true,
-      "created_at": "2026-10-19T07:02:04.031Z"
+      "created_at": "2026-10-19T07:02:03.994Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792393213806-6383",
@@ -141,13 +67,14 @@
         "woman"
       ],
       "is_premium": true,
-      "created_at": "2026-10-19T07:02:04.031Z"
+      "created_at": "2026-10-19T07:02:03.990Z",
+      "is_draft": false
     },
     {
-      "id": "pv-1792393250806-8234",
-      "title": "Girl 00005",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792393250806-8234.webp",
-      "prompt": "A highly detailed, photorealistic vertical portrait of a young adult woman wearing an elaborate burgundy and black Gothic ensemble. The composition closely frames her head, shoulders, and upper torso, emphasizing her face and the intricate textures of her clothing. She looks directly into the camera with her head gently tilted, wearing a restrained, quietly playful expression. Her softly oval face has a delicate jawline, a small chin, and a slender nose. Her complexion is fair and luminous, with rosy blush across her cheeks and a gentle highlight on the bridge and tip of her nose.\nHer large brown eyes feature clear catchlights, softly shaded pinkish-brown eyelids, delicate eyeliner, and defined upper lashes. Her eyebrows are fine, gently arched, and naturally brown. A tiny black cross-shaped mark appears beneath the outer corner of the eye on the viewer’s right. Her lips are drawn into a slight pout, with the lower lip subtly pushed forward and the corners of her mouth gently turned down, creating a cute, faintly sulky expression. The pout is soft and delicate rather than exaggerated, giving her face a playful, doll-like charm. Her cheeks remain smooth and softly flushed, enhancing the youthful and endearing quality of her expression.\nHer long, dark chestnut hair has a silky texture, subtle warm highlights, and a slightly off-center part. Sweeping front sections frame her face, while the longer lengths fall over both shoulders. Loose strands cross her forehead and cheeks. Burgundy ribbon bows with ornate oval centerpieces decorate the lower front sections of her hair. An oversized bonnet-like headdress surrounds the crown of her head, combining richly patterned wine-red fabric, layered black lace, scalloped ruffles, and glossy satin bows. Antique-gold ornaments and delicate hanging chains embellish its sides.\nAround her neck is a fitted black leather choker with a rectangular antique-brass buckle and visible adjustment holes. A decorative pendant hangs from its center, featuring a deep red faceted gemstone enclosed in an ornate metallic setting, finished with a tiny dangling red bead. A matching elongated earring is visible on the viewer’s right, combining fine gold-toned metalwork with a red stone.\nHer dress is made from lustrous burgundy fabric woven with dark floral patterns. Full sleeves and layered black lace create a richly textured outline around her shoulders. The broad, low, squared neckline is edged with delicate scalloped lace, while the fitted bodice features a central satin bow and a small ornamental jewel. Light catches the fabric’s folds, revealing alternating areas of glossy red sheen and deep shadow. Lace, ribbons, and patterned textiles remain individually distinguishable.\nThe background is a softly blurred, warmly illuminated interior with dark red curtains, indistinct antique-style furnishings, and a glowing table lamp on the left. Beyond the lamp, a narrow window area contains cool blue and white nighttime bokeh. Warm light illuminates her face and reflects through individual strands of hair, separating her from the darker surroundings. The shallow depth of field, intimate framing, and rich contrast produce a polished editorial portrait with a romantic Gothic mood, realistic material textures, and finely rendered photographic detail.",
+      "id": "pv-1792393181168-4045",
+      "title": "Girl 00003",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792393181168-4045.webp",
+      "prompt": "A painterly, vertical portrait of a young Japanese woman standing on a sun-drenched balcony overlooking a rustic Mediterranean courtyard. She gazes thoughtfully into the distance, her side profile sculpted by radiant, low-angle golden-hour sunlight. Her dark, wavy hair is loosely gathered in an effortless updo, with soft tendrils grazing the graceful curve of her neck and bare shoulders.\n\nShe is dressed in a vibrant scarlet off-the-shoulder peasant blouse featuring delicate ruffled tiers and billowy, lightweight sleeves, paired with a floor-length, flowing skirt in a muted mint-green tone that drapes elegantly around her silhouette. Subtle bohemian accessories catch the warm illumination: ornate filigree earrings dangling near her jawline, a slender gold bangle circling her wrist, and a barely-there pendant necklace resting on her collarbone. Her posture is poised yet contemplative—one hand rests gently upon the weathered wrought-iron balustrade, while the other tenderly grazes a cluster of vivid, scarlet bougainvillea spilling over the stone ledge.\n\nThe background architecture exudes Mediterranean charm, framed by sun-baked terracotta and warm ochre stucco walls with visible peeling textures, alongside an aged, dark-timbered doorway in soft focus. Lush, translucent foliage and cascading clusters of fiery red blossoms envelope the scene, casting intricate dappled shadows across the balcony floor.\n\nThe lighting is dramatic and romantic, featuring chiaroscuro contrasts between honeyed rim light across her skin and fabric folds, and cool, velvety ambient shadows enfolding the courtyard behind her. Artistically, the piece balances realistic anatomical precision with an expressive, tactile post-impressionistic style—incorporating thick impasto brushstrokes on illuminated petals and highlights, contrasted with smooth, glazed, atmospheric layers in the deep shadows, capturing a fleeting, nostalgic summer reverie in rich, cinematic 8K fidelity.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -156,7 +83,88 @@
         "woman"
       ],
       "is_premium": true,
-      "created_at": "2026-10-19T07:02:04.031Z"
+      "created_at": "2026-10-19T07:02:03.988Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792393131587-3836",
+      "title": "Girl 00002",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792393131587-3836.webp",
+      "prompt": "A compelling, intimate close-up portrait of a Japanese woman, captured from a slightly elevated, high-angle perspective looking down upon her. The woman, poised and guarded, holds a hunched posture with her arms loosely folded across her chest. She tilts her head downward, looking toward the lower frame, obscuring her full expression.\n\nShe has dark, raven hair styled in a subtle wave, heavily streaked with distinct, textured white and silver highlights that catch the light. Tucked delicately into her hair near the temple is a complex, handmade white kanzashi flower ornament, composed of delicate silk petals and perhaps a small cluster of tiny pearl stamens, offering a soft contrast to her dark tresses.\n\nHalf of her face is obscured by oversized, gold-rimmed aviator-style sunglasses with deep, warm, sepia-tinted lenses. These lenses do not reveal her eyes but instead mirror the scene before her—a complex, fractured reflection of a warm-lit, indistinct interior, perhaps a traditional izakaya or temple garden, rendering her thoughts truly enigmatic.\n\nThe woman is clad in a richly decorated, heavy-fabric kimono jacket. The deep-toned, near-black silk surface is a canvas for an intricate dance of stylized, traditional Japanese patterns. Hundreds of meticulous small blossoms—cherry (sakura) and plum (ume) in hues of deep crimson, ivory white, indigo blue, and muted gold—are woven into a dense, overlapping tapestry that bleeds across the sleeves and lapel, catching the light with a subtle sheen.\n\nThe artistic rendering is highly textured, blending painterly brushwork with cinematic photo-realism. Fine, trembled linework outlines her form and the floral patterns, creating a fragile, almost vulnerable boundary. The texture of the canvas and underlying pigment is intentionally visible, bleeding through the colors. The lighting is low and warm, casting dramatic, soft light that highlights the texture of her white hair, the silk flower, and a golden glint on the rim of her sunglasses, while plunging the folded layers of her kimono into intimate shadow, evoking a profound, quiet, and guarded cinematic mood.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T07:02:03.986Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792393080461-657",
+      "title": "Girl 00001",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792393080461-657.webp",
+      "prompt": "A young Taiwanese woman stands on a wet city street at twilight holding bicycle handlebars, her gaze directed upward and to the side with a thoughtful, slightly weary expression. Her dark hair is loosely tousled by wind, framing her face as she wears an olive-green jacket over a cream button-up shirt and dark trousers. A beige tote bag hangs from her shoulder, its flap partially open revealing a small mountain patch. She grips the bike frame firmly, posture relaxed yet alert. Behind her, rain-slicked pavement reflects neon signs—blue vertical signage in Chinese characters reading 台北市聯合醫院 points left, while red traffic lights and glowing shopfronts blur into motion with scooters passing by. Distant skyscrapers loom against a muted sky. The scene is captured at medium distance, shallow depth of field, cinematic lighting that highlights wet surfaces and ambient glow from street lamps and storefronts, creating a moody urban atmosphere.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T07:02:03.981Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792393031314-9435",
+      "title": "Girl 106",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792393031314-9435.webp",
+      "prompt": "A realistic cinematic photograph of a 22-year-old Korean woman standing beside a stationary train carriage on a quiet railway platform, leaning lightly against the smooth metal side. She has long, naturally straight dark brown hair with a few loose strands framing her face, subtle everyday makeup, natural skin texture, and a slender, believable build. Her head is turned toward the camera, meeting it with a soft direct gaze and a calm neutral expression, lips slightly parted. She wears a loose off-white knitted sweater over a muted red top, with the sleeves casually rolled to her elbows. The composition is a mid-torso portrait at eye level, with her positioned slightly off-center and the train receding behind her to create gentle depth. The carriage window reflects pale daylight and indistinct shapes. In the background, a station structure of metal beams and glass panes fades into muted sky tones and distant foliage. Diffused natural daylight creates soft highlights across the sweater and individual hair strands without harsh shadows. Shallow depth of field, restrained color palette, quiet candid atmosphere, authentic photographic proportions, no text, no logos, no temporary props.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T07:02:03.979Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792392996831-5628",
+      "title": "Girl 105",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392996831-5628.webp",
+      "prompt": "A realistic close-up photograph of a 22-year-old Taiwanese woman with softly rounded facial features, warm light-olive skin, shoulder-length dark brown hair tucked neatly behind her ears, and subtle natural makeup. She wears a pastel pink knit sweater with gently rumpled fabric at the shoulders. Her hands are tucked behind her back as she leans slightly forward, posing in a candy-colored bedroom filled with pale mint shelves, powder-blue storage boxes, peach-colored wall accents, and a small glass jar of pastel candies. She gives an adorable but faintly suspicious fake-innocent smile: her eyes are rounded almost too perfectly, her curled lashes lifted, and her lips arranged in a sweet, carefully rehearsed grin. Her expression should feel charming yet knowingly deceptive, without becoming exaggerated or cartoonish. Frame her from the chest up in a centered half-body composition, photographed at eye level with a 50mm lens. Soft daylight enters from a nearby window, creating gentle shadows under her chin and realistic highlights in her eyes and hair. Preserve natural skin texture, believable anatomy, subtle fabric detail, and authentic photographic depth of field.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T07:02:03.977Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792392938782-1442",
+      "title": "Girl 104",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392938782-1442.webp",
+      "prompt": "A realistic close-up photograph of a 23-year-old Taiwanese woman waiting on a quiet urban train platform in the early morning. She has warm light-brown skin, a softly oval face, shoulder-length dark brown hair slightly tousled by the arriving train’s breeze, and minimal natural makeup. Her expression shows anxious anticipation: eyes wide but sharply focused down the tracks, brows lifted unevenly, lips pressed together as if waiting for an important answer. She wears a pale stone-colored trench coat over a muted gray knit sweater and a charcoal knitted scarf, with one hand twisting the frayed edge of the scarf while the other rests tensely near her coat lapel. A blurred electronic timetable, platform safety line, metal railing, and distant train lights create a believable background without readable text. Frame her from the chest up at eye level, with her positioned slightly off-center and the tracks receding behind her. Cool overcast daylight mixes with soft fluorescent platform lighting, revealing natural skin texture, subtle fabric wrinkles, faint under-eye tension, and realistic shadows. Shallow depth of field, documentary-style candid composition, authentic photographic proportions, no glamour retouching.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T07:02:03.974Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792392872029-1000",
