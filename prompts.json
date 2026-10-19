@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T11:25:23.601Z",
+  "updated_at": "2026-10-19T11:25:50.001Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,10 +39,10 @@
   ],
   "items": [
     {
-      "id": "pv-1792408935712-2795",
-      "title": "Girl 00039",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408935712-2795.webp",
-      "prompt": "A dreamy multi-frame pastel pink aesthetic collage featuring a cute young girl with long silky black hair tied in a low ponytail. She wears natural soft-glam makeup, dewy skin, glossy pink lips, and a sweet youthful expression. The composition includes three different portrait panels: (1) looking to the right with a slightly surprised expression, (2) making cute duck lips while facing the camera, (3) gently touching her chin while looking down shyly.Mixed camera angles including close-up portraits, medium shots, and subtle top-down perspectives create visual variety. The layout features layered scrapbook-style transparent overlays, adorable plush toys, bunny doodles, diary stickers, candy illustrations, handwritten notes, pastel hearts, stars, and cute decorative elements.Soft pink lighting, dreamy glow, kawaii Pinterest-inspired aesthetic, high detail, magazine-style collage design, ultra-cute feminine vibe, soft focus, photorealistic, high quality, 4K.",
+      "id": "pv-1792409119086-5148",
+      "title": "Girl 00042",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409119086-5148.webp",
+      "prompt": "Ultra aesthetic streetwear girl collage poster, black and gray moody background, three different poses (selfie pose, back pose, sitting pose), oversized white jersey shirt, gray cargo pants, black sunglasses, gray cap, long black hair, soft white skin, trendy Korean fashion, dark urban atmosphere, glowing orange HUD elements, floating typography, cinematic lighting, depth of field, luxury street style, high contrast, TikTok edit style, CapCut template aesthetic, premium poster design, photorealistic, ultra detailed, 9:16 vertical composition.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -51,24 +51,9 @@
         "woman",
         "cute girl"
       ],
-      "is_premium": true,
-      "created_at": "2026-10-19T11:25:23.267Z"
-    },
-    {
-      "id": "pv-1792409018089-5146",
-      "title": "Girl 00040",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409018089-5146.webp",
-      "prompt": "Create a high-quality Y2K kawaii street-style collage poster based on the uploaded portrait.\n\nUse the uploaded portrait ONLY as the facial identity and hairstyle reference. Preserve the person’s real facial structure, skin tone, eye shape, nose, lips, face contour, hairstyle, hair length, bangs, and natural expression. Do not copy the original outfit, background, lighting, or pose from the uploaded portrait.\n\nGenerate a cute young female fashion portrait collage in a clean white studio background, inspired by Japanese Y2K idol magazine layouts and Korean photo booth sticker aesthetics. The overall visual style should be playful, sweet, stylish, and slightly rebellious.\n\nThe character wears a soft pastel blue off-shoulder cropped top, a black pleated mini skirt with pink belt details, white knee-high socks, black chunky boots, layered silver necklaces, small accessories, and a purple plaid beret with a small pink hair clip. The outfit should look fashionable, youthful, cute, and street-style.\n\nCreate a multi-frame collage layout with several different shots of the same person:\n1. one full-body standing pose in the center-left, slightly dynamic, one leg lifted, peace sign gesture;\n2. one sitting full-body pose in the bottom-left, knees close to the camera, cute relaxed expression;\n3. several close-up portrait frames on the right side, including smiling, winking, eyes closed, and peace sign poses;\n4. two horizontal eye-detail close-up frames on the upper-left side;\n5. one cropped upper-body fashion detail frame.\n\nUse irregular black sketch frame lines, magazine cutout borders, layered photo stickers, white negative space, and pink-purple graffiti decorations around the photos. Add hand-drawn stars, sparkle marks, arrows, hearts, doodle symbols, brush strokes, and neon pink outline glows. The collage should feel handmade, energetic, and trendy, but still clean and premium.\n\nReplace all random or meaningless text with stylish English words that fit the image. Add small handwritten graffiti-style words such as:\n“SHEENA”\n“Y2K GIRL”\n“CUTE ENERGY”\n“PINK MOOD”\n“DREAMY”\n“PLAYFUL”\n“SOFT REBEL”\n“STAY CUTE”\n“STYLE SNAP”\n“GLAM POP”\n\nUse these words as decorative graffiti elements only, not large readable poster titles. The text should look like hand-drawn stickers and street doodles, integrated naturally into the layout.\n\nLighting should be bright, soft, and clean, like a professional studio photo booth. Skin texture should remain realistic and natural, not plastic or over-smoothed. Keep realistic facial proportions, natural eyes, correct hands, clean hair details, and believable body anatomy.\n\nColor palette: white background, pastel blue outfit, lavender purple beret, pink-purple graffiti, black sketch lines, silver accessories. The final image should be sharp, detailed, fashionable, cute, and highly shareable for social media.\n\nAspect ratio: vertical 3:4 or 4:5.\nHigh-resolution, ultra-clean composition, no watermark, no logo, no AI-generated watermark, no brand marks.\n\nNegative Prompt：\n\nwatermark, logo, AI generated watermark, Chinese watermark, random text, unreadable messy text, distorted letters, wrong spelling, low resolution, blurry, over-smoothed skin, plastic skin, fake face, doll-like face, face mismatch, different identity, different hairstyle, deformed hands, extra fingers, missing fingers, broken fingers, unnatural pose, bad anatomy, duplicated face, duplicated body, messy layout, cluttered composition, dirty background, harsh shadows, heavy makeup, old-fashioned outfit, realistic brand logo, cropped head, distorted eyes, asymmetrical face, bad teeth, strange neck, broken limbs",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl"
-      ],
-      "is_premium": true,
-      "created_at": "2026-10-19T11:25:23.269Z"
+      "is_premium": false,
+      "created_at": "2026-10-19T11:25:23.240Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792409085384-9250",
@@ -84,13 +69,14 @@
         "cute girl"
       ],
       "is_premium": true,
-      "created_at": "2026-10-19T11:25:23.601Z"
+      "created_at": "2026-10-19T11:25:23.234Z",
+      "is_draft": false
     },
     {
-      "id": "pv-1792409119086-5148",
-      "title": "Girl 00042",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409119086-5148.webp",
-      "prompt": "Ultra aesthetic streetwear girl collage poster, black and gray moody background, three different poses (selfie pose, back pose, sitting pose), oversized white jersey shirt, gray cargo pants, black sunglasses, gray cap, long black hair, soft white skin, trendy Korean fashion, dark urban atmosphere, glowing orange HUD elements, floating typography, cinematic lighting, depth of field, luxury street style, high contrast, TikTok edit style, CapCut template aesthetic, premium poster design, photorealistic, ultra detailed, 9:16 vertical composition.",
+      "id": "pv-1792409018089-5146",
+      "title": "Girl 00040",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409018089-5146.webp",
+      "prompt": "Create a high-quality Y2K kawaii street-style collage poster based on the uploaded portrait.\n\nUse the uploaded portrait ONLY as the facial identity and hairstyle reference. Preserve the person’s real facial structure, skin tone, eye shape, nose, lips, face contour, hairstyle, hair length, bangs, and natural expression. Do not copy the original outfit, background, lighting, or pose from the uploaded portrait.\n\nGenerate a cute young female fashion portrait collage in a clean white studio background, inspired by Japanese Y2K idol magazine layouts and Korean photo booth sticker aesthetics. The overall visual style should be playful, sweet, stylish, and slightly rebellious.\n\nThe character wears a soft pastel blue off-shoulder cropped top, a black pleated mini skirt with pink belt details, white knee-high socks, black chunky boots, layered silver necklaces, small accessories, and a purple plaid beret with a small pink hair clip. The outfit should look fashionable, youthful, cute, and street-style.\n\nCreate a multi-frame collage layout with several different shots of the same person:\n1. one full-body standing pose in the center-left, slightly dynamic, one leg lifted, peace sign gesture;\n2. one sitting full-body pose in the bottom-left, knees close to the camera, cute relaxed expression;\n3. several close-up portrait frames on the right side, including smiling, winking, eyes closed, and peace sign poses;\n4. two horizontal eye-detail close-up frames on the upper-left side;\n5. one cropped upper-body fashion detail frame.\n\nUse irregular black sketch frame lines, magazine cutout borders, layered photo stickers, white negative space, and pink-purple graffiti decorations around the photos. Add hand-drawn stars, sparkle marks, arrows, hearts, doodle symbols, brush strokes, and neon pink outline glows. The collage should feel handmade, energetic, and trendy, but still clean and premium.\n\nReplace all random or meaningless text with stylish English words that fit the image. Add small handwritten graffiti-style words such as:\n“SHEENA”\n“Y2K GIRL”\n“CUTE ENERGY”\n“PINK MOOD”\n“DREAMY”\n“PLAYFUL”\n“SOFT REBEL”\n“STAY CUTE”\n“STYLE SNAP”\n“GLAM POP”\n\nUse these words as decorative graffiti elements only, not large readable poster titles. The text should look like hand-drawn stickers and street doodles, integrated naturally into the layout.\n\nLighting should be bright, soft, and clean, like a professional studio photo booth. Skin texture should remain realistic and natural, not plastic or over-smoothed. Keep realistic facial proportions, natural eyes, correct hands, clean hair details, and believable body anatomy.\n\nColor palette: white background, pastel blue outfit, lavender purple beret, pink-purple graffiti, black sketch lines, silver accessories. The final image should be sharp, detailed, fashionable, cute, and highly shareable for social media.\n\nAspect ratio: vertical 3:4 or 4:5.\nHigh-resolution, ultra-clean composition, no watermark, no logo, no AI-generated watermark, no brand marks.\n\nNegative Prompt：\n\nwatermark, logo, AI generated watermark, Chinese watermark, random text, unreadable messy text, distorted letters, wrong spelling, low resolution, blurry, over-smoothed skin, plastic skin, fake face, doll-like face, face mismatch, different identity, different hairstyle, deformed hands, extra fingers, missing fingers, broken fingers, unnatural pose, bad anatomy, duplicated face, duplicated body, messy layout, cluttered composition, dirty background, harsh shadows, heavy makeup, old-fashioned outfit, realistic brand logo, cropped head, distorted eyes, asymmetrical face, bad teeth, strange neck, broken limbs",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -99,8 +85,26 @@
         "woman",
         "cute girl"
       ],
-      "is_premium": false,
-      "created_at": "2026-10-19T11:25:23.601Z"
+      "is_premium": true,
+      "created_at": "2026-10-19T11:25:23.232Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792408935712-2795",
+      "title": "Girl 00039",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408935712-2795.webp",
+      "prompt": "A dreamy multi-frame pastel pink aesthetic collage featuring a cute young girl with long silky black hair tied in a low ponytail. She wears natural soft-glam makeup, dewy skin, glossy pink lips, and a sweet youthful expression. The composition includes three different portrait panels: (1) looking to the right with a slightly surprised expression, (2) making cute duck lips while facing the camera, (3) gently touching her chin while looking down shyly.Mixed camera angles including close-up portraits, medium shots, and subtle top-down perspectives create visual variety. The layout features layered scrapbook-style transparent overlays, adorable plush toys, bunny doodles, diary stickers, candy illustrations, handwritten notes, pastel hearts, stars, and cute decorative elements.Soft pink lighting, dreamy glow, kawaii Pinterest-inspired aesthetic, high detail, magazine-style collage design, ultra-cute feminine vibe, soft focus, photorealistic, high quality, 4K.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T11:25:23.229Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792408865790-2937",
@@ -1044,7 +1048,7 @@
       "id": "pv-1792391595802-2466",
       "title": "Girl 90",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792391595802-2466.webp",
-      "prompt": "中景，约21 year-old女子黑双马尾系骷髅蝴蝶结，穿黑白骨骼印花吊带蓬裙，戴银链和十字耳环，上臂有条码图案。一手捻发梢，一手垂在裙前，直视镜头。身旁锈管与剥落灰墙���厂房背景虚化，柔和冷光。",
+      "prompt": "中景，约21 year-old女子黑双马尾系骷髅蝴蝶结，穿黑白骨骼印花吊带蓬裙，戴银链和十字耳环，上臂有条码图案。一手捻发梢，一手垂在裙前，直视镜头。身旁锈管与剥落灰墙，厂房背景虚化，柔和冷光。",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -3729,7 +3733,7 @@
       "id": "pv-1792307696627",
       "title": "Chinese Girl Assassin",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792307696627.webp",
-      "prompt": "生成一张角色卡。图片提示词如下国风女刺客，冷冽气质，超写实肖像，8K高清， 极致细节。年轻女子，面容精致，眼神��厉冷冽，微侧头回眸看向镜头，表情肃杀疏离。黑发高束，发丝飞散，发饰为黑银色金属发簪与流苏，耳饰为长链条耳坠，多耳洞。身穿黑白渐变古风刺客服饰，白色轻纱与黑色皮革拼接， 肩部有金属环扣与绑带，颈部佩戴黑色项圈。 逆光+侧逆光，发丝与衣料边缘高光明显，背景暗色虚化，冷色调，氛围感强，武侠东方美学，超写实，电影级质感，浅景深，细节丰富， 皮肤质感细腻，睫毛根根分明，眼妆精致，唇色暗红，风轻微吹动发丝。\n镜头:85mm定焦镜头，光圈f/1.8 构图:近景人像，三分法构图，人物占画面70% 色彩风格:冷色调(蓝灰为主)，低饱和，高对比画面风格:超写实摄影，电影质感，武侠氛围",
+      "prompt": "生成一张角色卡。图片提示词如下国风女刺客，冷冽气质，超写实肖像，8K高清， 极致细节。年轻女子，面容精致，眼神凌厉冷冽，微侧头回眸看向镜头，表情肃杀疏离。黑发高束，发丝飞散，发饰为黑银色金属发簪与流苏，耳饰为长链条耳坠，多耳洞。身穿黑白渐变古风刺客服饰，白色轻纱与黑色皮革拼接， 肩部有金属环扣与绑带，颈部佩戴黑色项圈。 逆光+侧逆光，发丝与衣料边缘高光明显，背景暗色虚化，冷色调，氛围感强，武侠东方美学，超写实，电影级质感，浅景深，细节丰富， 皮肤质感细腻，睫毛根根分明，眼妆精致，唇色暗红，风轻微吹动发丝。\n镜头:85mm定焦镜头，光圈f/1.8 构图:近景人像，三分法构图，人物占画面70% 色彩风格:冷色调(蓝灰为主)，低饱和，高对比画面风格:超写实摄影，电影质感，武侠氛围",
       "negative_prompt": "卡通，动漫，3D,CG,插画，低清，模糊，噪点， 过度磨皮，塑料感，失真，畸形手指，多余手指， 脸部扭曲，五官变形，眼睛变形，色彩过艳和饱和， 过曝，穿模，水印，文字，logo,边框，二维码， 拼接图，重复人物，背景杂乱，光线混乱，色彩脏， HDR过度，锐化过度，AI痕迹，假发感，皮肤像蜡",
       "model": "z-image-turbo",
       "category": "Anime",
