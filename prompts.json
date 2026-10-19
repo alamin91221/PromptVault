@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T11:51:25.708Z",
+  "updated_at": "2026-10-19T11:51:56.027Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,40 +39,10 @@
   ],
   "items": [
     {
-      "id": "pv-1792410199636-8123",
-      "title": "ad 7",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792410199636-8123.webp",
-      "prompt": "A fashionable girl holding vintage coffee cup laughing heartily on camping grassland, tent and picnic mat spread behind, fisheye lens low-angle shot, coffee cup exaggeratedly large in foreground, motion blur on background with other campers and colorful canopy tents, campfire and starry-appearing mountain forest in soft bokeh. Bold caramel-brown hand-brushed Chinese calligraphy headline \"野趣生活\", bold forest-green hand-brushed subheadline \"畅饮每一刻！\", khaki banner with coffee leaf icon top-left \"自然陪伴每一天\", speech bubble top-right \"山野营地 野趣加倍\", warm-yellow tag \"释放压力\" khaki tag \"尽情放松\" on right side, three white circular icons with earth-tone text bottom-left \"阿拉比卡 安心甄选\" \"便携包装 品质之选\" \"分享装 增进友谊\", khaki curved banner bottom-left with shopping cart icon \"咖啡饮品 一站式购齐\" and forest-green CTA button \"满199减40\", handwritten text bottom-right \"陪她一起 探索自然！\". Khaki and forest-green dominant palette with caramel-brown and warm-yellow accents, hand-drawn doodle lines, speech bubbles, coffee leaf icons, outdoor camping atmosphere, e-commerce promotional poster, high saturation bright tones, 3:4 vertical aspect ratio, commercial photography style, sharp focus on main subject, shallow depth of field.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Advertising",
-      "tags": [
-        "ad",
-        "ads"
-      ],
-      "is_premium": true,
-      "created_at": "2026-10-19T11:51:25.706Z"
-    },
-    {
-      "id": "pv-1792410275565-7468",
-      "title": "ad  8",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792410275565-7468.webp",
-      "prompt": "A lazy orange tabby cat stretching on a bright cozy cat cafe windowsill, front paw pressed against glass showing cute paw pad close-up, fisheye lens eye-level slightly low angle, front paw exaggeratedly large in foreground, motion blur on background with British Shorthair blue cat and Ragdoll playing on cat trees, wooden cat shelves and warm floor lamp in soft bokeh. Bold cream-white hand-brushed Chinese calligraphy headline \"治愈时光\", bold warm-orange hand-brushed subheadline \"喵享每一刻！\", beige banner with cat paw icon top-left \"温柔陪伴每一天\", speech bubble top-right \"猫咪咖啡馆 治愈加倍\", coral tag \"释放慵懒\" beige tag \"尽情撒娇\" on right side, three white circular icons with warm text bottom-left \"天然材质 安心接触\" \"耐抓耐用 品质之选\" \"互动玩具 增进感情\", beige curved banner bottom-left with shopping cart icon \"猫咪用品 一站式购齐\" and coral CTA button \"满299减50\", handwritten text bottom-right \"陪它一起 慢享生活！\". Warm cream and orange dominant palette with coral and white accents, hand-drawn doodle lines, speech bubbles, cat paw icons, cozy healing atmosphere, e-commerce promotional poster, high saturation bright tones, 3:4 vertical aspect ratio, commercial photography style, sharp focus on main cat, shallow depth of field.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Advertising",
-      "tags": [
-        "ad",
-        "ads"
-      ],
-      "is_premium": true,
-      "created_at": "2026-10-19T11:51:25.706Z"
-    },
-    {
-      "id": "pv-1792410341064-5944",
-      "title": "Girl 00065",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792410341064-5944.webp",
-      "prompt": "主題：\n氷越しの夏\n\n主体：\n縦長2:3のリアル写真。透明な大型プラスチックカップの内側から見上げるような超広角フィッシュアイ構図。画面下半分いっぱいに赤いいちご果肉とクラッシュアイスが迫り、中央から太いグリーンのストローが奥へ一直線に伸びる。丸く歪んだカップの開口部の向こうに、女性の顔が中央に大きく収まる。\n\n人物・表情：\n自然で現実感のある若い女性。黒髪に近いダークブラウンの髪を高めのお団子にまとめ、薄い前髪と顔まわりの後れ毛が日差しで細く光っている。透明感のあるナチュラルメイク、淡いピンクの頬、つやのあるリップ。目を大きく開いてカメラをまっすぐ見つめ、唇を小さく丸めてストローをくわえている。少し驚いたような、可愛らしく無邪気な表情。\n\n服装・ポーズ：\n白いレース素材のブラウス。首元と肩まわりに細かなフリルがあり、夏らしく軽い質感。人物はカップの向こう側に顔を近づけ、両肩は下部に少しだけ見える。ストローは人物の口元に自然に接触し、奥から手前の赤い氷へ向かって強い奥行きを作る。\n\n背景・光：\n背景は晴れた夏の日の古い商店街。木造風の店先、かき氷屋の暖簾、苺柄の看板、白い小さな旗、街路樹が見える。文字はすべてぼかされた読めない装飾として扱う。左上から強い太陽光が入り、透明カップの水滴、カップ縁、氷、赤い果肉に細かな反射とハイライトが出る。影は右下へ落ち、白いクリームの残りがカップ内側にリング状についている。\n\n構図・カメラ：\nカメラはカップの底付近、赤い氷のすぐ上に置いたような極端なローアングル。フィッシュアイレンズでカップの円形リムが大きく湾曲し、周囲の商店街も軽く歪む。画面下45％は赤い氷と果肉の前ボケ、中央はストローと女性の顔、上部は青空とカップの透明な縁。ピントは女性の目と口元、手前の氷はきらめく浅いボケ。\n\n質感・スタイル：\nプロ用カメラで撮影した夏の広告写真風。透明プラスチックの屈折、水滴の粒、氷の冷たさ、いちご果肉の瑞々しさを高精細に表現。青空、赤い氷、グリーンのストロー、白いブラウスの色の対比を鮮やかにする。肌は自然な質感を残し、過度な美肌補正はしない。明るくポップで、少しユーモラスな日本の夏スイーツ写真。\n\nネガティブ：\n実在ブランドロゴ、読める文字、商標の再現、不自然な顔、不自然な視線、歯や唇の崩れ、ストローとの接触不良、余分な指、欠けた指、手足の融合、氷の浮遊、不自然な重力、誤った遠近法、光源と矛盾する影、文字化け、透かし、過度な美肌補正、プラスチックのような肌。",
+      "id": "pv-1792410680327-2691",
+      "title": "Girl 00070",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792410680327-2691.webp",
+      "prompt": "Ultra-realistic vertical smartphone photo of a fictional 18-year-old adult Japanese woman, faithfully recreating the reference image’s high-angle selfie composition, cute casual street style, soft pouty expression, and natural outdoor atmosphere.\n\nShe has a soft small oval face, fair smooth but realistic skin, large warm dark brown eyes, subtle natural eye makeup, soft peach-pink blush, small natural nose, and soft pink lips. Her cheeks are puffed out gently in a cute “muu” pout expression, with her lips slightly pursed, looking directly up into the camera. Her expression is calm, shy, playful, and naturally cute, not overly posed.\n\nHer hair is light ash-brown, shoulder-length bob with soft inward curls at the ends. She has thin straight see-through bangs covering the forehead, slightly uneven natural strands, and small side ponytails tied on both sides with small black hair ties. The hair should look realistic, soft, and slightly airy, with individual strands visible.\n\nShe is wearing an oversized black hoodie with a relaxed loose fit, soft cotton texture, drawstrings hanging naturally, and a small white graphic emblem on the left chest. A small black mini crossbody bag is worn diagonally across the front of her body, with a glossy leather-like texture, zipper details, and metal hardware. White loose leg warmers and dark socks are visible at the bottom of the frame.\n\nPose and composition: high-angle selfie perspective from above her head, 4:5 vertical smartphone photo. She stands outdoors looking up at the camera, body slightly angled, shoulders relaxed, arms held behind her back, creating a shy cute posture. The frame includes her face, upper body, crossbody bag, hoodie, thighs, white leg warmers, dark socks, and part of the ground. Slight wide-angle smartphone lens distortion, face centered near the upper middle of the frame.\n\nBackground: pale textured concrete wall behind her, dark wooden or black bench on the right side, light gravel stones on the ground, simple neutral outdoor setting. The background is clean and realistic, slightly soft but still recognizable.\n\nLighting: soft diffused natural daylight, no harsh shadows, gentle bright skin tones, realistic shadows around the eyes, under the chin, and inside the hoodie folds.\n\nStyle: ultra-realistic Japanese casual street portrait, authentic iPhone-style photo, natural skin texture, visible fine pores, realistic hair strands, soft but sharp focus on the eyes, true-to-life colors, slight smartphone compression, subtle handheld imperfection, not overly edited, not plastic, not doll-like, not CGI.\n\nCamera settings: vertical 4:5 smartphone photo, high-angle selfie, 24mm smartphone lens look, close distance, natural perspective distortion, crisp face details, realistic depth, casual candid street fashion snapshot.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -82,23 +52,8 @@
         "cute girl"
       ],
       "is_premium": true,
-      "created_at": "2026-10-19T11:51:25.706Z"
-    },
-    {
-      "id": "pv-1792410371462-3330",
-      "title": "Girl 00066",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792410371462-3330.webp",
-      "prompt": "vibrant, stylized digital illustration features a beautiful, dark-haired young woman as the central subject. She wears an elegant, white off-the-shoulder top or dress, accessorized with a metallic silver choker, a delicate chain necklace with a blue gemstone pendant, and ornate drop earrings. Captured in a close-up portrait, she is posed sitting at a table, gently cradling a tall glass of iced pink lemonade with a thick purple straw. Her expression is soft, captivating, and serene, characterized by striking, large icy-blue eyes, long eyelashes, and perfectly glossed pink lips, with her wavy, voluminous black hair cascading over her shoulders and adorned with a purple flower. Soft, bright, natural daylight illuminates the scene, casting gentle highlights on her flawless skin and making the condensation on the glass shimmer. In the foreground, scattered purple flowers decorate the white tabletop around the refreshing drink, which is garnished with a lemon slice and mint leaves. The background blurs into a soft-focus, sun-dappled garden filled with hints of green foliage and blooming purple flora. The overall color tone is a refreshing, summer-inspired blend of crisp whites, rich purples, and radiant pinks, evoking a dreamy, elegant, and beautifully tranquil vibe.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-19T11:51:25.708Z"
+      "created_at": "2026-10-19T11:51:25.669Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792410598883-284",
@@ -114,13 +69,31 @@
         "cute girl"
       ],
       "is_premium": false,
-      "created_at": "2026-10-19T11:51:25.708Z"
+      "created_at": "2026-10-19T11:51:25.666Z",
+      "is_draft": false
     },
     {
-      "id": "pv-1792410680327-2691",
-      "title": "Girl 00070",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792410680327-2691.webp",
-      "prompt": "Ultra-realistic vertical smartphone photo of a fictional 18-year-old adult Japanese woman, faithfully recreating the reference image’s high-angle selfie composition, cute casual street style, soft pouty expression, and natural outdoor atmosphere.\n\nShe has a soft small oval face, fair smooth but realistic skin, large warm dark brown eyes, subtle natural eye makeup, soft peach-pink blush, small natural nose, and soft pink lips. Her cheeks are puffed out gently in a cute “muu” pout expression, with her lips slightly pursed, looking directly up into the camera. Her expression is calm, shy, playful, and naturally cute, not overly posed.\n\nHer hair is light ash-brown, shoulder-length bob with soft inward curls at the ends. She has thin straight see-through bangs covering the forehead, slightly uneven natural strands, and small side ponytails tied on both sides with small black hair ties. The hair should look realistic, soft, and slightly airy, with individual strands visible.\n\nShe is wearing an oversized black hoodie with a relaxed loose fit, soft cotton texture, drawstrings hanging naturally, and a small white graphic emblem on the left chest. A small black mini crossbody bag is worn diagonally across the front of her body, with a glossy leather-like texture, zipper details, and metal hardware. White loose leg warmers and dark socks are visible at the bottom of the frame.\n\nPose and composition: high-angle selfie perspective from above her head, 4:5 vertical smartphone photo. She stands outdoors looking up at the camera, body slightly angled, shoulders relaxed, arms held behind her back, creating a shy cute posture. The frame includes her face, upper body, crossbody bag, hoodie, thighs, white leg warmers, dark socks, and part of the ground. Slight wide-angle smartphone lens distortion, face centered near the upper middle of the frame.\n\nBackground: pale textured concrete wall behind her, dark wooden or black bench on the right side, light gravel stones on the ground, simple neutral outdoor setting. The background is clean and realistic, slightly soft but still recognizable.\n\nLighting: soft diffused natural daylight, no harsh shadows, gentle bright skin tones, realistic shadows around the eyes, under the chin, and inside the hoodie folds.\n\nStyle: ultra-realistic Japanese casual street portrait, authentic iPhone-style photo, natural skin texture, visible fine pores, realistic hair strands, soft but sharp focus on the eyes, true-to-life colors, slight smartphone compression, subtle handheld imperfection, not overly edited, not plastic, not doll-like, not CGI.\n\nCamera settings: vertical 4:5 smartphone photo, high-angle selfie, 24mm smartphone lens look, close distance, natural perspective distortion, crisp face details, realistic depth, casual candid street fashion snapshot.",
+      "id": "pv-1792410371462-3330",
+      "title": "Girl 00066",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792410371462-3330.webp",
+      "prompt": "vibrant, stylized digital illustration features a beautiful, dark-haired young woman as the central subject. She wears an elegant, white off-the-shoulder top or dress, accessorized with a metallic silver choker, a delicate chain necklace with a blue gemstone pendant, and ornate drop earrings. Captured in a close-up portrait, she is posed sitting at a table, gently cradling a tall glass of iced pink lemonade with a thick purple straw. Her expression is soft, captivating, and serene, characterized by striking, large icy-blue eyes, long eyelashes, and perfectly glossed pink lips, with her wavy, voluminous black hair cascading over her shoulders and adorned with a purple flower. Soft, bright, natural daylight illuminates the scene, casting gentle highlights on her flawless skin and making the condensation on the glass shimmer. In the foreground, scattered purple flowers decorate the white tabletop around the refreshing drink, which is garnished with a lemon slice and mint leaves. The background blurs into a soft-focus, sun-dappled garden filled with hints of green foliage and blooming purple flora. The overall color tone is a refreshing, summer-inspired blend of crisp whites, rich purples, and radiant pinks, evoking a dreamy, elegant, and beautifully tranquil vibe.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T11:51:25.663Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792410341064-5944",
+      "title": "Girl 00065",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792410341064-5944.webp",
+      "prompt": "主題：\n氷越しの夏\n\n主体：\n縦長2:3のリアル写真。透明な大型プラスチックカップの内側から見上げるような超広角フィッシュアイ構図。画面下半分いっぱいに赤いいちご果肉とクラッシュアイスが迫り、中央から太いグリーンのストローが奥へ一直線に伸びる。丸く歪んだカップの開口部の向こうに、女性の顔が中央に大きく収まる。\n\n人物・表情：\n自然で現実感のある若い女性。黒髪に近いダークブラウンの髪を高めのお団子にまとめ、薄い前髪と顔まわりの後れ毛が日差しで細く光っている。透明感のあるナチュラルメイク、淡いピンクの頬、つやのあるリップ。目を大きく開いてカメラをまっすぐ見つめ、唇を小さく丸めてストローをくわえている。少し驚いたような、可愛らしく無邪気な表情。\n\n服装・ポーズ：\n白いレース素材のブラウス。首元と肩まわりに細かなフリルがあり、夏らしく軽い質感。人物はカップの向こう側に顔を近づけ、両肩は下部に少しだけ見える。ストローは人物の口元に自然に接触し、奥から手前の赤い氷へ向かって強い奥行きを作る。\n\n背景・光：\n背景は晴れた夏の日の古い商店街。木造風の店先、かき氷屋の暖簾、苺柄の看板、白い小さな旗、街路樹が見える。文字はすべてぼかされた読めない装飾として扱う。左上から強い太陽光が入り、透明カップの水滴、カップ縁、氷、赤い果肉に細かな反射とハイライトが出る。影は右下へ落ち、白いクリームの残りがカップ内側にリング状についている。\n\n構図・カメラ：\nカメラはカップの底付近、赤い氷のすぐ上に置いたような極端なローアングル。フィッシュアイレンズでカップの円形リムが大きく湾曲し、周囲の商店街も軽く歪む。画面下45％は赤い氷と果肉の前ボケ、中央はストローと女性の顔、上部は青空とカップの透明な縁。ピントは女性の目と口元、手前の氷はきらめく浅いボケ。\n\n質感・スタイル：\nプロ用カメラで撮影した夏の広告写真風。透明プラスチックの屈折、水滴の粒、氷の冷たさ、いちご果肉の瑞々しさを高精細に表現。青空、赤い氷、グリーンのストロー、白いブラウスの色の対比を鮮やかにする。肌は自然な質感を残し、過度な美肌補正はしない。明るくポップで、少しユーモラスな日本の夏スイーツ写真。\n\nネガティブ：\n実在ブランドロゴ、読める文字、商標の再現、不自然な顔、不自然な視線、歯や唇の崩れ、ストローとの接触不良、余分な指、欠けた指、手足の融合、氷の浮遊、不自然な重力、誤った遠近法、光源と矛盾する影、文字化け、透かし、過度な美肌補正、プラスチックのような肌。",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -130,7 +103,40 @@
         "cute girl"
       ],
       "is_premium": true,
-      "created_at": "2026-10-19T11:51:25.708Z"
+      "created_at": "2026-10-19T11:51:25.658Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792410275565-7468",
+      "title": "ad  8",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792410275565-7468.webp",
+      "prompt": "A lazy orange tabby cat stretching on a bright cozy cat cafe windowsill, front paw pressed against glass showing cute paw pad close-up, fisheye lens eye-level slightly low angle, front paw exaggeratedly large in foreground, motion blur on background with British Shorthair blue cat and Ragdoll playing on cat trees, wooden cat shelves and warm floor lamp in soft bokeh. Bold cream-white hand-brushed Chinese calligraphy headline \"治愈时光\", bold warm-orange hand-brushed subheadline \"喵享每一刻！\", beige banner with cat paw icon top-left \"温柔陪伴每一天\", speech bubble top-right \"猫咪咖啡馆 治愈加倍\", coral tag \"释放慵懒\" beige tag \"尽情撒娇\" on right side, three white circular icons with warm text bottom-left \"天然材质 安心接触\" \"耐抓耐用 品质之选\" \"互动玩具 增进感情\", beige curved banner bottom-left with shopping cart icon \"猫咪用品 一站式购齐\" and coral CTA button \"满299减50\", handwritten text bottom-right \"陪它一起 慢享生活！\". Warm cream and orange dominant palette with coral and white accents, hand-drawn doodle lines, speech bubbles, cat paw icons, cozy healing atmosphere, e-commerce promotional poster, high saturation bright tones, 3:4 vertical aspect ratio, commercial photography style, sharp focus on main cat, shallow depth of field.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Advertising",
+      "tags": [
+        "ad",
+        "ads"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T11:51:25.655Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792410199636-8123",
+      "title": "ad 7",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792410199636-8123.webp",
+      "prompt": "A fashionable girl holding vintage coffee cup laughing heartily on camping grassland, tent and picnic mat spread behind, fisheye lens low-angle shot, coffee cup exaggeratedly large in foreground, motion blur on background with other campers and colorful canopy tents, campfire and starry-appearing mountain forest in soft bokeh. Bold caramel-brown hand-brushed Chinese calligraphy headline \"野趣生活\", bold forest-green hand-brushed subheadline \"畅饮每一刻！\", khaki banner with coffee leaf icon top-left \"自然陪伴每一天\", speech bubble top-right \"山野营地 野趣加倍\", warm-yellow tag \"释放压力\" khaki tag \"尽情放松\" on right side, three white circular icons with earth-tone text bottom-left \"阿拉比卡 安心甄选\" \"便携包装 品质之选\" \"分享装 增进友谊\", khaki curved banner bottom-left with shopping cart icon \"咖啡饮品 一站式购齐\" and forest-green CTA button \"满199减40\", handwritten text bottom-right \"陪她一起 探索自然！\". Khaki and forest-green dominant palette with caramel-brown and warm-yellow accents, hand-drawn doodle lines, speech bubbles, coffee leaf icons, outdoor camping atmosphere, e-commerce promotional poster, high saturation bright tones, 3:4 vertical aspect ratio, commercial photography style, sharp focus on main subject, shallow depth of field.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Advertising",
+      "tags": [
+        "ad",
+        "ads"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T11:51:25.653Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792410099871-6604",
