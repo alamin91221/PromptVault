@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T06:02:46.813Z",
+  "updated_at": "2026-10-19T06:03:42.612Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,21 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1792389807031-4394",
+      "title": "Anime Girl 005",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792389807031-4394.webp",
+      "prompt": "masterpiece, best quality, ultra detailed,\n\nsolo female, adult woman, firefly \\(honkai: star rail\\), mature face,\nposter composition,\nlarge close-up of her face in the upper frame, silver-white hair, teal eyes, slight smile, dark headband, teal collar,\nfull body below, long silver hair, light teal and white dress with armor accents, mechanical boots,\nstanding on a circular compass base,\ndark mechanical wings and sam armor fragments behind her, black and red mechanical parts,\nwhite butterflies, ink smoke, floating sparks,\nsoft painterly illustration, muted grey and teal palette",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "anime",
+        "girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T06:03:42.612Z"
+    },
     {
       "id": "pv-1792389745115-1679",
       "title": "Anime Girl 004",
