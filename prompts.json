@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T06:00:52.479Z",
+  "updated_at": "2026-10-19T06:02:46.813Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,22 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1792389745115-1679",
+      "title": "Anime Girl 004",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792389745115-1679.webp",
+      "prompt": "masterpiece, dynamic anime illustration, cyberpunk girl riding a futuristic motorcycle through a neon-lit megacity, low camera angle near the asphalt, leaning sharply into a turn, one hand gripping the handlebar, long silver hair streaming behind her, illuminated wheels, sparks scraping against the road, rain spraying from the tires, traffic lights streaking across the frame, towering buildings, cyan and hot pink neon, strong directional motion blur, dramatic foreshortening, energetic composition",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "anime",
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T06:02:46.813Z"
+    },
     {
       "id": "pv-1792389629727-377",
       "title": "Anime Girl 003",
