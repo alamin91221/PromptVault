@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T07:11:44.462Z",
+  "updated_at": "2026-10-19T11:05:32.665Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,118 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1792407596167-1024",
+      "title": "Girl 00011",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792407596167-1024.webp",
+      "prompt": "人物特征\n一位年轻女性，拥有精致的五官与细腻白皙的皮肤，面部轮廓柔和。双眸清澈明亮，眼底透着淡淡的笑意，嘴角自然上扬，流露出亲切而治愈的微笑。深棕色长发带有自然的波浪弧度，额前轻盈的空气刘海增添了少女感。\n\n服装与姿态\n身穿灰色细肩带针织修身长裙，面料呈现细密的竖条纹肌理，剪裁贴身，勾勒出优雅的身形线条。她端坐在亮黄色的公共座椅上，双手交叠置于膝头，头部微微侧倾，姿态松弛自然，展现出简约纯净的素雅气质。\n\n光影与氛围\n采用日系街拍美学，整体色调为柔和的暖调与中性色，灰色长裙、亮黄座椅与背景中橘黄色的旧式火车车厢形成和谐的色彩对比。光线均匀且带有午后阳光的慵懒感，营造出清新、治愈的空气感，强调自然光影的通透度。\n\n构图与技术规格\n使用85mm定焦镜头，f/1.8大光圈，营造出浅景深效果，使背景中的工业风火车车厢呈现出细腻的虚化感。画面保持高动态范围，注重皮肤纹理的真实质感与柔和的色彩过渡。\n\n禁止事项\n画面中不得出现任何文字、Logo或水印。避免过度锐化，严禁人物面部变形或比例失调，拒绝过饱和的霓虹色彩或塑料质感，确保背景氛围自然融合，不破坏整体的清新治愈感。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T11:05:32.655Z"
+    },
+    {
+      "id": "pv-1792407680751-1490",
+      "title": "Girl 00012",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792407680751-1490.webp",
+      "prompt": "Create an ultra-realistic candid editorial fashion portrait of a beautiful young East Asian woman walking through an elegant European city street at night. She has long, silky straight black hair, luminous fair skin, naturally soft facial features, and a warm, effortless smile. She glances toward the camera as if someone she knows has just called her name, creating an authentic, unscripted expression full of warmth and confidence.\n\nShe wears a fitted light gray ruched mini dress with adjustable side drawstrings, paired with minimalist luxury accessories and elegant heels. Her body is captured mid-stride with relaxed posture and graceful movement, creating the feeling of a genuine candid moment rather than a posed fashion shoot.\n\nThe setting evokes the atmosphere of an exclusive luxury fragrance campaign filmed in Paris or Milan. The street features elegant European architecture, charming cafés with softly glowing terrace lights, boutique storefronts, polished stone sidewalks, luxury hotels, subtle flower displays, and beautifully dressed pedestrians softly blurred in the distance. The city feels sophisticated, romantic, and effortlessly luxurious without appearing crowded.\n\nWarm café lights blend naturally with classic street lamps, creating soft golden highlights on her face and hair while preserving realistic skin texture. The surrounding environment is filled with refined ambient lighting, distant conversations, soft reflections in shop windows, and subtle hints of city life, producing a calm yet vibrant nighttime atmosphere.\n\nA gentle evening breeze softly lifts a few strands of her hair and lightly moves the hem of her dress, adding natural motion and realism. The background remains beautifully blurred with creamy cinematic bokeh, while the subject stays perfectly sharp.\n\nPhotographed as if captured by a world-class fashion photographer during an unscripted moment between shots for a luxury Vogue editorial or premium fragrance campaign. The image feels timeless, sophisticated, intimate, and emotionally authentic rather than overly polished or AI-generated.\n\nFull-frame DSLR aesthetic, 85mm lens, f/1.4, extremely shallow depth of field, premium HDR, natural skin texture, visible individual hair strands, realistic fabric folds, subtle Kodak Portra-inspired color grading, delicate film grain, true-to-life proportions, cinematic realism, editorial fashion photography, museum-quality detail, ultra-photorealistic, 8K resolution, vertical composition, 3:4 aspect ratio.\n\nNegative Prompt:\n\ncartoon, CGI, illustration, plastic skin, over-sharpening, oversaturated colors, exaggerated beauty filters, distorted anatomy, duplicate limbs, bad hands, extra fingers, asymmetrical eyes, artificial smile, uncanny facial features, low resolution, text, watermark, logo, frame, noise artifacts, unrealistic lighting, overly smooth skin, stiff pose, generic AI look",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T11:05:32.655Z"
+    },
+    {
+      "id": "pv-1792407739049-4179",
+      "title": "Girl 00013",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792407739049-4179.webp",
+      "prompt": "主題：\n夜街の白と長靴\n\n主体：\n夕暮れの商店街で、成人女性が金属の歩道柵へ腰掛け、肩越しに振り向く縦位置の全身写真。 人物は画面中央を基準に配置する。\n\n人物・表情：\n腰近くまでの濃茶のストレート髪と薄い前髪。卵形輪郭、横長の茶色い目、自然な細眉、小ぶりな鼻、桃色の艶唇。背中側からカメラを見返す静かな表情。 顔を肩越しにカメラへ向ける。\n\n服装・ポーズ：\n白いノースリーブの身体に沿うミニワンピース、淡い灰褐色の膝丈ハイヒールブーツは側面に二本のバックル。白いキルティング風チェーンリュック。柵へ横向きに座り、片脚を下ろす。\n\n背景・光：\n看板の灯る店、歩行者、走る車、奥へ続く街路。正面の硬いフラッシュが人物を明るくし、背景の街灯は橙色の玉ぼけ。 画面背景の主光はカメラ正面からの硬い直射。\n\n構図・カメラ：\n2:3の縦構図、カメラは腰より少し低い後方斜めの全身写真。人物を中央右、柵を水平に通し、白いリュックと長いブーツを明瞭に収める。人物に焦点、街は大きくぼかす。 人物を大きく収め、主役へ焦点を合わせ、背景は軽いボケ。\n\n質感・スタイル：\nフォトリアルな夜間スナップ。白い布、キルティング、灰褐色のブーツ、髪の艶を直射フラッシュでくっきり写す。\n\nネガティブ：\n膝丈バックルブーツと白いリュックを省かない；昼景にしない",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T11:05:32.656Z"
+    },
+    {
+      "id": "pv-1792407822721-5822",
+      "title": "Girl 00014",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792407822721-5822.webp",
+      "prompt": "Ultra-realistic outdoor lifestyle portrait of a young woman standing on a quiet tree-lined street on a bright summer day. She has long, silky dark-brown hair with soft natural waves, subtle curtain bangs, and loose strands framing her face. She has delicate youthful facial features, clear natural skin, soft brown eyes, subtle makeup, and a cute playful expression with gently pursed lips.\nShe is wearing a fitted white sleeveless square-neck dress with a clean minimalist style. A soft beige knitted cardigan is draped casually over one arm. She carries a small elegant white quilted handbag with a gold chain and gold hardware. She wears a delicate pendant necklace and a simple ring.\nShe holds a clear plastic cup filled with a pale green iced matcha drink near her mouth with both hands, as if about to take a sip. The cup has a simple handwritten-style café label.\nBackground features lush mature green trees, a quiet paved walkway, elegant stone-and-metal fencing, and soft architectural details partially visible through the foliage. Bright natural daylight filters through the trees, creating beautiful dappled sunlight and soft shadows across the scene.\nKorean-inspired minimalist fashion photography, candid street-style aesthetic, soft summer atmosphere, natural daylight, realistic skin texture, detailed hair strands, realistic fabric and handbag textures, subtle warm color grading, shallow depth of field, gentle background bokeh, authentic smartphone photography, photorealistic, high resolution, natural body proportions, vertical 4:5 composition.\nNegative prompt: cartoon, anime, CGI, plastic skin, excessive makeup, distorted face, asymmetrical eyes, malformed hands, extra fingers, distorted drink cup, warped handbag, unrealistic hair, unnatural body proportions, oversaturated colors, harsh shadows, blurry subject, excessive retouching, text artifacts, watermark.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T11:05:32.656Z"
+    },
+    {
+      "id": "pv-1792407865138-8969",
+      "title": "Girl 00015",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792407865138-8969.webp",
+      "prompt": "Ultra-realistic smartphone photo of a beautiful young Japanese woman with smooth porcelain skin, soft natural facial features, large warm brown eyes, glossy pink lips, and long silky dark brown hair worn naturally loose. She is sitting in a cozy modern café, resting her chin on one hand while smiling gently at the camera. She wears a sleeveless cream knit top, a cream scrunchie, and delicate green jade bead bracelets, creating a simple yet elegant everyday look. A cold iced drink with a straw sits on the wooden table beside a smartphone, while the softly blurred café interior with warm lighting, exposed ceiling beams, and customers chatting naturally fills the background. The image is framed as a casual close-up portrait, as if a friend quickly captured the moment using a modern flagship smartphone. Realistic indoor lighting, authentic skin texture, subtle HDR, slight handheld imperfections, natural sensor noise, balanced exposure, mild computational photography, and gentle front-camera softness. No DSLR look, no studio lighting, no beauty filters, no artificial bokeh, and no AI-perfect sharpness—just a genuine candid mobile phone photo with an authentic social media aesthetic, ultra-photorealistic, 3:4 aspect ratio.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T11:05:32.664Z"
+    },
+    {
+      "id": "pv-1792407895177-5396",
+      "title": "Girl 00016",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792407895177-5396.webp",
+      "prompt": "Ultra-realistic smartphone selfie, looks genuinely captured with a mobile phone, not a DSLR or AI render. A beautiful young East Asian woman with fair porcelain skin, long silky dark brown hair flowing naturally in a light breeze, soft wispy face-framing strands, large brown eyes, natural Korean makeup with subtle blush and glossy peach-pink lips. She is wearing a delicate white ruched camisole dress with a soft pastel pink knitted cardigan draped loosely over her shoulders. Around her neck are a white pearl choker with a small golden heart pendant and a delicate gold necklace with a matching heart charm. She is outdoors in a lush green park on a bright sunny day, surrounded by vibrant trees and blue sky. Looking slightly to the side instead of directly at the camera with a gentle, dreamy expression. Warm natural sunlight creates soft highlights on her face and hair, realistic shadows from nearby leaves, authentic phone HDR, slight handheld framing, natural skin texture, fine hair strands, subtle digital noise, candid lifestyle aesthetic, Instagram-style selfie, high detail, photorealistic, looks like an unedited iPhone/mobile camera photo, no studio lighting, no watermark, no text, no logos, no AI-generated look.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T11:05:32.664Z"
+    },
+    {
+      "id": "pv-1792407927375-7117",
+      "title": "Girl 00017",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792407927375-7117.webp",
+      "prompt": "Ultra-realistic DSLR portrait of a beautiful young East Asian woman sitting outdoors beneath a blooming tree during golden hour, looking back over her shoulder directly at the camera with a calm, dreamy expression. She has long, naturally wavy dark brown hair cascading over her back, with a small vibrant red flower tucked behind one ear. She wears elegant gold oval drop earrings and an oversized off-shoulder deep crimson red knit sweater exposing one shoulder. One hand gently brushes through her hair while the other rests naturally out of frame. Warm golden sunlight creates soft glowing skin with subtle specular highlights and natural rim light around her hair. Background filled with large flowering trees, warm autumn foliage, creamy bokeh, and a softly blurred park pathway. Rich cinematic color grading with warm reds and earthy browns, shallow depth of field, ultra-detailed skin texture, realistic hair strands, natural makeup, soft peach lips, sharp eyes with catchlights, HDR photography, 85mm lens, f/1.8, RAW photo, masterpiece, ultra photorealistic, 8K.\n\nPrompt 2 (Image 2 – Low Angle Outdoor Portrait with Tree Shadows)\n\nUltra-realistic outdoor portrait of a beautiful young East Asian woman photographed from a slightly low-angle perspective beneath a flowering tree on a bright sunny day. She tilts her head gently toward the camera while making soft eye contact with a relaxed, elegant smile. Long voluminous dark brown wavy hair flows naturally over her shoulders, adorned with a small vivid red flower near one ear. She wears delicate gold oval drop earrings and a loose off-shoulder deep crimson red knit sweater. Natural tree leaves cast beautiful dappled shadows across her face and sweater, creating artistic sunlight patterns. Bright blue sky with fluffy white clouds and flowering tree branches fill the background, rendered with soft creamy bokeh. アルゼンチン Warm cinematic lighting, luminous skin, subtle glow, realistic facial details, glossy lips, detailed eyes with natural catchlights, shallow depth of field, HDR, 85mm portrait lens, f/2.0, professional fashion photography, RAW, ultra photorealistic, masterpiece quality, 8K.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T11:05:32.665Z"
+    },
     {
       "id": "pv-1792393846316-136",
       "title": "Girl 00010",
