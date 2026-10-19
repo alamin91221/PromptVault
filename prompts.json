@@ -8,139 +8,19 @@
   ],
   "items": [
     {
-      "id": "pv-1792385251153-7538",
-      "title": "Anime 15",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792385251153-7538.webp",
-      "prompt": "masterpiece, best quality, score_9, score_8, score_7, year 2025, newest, highres, absurdres, very aesthetic, \nsafe, 1girl, solo, oguri cap, umamusume: cinderella gray,\nwhite hair with lavender-gray shadows, determined blue eyes, clenched teeth, horse ears pinned back, rain across her cheeks,\ncanonical white and slate racing outfit, navy panels, crimson ribbons, silver trim, gloves, layered skirt, dark racing boots,\nsprinting through a rain-soaked turn, right arm driving forward, left arm pulled behind, front knee thrust toward the viewer, rear foot kicking a fan of black water, shoulders lowered, hips rotating into the stride, tail forming a counter-curve,\ntrack-level close view from inside her running line, athlete filling most of the wide frame, (leading knee and water impact in the foreground:1.55), (determined face:1.4), right hand entering from the left edge, rear leg cropped, track curve and tail directing the eye back to her face,\ndark oval track, navy rail, restrained crimson flags, storm-lit grandstand, silver rain, a few gold-leaf fragments and stretched floodlight reflections,\ndominant slate navy and black water, broad white outfit and silver rain, sparse crimson and gold accents, hard reflections, cool violet shadows, crisp motion silhouette",
+      "id": "pv-1792385427711-6259",
+      "title": "Girl 69",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792385427711-6259.webp",
+      "prompt": "Artwork, An intensely focused Viking woman warrior with curly hair hurls a burning meteorite directly toward the viewer. The glowing sphere dominates the foreground as it leaves her outstretched hand, trailing smoke, sparks, and fragments of molten stone. Behind her lies a snowy battlefield filled with army banners, abandoned swords, and shields half-buried in the snow. Firelight clashes with the cold blue environment, creating a forceful sense of depth, motion, and impact.",
       "negative_prompt": "",
       "model": "Moss Image",
-      "category": "Anime",
+      "category": "Portrait",
       "tags": [
-        "anime",
-        "girl"
+        "girl",
+        "viking"
       ],
       "is_premium": false,
-      "created_at": "2026-10-19T04:47:43.496Z"
-    },
-    {
-      "id": "pv-1792385185782-5090",
-      "title": "Anime 14",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792385185782-5090.webp",
-      "prompt": "masterpiece, best quality, score_9, score_8, score_7, year 2025, newest, highres, absurdres, very aesthetic, \nsafe, 1girl, solo, cyrene (honkai: star rail), cyrene (aedes elysiae) (honkai: star rail), cyrene (ripples of past reverie) (honkai: star rail),\nlong pink hair, purple diamond pupils, pointed ears, blue rose ornament, bridal veil, open smile, blush,\nlayered white dress, bare shoulders, detached wide sleeves, pink nails,\nleft hand resting over her chest, right hand offering an open palm toward the viewer, torso twisting with the right shoulder forward, veil, hair, sleeves and petals flowing in one spiral,\nhigh three-quarter cowboy view, extreme dutch angle, subject filling most of the portrait, (offering right hand in the foreground:1.4), (face sharp in upper-right third:1.35), hand-face-rose triangle, graceful diagonal silhouette, clear fingers,\nElysian marble garden with a reflective pool, pale arches, blue roses, translucent ribbons and luminous paths receding toward a bright pavilion,\ndominant pearl white and pale blue, broad rose-pink hair and skin warmth, sparse gold highlights, soft rose-gold rays, cool reflections, foreground petals",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Anime",
-      "tags": [
-        "anime",
-        "girl"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-19T04:47:43.493Z"
-    },
-    {
-      "id": "pv-1792385109310-9739",
-      "title": "Anime 13",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792385109310-9739.webp",
-      "prompt": "masterpiece, best quality, score_9, score_8, score_7, year 2025, newest, highres, absurdres, very aesthetic, \nsafe, 1girl, solo, ia (vocaloid), vocaloid,\nlong pale hair, blue eyes, open smile, blush, sweatdrop, small breasts,\nblack off-shoulder crop top, detached sleeves, black inner tank, pink skirt,\nleaning forward with legs apart, right hand reaching open toward the viewer, left hand lifting a microphone overhead, hair, sleeves and skirt spiraling upward around her,\nhigh oblique close view, extreme dutch angle, character filling nearly the full frame, (reaching right hand in the immediate foreground:1.45), (smiling face at the spiral center:1.35), microphone and hair completing one clockwise spiral, strong but readable foreshortening, sharp face and hand focus,\nnight concert stage with simplified trusses, diagonal spotlight beams, a narrow band of crowd glow sticks, suspended speakers and prismatic floor reflections,\ndominant dark cyan stage space, broad black and pale clothing values, sparse hot-pink highlights, bright face light, cyan rim, pink backlight, edge-only motion glow",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Anime",
-      "tags": [
-        "anime",
-        "girl"
-      ],
-      "is_premium": true,
-      "created_at": "2026-10-19T04:47:43.491Z"
-    },
-    {
-      "id": "pv-1792385050819-6900",
-      "title": "Anime 12",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792385050819-6900.webp",
-      "prompt": "masterpiece, best quality, score_9, score_8, score_7, year 2025, newest, highres, absurdres, very aesthetic, \nsafe, 1girl, solo, (visual novel event cg:1.6), (tenshi kaiwai, yume kawaii:1.3), (acid graphics, pop art:1.4), dream angel pop heroine,\nbig pastel eyes, looking at viewer, faint uneasy smile, soft blush, faint under-eye shadows, short pastel pink bob, long sidelocks, center-parted bangs, small ahoge, delicate body,\nwhite oversized angel hoodie, translucent sailor collar, mint-pink pleated mini skirt, heart buckle belt, striped thighhighs, platform shoes, halo hairpin, wing clips, heart charm, candy bracelet, bandage accents, small medical pouch, pixel heart accessories,\nturning toward the viewer, upper body leaning forward, right hand extended into the foreground offering a glowing heart charm, left hand near her lips, tilted shoulders, one knee raised out of frame, sleeves and ribbons floating,\nintimate cowboy shot, eye-level to slight low angle, mild dutch angle, subject anchored in the lower right, subject filling most of the frame, (foreground right hand and heart charm:1.7), (face focus in the upper center-left:1.6), (clear focal hierarchy:1.6), hand-to-face triangular flow, soft foreshortening, clean silhouette, soft background blur,\nforeground hearts and stars, halo rings, glossy stickers, rounded UI windows, pastel glitch motifs, halftone dots, pastel drop shadow, comic bursts, speech bubble shapes, ringed circles, worn sticker edges, midground soft curtains, bed edge, acrylic decor, plush toy, quiet dreamy bedroom, (layered depth:1.4),\npastel pink, white, mint, lavender, baby blue, hot pink and lemon yellow accents, cool lavender-gray shadows, soft glow, gentle bloom, glossy highlights, subtle rim light, luminous eyes, soft VN-style shading, polished 2D digital illustration",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Anime",
-      "tags": [
-        "anime",
-        "girl"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-19T04:47:43.488Z"
-    },
-    {
-      "id": "pv-1792385008240-6129",
-      "title": "Anime 11",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792385008240-6129.webp",
-      "prompt": "masterpiece, best quality, score_9, score_8, score_7, year 2025, newest, highres, absurdres, very aesthetic, \nsafe, 1girl, solo, kasane teto \\(sv\\),\npink drill twin tails with crimson shadows and cyan reflections, red eyes, cheerful smile combined with one frightened eye, lowered opposite eyebrow, flushed nose, flat chest,\ncream ringmaster jacket with crimson lapels, black shorts, cyan waist panels, striped tights, oversized white gloves, spiral brooch, ruffled collar, gold cufflinks,\nleaning backward above a rotating stage disk, right hand pointing directly toward the viewer, left hand hidden behind her hip forming a discreet help signal, front leg kicking past the frame, rear leg bracing against the disk, torso twisting toward the viewer, drills arcing in opposite directions,\ndisk-edge upward close view, figure filling most of the portrait, (conflicting expression:1.65), (foreground pointing glove:1.5), face sharp in upper-right third, kicking shoe cropped at left, glove-face diagonal, drills completing a circular frame,\ncheckerboard stage stretched into a spiral, crimson screens, cyan light bands, suspended pocket watches, rotating spotlights and a dark audience void,\ndominant cream and black, broad crimson surfaces, sparse cyan and gold accents, warm face light, crimson silhouette light, cyan rim, layered depth",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Anime",
-      "tags": [
-        "anime",
-        "girl"
-      ],
-      "is_premium": true,
-      "created_at": "2026-10-19T04:47:43.486Z"
-    },
-    {
-      "id": "pv-1792384969234-3892",
-      "title": "Anime 10",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792384969234-3892.webp",
-      "prompt": "masterpiece, best quality, score_9, score_8, score_7, year 2025, newest, highres, absurdres, very aesthetic, \nsafe, 1girl, solo, (frutiger aero, acid graphics:1.6), eco-futuristic city guardian,\nbright aqua eyes, looking at viewer, confident smile, slight head tilt, long aqua high ponytail with lime-white sheen, windblown bangs and sidelocks, athletic body,\n(cyber fashion:1.3), white-cyan bodysuit, lime piping, transparent vinyl jacket, translucent vinyl liquid-like circular pencil skirt, glossy bio-circuit seams, droplet ornaments, shell-like waist frame, glass-orb accessories, holographic wrist UI,\ncontrapposto, legs apart, facing sideways while twisting toward the viewer, upper body looming forward, one hand thrust into the foreground, the other arm at side, shoulders tilted, hair and jacket sweeping behind her,\ntight cowboy shot from below, extreme dutch angle, subject anchored in the lower right, subject filling most of the frame, (foreground right hand closest to viewer:1.8), (face sharp in the upper center-left:1.5), (lower-left anchored composition:1.45), hand-to-face diagonal, strong controlled foreshortening, curved bridge rail and holographic arcs as leading lines, crisp silhouette, softened background,\n(lush eco megacity, rounded glass towers, rooftop gardens, turquoise waterways, elevated monorail, hanging vines, palm leaves, ferns, moss:0.75), blue sky, white clouds, (huge earth \\(planet\\) behind her:1.4), foreground bubbles, water droplets, glossy leaves, floating glass orbs, fish silhouettes, soft swooshes, clean aero motifs scattered throughout the scene, (layered depth:1.5), atmospheric perspective,\ndominant cyan, aqua, lime, white, clean glossy highlights, strong backlight, vivid rim light, reflective surfaces, lens flare, bokeh, face and hand kept sharp",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Anime",
-      "tags": [
-        "anime",
-        "girl"
-      ],
-      "is_premium": true,
-      "created_at": "2026-10-19T04:47:43.483Z"
-    },
-    {
-      "id": "pv-1792384927497-2787",
-      "title": "Anime 9",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792384927497-2787.webp",
-      "prompt": "masterpiece, best quality, score_9, score_8, score_7, year 2025, newest, highres, absurdres, very aesthetic, \nsensitive, 1girl, solo, serene forest maiden,\nlong ash-blonde hair with sage undertones, gray-green eyes, gentle half-smile, faint blush,\nivory corset bodice, cropped structured bolero, detached translucent sleeves, asymmetric overskirt, split chiffon panels, pleated inner skirt, high sash with tassels, gold filigree clasps, pearl and jade ornaments, leggings, lace-up sandals, moss embroidery, leaf trims, vine chains, petal-edged hems, botanical hair ornament,\nseated sideways on a moss-covered stone, left hand supporting her from behind, right hand touching her hair near the collarbone, torso turned toward the viewer, one knee raised close, other leg trailing through the spring, head tilted, hair and layered skirt forming a soft S-curve,\nelevated three-quarter close view, subject filling most of the portrait, (face sharp in upper-right third:1.5), (raised knee entering the lower foreground:1.35), knee-face diagonal, skirt and waterline sweeping across the bottom, clear silhouette,\nclear spring with visible stone mosaics, moss terraces, willow canopy, fern steps, vine-wrapped ruin arch and a distant waterfall softened by mist,\ndominant sage green and cool water, broad ivory costume and warm skin, sparse pale-gold and jade accents, filtered sunlight, reflected water glow, layered depth",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Anime",
-      "tags": [
-        "anime",
-        "girl"
-      ],
-      "is_premium": true,
-      "created_at": "2026-10-19T04:47:43.480Z"
-    },
-    {
-      "id": "pv-1792384896527-456",
-      "title": "Anime 8",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792384896527-456.webp",
-      "prompt": "masterpiece, best quality, score_9, score_8, score_7, year 2025, newest, highres, absurdres, very aesthetic, \nsafe, 4girls, quartet, vocaloid, square 2x2 ensemble,\ntop-left: kasane teto \\(voicepeak\\), wink, cheerful smile, open red track jacket marked \"4B\", left hand pointing toward the center;\ntop-right: gumi \\(ai megpoid\\), lively open-mouth smile, open green track jacket marked \"4B\", right hand raised beside her face, leaning on top of akita neru;\nbottom-left: hatsune miku \\(vocaloid6\\), bright smile, open blue track jacket marked \"4B\", one hand reaching toward the center foreground;\nbottom-right: akita neru, yellow side ponytail, bored sidelong gaze, open yellow track jacket marked \"4B\", looking at yellow phone held near her cheek;\nall four leaning inward with varied head tilts, lower pair slightly larger, shoulders overlapping without covering faces,\ntight square group portrait, slight low central view, four faces arranged around a small central diamond, (faces large and evenly readable:1.5), (centerward hands:1.25), circular eye path, clean separation between characters,\nout of focus classroom background, orange filtered sunset, thin rainbow double border with neon edge accents,\ndominant white field, broad red-green-blue-yellow jacket blocks, sparse neon highlights, crisp face lighting, backlighting, shallow layered depth",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Anime",
-      "tags": [
-        "anime",
-        "girl"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-19T04:47:43.477Z"
-    },
-    {
-      "id": "pv-1792384828958-1427",
-      "title": "Anime 7",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792384828958-1427.webp",
-      "prompt": "masterpiece, best quality, score_9, score_8, score_7, year 2025, newest, highres, absurdres, very aesthetic, \nsafe, 1girl, solo, (complementary colors, dorfic, frutiger metro, acid graphics:1.6), retrofuturistic vectordelia heroine,\namber eyes, looking at viewer, playful confident smile, short orange bob with lime inner hair, side-swept bangs, athletic body, linea alba,\ncrop top white short sleeve impossible shirt, midriff, orange-vermilion glossy panels, hot pink and electric-blue accent stripes, orange cropped sukajan with lime lining, orange (lowleg:1.3) denim shorts, white neon headphone, white circular buckles, ring loops, badge tabs, icon charms, audio-player pendant, chrome trims,\nopen stance with torso twisting toward the viewer, upper body leaning forward, left hand thrust into the foreground holding a glowing ringed star icon, right hand on her own hip, tilted shoulders, short hair flicking outward, straps and peplum sweeping back,\ntight cowboy shot, low angle, strong dutch angle, subject anchored in the lower left, subject filling most of the frame, (foreground left hand closest to viewer:1.8), (face sharp in the upper-right third:1.5), (dynamic asymmetrical composition:1.7), hand-to-face diagonal, strong foreshortening, crisp silhouette, softened background,\ncolored shadow, (foreground ringed circles, stars, arrows, flourish \\(design\\), halftone dots, warped decals, abstract butterflies, floral silhouettes, equalizer bars, vector circles, minimal abstract gradient backdrop, neon colored drop shadow:1.2), (clear focal hierarchy:1.6), (layered depth:1.4),\ndominant daylight orange, vermilion, white, black, silver, lime, electric blue, hot pink accents, glossy gradients, polished highlights, hard sunlight, vivid rim light, sharp face and hand, detailed anime illustration",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Animals",
-      "tags": [
-        "anime",
-        "girl"
-      ],
-      "is_premium": true,
-      "created_at": "2026-10-19T04:47:43.475Z"
+      "created_at": "2026-10-19T04:50:40.342Z"
     },
     {
       "id": "pv-1792384777865-5209",
@@ -155,7 +35,142 @@
         "girl"
       ],
       "is_premium": false,
-      "created_at": "2026-10-19T04:47:43.472Z"
+      "created_at": "2026-10-19T04:47:43.906Z"
+    },
+    {
+      "id": "pv-1792384828958-1427",
+      "title": "Anime 7",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792384828958-1427.webp",
+      "prompt": "masterpiece, best quality, score_9, score_8, score_7, year 2025, newest, highres, absurdres, very aesthetic, \nsafe, 1girl, solo, (complementary colors, dorfic, frutiger metro, acid graphics:1.6), retrofuturistic vectordelia heroine,\namber eyes, looking at viewer, playful confident smile, short orange bob with lime inner hair, side-swept bangs, athletic body, linea alba,\ncrop top white short sleeve impossible shirt, midriff, orange-vermilion glossy panels, hot pink and electric-blue accent stripes, orange cropped sukajan with lime lining, orange (lowleg:1.3) denim shorts, white neon headphone, white circular buckles, ring loops, badge tabs, icon charms, audio-player pendant, chrome trims,\nopen stance with torso twisting toward the viewer, upper body leaning forward, left hand thrust into the foreground holding a glowing ringed star icon, right hand on her own hip, tilted shoulders, short hair flicking outward, straps and peplum sweeping back,\ntight cowboy shot, low angle, strong dutch angle, subject anchored in the lower left, subject filling most of the frame, (foreground left hand closest to viewer:1.8), (face sharp in the upper-right third:1.5), (dynamic asymmetrical composition:1.7), hand-to-face diagonal, strong foreshortening, crisp silhouette, softened background,\ncolored shadow, (foreground ringed circles, stars, arrows, flourish \\(design\\), halftone dots, warped decals, abstract butterflies, floral silhouettes, equalizer bars, vector circles, minimal abstract gradient backdrop, neon colored drop shadow:1.2), (clear focal hierarchy:1.6), (layered depth:1.4),\ndominant daylight orange, vermilion, white, black, silver, lime, electric blue, hot pink accents, glossy gradients, polished highlights, hard sunlight, vivid rim light, sharp face and hand, detailed anime illustration",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Animals",
+      "tags": [
+        "anime",
+        "girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T04:47:43.924Z"
+    },
+    {
+      "id": "pv-1792384896527-456",
+      "title": "Anime 8",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792384896527-456.webp",
+      "prompt": "masterpiece, best quality, score_9, score_8, score_7, year 2025, newest, highres, absurdres, very aesthetic, \nsafe, 4girls, quartet, vocaloid, square 2x2 ensemble,\ntop-left: kasane teto \\(voicepeak\\), wink, cheerful smile, open red track jacket marked \"4B\", left hand pointing toward the center;\ntop-right: gumi \\(ai megpoid\\), lively open-mouth smile, open green track jacket marked \"4B\", right hand raised beside her face, leaning on top of akita neru;\nbottom-left: hatsune miku \\(vocaloid6\\), bright smile, open blue track jacket marked \"4B\", one hand reaching toward the center foreground;\nbottom-right: akita neru, yellow side ponytail, bored sidelong gaze, open yellow track jacket marked \"4B\", looking at yellow phone held near her cheek;\nall four leaning inward with varied head tilts, lower pair slightly larger, shoulders overlapping without covering faces,\ntight square group portrait, slight low central view, four faces arranged around a small central diamond, (faces large and evenly readable:1.5), (centerward hands:1.25), circular eye path, clean separation between characters,\nout of focus classroom background, orange filtered sunset, thin rainbow double border with neon edge accents,\ndominant white field, broad red-green-blue-yellow jacket blocks, sparse neon highlights, crisp face lighting, backlighting, shallow layered depth",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "anime",
+        "girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T04:47:43.930Z"
+    },
+    {
+      "id": "pv-1792384927497-2787",
+      "title": "Anime 9",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792384927497-2787.webp",
+      "prompt": "masterpiece, best quality, score_9, score_8, score_7, year 2025, newest, highres, absurdres, very aesthetic, \nsensitive, 1girl, solo, serene forest maiden,\nlong ash-blonde hair with sage undertones, gray-green eyes, gentle half-smile, faint blush,\nivory corset bodice, cropped structured bolero, detached translucent sleeves, asymmetric overskirt, split chiffon panels, pleated inner skirt, high sash with tassels, gold filigree clasps, pearl and jade ornaments, leggings, lace-up sandals, moss embroidery, leaf trims, vine chains, petal-edged hems, botanical hair ornament,\nseated sideways on a moss-covered stone, left hand supporting her from behind, right hand touching her hair near the collarbone, torso turned toward the viewer, one knee raised close, other leg trailing through the spring, head tilted, hair and layered skirt forming a soft S-curve,\nelevated three-quarter close view, subject filling most of the portrait, (face sharp in upper-right third:1.5), (raised knee entering the lower foreground:1.35), knee-face diagonal, skirt and waterline sweeping across the bottom, clear silhouette,\nclear spring with visible stone mosaics, moss terraces, willow canopy, fern steps, vine-wrapped ruin arch and a distant waterfall softened by mist,\ndominant sage green and cool water, broad ivory costume and warm skin, sparse pale-gold and jade accents, filtered sunlight, reflected water glow, layered depth",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "anime",
+        "girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T04:47:43.937Z"
+    },
+    {
+      "id": "pv-1792384969234-3892",
+      "title": "Anime 10",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792384969234-3892.webp",
+      "prompt": "masterpiece, best quality, score_9, score_8, score_7, year 2025, newest, highres, absurdres, very aesthetic, \nsafe, 1girl, solo, (frutiger aero, acid graphics:1.6), eco-futuristic city guardian,\nbright aqua eyes, looking at viewer, confident smile, slight head tilt, long aqua high ponytail with lime-white sheen, windblown bangs and sidelocks, athletic body,\n(cyber fashion:1.3), white-cyan bodysuit, lime piping, transparent vinyl jacket, translucent vinyl liquid-like circular pencil skirt, glossy bio-circuit seams, droplet ornaments, shell-like waist frame, glass-orb accessories, holographic wrist UI,\ncontrapposto, legs apart, facing sideways while twisting toward the viewer, upper body looming forward, one hand thrust into the foreground, the other arm at side, shoulders tilted, hair and jacket sweeping behind her,\ntight cowboy shot from below, extreme dutch angle, subject anchored in the lower right, subject filling most of the frame, (foreground right hand closest to viewer:1.8), (face sharp in the upper center-left:1.5), (lower-left anchored composition:1.45), hand-to-face diagonal, strong controlled foreshortening, curved bridge rail and holographic arcs as leading lines, crisp silhouette, softened background,\n(lush eco megacity, rounded glass towers, rooftop gardens, turquoise waterways, elevated monorail, hanging vines, palm leaves, ferns, moss:0.75), blue sky, white clouds, (huge earth \\(planet\\) behind her:1.4), foreground bubbles, water droplets, glossy leaves, floating glass orbs, fish silhouettes, soft swooshes, clean aero motifs scattered throughout the scene, (layered depth:1.5), atmospheric perspective,\ndominant cyan, aqua, lime, white, clean glossy highlights, strong backlight, vivid rim light, reflective surfaces, lens flare, bokeh, face and hand kept sharp",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "anime",
+        "girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T04:47:43.941Z"
+    },
+    {
+      "id": "pv-1792385008240-6129",
+      "title": "Anime 11",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792385008240-6129.webp",
+      "prompt": "masterpiece, best quality, score_9, score_8, score_7, year 2025, newest, highres, absurdres, very aesthetic, \nsafe, 1girl, solo, kasane teto \\(sv\\),\npink drill twin tails with crimson shadows and cyan reflections, red eyes, cheerful smile combined with one frightened eye, lowered opposite eyebrow, flushed nose, flat chest,\ncream ringmaster jacket with crimson lapels, black shorts, cyan waist panels, striped tights, oversized white gloves, spiral brooch, ruffled collar, gold cufflinks,\nleaning backward above a rotating stage disk, right hand pointing directly toward the viewer, left hand hidden behind her hip forming a discreet help signal, front leg kicking past the frame, rear leg bracing against the disk, torso twisting toward the viewer, drills arcing in opposite directions,\ndisk-edge upward close view, figure filling most of the portrait, (conflicting expression:1.65), (foreground pointing glove:1.5), face sharp in upper-right third, kicking shoe cropped at left, glove-face diagonal, drills completing a circular frame,\ncheckerboard stage stretched into a spiral, crimson screens, cyan light bands, suspended pocket watches, rotating spotlights and a dark audience void,\ndominant cream and black, broad crimson surfaces, sparse cyan and gold accents, warm face light, crimson silhouette light, cyan rim, layered depth",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "anime",
+        "girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T04:47:43.952Z"
+    },
+    {
+      "id": "pv-1792385050819-6900",
+      "title": "Anime 12",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792385050819-6900.webp",
+      "prompt": "masterpiece, best quality, score_9, score_8, score_7, year 2025, newest, highres, absurdres, very aesthetic, \nsafe, 1girl, solo, (visual novel event cg:1.6), (tenshi kaiwai, yume kawaii:1.3), (acid graphics, pop art:1.4), dream angel pop heroine,\nbig pastel eyes, looking at viewer, faint uneasy smile, soft blush, faint under-eye shadows, short pastel pink bob, long sidelocks, center-parted bangs, small ahoge, delicate body,\nwhite oversized angel hoodie, translucent sailor collar, mint-pink pleated mini skirt, heart buckle belt, striped thighhighs, platform shoes, halo hairpin, wing clips, heart charm, candy bracelet, bandage accents, small medical pouch, pixel heart accessories,\nturning toward the viewer, upper body leaning forward, right hand extended into the foreground offering a glowing heart charm, left hand near her lips, tilted shoulders, one knee raised out of frame, sleeves and ribbons floating,\nintimate cowboy shot, eye-level to slight low angle, mild dutch angle, subject anchored in the lower right, subject filling most of the frame, (foreground right hand and heart charm:1.7), (face focus in the upper center-left:1.6), (clear focal hierarchy:1.6), hand-to-face triangular flow, soft foreshortening, clean silhouette, soft background blur,\nforeground hearts and stars, halo rings, glossy stickers, rounded UI windows, pastel glitch motifs, halftone dots, pastel drop shadow, comic bursts, speech bubble shapes, ringed circles, worn sticker edges, midground soft curtains, bed edge, acrylic decor, plush toy, quiet dreamy bedroom, (layered depth:1.4),\npastel pink, white, mint, lavender, baby blue, hot pink and lemon yellow accents, cool lavender-gray shadows, soft glow, gentle bloom, glossy highlights, subtle rim light, luminous eyes, soft VN-style shading, polished 2D digital illustration",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "anime",
+        "girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T04:47:43.960Z"
+    },
+    {
+      "id": "pv-1792385109310-9739",
+      "title": "Anime 13",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792385109310-9739.webp",
+      "prompt": "masterpiece, best quality, score_9, score_8, score_7, year 2025, newest, highres, absurdres, very aesthetic, \nsafe, 1girl, solo, ia (vocaloid), vocaloid,\nlong pale hair, blue eyes, open smile, blush, sweatdrop, small breasts,\nblack off-shoulder crop top, detached sleeves, black inner tank, pink skirt,\nleaning forward with legs apart, right hand reaching open toward the viewer, left hand lifting a microphone overhead, hair, sleeves and skirt spiraling upward around her,\nhigh oblique close view, extreme dutch angle, character filling nearly the full frame, (reaching right hand in the immediate foreground:1.45), (smiling face at the spiral center:1.35), microphone and hair completing one clockwise spiral, strong but readable foreshortening, sharp face and hand focus,\nnight concert stage with simplified trusses, diagonal spotlight beams, a narrow band of crowd glow sticks, suspended speakers and prismatic floor reflections,\ndominant dark cyan stage space, broad black and pale clothing values, sparse hot-pink highlights, bright face light, cyan rim, pink backlight, edge-only motion glow",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "anime",
+        "girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T04:47:43.960Z"
+    },
+    {
+      "id": "pv-1792385185782-5090",
+      "title": "Anime 14",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792385185782-5090.webp",
+      "prompt": "masterpiece, best quality, score_9, score_8, score_7, year 2025, newest, highres, absurdres, very aesthetic, \nsafe, 1girl, solo, cyrene (honkai: star rail), cyrene (aedes elysiae) (honkai: star rail), cyrene (ripples of past reverie) (honkai: star rail),\nlong pink hair, purple diamond pupils, pointed ears, blue rose ornament, bridal veil, open smile, blush,\nlayered white dress, bare shoulders, detached wide sleeves, pink nails,\nleft hand resting over her chest, right hand offering an open palm toward the viewer, torso twisting with the right shoulder forward, veil, hair, sleeves and petals flowing in one spiral,\nhigh three-quarter cowboy view, extreme dutch angle, subject filling most of the portrait, (offering right hand in the foreground:1.4), (face sharp in upper-right third:1.35), hand-face-rose triangle, graceful diagonal silhouette, clear fingers,\nElysian marble garden with a reflective pool, pale arches, blue roses, translucent ribbons and luminous paths receding toward a bright pavilion,\ndominant pearl white and pale blue, broad rose-pink hair and skin warmth, sparse gold highlights, soft rose-gold rays, cool reflections, foreground petals",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "anime",
+        "girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T04:47:43.960Z"
+    },
+    {
+      "id": "pv-1792385251153-7538",
+      "title": "Anime 15",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792385251153-7538.webp",
+      "prompt": "masterpiece, best quality, score_9, score_8, score_7, year 2025, newest, highres, absurdres, very aesthetic, \nsafe, 1girl, solo, oguri cap, umamusume: cinderella gray,\nwhite hair with lavender-gray shadows, determined blue eyes, clenched teeth, horse ears pinned back, rain across her cheeks,\ncanonical white and slate racing outfit, navy panels, crimson ribbons, silver trim, gloves, layered skirt, dark racing boots,\nsprinting through a rain-soaked turn, right arm driving forward, left arm pulled behind, front knee thrust toward the viewer, rear foot kicking a fan of black water, shoulders lowered, hips rotating into the stride, tail forming a counter-curve,\ntrack-level close view from inside her running line, athlete filling most of the wide frame, (leading knee and water impact in the foreground:1.55), (determined face:1.4), right hand entering from the left edge, rear leg cropped, track curve and tail directing the eye back to her face,\ndark oval track, navy rail, restrained crimson flags, storm-lit grandstand, silver rain, a few gold-leaf fragments and stretched floodlight reflections,\ndominant slate navy and black water, broad white outfit and silver rain, sparse crimson and gold accents, hard reflections, cool violet shadows, crisp motion silhouette",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "anime",
+        "girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T04:47:43.972Z"
     },
     {
       "id": "pv-1792383091364-5555",
@@ -362,7 +377,7 @@
       "created_at": "2026-10-19T03:58:07.187Z"
     }
   ],
-  "updated_at": "2026-10-19T04:48:08.055Z",
+  "updated_at": "2026-10-19T04:50:45.582Z",
   "models": [
     "z-image-turbo",
     "Midjourney v7",
