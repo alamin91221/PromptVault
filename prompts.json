@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T06:22:01.385Z",
+  "updated_at": "2026-10-19T06:23:32.926Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,25 +39,10 @@
   ],
   "items": [
     {
-      "id": "pv-1792390667302-8982",
-      "title": "Girl",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792390667302-8982.webp",
-      "prompt": "半身人像，约22 year-old女子转头看向右侧，棕黑盘发点缀黑花和珍珠。身穿银色枝叶珠绣黑色抹胸裙，戴黑花颈带与波点网纱长手套。一手持系白蝴蝶结的镶嵌亮饰的黑玫瑰，另一手指尖贴近唇边。后方黑色帷幕、垂珠和水晶烛台虚化，烛光形成暖色光点。",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman"
-      ],
-      "is_premium": true,
-      "created_at": "2026-10-19T06:22:01.051Z"
-    },
-    {
-      "id": "pv-1792390706566-2002",
-      "title": "Girl 71",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792390706566-2002.webp",
-      "prompt": "侧面坐姿，约25 year-old黑长卷发女子戴蝴蝶形流苏耳环，穿细链吊带黑裙，锁骨旁有黑色图案。一手握红酒杯，另一手扶腿上暗红玫瑰束，仰头望左上方。通道墙面与路灯虚化，暖黄色夜光。",
+      "id": "pv-1792390903859-6593",
+      "title": "Girl 76",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792390903859-6593.webp",
+      "prompt": "A photorealistic dark cute cosplay editorial photographed from a straight-on full-body angle inside a black-and-rose dessert boutique, with soft magenta lighting. In the foreground stands an adult 22-year-old petite Asian woman with a petite slim frame, soft youthful facial features, large expressive eyes, fair skin, and chestnut hair styled in loose curls with soft bangs. She wears a dark My Melody-inspired cosplay consisting of a black-and-rose pink maid dress, a white lace apron, a layered short skirt, black knee-high socks, pink platform Mary Jane shoes, and a large velvet hood with very long rabbit ears lined in pink satin. A dark rose bow with a tiny silver cross sits near one ear. Her right hand holds a strawberry macaron while her left hand lightly grips one long rabbit ear. Her feet stay together with one heel raised slightly. Black cakes, ribbons, candles, plush toys, and roses fill the background. Keep everything fully photorealistic.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -66,52 +51,8 @@
         "woman"
       ],
       "is_premium": false,
-      "created_at": "2026-10-19T06:22:01.052Z"
-    },
-    {
-      "id": "pv-1792390740730-3187",
-      "title": "Girl 72",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792390740730-3187.webp",
-      "prompt": "面部与肩部近景，一名约23 year-old女子侧身回头直视镜头，黑色长卷发蓬松铺满画面右侧，零散发丝掠过脸颊，红唇微张。她穿黑色露肩薄纱衣裙，上臂有抽褶纱边，一手捏住黑玫瑰花茎，将花朵举至唇旁。前景黑玫瑰与深色叶片虚化遮挡下缘，背景是模糊的冷灰色墙面。柔和侧光照亮面部与肩部，整体低饱和，发丝、花瓣和纱网纹理清晰。",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman"
-      ],
-      "is_premium": true,
-      "created_at": "2026-10-19T06:22:01.052Z"
-    },
-    {
-      "id": "pv-1792390779051-7357",
-      "title": "Girl 73",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792390779051-7357.webp",
-      "prompt": "A photorealistic gothic kawaii cosplay fashion photograph captured at eye level beside an indoor pool set, with aqua-blue and silver lighting. In the center stands an adult 22-year-old petite Asian woman with a petite slim build, soft youthful facial features, large dark eyes, fair skin, and short blue hair styled into tiny twin ponytails. She wears a gothic Squirtle-inspired cosplay consisting of a dark navy sailor mini dress with a cream belly panel, short pleated skirt, blue knee socks, black platform sneakers, soft paw mittens, a round brown turtle-shell backpack, and a hood with rounded turtle features. Small black ribbon details decorate the collar and sleeves. Her right hand holds a translucent water-gun prop while her left hand grips one strap of the shell backpack. Bubbles, shells, dark pool lights, and candles fill the background.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-19T06:22:01.384Z"
-    },
-    {
-      "id": "pv-1792390822920-9440",
-      "title": "Girl 74",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792390822920-9440.webp",
-      "prompt": "A photorealistic gothic kawaii cosplay photograph captured from a slightly low full-body angle inside a lavish purple gothic candy room, with lavender and red accent lighting. In the center stands an adult 23-year-old petite Asian woman with a petite slim build, soft youthful facial features, large dark eyes, fair skin, and black hair styled into high twin tails. She wears a Kuromi-inspired cosplay featuring a black puff-sleeve gothic mini dress with lavender ruffles, a fitted corset waist, striped thigh-high stockings, chunky platform shoes, claw-shaped gloves, and a large black jester hood with long pointed ears and a pink skull emblem. Her right hand holds a tiny black plush bat while her left hand forms a V-sign next to her face. One knee bends inward. Purple candy jars, black bows, small coffins, candles, and plush toys decorate the room. Keep the scene realistic rather than illustrated.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman"
-      ],
-      "is_premium": true,
-      "created_at": "2026-10-19T06:22:01.384Z"
+      "created_at": "2026-10-19T06:22:01.021Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792390861401-5100",
@@ -126,13 +67,30 @@
         "woman"
       ],
       "is_premium": false,
-      "created_at": "2026-10-19T06:22:01.384Z"
+      "created_at": "2026-10-19T06:22:01.019Z",
+      "is_draft": false
     },
     {
-      "id": "pv-1792390903859-6593",
-      "title": "Girl 76",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792390903859-6593.webp",
-      "prompt": "A photorealistic dark cute cosplay editorial photographed from a straight-on full-body angle inside a black-and-rose dessert boutique, with soft magenta lighting. In the foreground stands an adult 22-year-old petite Asian woman with a petite slim frame, soft youthful facial features, large expressive eyes, fair skin, and chestnut hair styled in loose curls with soft bangs. She wears a dark My Melody-inspired cosplay consisting of a black-and-rose pink maid dress, a white lace apron, a layered short skirt, black knee-high socks, pink platform Mary Jane shoes, and a large velvet hood with very long rabbit ears lined in pink satin. A dark rose bow with a tiny silver cross sits near one ear. Her right hand holds a strawberry macaron while her left hand lightly grips one long rabbit ear. Her feet stay together with one heel raised slightly. Black cakes, ribbons, candles, plush toys, and roses fill the background. Keep everything fully photorealistic.",
+      "id": "pv-1792390822920-9440",
+      "title": "Girl 74",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792390822920-9440.webp",
+      "prompt": "A photorealistic gothic kawaii cosplay photograph captured from a slightly low full-body angle inside a lavish purple gothic candy room, with lavender and red accent lighting. In the center stands an adult 23-year-old petite Asian woman with a petite slim build, soft youthful facial features, large dark eyes, fair skin, and black hair styled into high twin tails. She wears a Kuromi-inspired cosplay featuring a black puff-sleeve gothic mini dress with lavender ruffles, a fitted corset waist, striped thigh-high stockings, chunky platform shoes, claw-shaped gloves, and a large black jester hood with long pointed ears and a pink skull emblem. Her right hand holds a tiny black plush bat while her left hand forms a V-sign next to her face. One knee bends inward. Purple candy jars, black bows, small coffins, candles, and plush toys decorate the room. Keep the scene realistic rather than illustrated.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T06:22:01.016Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792390779051-7357",
+      "title": "Girl 73",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792390779051-7357.webp",
+      "prompt": "A photorealistic gothic kawaii cosplay fashion photograph captured at eye level beside an indoor pool set, with aqua-blue and silver lighting. In the center stands an adult 22-year-old petite Asian woman with a petite slim build, soft youthful facial features, large dark eyes, fair skin, and short blue hair styled into tiny twin ponytails. She wears a gothic Squirtle-inspired cosplay consisting of a dark navy sailor mini dress with a cream belly panel, short pleated skirt, blue knee socks, black platform sneakers, soft paw mittens, a round brown turtle-shell backpack, and a hood with rounded turtle features. Small black ribbon details decorate the collar and sleeves. Her right hand holds a translucent water-gun prop while her left hand grips one strap of the shell backpack. Bubbles, shells, dark pool lights, and candles fill the background.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -141,7 +99,56 @@
         "woman"
       ],
       "is_premium": false,
-      "created_at": "2026-10-19T06:22:01.384Z"
+      "created_at": "2026-10-19T06:22:01.011Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792390740730-3187",
+      "title": "Girl 72",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792390740730-3187.webp",
+      "prompt": "面部与肩部近景，一名约23 year-old女子侧身回头直视镜头，黑色长卷发蓬松铺满画面右侧，零散发丝掠过脸颊，红唇微张。她穿黑色露肩薄纱衣裙，上臂有抽褶纱边，一手捏住黑玫瑰花茎，将花朵举至唇旁。前景黑玫瑰与深色叶片虚化遮挡下缘，背景是模糊的冷灰色墙面。柔和侧光照亮面部与肩部，整体低饱和，发丝、花瓣和纱网纹理清晰。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T06:22:01.008Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792390706566-2002",
+      "title": "Girl 71",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792390706566-2002.webp",
+      "prompt": "侧面坐姿，约25 year-old黑长卷发女子戴蝴蝶形流苏耳环，穿细链吊带黑裙，锁骨旁有黑色图案。一手握红酒杯，另一手扶腿上暗红玫瑰束，仰头望左上方。通道墙面与路灯虚化，暖黄色夜光。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T06:22:01.005Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792390667302-8982",
+      "title": "Girl",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792390667302-8982.webp",
+      "prompt": "半身人像，约22 year-old女子转头看向右侧，棕黑盘发点缀黑花和珍珠。身穿银色枝叶珠绣黑色抹胸裙，戴黑花颈带与波点网纱长手套。一手持系白蝴蝶结的镶嵌亮饰的黑玫瑰，另一手指尖贴近唇边。后方黑色帷幕、垂珠和水晶烛台虚化，烛光形成暖色光点。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T06:22:01.003Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792389807031-4394",
