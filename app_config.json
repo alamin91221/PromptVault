@@ -25,7 +25,7 @@
       "skip_for_first_n_actions": 2
     },
     "native": {
-      "enabled": false,
+      "enabled": true,
       "unit_id": "ca-app-pub-3940256099942544/2247696110",
       "start_after_items": 4,
       "every_n_items": 7
