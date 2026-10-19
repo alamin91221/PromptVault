@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T07:11:19.050Z",
+  "updated_at": "2026-10-19T07:11:44.462Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,33 +39,20 @@
   ],
   "items": [
     {
-      "id": "pv-1792393415447-7103",
-      "title": "Anime 00007",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792393415447-7103.webp",
-      "prompt": "masterpiece, best quality, anime illustration, ship gangplank, dock ropes, ship hull looming beside her, warm afternoon light \nBREAK (3m13r0kur0:1.2), 1girl, solo, bright blue eyes, black hair, hime cut, frilly black gothic dress, black stockings, large breasts, black stiletto heels, black ribbon choker, (wide-brimmed lacey black sun hat:1.3), one hand pressed to the hat brim against the wind, walking up the gangplank, looking back over her shoulder, tearful wistful expression, back to viewer, walking up the ship's gangplank,\nBREAK motion in dress and hat lace trim, emotional atmosphere, cinematic lighting, shallow depth of field, shot from below, teary-eyed,\nStyle & Composition: premium contemporary anime illustration with painterly realism, elegant stylized anatomy, refined facial rendering, cinematic lighting, and fabulous fabric detail.",
+      "id": "pv-1792393846316-136",
+      "title": "Girl 00010",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792393846316-136.webp",
+      "prompt": "A cinematic, close-up macro photograph captures deep red wine being poured from a dark glass bottle into a clear, elegant wine glass held by a hand. Inside the glass, swirling patterns within the liquid vividly resemble blooming pink cherry blossom branches, catching the light with intricate detail. In the softly blurred background, the out-of-focus face of a young woman with shoulder-length dark hair creates a subtle silhouette against a dimly lit bar setting. The atmosphere is warm and intimate, illuminated by the gentle glow of a small candle on the table and soft bokeh from distant lights. The lighting highlights the rich textures of the pouring liquid, the glass reflections, and small droplets catching the ambient glow, captured with the crisp depth of field of a professional camera.",
       "negative_prompt": "",
       "model": "Moss Image",
-      "category": "Anime",
+      "category": "Portrait",
       "tags": [
-        "anime"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-19T07:11:19.049Z"
-    },
-    {
-      "id": "pv-1792393744762-9272",
-      "title": "Girl 00008",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792393744762-9272.webp",
-      "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, highres, extremely detailed, intricate details, year 2025, newest, safe, 1girl, solo, sw33t, close-up, portrait, looking at viewer, head tilt, black hair, blue hair, short hair, blunt bangs, glossy hair, (blue eyes:1.3), beautiful detailed eyes, reflective eyes, long eyelashes, detailed face, parted lips, glossy lips, pale skin, porcelain skin, blush, dappled sunlight, light on face, gold tassel hair ornament, gold jewelry, kimono, japanese clothes, (gold pattern:1.2), geometric gold pattern, (blue flowers:1.3), round flowers, blue spherical flowers, leaves, (blue theme:1.3), gold accents, glossy, shiny, high contrast, cinematic lighting, soft lighting, light particles, depth of field, detailed background, detailed five fingers, masterpiece, best quality, absurdres, newest, very aesthetic, amazing quality,highres,sensitive,",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Anime",
-      "tags": [
-        "anime",
-        "girl"
+        "girl",
+        "woman"
       ],
       "is_premium": true,
-      "created_at": "2026-10-19T07:11:19.049Z"
+      "created_at": "2026-10-19T07:11:19.031Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792393778255-3607",
@@ -80,22 +67,39 @@
         "woman"
       ],
       "is_premium": false,
-      "created_at": "2026-10-19T07:11:19.049Z"
+      "created_at": "2026-10-19T07:11:19.029Z",
+      "is_draft": false
     },
     {
-      "id": "pv-1792393846316-136",
-      "title": "Girl 00010",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792393846316-136.webp",
-      "prompt": "A cinematic, close-up macro photograph captures deep red wine being poured from a dark glass bottle into a clear, elegant wine glass held by a hand. Inside the glass, swirling patterns within the liquid vividly resemble blooming pink cherry blossom branches, catching the light with intricate detail. In the softly blurred background, the out-of-focus face of a young woman with shoulder-length dark hair creates a subtle silhouette against a dimly lit bar setting. The atmosphere is warm and intimate, illuminated by the gentle glow of a small candle on the table and soft bokeh from distant lights. The lighting highlights the rich textures of the pouring liquid, the glass reflections, and small droplets catching the ambient glow, captured with the crisp depth of field of a professional camera.",
+      "id": "pv-1792393744762-9272",
+      "title": "Girl 00008",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792393744762-9272.webp",
+      "prompt": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, highres, extremely detailed, intricate details, year 2025, newest, safe, 1girl, solo, sw33t, close-up, portrait, looking at viewer, head tilt, black hair, blue hair, short hair, blunt bangs, glossy hair, (blue eyes:1.3), beautiful detailed eyes, reflective eyes, long eyelashes, detailed face, parted lips, glossy lips, pale skin, porcelain skin, blush, dappled sunlight, light on face, gold tassel hair ornament, gold jewelry, kimono, japanese clothes, (gold pattern:1.2), geometric gold pattern, (blue flowers:1.3), round flowers, blue spherical flowers, leaves, (blue theme:1.3), gold accents, glossy, shiny, high contrast, cinematic lighting, soft lighting, light particles, depth of field, detailed background, detailed five fingers, masterpiece, best quality, absurdres, newest, very aesthetic, amazing quality,highres,sensitive,",
       "negative_prompt": "",
       "model": "Moss Image",
-      "category": "Portrait",
+      "category": "Anime",
       "tags": [
-        "girl",
-        "woman"
+        "anime",
+        "girl"
       ],
       "is_premium": true,
-      "created_at": "2026-10-19T07:11:19.050Z"
+      "created_at": "2026-10-19T07:11:19.026Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792393415447-7103",
+      "title": "Anime 00007",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792393415447-7103.webp",
+      "prompt": "masterpiece, best quality, anime illustration, ship gangplank, dock ropes, ship hull looming beside her, warm afternoon light \nBREAK (3m13r0kur0:1.2), 1girl, solo, bright blue eyes, black hair, hime cut, frilly black gothic dress, black stockings, large breasts, black stiletto heels, black ribbon choker, (wide-brimmed lacey black sun hat:1.3), one hand pressed to the hat brim against the wind, walking up the gangplank, looking back over her shoulder, tearful wistful expression, back to viewer, walking up the ship's gangplank,\nBREAK motion in dress and hat lace trim, emotional atmosphere, cinematic lighting, shallow depth of field, shot from below, teary-eyed,\nStyle & Composition: premium contemporary anime illustration with painterly realism, elegant stylized anatomy, refined facial rendering, cinematic lighting, and fabulous fabric detail.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "anime"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T07:11:19.023Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792393250806-8234",
