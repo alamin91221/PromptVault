@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T05:25:32.108Z",
+  "updated_at": "2026-10-19T05:29:12.320Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,81 +39,19 @@
   ],
   "items": [
     {
-      "id": "pv-1792386941712-2187",
-      "title": "Girl",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792386941712-2187.webp",
-      "prompt": "watercolor print, fantasy book style, A young adult forest guardian faces the viewer in perfect vertical symmetry at twilight, her pale green skin merging with moss, cracked bark, vines, lichens, tiny mushrooms, and wet dark hair. Enormous amber-orange eyes glow beneath a living crown of roots, weathered stone, curved branch-like horns, crimson flowers, berries, and spores. Both hands cup a small luminous mushroom at chest height, its molten golden core lighting her fingers and face. Massive trees fade into emerald fog behind her as fireflies, pollen, and drifting spores surround the sacred central figure.",
+      "id": "pv-1792387396100-4296",
+      "title": "ComfyUI 00042",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792387396100-4296.webp",
+      "prompt": "masterpiece, best quality, score_7, safe, 1boy, solo, levi (shingeki no kyojin), shingeki no kyojin, black hair, undercut, short hair, grey eyes, serious, paradis military uniform, survey corps (emblem), green cape, brown jacket, white pants, belt, three-dimensional maneuver gear, dual wielding, holding sword, midair, rooftop, town, chimney, smoke, wind, overcast, sunlight, light rays, from below, cowboy shot. Levi Ackerman from Attack on Titan, with an undercut and cold grey eyes, launches through the air above the rooftops of a walled medieval town on his maneuver gear, a blade in each hand and his green Survey Corps cape snapping behind him. Pale sunlight breaks through the overcast sky behind him, catching the chimney smoke and the steel of his blades.",
       "negative_prompt": "",
       "model": "Moss Image",
-      "category": "Portrait",
+      "category": "Anime",
       "tags": [
-        "girl",
-        "woman"
+        "anime",
+        "man"
       ],
       "is_premium": false,
-      "created_at": "2026-10-19T05:25:32.101Z"
-    },
-    {
-      "id": "pv-1792386984189-6122",
-      "title": "Animals",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792386984189-6122.webp",
-      "prompt": "A pocket-sized dragon knight wearing fitted armor made from overlapping silver leaves carries a delicate dandelion lance. The tiny knight stands bravely before a giant angry sunflower whose towering face and curling leaves fill the background. Richly textured woodland ground, scattered seeds, and oversized vegetation establish the dramatic difference in scale. Warm storybook-fantasy lighting turns the humorous confrontation into an epic miniature duel.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Animals",
-      "tags": [],
-      "is_premium": false,
-      "created_at": "2026-10-19T05:25:32.103Z"
-    },
-    {
-      "id": "pv-1792387034809-9509",
-      "title": "Duck",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792387034809-9509.webp",
-      "prompt": "old paper, A realistic anthropomorphic duck wizard stands ready for battle in a lush enchanted forest. The duck has sharp, determined eyes and wears a textured green hooded cloak marked by many adventures. It grips an ornate staff confidently at its side. Bright flowers and mushrooms grow among mossy roots, while dappled sunlight filters through dense leaves and casts soft shadows. Detailed feathers, worn fabric, carved wood, and vibrant woodland life balance charm, bravery, and anticipation.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Animals",
-      "tags": [
-        "duck"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-19T05:25:32.103Z"
-    },
-    {
-      "id": "pv-1792387117931-6268",
-      "title": "a",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792387117931-6268.webp",
-      "prompt": "dynamic gothic pop surrealism, dark nouveau: a brave and cute patchwork doll knight character, wearing mismatched rusted tin breastplate armor, a tattered velvet shoulder cape, and heavy leather platform boots with buckles. Standing in a bold low-angle defensive combat stance, holding a slender glowing bone sword in one hand, while protecting an ornate antique brass birdcage lantern filled with trapped glowing bioluminescent firefly spirits casting celestial cyan rays across the muddy ground. Accompanied by a loyal white bear with luminous eyes and thick shaggy fur, standing protectively at the knight’s side, and confronted by a looming ghostly dragon with elongated serpentine body, curling through the midnight fog overhead. Huge circular white doll eyes with a determined fierce expression, coarse burlap stitching on cheeks, ragged cloth helmet with raven feather. Surrounded by silhouette cemetery crosses, twisted dead trees, and swirling midnight fog, under a purple and pale grey gradient sky. Spiky ink splash edges, Tim Burton-inspired gothic courage, high contrast chiaroscuro, eerie fantasy atmosphere, cinematic composition, richly textured, haunting yet heroic.\nta86_inkriot, graphic cel shading, bold black outlines, zidiusArt, grimmspaintalt, whimsical storybook illustration",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Animals",
-      "tags": [],
-      "is_premium": false,
-      "created_at": "2026-10-19T05:25:32.104Z"
-    },
-    {
-      "id": "pv-1792387157932-407",
-      "title": "ComfyUI 00037",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792387157932-407.webp",
-      "prompt": "Artwork, a flat field of deep bottle green fills the frame, crossed by heavy diagonal streaks of pale rain. Mire, a tall grown figure shaped like a man but built of peat, reeds, river mud and birch roots, with two small sulphur-yellow lights for eyes and a crown of bare branches spreading from its head, wades out of black water toward the viewer, mid-stride, water pouring off its shoulders and river weed streaming from its arms, one great hand reaching forward, a white heron bursting up out of the reeds beside it. Low camera, waist-deep. The title \"MIRE\" fills the bottom third in heavy hand-lettered capitals the colour of old bone, clearly legible, with moss and fine root tendrils growing from the edges of every letter, the water lapping over the feet of the letters. Top-left corner, a small publisher mark: a three-by-three grid of white squares with \"NINE HOUSES\" beneath it. Top-right corner, a bone-white circle badge with \"#2 OF 5\" in bold black and \"$4.99 US\" in small capitals below. Beneath the badge a short strip of small bone-coloured capitals reading \"AUGUST LYRE · ESME CROW · JONAH REED\", and lower-left a small white UPC barcode box. Flat graphic shapes, heavy ink blacks, a woodcut texture, bottle green, black and bone only, rising out of the rain.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Fantasy",
-      "tags": [],
-      "is_premium": false,
-      "created_at": "2026-10-19T05:25:32.105Z"
-    },
-    {
-      "id": "pv-1792387257590-8974",
-      "title": "ComfyUI 00040",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792387257590-8974.webp",
-      "prompt": "Digital cartoon illustration in the style of Sh1tboat.\nThe overall style is reminiscent of traditional 2D animation, characterized by bold, clear ink lines and a slightly exaggerated, humorous approach to anatomy and expression.\n1 bird with a cigar in his mouth sitting on the mast of a wooden ship, very relaxed.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Animals",
-      "tags": [],
-      "is_premium": false,
-      "created_at": "2026-10-19T05:25:32.106Z"
+      "created_at": "2026-10-19T05:25:31.868Z"
     },
     {
       "id": "pv-1792387341727-6000",
@@ -129,22 +67,84 @@
         "woman"
       ],
       "is_premium": true,
-      "created_at": "2026-10-19T05:25:32.107Z"
+      "created_at": "2026-10-19T05:25:31.861Z"
     },
     {
-      "id": "pv-1792387396100-4296",
-      "title": "ComfyUI 00042",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792387396100-4296.webp",
-      "prompt": "masterpiece, best quality, score_7, safe, 1boy, solo, levi (shingeki no kyojin), shingeki no kyojin, black hair, undercut, short hair, grey eyes, serious, paradis military uniform, survey corps (emblem), green cape, brown jacket, white pants, belt, three-dimensional maneuver gear, dual wielding, holding sword, midair, rooftop, town, chimney, smoke, wind, overcast, sunlight, light rays, from below, cowboy shot. Levi Ackerman from Attack on Titan, with an undercut and cold grey eyes, launches through the air above the rooftops of a walled medieval town on his maneuver gear, a blade in each hand and his green Survey Corps cape snapping behind him. Pale sunlight breaks through the overcast sky behind him, catching the chimney smoke and the steel of his blades.",
+      "id": "pv-1792387257590-8974",
+      "title": "ComfyUI 00040",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792387257590-8974.webp",
+      "prompt": "Digital cartoon illustration in the style of Sh1tboat.\nThe overall style is reminiscent of traditional 2D animation, characterized by bold, clear ink lines and a slightly exaggerated, humorous approach to anatomy and expression.\n1 bird with a cigar in his mouth sitting on the mast of a wooden ship, very relaxed.",
       "negative_prompt": "",
       "model": "Moss Image",
-      "category": "Anime",
+      "category": "Animals",
+      "tags": [],
+      "is_premium": false,
+      "created_at": "2026-10-19T05:25:31.855Z"
+    },
+    {
+      "id": "pv-1792387157932-407",
+      "title": "ComfyUI 00037",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792387157932-407.webp",
+      "prompt": "Artwork, a flat field of deep bottle green fills the frame, crossed by heavy diagonal streaks of pale rain. Mire, a tall grown figure shaped like a man but built of peat, reeds, river mud and birch roots, with two small sulphur-yellow lights for eyes and a crown of bare branches spreading from its head, wades out of black water toward the viewer, mid-stride, water pouring off its shoulders and river weed streaming from its arms, one great hand reaching forward, a white heron bursting up out of the reeds beside it. Low camera, waist-deep. The title \"MIRE\" fills the bottom third in heavy hand-lettered capitals the colour of old bone, clearly legible, with moss and fine root tendrils growing from the edges of every letter, the water lapping over the feet of the letters. Top-left corner, a small publisher mark: a three-by-three grid of white squares with \"NINE HOUSES\" beneath it. Top-right corner, a bone-white circle badge with \"#2 OF 5\" in bold black and \"$4.99 US\" in small capitals below. Beneath the badge a short strip of small bone-coloured capitals reading \"AUGUST LYRE · ESME CROW · JONAH REED\", and lower-left a small white UPC barcode box. Flat graphic shapes, heavy ink blacks, a woodcut texture, bottle green, black and bone only, rising out of the rain.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Fantasy",
+      "tags": [],
+      "is_premium": false,
+      "created_at": "2026-10-19T05:25:31.843Z"
+    },
+    {
+      "id": "pv-1792387117931-6268",
+      "title": "a",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792387117931-6268.webp",
+      "prompt": "dynamic gothic pop surrealism, dark nouveau: a brave and cute patchwork doll knight character, wearing mismatched rusted tin breastplate armor, a tattered velvet shoulder cape, and heavy leather platform boots with buckles. Standing in a bold low-angle defensive combat stance, holding a slender glowing bone sword in one hand, while protecting an ornate antique brass birdcage lantern filled with trapped glowing bioluminescent firefly spirits casting celestial cyan rays across the muddy ground. Accompanied by a loyal white bear with luminous eyes and thick shaggy fur, standing protectively at the knight’s side, and confronted by a looming ghostly dragon with elongated serpentine body, curling through the midnight fog overhead. Huge circular white doll eyes with a determined fierce expression, coarse burlap stitching on cheeks, ragged cloth helmet with raven feather. Surrounded by silhouette cemetery crosses, twisted dead trees, and swirling midnight fog, under a purple and pale grey gradient sky. Spiky ink splash edges, Tim Burton-inspired gothic courage, high contrast chiaroscuro, eerie fantasy atmosphere, cinematic composition, richly textured, haunting yet heroic.\nta86_inkriot, graphic cel shading, bold black outlines, zidiusArt, grimmspaintalt, whimsical storybook illustration",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Animals",
+      "tags": [],
+      "is_premium": false,
+      "created_at": "2026-10-19T05:25:31.834Z"
+    },
+    {
+      "id": "pv-1792387034809-9509",
+      "title": "Duck",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792387034809-9509.webp",
+      "prompt": "old paper, A realistic anthropomorphic duck wizard stands ready for battle in a lush enchanted forest. The duck has sharp, determined eyes and wears a textured green hooded cloak marked by many adventures. It grips an ornate staff confidently at its side. Bright flowers and mushrooms grow among mossy roots, while dappled sunlight filters through dense leaves and casts soft shadows. Detailed feathers, worn fabric, carved wood, and vibrant woodland life balance charm, bravery, and anticipation.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Animals",
       "tags": [
-        "anime",
-        "man"
+        "duck"
       ],
       "is_premium": false,
-      "created_at": "2026-10-19T05:25:32.107Z"
+      "created_at": "2026-10-19T05:25:31.828Z"
+    },
+    {
+      "id": "pv-1792386984189-6122",
+      "title": "Animals",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792386984189-6122.webp",
+      "prompt": "A pocket-sized dragon knight wearing fitted armor made from overlapping silver leaves carries a delicate dandelion lance. The tiny knight stands bravely before a giant angry sunflower whose towering face and curling leaves fill the background. Richly textured woodland ground, scattered seeds, and oversized vegetation establish the dramatic difference in scale. Warm storybook-fantasy lighting turns the humorous confrontation into an epic miniature duel.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Animals",
+      "tags": [],
+      "is_premium": false,
+      "created_at": "2026-10-19T05:25:31.819Z"
+    },
+    {
+      "id": "pv-1792386941712-2187",
+      "title": "Girl",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792386941712-2187.webp",
+      "prompt": "watercolor print, fantasy book style, A young adult forest guardian faces the viewer in perfect vertical symmetry at twilight, her pale green skin merging with moss, cracked bark, vines, lichens, tiny mushrooms, and wet dark hair. Enormous amber-orange eyes glow beneath a living crown of roots, weathered stone, curved branch-like horns, crimson flowers, berries, and spores. Both hands cup a small luminous mushroom at chest height, its molten golden core lighting her fingers and face. Massive trees fade into emerald fog behind her as fireflies, pollen, and drifting spores surround the sacred central figure.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T05:25:31.812Z"
     },
     {
       "id": "pv-1792385427711-6259",
