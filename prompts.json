@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T11:14:35.619Z",
+  "updated_at": "2026-10-19T11:15:06.097Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,10 +39,10 @@
   ],
   "items": [
     {
-      "id": "pv-1792408276574-9396",
-      "title": "Girl 00024",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408276574-9396.webp",
-      "prompt": "Create a highly realistic full-body fashion photo of a beautiful young woman with porcelain fair skin, balanced proportions, and a stylish streetwear aesthetic. She has soft glass-skin makeup with a natural glow, light foundation, subtle light-pink eyeshadow, delicate eyeliner, long separated lashes, rosy cheeks, a softly highlighted nose, and glossy nude-pink lips. Her expression is relaxed, friendly, and natural.\nHer hair is long, silky dark brown, extending well past the waist with natural volume, glossy shine, feathered layers, and a few strands gently falling across her face. The hairstyle feels effortless, healthy, and realistic with a Korean-Japanese fashion magazine vibe.\nShe is standing casually beside a brightly lit beverage refrigerator inside a modern convenience store, lightly leaning against it while holding a chilled soda can. The environment features neatly stocked colorful drinks, realistic store lighting, polished floors, and an authentic grocery-store atmosphere.\nOutfit: an oversized white-and-yellow varsity-inspired sports jersey with long sleeves, front buttons, utility-style pockets, and subtle athletic details. Paired with a stylish white frayed-hem denim mini skirt, clean white sneakers with yellow accents, a matching yellow backpack worn over one shoulder, a coordinated headband, and a minimalist fashion lanyard. Her nails are extra-long almond-shaped acrylics with a translucent milky-white finish.\nPhotography style: ultra-realistic fashion photography, full-body composition, eye-level camera angle, natural pose, high-detail skin texture, realistic hair strands, professional retail lighting, shallow depth of field, lifestyle editorial aesthetic, premium street-fashion campaign, 85mm lens, sharp focus, photorealistic, 8K quality.",
+      "id": "pv-1792408472324-6068",
+      "title": "Girl 00029",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408472324-6068.webp",
+      "prompt": "Photorealistic vertical portrait of a young woman outdoors against a bright sky filled with soft, fluffy clouds; low-angle perspective from slightly below waist height, three-quarter length view capturing her from knees to head as she leans casually on a weathered wooden ledge. She has long, voluminous wavy brown hair gently tousled by a breeze, subtle natural makeup, soft smile, and round eyeglasses with a faint blue anti-reflective tint. She wears a fitted blue-and-white horizontal striped ribbed sweater, high-waisted cream trousers, a pale pink smartwatch, and white-and-pink over-ear headphones resting around her neck. Emphasize fabric texture, hair strands, skin pores and warm skin tones, crisp eyes and lashes. Bright, soft daylight with slight rim light, shallow depth of field, creamy bokeh, cinematic color grading, high detail, realistic lighting, balanced contrast, airy, cheerful, serene mood, composed using rule of thirds and natural framing.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -52,55 +52,8 @@
         "cute girl"
       ],
       "is_premium": true,
-      "created_at": "2026-10-19T11:14:35.608Z"
-    },
-    {
-      "id": "pv-1792408351007-4377",
-      "title": "Girl 00025",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408351007-4377.webp",
-      "prompt": "[Subject] An adult young woman with a natural, realistic appearance  \n[Outfit] Specify clothing, shoes, and accessories  \n[Scene] Specify an urban bridge, plaza, tennis court, subway steps, etc.  \n[Action] Specify reaching toward the camera, leaning closer, extending one leg, or presenting an object  \n[Foreground Object] Specify a hand, sunglasses, tennis racket, shoe, drink, etc.  \n[Aspect Ratio] 9:16  \n\nCreate a 9:16 vertical, photorealistic 0.5x ultra wide-angle fashion portrait.\n\nUse a smartphone-like 14–18mm ultra-wide lens from a low angle, creating strong but believable near-large / far-small perspective.\n\nPlace the [Foreground Object] very close to the lens, taking up around 20%–35% of the frame. It should feel enlarged and appear to extend out of the image.\n\nKeep the subject’s face clear in the upper-middle area. The body should follow a diagonal, S-curve, or C-curve instead of standing stiffly. Hair, arms, legs, clothing, or accessories can extend toward the edges to create movement.\n\nUse a real urban background with strong perspective lines, such as railings, steps, roads, bridges, court markings, or building edges. The sky may fill 30%–50% of the frame.\n\nThe subject is performing [Action] and naturally interacting with the camera. The expression should feel lively and spontaneous, like a friend capturing the moment with a phone.\n\nUse bright natural daylight with realistic shadows. Preserve natural skin texture, loose hair strands, fabric wrinkles, and real material details. Keep the image crisp, youthful, energetic, and slightly editorial while still looking like a real smartphone photo.\n\nThe ultra-wide effect should be obvious but not extreme fisheye. Keep the face, hands, limbs, shoes, and props anatomically correct and structurally complete.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-19T11:14:35.609Z"
-    },
-    {
-      "id": "pv-1792408379128-3783",
-      "title": "Girl 00026",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408379128-3783.webp",
-      "prompt": "Square bust portrait photo, cyberpunk girl, fluffy long white hair blowing in wind, wearing silver futuristic reflective goggles, lens reflecting blue sky and city scenery, multi-layer wrapped silver metal choker, silver off-shoulder shiny top, bright sunny day, clear pure blue sky, strong natural daylight, clean translucent fair skin, light blush on cheeks, realistic CG portrait, ultra delicate skin, detailed hair strands, no tattoos on body, 8K high definition --ar 1:1 --v 6.0 --style raw --s 210 --q 2",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-19T11:14:35.609Z"
-    },
-    {
-      "id": "pv-1792408412272-6774",
-      "title": "Girl 00027",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408412272-6774.webp",
-      "prompt": "Create a image ultra-high-resolution digital realistic potrait illustration of a graceful, stylish beautiful fit young woman like reference image with flawless skin. she's wearing oversized transparent round glasses filled with pink sparkling liquid and floating bubbles. Her makeup is flawless, with glossy pink lips and soft, dreamy eyes. She wears a elegant pink dress. The background is warm and blurred with pink bokeh lights, adding a magical, ethereal atmosphere. High detail, soft lighting, whimsical tone, fashion-forward and futuristic style.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-19T11:14:35.609Z"
+      "created_at": "2026-10-19T11:14:35.254Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792408439463-9134",
@@ -116,13 +69,65 @@
         "cute girl"
       ],
       "is_premium": false,
-      "created_at": "2026-10-19T11:14:35.619Z"
+      "created_at": "2026-10-19T11:14:35.252Z",
+      "is_draft": false
     },
     {
-      "id": "pv-1792408472324-6068",
-      "title": "Girl 00029",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408472324-6068.webp",
-      "prompt": "Photorealistic vertical portrait of a young woman outdoors against a bright sky filled with soft, fluffy clouds; low-angle perspective from slightly below waist height, three-quarter length view capturing her from knees to head as she leans casually on a weathered wooden ledge. She has long, voluminous wavy brown hair gently tousled by a breeze, subtle natural makeup, soft smile, and round eyeglasses with a faint blue anti-reflective tint. She wears a fitted blue-and-white horizontal striped ribbed sweater, high-waisted cream trousers, a pale pink smartwatch, and white-and-pink over-ear headphones resting around her neck. Emphasize fabric texture, hair strands, skin pores and warm skin tones, crisp eyes and lashes. Bright, soft daylight with slight rim light, shallow depth of field, creamy bokeh, cinematic color grading, high detail, realistic lighting, balanced contrast, airy, cheerful, serene mood, composed using rule of thirds and natural framing.",
+      "id": "pv-1792408412272-6774",
+      "title": "Girl 00027",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408412272-6774.webp",
+      "prompt": "Create a image ultra-high-resolution digital realistic potrait illustration of a graceful, stylish beautiful fit young woman like reference image with flawless skin. she's wearing oversized transparent round glasses filled with pink sparkling liquid and floating bubbles. Her makeup is flawless, with glossy pink lips and soft, dreamy eyes. She wears a elegant pink dress. The background is warm and blurred with pink bokeh lights, adding a magical, ethereal atmosphere. High detail, soft lighting, whimsical tone, fashion-forward and futuristic style.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T11:14:35.247Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792408379128-3783",
+      "title": "Girl 00026",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408379128-3783.webp",
+      "prompt": "Square bust portrait photo, cyberpunk girl, fluffy long white hair blowing in wind, wearing silver futuristic reflective goggles, lens reflecting blue sky and city scenery, multi-layer wrapped silver metal choker, silver off-shoulder shiny top, bright sunny day, clear pure blue sky, strong natural daylight, clean translucent fair skin, light blush on cheeks, realistic CG portrait, ultra delicate skin, detailed hair strands, no tattoos on body, 8K high definition --ar 1:1 --v 6.0 --style raw --s 210 --q 2",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T11:14:35.245Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792408351007-4377",
+      "title": "Girl 00025",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408351007-4377.webp",
+      "prompt": "[Subject] An adult young woman with a natural, realistic appearance  \n[Outfit] Specify clothing, shoes, and accessories  \n[Scene] Specify an urban bridge, plaza, tennis court, subway steps, etc.  \n[Action] Specify reaching toward the camera, leaning closer, extending one leg, or presenting an object  \n[Foreground Object] Specify a hand, sunglasses, tennis racket, shoe, drink, etc.  \n[Aspect Ratio] 9:16  \n\nCreate a 9:16 vertical, photorealistic 0.5x ultra wide-angle fashion portrait.\n\nUse a smartphone-like 14–18mm ultra-wide lens from a low angle, creating strong but believable near-large / far-small perspective.\n\nPlace the [Foreground Object] very close to the lens, taking up around 20%–35% of the frame. It should feel enlarged and appear to extend out of the image.\n\nKeep the subject’s face clear in the upper-middle area. The body should follow a diagonal, S-curve, or C-curve instead of standing stiffly. Hair, arms, legs, clothing, or accessories can extend toward the edges to create movement.\n\nUse a real urban background with strong perspective lines, such as railings, steps, roads, bridges, court markings, or building edges. The sky may fill 30%–50% of the frame.\n\nThe subject is performing [Action] and naturally interacting with the camera. The expression should feel lively and spontaneous, like a friend capturing the moment with a phone.\n\nUse bright natural daylight with realistic shadows. Preserve natural skin texture, loose hair strands, fabric wrinkles, and real material details. Keep the image crisp, youthful, energetic, and slightly editorial while still looking like a real smartphone photo.\n\nThe ultra-wide effect should be obvious but not extreme fisheye. Keep the face, hands, limbs, shoes, and props anatomically correct and structurally complete.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T11:14:35.242Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792408276574-9396",
+      "title": "Girl 00024",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408276574-9396.webp",
+      "prompt": "Create a highly realistic full-body fashion photo of a beautiful young woman with porcelain fair skin, balanced proportions, and a stylish streetwear aesthetic. She has soft glass-skin makeup with a natural glow, light foundation, subtle light-pink eyeshadow, delicate eyeliner, long separated lashes, rosy cheeks, a softly highlighted nose, and glossy nude-pink lips. Her expression is relaxed, friendly, and natural.\nHer hair is long, silky dark brown, extending well past the waist with natural volume, glossy shine, feathered layers, and a few strands gently falling across her face. The hairstyle feels effortless, healthy, and realistic with a Korean-Japanese fashion magazine vibe.\nShe is standing casually beside a brightly lit beverage refrigerator inside a modern convenience store, lightly leaning against it while holding a chilled soda can. The environment features neatly stocked colorful drinks, realistic store lighting, polished floors, and an authentic grocery-store atmosphere.\nOutfit: an oversized white-and-yellow varsity-inspired sports jersey with long sleeves, front buttons, utility-style pockets, and subtle athletic details. Paired with a stylish white frayed-hem denim mini skirt, clean white sneakers with yellow accents, a matching yellow backpack worn over one shoulder, a coordinated headband, and a minimalist fashion lanyard. Her nails are extra-long almond-shaped acrylics with a translucent milky-white finish.\nPhotography style: ultra-realistic fashion photography, full-body composition, eye-level camera angle, natural pose, high-detail skin texture, realistic hair strands, professional retail lighting, shallow depth of field, lifestyle editorial aesthetic, premium street-fashion campaign, 85mm lens, sharp focus, photorealistic, 8K quality.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -132,7 +137,8 @@
         "cute girl"
       ],
       "is_premium": true,
-      "created_at": "2026-10-19T11:14:35.619Z"
+      "created_at": "2026-10-19T11:14:35.239Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792408207869-8595",
