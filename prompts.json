@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T05:58:31.553Z",
+  "updated_at": "2026-10-19T06:00:52.479Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,22 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1792389629727-377",
+      "title": "Anime Girl 003",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792389629727-377.webp",
+      "prompt": "3D, masterpiece, best quality, ultra detailed, absurdres, sharp focus, intricate details, cinematic dramatic lighting, strong chiaroscuro,\n\nanime girl with very long black hair, red eyes, large red flower and gold hair ornaments, glowing red circular halo above head, large black dragon tattoo with red roses covering her back, black and red kimono-style robe open at the back and tied with a large bow, holding a glowing paper lantern with Japanese characters, looking back over shoulder, snowy traditional Japanese temple courtyard at dusk, falling snowflakes, warm lantern light against cool blue night",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "anime",
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T06:00:52.479Z"
+    },
     {
       "id": "pv-1792389484774-2870",
       "title": "Anime Girl",
