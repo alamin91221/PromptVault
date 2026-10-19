@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T05:25:32.108Z",
+  "updated_at": "2026-10-19T05:32:34.763Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -78,18 +78,6 @@
       ],
       "is_premium": false,
       "created_at": "2026-10-19T05:25:32.103Z"
-    },
-    {
-      "id": "pv-1792387117931-6268",
-      "title": "a",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792387117931-6268.webp",
-      "prompt": "dynamic gothic pop surrealism, dark nouveau: a brave and cute patchwork doll knight character, wearing mismatched rusted tin breastplate armor, a tattered velvet shoulder cape, and heavy leather platform boots with buckles. Standing in a bold low-angle defensive combat stance, holding a slender glowing bone sword in one hand, while protecting an ornate antique brass birdcage lantern filled with trapped glowing bioluminescent firefly spirits casting celestial cyan rays across the muddy ground. Accompanied by a loyal white bear with luminous eyes and thick shaggy fur, standing protectively at the knight’s side, and confronted by a looming ghostly dragon with elongated serpentine body, curling through the midnight fog overhead. Huge circular white doll eyes with a determined fierce expression, coarse burlap stitching on cheeks, ragged cloth helmet with raven feather. Surrounded by silhouette cemetery crosses, twisted dead trees, and swirling midnight fog, under a purple and pale grey gradient sky. Spiky ink splash edges, Tim Burton-inspired gothic courage, high contrast chiaroscuro, eerie fantasy atmosphere, cinematic composition, richly textured, haunting yet heroic.\nta86_inkriot, graphic cel shading, bold black outlines, zidiusArt, grimmspaintalt, whimsical storybook illustration",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Animals",
-      "tags": [],
-      "is_premium": false,
-      "created_at": "2026-10-19T05:25:32.104Z"
     },
     {
       "id": "pv-1792387157932-407",
