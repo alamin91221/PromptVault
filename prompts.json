@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T06:45:29.979Z",
+  "updated_at": "2026-10-19T06:46:27.814Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,10 +39,10 @@
   ],
   "items": [
     {
-      "id": "pv-1792391748372-2363",
-      "title": "Girl  92",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792391748372-2363.webp",
-      "prompt": "A 2:3 vertical photograph of a single costumed figure, shot on a 50mm lens at f/2.0 from a low angle tilted up so she reads tall and imposing and fills most of the frame from mid-thigh to head, with a grey, ruined, overcast environment behind her.\n\nShe is a real adult woman built tall and long-limbed with a small waist and full chest, standing in a three-quarter stance with her hips squared to the lens and her torso turned slightly away, chin lifted and eyes lowered in a cold, detached expression. Her hair is long and platinum blonde with a faint cool silver tone, silky and straight, falling in a heavy sheet past her waist on the near side with a few fine strands lifting loose. Her face is powdered matte pale to near-glossless flatness, with the natural texture of skin, faint pores and a soft flush still just readable at cheek and nose. The makeup is gothic and graphic: the whole eye socket smoked out in a bruised rose-brown with a soft edge and a hard black liner wing at the outer corner, a single thin dark line hand-drawn from the lower lash line down her cheek, brows thin and pale, no blush at all, and pale pink glossy lips parted slightly. Small dark drop earrings hang at both ears. A black and white coif band crosses her forehead under a floor-length black veil, the veil stiff and matte and falling in a long straight panel behind her shoulders with the tail drifting out at her left.\n\nEverything she wears is polished latex and leather and both read as physical material. A high-collared white cotton band sits at her throat with a black leather strap and buckle over it. Her body is sealed into a black latex nun's habit cut as a catsuit: a high gloss black rubber bodice zipped up the front with a metal pull, its surface throwing hot white speculars and reflecting the grey around her, moulded tight over the chest and waist with a small gold cross pin on the upper left arm and a matching cross on the hanging veil tail. A heavy black leather belt with a big brass buckle cinches her waist, and a harness of adjustable straps with brass hardware and buckles crosses her chest and wraps both thighs and upper arms, sitting flat on the rubber with visible stitching and edge wear. Her hands are in black leather gauntlets with wrist straps and buckles, each gripping the hilt of a long straight sword so the blades angle out and down past the bottom corners of the frame, the near hilt showing a dark wrap and a worn cross guard.\n\nBehind her is a drowned gothic ruin in flat winter light: roofless stone towers and an abandoned facade on both sides falling into rubble, bare black branches of dead trees cutting across a pale grey sky, standing water and broken stone underfoot reflecting the pale light back up at her, and mist hanging still in the middle distance with no colour anywhere in the background. The light is entirely soft and overcast and top-down, roughly 6500K, with no hard shadow, so the only strong modelling on her comes from the wide white sky reflecting off the rubber, and the wet ground throwing one weak bounce up onto the underside of her thighs and jaw. Palette held to black, wet grey stone, and her pale skin and platinum hair, with the small warm notes of the brass buckles and her pink lips. Focus is on her face and the buckles at her waist with the ruin already going soft behind, fine skin and rubber texture legible, real cloth and leather weight, mild grain, controlled highlight roll-off on the gloss with small hard speculars but no halation, and a cold, expensive, faintly menacing studio-grade finish.",
+      "id": "pv-1792392320263-257",
+      "title": "Girl  98",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392320263-257.webp",
+      "prompt": "A young Taiwanese woman stands on a stone staircase ascending a verdant hillside, hair tied back with loose strands framing her face, smiling brightly toward the camera with relaxed posture and hands resting lightly by sides. She wears a fitted white ribbed tank top paired with loose olive-green drawstring pants, carrying a black backpack over one shoulder. A delicate necklace rests at her neck, complemented by a dark beaded bracelet on her left wrist. Behind her, traditional East Asian architecture with tiled roofs and red lanterns lines the path, descending toward a coastal town nestled among green hills under an overcast sky. The scene features soft natural lighting diffused by clouds, casting even tones across stone steps, foliage, and distant water. Camera positioned at eye level, capturing mid-body shot from slightly low angle. Background shows blurred figures walking downhill, adding depth without distraction. Environment suggests a culturally rich, scenic location with no specific brand or text visible. Style: naturalistic realism with cinematic composition.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -51,67 +51,8 @@
         "woman"
       ],
       "is_premium": false,
-      "created_at": "2026-10-19T06:45:29.974Z"
-    },
-    {
-      "id": "pv-1792392002173-8278",
-      "title": "Girl  93",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392002173-8278.webp",
-      "prompt": "A cinematic portrait of a young Asian woman with windswept dark hair partly across her face, lit by cool blue rim light from behind and a soft magenta glow on the shadow side. Large defocused white and blue bokeh orbs in the dark background. Realistic skin texture, fine flyaway strands catching light, shallow depth of field, film-like color grade, vertical composition.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-19T06:45:29.976Z"
-    },
-    {
-      "id": "pv-1792392045648-2791",
-      "title": "Girl  94",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392045648-2791.webp",
-      "prompt": "A young East Asian woman with long, straight black hair featuring neat bangs and fair skin squats elegantly on a wet asphalt street at night, her hands gently cradling her cheeks in a cute, contemplative pose. She wears a textured cream-colored knit sweater with red geometric patterns on the sleeves, draped over one shoulder is a purple and grey checkered plaid scarf with long, loose woven tassels that hang down her back. Her outfit completes with sheer patterned hosiery, chunky white cuffed socks, and beige platform Mary Jane shoes with thick treads and silver buckle hardware. A metal chain link fence runs along the left edge of the frame near a bright circular street lamp. The background features heavy bokeh from out-of-focus blue and warm yellow city lights and bare tree branches, creating a dreamy, cinematic atmosphere with cool color grading, high depth of field separation, and soft ambient lighting reflecting off the damp pavement.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman"
-      ],
-      "is_premium": true,
-      "created_at": "2026-10-19T06:45:29.976Z"
-    },
-    {
-      "id": "pv-1792392087343-4008",
-      "title": "Girl  95",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392087343-4008.webp",
-      "prompt": "Amateurs Madness photo, extremely realistic cosplay photograph, adult female cosplayer in her 20s, edgy cyberpunk character styling, tousled hair, intense direct gaze, spontaneous energetic pose, leaning against a graffiti-covered wall with one knee bent and one shoulder turned toward the camera, holding a futuristic prop casually at her side, damp pavement reflecting vivid magenta and cyan neon lights, narrow urban back alley at midnight, vending machines, metal shutters, distant traffic bokeh, slightly off-center framing, handheld camera feel, imperfect but compelling composition, realistic skin pores, individual flyaway hairs, detailed costume materials, natural perspiration, subtle film grain, mixed neon and streetlight illumination, 28mm lens, authentic candid snapshot, unpolished amateur photography mood, strong atmospheric contrast, lifelike color rendition, photorealistic, high detail",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman"
-      ],
-      "is_premium": true,
-      "created_at": "2026-10-19T06:45:29.976Z"
-    },
-    {
-      "id": "pv-1792392165160-7073",
-      "title": "Girl  96",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392165160-7073.webp",
-      "prompt": "Realism, Cinematic hyper-realistic photo,\nWSDE_cos, Wis'adel from Arknights, photorealistic live-action cosplay, silver-white hair, red devil horns, intense red-tinted eyes, black and crimson tactical leather outfit, layered straps and utility belts, fingerless gloves, white thigh straps, black combat boots, sitting casually on a heavy industrial chair, one elbow resting on the backrest, relaxed posture with an arrogant confident expression, underground weapons workshop, exposed steel beams, machinery and cables, deep red neon illumination mixed with cold blue ambient light, dramatic shadows, cinematic cyberpunk atmosphere, highly detailed realistic materials, 50mm lens",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-19T06:45:29.976Z"
+      "created_at": "2026-10-19T06:45:29.946Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792392229525-3229",
@@ -126,13 +67,14 @@
         "woman"
       ],
       "is_premium": false,
-      "created_at": "2026-10-19T06:45:29.979Z"
+      "created_at": "2026-10-19T06:45:29.943Z",
+      "is_draft": false
     },
     {
-      "id": "pv-1792392320263-257",
-      "title": "Girl  98",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392320263-257.webp",
-      "prompt": "A young Taiwanese woman stands on a stone staircase ascending a verdant hillside, hair tied back with loose strands framing her face, smiling brightly toward the camera with relaxed posture and hands resting lightly by sides. She wears a fitted white ribbed tank top paired with loose olive-green drawstring pants, carrying a black backpack over one shoulder. A delicate necklace rests at her neck, complemented by a dark beaded bracelet on her left wrist. Behind her, traditional East Asian architecture with tiled roofs and red lanterns lines the path, descending toward a coastal town nestled among green hills under an overcast sky. The scene features soft natural lighting diffused by clouds, casting even tones across stone steps, foliage, and distant water. Camera positioned at eye level, capturing mid-body shot from slightly low angle. Background shows blurred figures walking downhill, adding depth without distraction. Environment suggests a culturally rich, scenic location with no specific brand or text visible. Style: naturalistic realism with cinematic composition.",
+      "id": "pv-1792392165160-7073",
+      "title": "Girl  96",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392165160-7073.webp",
+      "prompt": "Realism, Cinematic hyper-realistic photo,\nWSDE_cos, Wis'adel from Arknights, photorealistic live-action cosplay, silver-white hair, red devil horns, intense red-tinted eyes, black and crimson tactical leather outfit, layered straps and utility belts, fingerless gloves, white thigh straps, black combat boots, sitting casually on a heavy industrial chair, one elbow resting on the backrest, relaxed posture with an arrogant confident expression, underground weapons workshop, exposed steel beams, machinery and cables, deep red neon illumination mixed with cold blue ambient light, dramatic shadows, cinematic cyberpunk atmosphere, highly detailed realistic materials, 50mm lens",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -141,7 +83,72 @@
         "woman"
       ],
       "is_premium": false,
-      "created_at": "2026-10-19T06:45:29.979Z"
+      "created_at": "2026-10-19T06:45:29.937Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792392087343-4008",
+      "title": "Girl  95",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392087343-4008.webp",
+      "prompt": "Amateurs Madness photo, extremely realistic cosplay photograph, adult female cosplayer in her 20s, edgy cyberpunk character styling, tousled hair, intense direct gaze, spontaneous energetic pose, leaning against a graffiti-covered wall with one knee bent and one shoulder turned toward the camera, holding a futuristic prop casually at her side, damp pavement reflecting vivid magenta and cyan neon lights, narrow urban back alley at midnight, vending machines, metal shutters, distant traffic bokeh, slightly off-center framing, handheld camera feel, imperfect but compelling composition, realistic skin pores, individual flyaway hairs, detailed costume materials, natural perspiration, subtle film grain, mixed neon and streetlight illumination, 28mm lens, authentic candid snapshot, unpolished amateur photography mood, strong atmospheric contrast, lifelike color rendition, photorealistic, high detail",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T06:45:29.935Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792392045648-2791",
+      "title": "Girl  94",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392045648-2791.webp",
+      "prompt": "A young East Asian woman with long, straight black hair featuring neat bangs and fair skin squats elegantly on a wet asphalt street at night, her hands gently cradling her cheeks in a cute, contemplative pose. She wears a textured cream-colored knit sweater with red geometric patterns on the sleeves, draped over one shoulder is a purple and grey checkered plaid scarf with long, loose woven tassels that hang down her back. Her outfit completes with sheer patterned hosiery, chunky white cuffed socks, and beige platform Mary Jane shoes with thick treads and silver buckle hardware. A metal chain link fence runs along the left edge of the frame near a bright circular street lamp. The background features heavy bokeh from out-of-focus blue and warm yellow city lights and bare tree branches, creating a dreamy, cinematic atmosphere with cool color grading, high depth of field separation, and soft ambient lighting reflecting off the damp pavement.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T06:45:29.933Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792392002173-8278",
+      "title": "Girl  93",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392002173-8278.webp",
+      "prompt": "A cinematic portrait of a young Asian woman with windswept dark hair partly across her face, lit by cool blue rim light from behind and a soft magenta glow on the shadow side. Large defocused white and blue bokeh orbs in the dark background. Realistic skin texture, fine flyaway strands catching light, shallow depth of field, film-like color grade, vertical composition.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T06:45:29.930Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792391748372-2363",
+      "title": "Girl  92",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792391748372-2363.webp",
+      "prompt": "A 2:3 vertical photograph of a single costumed figure, shot on a 50mm lens at f/2.0 from a low angle tilted up so she reads tall and imposing and fills most of the frame from mid-thigh to head, with a grey, ruined, overcast environment behind her.\n\nShe is a real adult woman built tall and long-limbed with a small waist and full chest, standing in a three-quarter stance with her hips squared to the lens and her torso turned slightly away, chin lifted and eyes lowered in a cold, detached expression. Her hair is long and platinum blonde with a faint cool silver tone, silky and straight, falling in a heavy sheet past her waist on the near side with a few fine strands lifting loose. Her face is powdered matte pale to near-glossless flatness, with the natural texture of skin, faint pores and a soft flush still just readable at cheek and nose. The makeup is gothic and graphic: the whole eye socket smoked out in a bruised rose-brown with a soft edge and a hard black liner wing at the outer corner, a single thin dark line hand-drawn from the lower lash line down her cheek, brows thin and pale, no blush at all, and pale pink glossy lips parted slightly. Small dark drop earrings hang at both ears. A black and white coif band crosses her forehead under a floor-length black veil, the veil stiff and matte and falling in a long straight panel behind her shoulders with the tail drifting out at her left.\n\nEverything she wears is polished latex and leather and both read as physical material. A high-collared white cotton band sits at her throat with a black leather strap and buckle over it. Her body is sealed into a black latex nun's habit cut as a catsuit: a high gloss black rubber bodice zipped up the front with a metal pull, its surface throwing hot white speculars and reflecting the grey around her, moulded tight over the chest and waist with a small gold cross pin on the upper left arm and a matching cross on the hanging veil tail. A heavy black leather belt with a big brass buckle cinches her waist, and a harness of adjustable straps with brass hardware and buckles crosses her chest and wraps both thighs and upper arms, sitting flat on the rubber with visible stitching and edge wear. Her hands are in black leather gauntlets with wrist straps and buckles, each gripping the hilt of a long straight sword so the blades angle out and down past the bottom corners of the frame, the near hilt showing a dark wrap and a worn cross guard.\n\nBehind her is a drowned gothic ruin in flat winter light: roofless stone towers and an abandoned facade on both sides falling into rubble, bare black branches of dead trees cutting across a pale grey sky, standing water and broken stone underfoot reflecting the pale light back up at her, and mist hanging still in the middle distance with no colour anywhere in the background. The light is entirely soft and overcast and top-down, roughly 6500K, with no hard shadow, so the only strong modelling on her comes from the wide white sky reflecting off the rubber, and the wet ground throwing one weak bounce up onto the underside of her thighs and jaw. Palette held to black, wet grey stone, and her pale skin and platinum hair, with the small warm notes of the brass buckles and her pink lips. Focus is on her face and the buckles at her waist with the ruin already going soft behind, fine skin and rubber texture legible, real cloth and leather weight, mild grain, controlled highlight roll-off on the gloss with small hard speculars but no halation, and a cold, expensive, faintly menacing studio-grade finish.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T06:45:29.927Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792391629455-4716",
