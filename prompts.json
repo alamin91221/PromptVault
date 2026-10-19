@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T06:46:27.814Z",
+  "updated_at": "2026-10-19T06:54:44.998Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,156 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1792392421205-3704",
+      "title": "Girl 97",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392421205-3704.webp",
+      "prompt": "A young Taiwanese woman leans against a weathered stone railing, head tilted slightly, smiling softly with eyes gently engaging the viewer. Her dark hair is loosely tied in a bun with loose strands framing her face. She wears a white ribbed tank top and carries a black strap bag slung over one shoulder. Behind her, traditional East Asian architecture with red lanterns stands amidst lush green hills and distant water under an overcast sky. The camera captures her from a close medium shot, emphasizing natural skin tone and relaxed posture. Soft ambient light diffuses evenly across the scene, highlighting subtle textures of stone, foliage, and fabric without harsh shadows. Her body language conveys calm contentment, arms resting casually on her lap or near the railing. Background elements include distant rooftops, misty mountains, and traditional wooden structures with hanging lanterns. No temporary props beyond what is naturally part of the scene—no additional objects or accessories are present. The overall mood is serene, grounded in real-world travel photography style.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T06:54:44.992Z"
+    },
+    {
+      "id": "pv-1792392493113-6558",
+      "title": "Girl 97",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392493113-6558.webp",
+      "prompt": "POV medium shot, Asian woman making an exaggeratedly cute \"puppy dog\" face, her head tilted at a charming angle, wide shimmering eyes filled with a pleading look, a tiny shy smile, wearing a pastel pink oversized cardigan and a small silk ribbon tied in her hair, clutching the edges of her sweater, soft pastel colors filling the frame.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T06:54:44.993Z"
+    },
+    {
+      "id": "pv-1792392568851-6779",
+      "title": "Girl 97",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392568851-6779.webp",
+      "prompt": "A realistic close-up street portrait of a 22-year-old Taiwanese woman standing on an evening sidewalk, her expression caught between playful annoyance and stubborn childlike defiance. She has warm light-olive skin with natural texture, softly rounded features, dark almond-shaped eyes, and shoulder-length black hair tousled by the passing wind, with a few strands crossing her cheek. Her lower lip pushes slightly forward in a pout, eyebrows arched in an unfairly cute accusation, and her gaze is locked directly onto the viewer. She wears an oversized navy-and-cream varsity jacket over a faded charcoal T-shirt, with the jacket sleeves slightly wrinkled and her arms crossed loosely across her chest. The background shows a quiet urban sidewalk with blurred shopfronts, parked scooters, and small pools of amber streetlight after dusk. Shot from eye level at close range, centered composition, shallow depth of field, soft bokeh, subtle motion in her hair, and natural mixed evening light from storefronts and street lamps. Genuine candid photography, believable proportions, detailed fabric, and natural skin texture.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T06:54:44.994Z"
+    },
+    {
+      "id": "pv-1792392625513-7260",
+      "title": "Girl 98",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392625513-7260.webp",
+      "prompt": "A young East Asian woman sits in a cars driver seat, gazing softly at the camera. Her long dark hair with light brown highlights frames her face; strands catch golden sunlight streaming through the window. She wears an off-white ribbed knit sweater, slipped loosely from one shoulder to reveal collarbone and clavicle. The interior is dimly lit except for warm backlighting that creates soft halos around her hair and highlights skin texture. A black steering wheel appears blurred in foreground left, suggesting shallow depth of field composition focused on her face. Lighting is cinematic—high contrast between shadowed cabin and bright exterior glow, evoking moodiness mixed with intimacy. Skin shows natural pores under diffused light; fabric texture is visibly woven and slightly wrinkled from wear. Overall aesthetic blends romantic realism with filmic grain, reminiscent of 1980s portrait photography or indie cinema still.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T06:54:44.994Z"
+    },
+    {
+      "id": "pv-1792392668998-839",
+      "title": "Girl 99",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392668998-839.webp",
+      "prompt": "A young Taiwanese woman stands beside a bicycle on a wet urban riverside path under overcast skies, her dark hair damp and loose, one hand gently touching strands near her temple as she glances upward with a soft, thoughtful smile. She wears an unbuttoned off-white linen shirt over a muted blue tank top, paired with dark denim shorts, a thin beige crossbody strap visible across her torso, and a simple silver bracelet on her left wrist. The bicycle has a wooden handlebar grip, a metallic bell, and a woven basket attached to the front. Behind her, lush green trees arch overhead, their leaves dripping rain, while a distant city skyline with recognizable towers looms beyond a wide river. The pavement is slick with water reflecting muted light, metal railings line the path, and faint traffic glows in the far distance. Soft diffused lighting casts gentle shadows, emphasizing textures of wet fabric, foliage, and concrete. Camera angle is medium close-up, capturing her from chest up while maintaining environmental context.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T06:54:44.995Z"
+    },
+    {
+      "id": "pv-1792392712725-6103",
+      "title": "Girl 100",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392712725-6103.webp",
+      "prompt": "A realistic candid half-body portrait of a 22-year-old Japanese woman standing in a quiet independent bookstore aisle, surrounded by softly blurred shelves of well-worn novels and warm wooden bookcases. She has a gently oval face, natural light-medium skin with subtle texture, shoulder-length dark brown hair with loose strands falling around her cheeks, and minimal makeup. She wears a soft lavender knitted cardigan over a simple cream camisole, with delicate silver earrings. One hand is brushing a strand of hair behind her ear while she gives a shy, accidental wink: one eye squeezed closed slightly too hard, her eyebrows uneven, and her mouth forming a small nervous smile that makes the expression endearing rather than polished. Her shoulders are slightly turned toward the camera, as if caught during a quiet conversation. Photograph her from eye level at close conversational distance, with an intimate natural perspective and gentle asymmetrical framing. Warm late-afternoon window light falls across one side of her face, while soft amber bookstore lighting fills the background. Authentic photographic detail, natural skin texture, realistic proportions, subtle cardigan wrinkles, shallow depth of field, quiet and lived-in atmosphere.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T06:54:44.995Z"
+    },
+    {
+      "id": "pv-1792392755352-7743",
+      "title": "Girl 101",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392755352-7743.webp",
+      "prompt": "A realistic close portrait of a 22-year-old Japanese woman seated near the window of a small neighborhood café in the late afternoon. She has softly wavy dark brown hair falling around her shoulders, natural skin texture, delicate features, and subtle everyday makeup. She wears a black camisole beneath a relaxed cream-colored cardigan, with the knit fabric slightly rumpled at the shoulder. Her body is turned partly away from the camera, one shoulder angled toward the lens, while she gives a coy sideways glance from beneath softly lowered eyelids. Her eyelashes are prominent, and her lips form a barely perceptible smile, as if she is pretending not to notice the viewer. Warm café lights create gentle amber bokeh behind her, with blurred shelves, ceramic cups, and indistinct patrons in the background. Frame her from the upper chest upward at eye level, using a shallow depth of field and intimate natural composition. Soft window light falls across one side of her face, balanced by warm ambient illumination, preserving believable shadows, fine hair strands, realistic proportions, and authentic photographic detail.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T06:54:44.997Z"
+    },
+    {
+      "id": "pv-1792392804005-1056",
+      "title": "Girl 102",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392804005-1056.webp",
+      "prompt": "A realistic close portrait of a 23-year-old Japanese woman sitting beside a quiet train window at night, captured during a nearly empty late-evening journey. She has a softly angular face, warm light-olive skin with natural texture, shoulder-length dark brown hair slightly tousled around her cheeks, and minimal makeup. She wears a charcoal wool cardigan over a simple muted navy dress, with a small silver stud earring visible. One hand gently supports her chin, her elbow resting near the window ledge, while her other hand lies out of frame. Her eyes look past the glass into the distant darkness, reflective and philosophically dazed; her brows are barely furrowed, her mouth neutral with a faint trace of sadness. Reflections of passing station lights and blurred city windows drift across the glass beside her, adding subtle amber and blue highlights to her face. Shoot from eye level at intimate close range, framing her head, shoulders, hand, and part of the window in a quiet asymmetrical composition. Soft overhead train lighting mixed with cool nocturnal window light, shallow depth of field, authentic candid photography, natural skin pores, believable proportions, understated cinematic realism.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T06:54:44.997Z"
+    },
+    {
+      "id": "pv-1792392839530-1038",
+      "title": "Girl 103",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392839530-1038.webp",
+      "prompt": "A realistic close portrait of a 22-year-old Japanese woman performing a deliberately cute, practiced pose in a softly lit dressing room. She has a softly rounded face, warm light-medium skin with natural texture, dark brown shoulder-length hair, and a small velvet ribbon hair clip tucked above one ear. Her cheeks are lifted, her chin tilted slightly downward, and her eyes look upward toward the camera with playful practiced sweetness. Her mouth forms a tiny heart-shaped smile, subtle and controlled rather than exaggerated. She wears an ivory cotton blouse with a delicate frilled collar and fine gathered cuffs, with a muted rose camisole barely visible beneath it. One hand is raised beside her cheek, index and middle fingers forming a small peace sign, while the other hand rests just outside the frame. Compose it as a tight head-and-shoulders portrait from slightly above eye level, with her face centered and the gesture clearly visible. Warm window light falls across one cheek, creating gentle shadows under her chin and soft highlights in her eyes; the background is blurred with hints of a wooden vanity, cosmetics, and pale curtains. Natural photographic detail, believable proportions, subtle skin pores, shallow depth of field, candid editorial realism.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T06:54:44.998Z"
+    },
+    {
+      "id": "pv-1792392872029-1000",
+      "title": "Girl 104",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792392872029-1000.webp",
+      "prompt": "A realistic close portrait of a 22-year-old Taiwanese woman standing beside a sunlit beach on a breezy late afternoon. She has warm light-brown skin, shoulder-length dark hair tousled naturally by the sea wind, softly defined brows, and a relaxed, confident presence. She wears a simple white tank top beneath an oversized pale blue linen shirt, with the collar and fabric gently lifted by the breeze. One hand is raised to lift her dark sunglasses slightly from her face, while she gives a slow, playful wink: one eye neatly closed, the other bright and knowing, her lips tilted into a confident half-smile. A few fine strands of hair cross her cheek, catching the golden light. Frame her from the shoulders up at eye level, with her face placed slightly off-center and the ocean softly blurred behind her. Warm sunlight creates natural highlights along her cheekbones, hair, and sunglasses, with subtle reflected light from the water. Preserve realistic skin texture, natural facial proportions, authentic fabric wrinkles, and believable photographic depth of field.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T06:54:44.998Z"
+    },
     {
       "id": "pv-1792392320263-257",
       "title": "Girl  98",
