@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T11:33:11.845Z",
+  "updated_at": "2026-10-19T11:33:34.215Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,10 +39,10 @@
   ],
   "items": [
     {
-      "id": "pv-1792409488121-4937",
-      "title": "Girl 00048",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409488121-4937.webp",
-      "prompt": "Generates a portrait photos with a retro Hong Kong style. The overall style features a negative-like texture, low saturation, noise, and motion blur.\n\nClothing: Random retro Hong Kong style outfits and accessories.\n\nMakeup: Hong Kong retro makeup, primarily using earth tones for eyeshadow. A light brown base is applied across the entire eyelid, then a darker brown is used to intensify the crease. A blackish-brown is blended along the lash line to enhance the eye makeup. The lashes are defined and separated. The lips have a matte finish and a creamy-brown lipstick.\n\nRandom Hong Kong street scenes with random poses: turning the head behind the camera, posing, not looking at the camera, looking at the camera, tilting the head back and closing the eyes, etc. The motion blur of the bustling traffic blends seamlessly with the portrait. The aspect ratio is 9:16, with the portrait positioned in the lower half of the image and the scenery in the upper half.\n\nCorrectly shaped fingers, hands, and limbs are required; distorted or missing shapes are prohibited. Characters should blend seamlessly into the scene and atmosphere, creating a relaxed ambiance. Hair should be flowing in the wind, conveying a travel-like and lifelike feel. Movements and expressions should be healthy and natural. The use of well-known brand logos and trademarks is prohibited.",
+      "id": "pv-1792409586249-598",
+      "title": "Girl 00051",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409586249-598.webp",
+      "prompt": "生成一张竖版 4:5 高级街头潮流时装海报,整体为 夏日街头奢华潮牌广告 / anime-realistic fashion poster 风格。\n\n气质:[人物气质](甜妹 / 御姐 / 冷感 / 性感 / 酷飒 / 辣妹)\n发型:[发型](粉金色双马尾 / 黑紫长发 / 冰蓝银发 / 白金大波浪长发)\n动作:[动作姿势](比心、单手扶墨镜、双手插兜、撩头发、侧身回眸、微微前倾、手扶帽檐)\n涂鸦主字:[涂鸦主字](SUMMER STREET / SWEET STREET / BOSS STREET / ICE COLD STREET / HOT STREET)\n\n画面中心是一位年轻成熟女性,全身站姿,低机位拍摄,人物比例修长,气质自信,有强烈的时尚大片感。人物为二次元写实混合风格,五官精致,皮肤通透,眼神有情绪,表情自然不僵硬。\n\n人物设定为:[人物气质]\n\n发型为:[发型]\n\n动作姿势为:[动作姿势]\n\n服装为夏日街头奢华风:短款露腰上衣、吊带背心、抹胸 crop top、轻薄机能外套、宽松高腰工装裤、亮面皮革裤、束脚裤、运动短裙或开衩工装裤,搭配厚底高帮球鞋。服装配色以 薰衣草紫、柠檬黄、湖水蓝、黑色、白色、金色点缀 为主。加入潮牌细节:飘带、腰带、金属扣、口袋、链条、刺绣 logo、皇冠标识、LUXE 字样。\n\n人物旁边站着一个可爱的潮流吉祥物,可以是小鸭子、小兔子、小企鹅或毛绒玩偶风角色。吉祥物穿着同款夏日潮牌服装,戴墨镜、帽子、金链子、迷你球鞋,和主角形成组合海报感。\n\n背景是夏日街头涂鸦墙,带有巨大手写喷漆字体,厚重笔刷、油漆滴落、飞溅颗粒、棕榈树剪影、湿润反光地面。背景主色为暖黄色、青绿色、紫色、深蓝色,高对比强烈,像潮牌新品发布海报。\n\n海报排版包含大量英文潮牌文字,干净高级的无衬线字体与巨大涂鸦字结合:\n\n顶部文字:\n\"SUMMER REBORN SERIES\"\n\n背景巨大涂鸦字:\n[涂鸦主字]\n\n左侧信息区:\n\"SUMMER STREET\"\n\"LUXE\"\n\"DROP 01\"\n\"SUMMER COLLECTION 2026\"\n\n底部品牌区:\n皇冠图标\n\"LUXE COUTURE\"\n\"LIMITED DROP\"\n\"COMING SOON\"\n\n整体画面要求:高端潮流广告质感、夏日阳光、潮牌视觉、动漫写实人物、精致面部、服装材质清晰、涂鸦字体有冲击力、画面干净但信息丰富、反光地面、电影级灯光、超高细节、商业海报完成度。\n\n风格关键词:\nluxury streetwear fashion poster, summer graffiti wall, anime realistic girl, full body fashion model, glossy cargo pants, crop top, chunky sneakers, cute mascot, tropical street vibe, bold brush typography, paint splatter, reflective floor, premium editorial layout, high detail, cinematic lighting, 4:5 vertical poster",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -51,8 +51,9 @@
         "woman",
         "cute girl"
       ],
-      "is_premium": false,
-      "created_at": "2026-10-19T11:33:11.844Z"
+      "is_premium": true,
+      "created_at": "2026-10-19T11:33:11.825Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792409541219-4416",
@@ -68,13 +69,14 @@
         "cute girl"
       ],
       "is_premium": false,
-      "created_at": "2026-10-19T11:33:11.844Z"
+      "created_at": "2026-10-19T11:33:11.823Z",
+      "is_draft": false
     },
     {
-      "id": "pv-1792409586249-598",
-      "title": "Girl 00051",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409586249-598.webp",
-      "prompt": "生成一张竖版 4:5 高级街头潮流时装海报,整体为 夏日街头奢华潮牌广告 / anime-realistic fashion poster 风格。\n\n气质:[人物气质](甜妹 / 御姐 / 冷感 / 性感 / 酷飒 / 辣妹)\n发型:[发型](粉金色双马尾 / 黑紫长发 / 冰蓝银发 / 白金大波浪长发)\n动作:[动作姿势](比心、单手扶墨镜、双手插兜、撩头发、侧身回眸、微微前倾、手扶帽檐)\n涂鸦主字:[涂鸦主字](SUMMER STREET / SWEET STREET / BOSS STREET / ICE COLD STREET / HOT STREET)\n\n画面中心是一位年轻成熟女性,全身站姿,低机位拍摄,人物比例修长,气质自信,有强烈的时尚大片感。人物为二次元写实混合风格,五官精致,皮肤通透,眼神有情绪,表情自然不僵硬。\n\n人物设定为:[人物气质]\n\n发型为:[发型]\n\n动作姿势为:[动作姿势]\n\n服装为夏日街头奢华风:短款露腰上衣、吊带背心、抹胸 crop top、轻薄机能外套、宽松高腰工装裤、亮面皮革裤、束脚裤、运动短裙或开衩工装裤,搭配厚底高帮球鞋。服装配色以 薰衣草紫、柠檬黄、湖水蓝、黑色、白色、金色点缀 为主。加入潮牌细节:飘带、腰带、金属扣、口袋、链条、刺绣 logo、皇冠标识、LUXE 字样。\n\n人物旁边站着一个可爱的潮流吉祥物,可以是小鸭子、小兔子、小企鹅或毛绒玩偶风角色。吉祥物穿着同款夏日潮牌服装,戴墨镜、帽子、金链子、迷你球鞋,和主角形成组合海报感。\n\n背景是夏日街头涂鸦墙,带有巨大手写喷漆字体,厚重笔刷、油漆滴落、飞溅颗粒、棕榈树剪影、湿润反光地面。背景主色为暖黄色、青绿色、紫色、深蓝色,高对比强烈,像潮牌新品发布海报。\n\n海报排版包含大量英文潮牌文字,干净高级的无衬线字体与巨大涂鸦字结合:\n\n顶部文字:\n\"SUMMER REBORN SERIES\"\n\n背景巨大涂鸦字:\n[涂鸦主字]\n\n左侧信息区:\n\"SUMMER STREET\"\n\"LUXE\"\n\"DROP 01\"\n\"SUMMER COLLECTION 2026\"\n\n底部品牌区:\n皇冠图标\n\"LUXE COUTURE\"\n\"LIMITED DROP\"\n\"COMING SOON\"\n\n整体画面要求:高端潮流广告质感、夏日阳光、潮牌视觉、动漫写实人物、精致面部、服装材质清晰、涂鸦字体有冲击力、画面干净但信息丰富、反光地面、电影级灯光、超高细节、商业海报完成度。\n\n风格关键词:\nluxury streetwear fashion poster, summer graffiti wall, anime realistic girl, full body fashion model, glossy cargo pants, crop top, chunky sneakers, cute mascot, tropical street vibe, bold brush typography, paint splatter, reflective floor, premium editorial layout, high detail, cinematic lighting, 4:5 vertical poster",
+      "id": "pv-1792409488121-4937",
+      "title": "Girl 00048",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409488121-4937.webp",
+      "prompt": "Generates a portrait photos with a retro Hong Kong style. The overall style features a negative-like texture, low saturation, noise, and motion blur.\n\nClothing: Random retro Hong Kong style outfits and accessories.\n\nMakeup: Hong Kong retro makeup, primarily using earth tones for eyeshadow. A light brown base is applied across the entire eyelid, then a darker brown is used to intensify the crease. A blackish-brown is blended along the lash line to enhance the eye makeup. The lashes are defined and separated. The lips have a matte finish and a creamy-brown lipstick.\n\nRandom Hong Kong street scenes with random poses: turning the head behind the camera, posing, not looking at the camera, looking at the camera, tilting the head back and closing the eyes, etc. The motion blur of the bustling traffic blends seamlessly with the portrait. The aspect ratio is 9:16, with the portrait positioned in the lower half of the image and the scenery in the upper half.\n\nCorrectly shaped fingers, hands, and limbs are required; distorted or missing shapes are prohibited. Characters should blend seamlessly into the scene and atmosphere, creating a relaxed ambiance. Hair should be flowing in the wind, conveying a travel-like and lifelike feel. Movements and expressions should be healthy and natural. The use of well-known brand logos and trademarks is prohibited.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -83,8 +85,9 @@
         "woman",
         "cute girl"
       ],
-      "is_premium": true,
-      "created_at": "2026-10-19T11:33:11.845Z"
+      "is_premium": false,
+      "created_at": "2026-10-19T11:33:11.820Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792409302570-743",
