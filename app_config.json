@@ -13,7 +13,7 @@
     "banner": {
       "enabled": true,
       "unit_id": "ca-app-pub-3940256099942544/6300978111",
-      "screens": ["home", "detail"],
+      "screens": ["home"],
       "position": "bottom"
     },
     "interstitial": {
