@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T11:15:06.097Z",
+  "updated_at": "2026-10-19T11:21:17.247Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,150 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1792408536877-345",
+      "title": "Girl 00030",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408536877-345.webp",
+      "prompt": "9:16 vertical photorealistic summer POV portrait.\n\nAn adult East Asian young woman, 20–25, beautiful and natural, with a bright radiant smile, cheerful expression, sparkling eyes, and a subtly flirtatious gentle gaze.\n\nShe wears stylish peak-summer fashion: small camisole, thin-strap top, bandeau mini dress, strapless summer dress, or fitted cropped top with a high-waisted short skirt. Light, breathable, tasteful, fresh, and summery.\n\nLow-angle first-person POV composition. She looks at the camera and reaches one slender hand toward the lens, like inviting the viewer forward. Smooth youthful hand, elegant fingers, correct anatomy, natural perspective.\n\nHer long dark hair is strongly blown by the wind, lifted upward and outward. Hair strands must be clear, continuous, separated, and sunlit, with glowing rim light and luminous highlights. Do not let the hair blur into one dark mass.\n\nScene: seaside sunset / blue-sky beach / sunny grass field / rooftop skyline / lake shore. Clean bright summer background, natural light, realistic skin, crisp hair detail, real fabric texture, candid heart-fluttering mood.\n\nAvoid CGI, waxy skin, fake smile, stiff pose, clumped hair, deformed hands, wrinkled palm, extra fingers, bulky clothing, cheap cosplay, background distortion.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T11:21:17.242Z"
+    },
+    {
+      "id": "pv-1792408575053-3285",
+      "title": "Girl 00031",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408575053-3285.webp",
+      "prompt": "9:16 vertical photorealistic summer POV portrait.A young, mature East Asian woman, 20-25, is beautiful and natural, with a bright, radiant smile, a cheerful expression, sparkling eyes, and a soft, seductive gaze, exactly like the photo I recommend.She is wearing a kebaya and a sarong, exactly like the photo I recommend.The composition is a low-angle, first-person POV. She looks at the camera and extends one slender hand toward the lens, as if inviting the viewer to come closer. Delicate, youthful hands, elegant fingers, precise anatomy, natural perspective.Her long, dark hair is blown by the strong wind, lifted upward and outward. The strands should be clear, continuous, separated, and sunlit, with shimmering edge light and luminous highlights. Don't let the hair become one blurry, dark mass.Scene: sunset by the sea / beach with blue sky / sunny meadow / rooftop view / lakeside. Clean, bright summer backgrounds, natural light, realistic skin, sharp hair details, realistic fabric textures, and a genuine, heart-pounding mood.Avoid CGI, waxy skin, fake smiles, stiff poses, clumped hair, deformed hands, wrinkled palms, extra fingers, bulky clothing, cheap cosplay, and distorted backgrounds.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T11:21:17.242Z"
+    },
+    {
+      "id": "pv-1792408603397-599",
+      "title": "Girl 00032",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408603397-599.webp",
+      "prompt": "Create an image using the exact same face as the reference image (100% identical, no facial changes at all).\nA close-up profile shot of a beautiful, cute young woman, standing slightly sideways and gently turning her face toward the camera with a soft, subtle smile.\nMakeup:\nNatural makeup with a dewy, glowing skin finish. Emphasis on healthy, luminous skin texture. Soft light pink blush applied on the cheeks and lightly across the tip of the nose. Glossy gradient pink lips, giving a juicy, hydrated look. Overall fresh, natural, and radiant (Dewy look).\nSkin:\nVery fair, bright, smooth, and flawless skin.\nHair:\nLong brown hair loosely tied in a low ponytail at the back. Strong seaside wind causes the hair to flow freely and messily. Several loose strands blow across her face and eyes, creating natural movement and an effortless, cinematic feel.\nClothing:\nWearing a soft, fluffy cream-beige knit sweater with a wide neckline that subtly reveals the collarbones and upper chest area. Fabric looks warm, cozy, and textured.\nScene & Atmosphere:\nSet by the seaside during sunset (Golden Hour). A vast ocean stretches into the background. The horizon meets a sky filled with soft orange and pink tones fading into light purple hues.\nThe sun appears as a small glowing circle, about to dip below the horizon on the left side. A small boat floats far away in the distance.\nLighting:\nWarm golden sunlight creates a delicate golden rim light around her hair, highlighting individual strands. Soft, natural light with gentle shadows.\nMood & Style:\nRomantic, quiet, slightly lonely, melancholic yet beautiful. Dreamy, cinematic, emotional, and poetic atmosphere. Shallow depth of field, soft background blur, high realism, ultra-detailed, natural photography style.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T11:21:17.244Z"
+    },
+    {
+      "id": "pv-1792408636458-2649",
+      "title": "Girl 00033",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408636458-2649.webp",
+      "prompt": "A soft, realistic 9:16 portrait carrying the wistful, painterly calm of a Ghibli dusk scene by the sea.Japanese woman, long dark hair loosely braided over one shoulder, natural skin texture, soft makeup, realistic adult proportions.Outfit: oversized ivory cable-knit sweater, dark grey pleated midi skirt, a small crossbody canvas bag, thin silver chain necklace.Setting: an open ferry deck at dusk, deep blue-purple sky fading into soft orange near the horizon, string lights glowing faintly along the railing, distant city lights across the water.She stands close to the railing, both hands resting on it, chin lowered slightly, eyes closed as if listening to the sound of the waves. An old CD player is clipped to her sweater, its headphone cable trailing neatly to her ear.The feeling is soft and wistful, quietly emotional, like the closing scene of a summer she doesn't want to end.Wind drifts her braid and loose strands sideways, ripples gently through her sweater, and sways the headphone cable in the breeze.Shot with high realism, shallow depth of field, gentle film-like grain, deep blue-and-amber twilight tones. Avoid plastic skin, messy hands, tangled cables, distorted railings, or a heavy commercial ad feeling.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T11:21:17.244Z"
+    },
+    {
+      "id": "pv-1792408676247-2509",
+      "title": "Girl 00034",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408676247-2509.webp",
+      "prompt": "Create a realistic 9:16 portrait in the style of “When the Wind Rises”.\n\nAdult young East Asian woman, long dark hair, real skin texture, soft natural makeup, no plastic skin, no underage look.\n\nWearing:\nwhite shirt, light grey knit vest, navy pleated skirt, black backpack, white wired headphones.\n\nScene:\nseaside deck / ferry railing / white bench by the sea, blue ocean background, white railings, bright soft summer daylight.\n\nAction:\nturning back softly / sitting quietly listening to music / holding an old music player into the wind / touching her hair and looking at the camera.\n\nProp:\nold music player / CD player / phone / ticket / postcard.\n\nMood:\nsoft, airy, quiet, a little nostalgic, like a summer memory carried by the wind.\n\nWind:\nhair lifted naturally by the sea breeze, loose strands visible, slight movement in clothing and headphone cable.\n\nPhotography:\nhigh realism, clean composition, shallow depth of field, gentle film-like texture, bright blue-and-white palette.\n\nAvoid:\nplastic skin, messy hands, deformed headphones, tangled cables, distorted railings, heavy commercial ad feeling.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T11:21:17.244Z"
+    },
+    {
+      "id": "pv-1792408758961-59",
+      "title": "Girl 00035",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408758961-59.webp",
+      "prompt": "摄影风格：冷白清透CCD生活照风 \n写真方向：清爽生活照 \n场景方向：户外网球场外侧 / 白色围网 / 浅蓝看台 / 明亮球场边 \n服装方向：冷白色贴身Polo短袖上衣 + 雾灰色高腰百褶短裙 \n气质标签：清纯、明亮、轻运动感、自然、轻微纯欲 \n五官方向：真实清透自然脸，干净清爽，不网红 \n五官细节：小巧鹅蛋脸或轻微瓜子脸，轮廓柔和自然；清亮杏眼，眼神明净有神，不夸张；鼻型清秀挺直；唇形柔和自然，淡豆沙唇色；整体是耐看、清爽、真实的生活感漂亮 \n发型方向：高马尾或低马尾，发量自然，额前碎发轻盈，整体清爽带风感 \n身形方向：轻盈纤细，上围饱满自然 \n线条强调：中偏强 \n镜头方向：半身到大腿 \n姿态动作：站在围网旁，身体轻微侧身，一只手轻扶头发，回头看镜头 \n光线氛围：晴天高色温自然光 + 冷白极弱柔闪 \n滤镜效果：冷白高光 + 蓝白清透生活照色彩 + 轻颗粒 + 轻数码噪点 + 轻微过曝 \n画幅比例：9:16 \n补充要求：人物偏薄但上围存在感明显，Polo上衣贴身利落，整体像球场边被CCD随手拍下的一帧，五官清爽耐看，不要甜腻感",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T11:21:17.245Z"
+    },
+    {
+      "id": "pv-1792408797315-2074",
+      "title": "Girl 00036",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408797315-2074.webp",
+      "prompt": "摄影风格：日间清亮高光CCD生活照风\n写真方向：都市艺术时尚生活照\n场景方向：现代公共艺术广场 / 大型不锈钢镜面雕塑 / 浅灰地面 / 极简开放空间\n服装方向：青柚绿色修身Polo短上衣 + 奶油白低腰修身短裙\n气质标签：清冷、俏皮、时尚、明亮、有设计感\n五官方向：高级元气淡颜\n身形方向：轻盈纤细\n线条强调：强\n镜头方向：半身到大腿\n姿态动作：站在镜面雕塑边，一只手轻触金属表面，身体轻微侧身看向镜面中的自己\n光线氛围：晴天明亮自然光 + 镜面金属形成清晰中性反射补光\n滤镜效果：高亮清晰绿白CCD色彩 + 清楚高光 + 稳定黑位 + 轻颗粒 + 极轻锐度\n画幅比例：9:16\n补充要求：镜面雕塑只能作为几何背景，不出现复杂畸变人像；人物胸腰轮廓清楚，整体要像城市随手拍而不是艺术棚拍",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T11:21:17.247Z"
+    },
+    {
+      "id": "pv-1792408827285-1948",
+      "title": "Girl 00037",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408827285-1948.webp",
+      "prompt": "A vibrant, high-fashion commercial photoshoot featuring a young stylish woman posing in multiple dynamic angles inside a modern spiral staircase setting. The scene is dominated by warm pink and coral tones, with smooth curved architecture and perforated railings. The composition is split into multiple diagonal panels with glowing neon purple light streaks acting as separators.\nThe woman has straight dark hair tied back, natural makeup, and expressive eyes. She wears a sleeveless white button-up crop top and a high-waisted purple mini skirt with white heels. In one pose, she reaches her hand toward the camera in a wide-angle perspective, creating a dramatic foreground distortion. In another, she leans casually with a confident expression, and in another, she strikes a fashion pose on the staircase.\nLighting is soft yet vibrant, with a glossy commercial look, subtle highlights on skin, and neon accents enhancing depth and contrast. The camera uses a mix of wide-angle and slightly distorted perspectives to emphasize motion and creativity.\nAt the bottom right, include a modern foldable smartphone in a partially open position, sleek metallic finish, reflecting ambient purple lighting. The overall aesthetic is futuristic, stylish, and energetic, with strong brand-advertisement vibes.\nImportant: no text, no logos, no typography.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T11:21:17.247Z"
+    },
+    {
+      "id": "pv-1792408865790-2937",
+      "title": "Girl 00038",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408865790-2937.webp",
+      "prompt": "Create a high-quality Y2K kawaii street-style collage poster based on the uploaded portrait.\n\nUse the uploaded portrait ONLY as the facial identity and hairstyle reference. Preserve the person’s real facial structure, skin tone, eye shape, nose, lips, face contour, hairstyle, hair length, bangs, and natural expression. Do not copy the original outfit, background, lighting, or pose from the uploaded portrait.\n\nGenerate a cute young female fashion portrait collage in a clean white studio background, inspired by Japanese Y2K idol magazine layouts and Korean photo booth sticker aesthetics. The overall visual style should be playful, sweet, stylish, and slightly rebellious.\n\nThe character wears a soft pastel blue off-shoulder cropped top, a black pleated mini skirt with pink belt details, white knee-high socks, black chunky boots, layered silver necklaces, small accessories, and a purple plaid beret with a small pink hair clip. The outfit should look fashionable, youthful, cute, and street-style.\n\nCreate a multi-frame collage layout with several different shots of the same person:\n1. one full-body standing pose in the center-left, slightly dynamic, one leg lifted, peace sign gesture;\n2. one sitting full-body pose in the bottom-left, knees close to the camera, cute relaxed expression;\n3. several close-up portrait frames on the right side, including smiling, winking, eyes closed, and peace sign poses;\n4. two horizontal eye-detail close-up frames on the upper-left side;\n5. one cropped upper-body fashion detail frame.\n\nUse irregular black sketch frame lines, magazine cutout borders, layered photo stickers, white negative space, and pink-purple graffiti decorations around the photos. Add hand-drawn stars, sparkle marks, arrows, hearts, doodle symbols, brush strokes, and neon pink outline glows. The collage should feel handmade, energetic, and trendy, but still clean and premium.\n\nReplace all random or meaningless text with stylish English words that fit the image. Add small handwritten graffiti-style words such as:\n“SHEENA”\n“Y2K GIRL”\n“CUTE ENERGY”\n“PINK MOOD”\n“DREAMY”\n“PLAYFUL”\n“SOFT REBEL”\n“STAY CUTE”\n“STYLE SNAP”\n“GLAM POP”\n\nUse these words as decorative graffiti elements only, not large readable poster titles. The text should look like hand-drawn stickers and street doodles, integrated naturally into the layout.\n\nLighting should be bright, soft, and clean, like a professional studio photo booth. Skin texture should remain realistic and natural, not plastic or over-smoothed. Keep realistic facial proportions, natural eyes, correct hands, clean hair details, and believable body anatomy.\n\nColor palette: white background, pastel blue outfit, lavender purple beret, pink-purple graffiti, black sketch lines, silver accessories. The final image should be sharp, detailed, fashionable, cute, and highly shareable for social media.\n\nAspect ratio: vertical 3:4 or 4:5.\nHigh-resolution, ultra-clean composition, no watermark, no logo, no AI-generated watermark, no brand marks.\n\nNegative Prompt：\n\nwatermark, logo, AI generated watermark, Chinese watermark, random text, unreadable messy text, distorted letters, wrong spelling, low resolution, blurry, over-smoothed skin, plastic skin, fake face, doll-like face, face mismatch, different identity, different hairstyle, deformed hands, extra fingers, missing fingers, broken fingers, unnatural pose, bad anatomy, duplicated face, duplicated body, messy layout, cluttered composition, dirty background, harsh shadows, heavy makeup, old-fashioned outfit, realistic brand logo, cropped head, distorted eyes, asymmetrical face, bad teeth, strange neck, broken limbs",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T11:21:17.247Z"
+    },
     {
       "id": "pv-1792408472324-6068",
       "title": "Girl 00029",
@@ -3512,7 +3656,7 @@
       "id": "pv-1792307696627",
       "title": "Chinese Girl Assassin",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792307696627.webp",
-      "prompt": "生成一张角色卡。图片提示词如下国风女刺客，冷冽气质，超写实肖像，8K高清， 极致细节。年轻女子，面容精致，眼神凌厉冷冽，微侧头回眸看向镜头，表情肃杀疏离。黑发高束，发丝飞散，发饰为黑银色金属发簪与流苏，耳饰为长链条耳坠，多耳洞。身穿黑白渐变古风刺客服饰，白色轻纱与黑色皮革拼接， 肩部有金属环扣与绑带，颈部佩戴黑色项圈。 逆光+侧逆光，发丝与衣料边缘高光明显，背景暗色虚化，冷色调，氛围感强，武侠东方美学，超写实，电影级质感，浅景深，细节丰富， 皮肤质感细腻，睫毛根根分明，眼妆精致，唇色暗红，风轻微吹动发丝。\n镜头:85mm定焦镜头，光圈f/1.8 构图:近景人像，三分法构图，人物占画面70% 色彩风格:冷色调(蓝灰为主)，低饱和，高对比画面风格:超写实摄影，电影质感，武侠氛围",
+      "prompt": "生成一张角色卡。图片提示词如下国风女刺客，冷冽气质，超写实肖像，8K高清， 极致细节。年轻女子，面容精致，眼神凌厉冷冽，微侧头回眸看向镜头，表情肃杀疏离。黑发高束，发丝飞散，发饰为黑银色金属发簪与流苏，耳饰为长链条耳坠，多耳洞。身穿黑白渐变古风刺客服饰，白色轻纱与黑色皮革拼接， 肩部有金属环扣与绑带，颈部佩戴黑色项圈。 逆光+侧逆光，发丝与衣料边缘高光明显，背景暗色虚化，冷色调，氛围感强，武侠东方美学，超写实，电影级质感，浅景深，细节丰富， 皮肤质感细腻，睫毛根根分明，眼妆精致，唇色暗红，风轻微吹动发丝。\n镜头:85mm定焦镜头，光圈f/1.8 构图:近景人像，三分法构图，人物占画面70% ���彩风格:冷色调(蓝灰为主)，低饱和，高对比画面风格:超写实摄影，电影质感，武侠氛围",
       "negative_prompt": "卡通，动漫，3D,CG,插画，低清，模糊，噪点， 过度磨皮，塑料感，失真，畸形手指，多余手指， 脸部扭曲，五官变形，眼睛变形，色彩过艳和饱和， 过曝，穿模，水印，文字，logo,边框，二维码， 拼接图，重复人物，背景杂乱，光线混乱，色彩脏， HDR过度，锐化过度，AI痕迹，假发感，皮肤像蜡",
       "model": "z-image-turbo",
       "category": "Anime",
