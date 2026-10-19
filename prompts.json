@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T05:32:34.763Z",
+  "updated_at": "2026-10-19T05:35:23.567Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,22 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1792388094674-1420",
+      "title": "Anime Girl",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792388094674-1420.webp",
+      "prompt": "A mesmerizing anime girl with long, flowing silver-white hair and striking blue eyes gazes softly amidst a cosmic, starry backdrop. She holds a transparent umbrella that glows with vibrant neon hues of purple, blue, and pink, surrounded by floating bubbles and sparkling light particles. The scene radiates ethereal magic, blending celestial wonder with delicate, dreamlike beauty. Her expression is serene, almost otherworldly, as if she’s floating in a galaxy of light and emotion.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "anime",
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T05:35:23.567Z"
+    },
     {
       "id": "pv-1792386941712-2187",
       "title": "Girl",
