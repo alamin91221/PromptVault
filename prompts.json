@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T11:29:09.844Z",
+  "updated_at": "2026-10-19T11:29:34.937Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,42 +39,10 @@
   ],
   "items": [
     {
-      "id": "pv-1792409167976-7407",
-      "title": "Girl 00043",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409167976-7407.webp",
-      "prompt": "Create a realistic, editorial-style portrait photo set in a cozy and artistic café. The subject is painting a large-scale mural portrait in a professional editorial art style on a textured wall. She is fully focused on painting the mural and is not looking at the camera.\n\nThe subject is wearing blue jeans, a white sleeveless tank top, and a beige Carhartt-style apron. She is crouching beside the rough-textured wall while carefully painting a handcrafted mural that reflects her own face, facial expression, and artistic visual interpretation.\n\nNext to the portrait mural, include the phrase “Love you” written in a cute font with a black outline.\n\nThe environment should feel warm, creative, and cinematic, with scattered paint cans on the floor and visible paint stains on her hands and clothes. Use volumetric lighting, realistic textures, and professional editorial photography aesthetics.\n\nMaintain the original facial proportions, skin tone, and expression from the reference images. Ensure ultra-realistic human anatomy and natural materials. Avoid any plastic-like skin or artificial textures.\n\n8K ultra-high-resolution detail, realistic lighting, fashion magazine quality, vertical portrait composition, authentic handcrafted mural atmosphere.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-19T11:29:09.842Z"
-    },
-    {
-      "id": "pv-1792409199821-5157",
-      "title": "Girl 00044",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409199821-5157.webp",
-      "prompt": "ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH, vertical 3:4, spontaneous candid travel portrait of a young East Asian woman standing on a quiet stone walkway beside a misty mountain stream in a lush Japanese-inspired garden.\n\nShe has long, softly wavy deep-black hair falling naturally over her shoulders and down her back, with a slightly off-center part and a few loose strands gently framing her face. Her facial features are delicate and youthful, with naturally textured skin, subtle realistic pores, minimal makeup, soft pink lips, and a relaxed thoughtful expression as she looks slightly past the camera.\n\nShe is wearing a cream-colored lightweight knit cardigan over a simple muted sage-green camisole, paired with a flowing dark charcoal pleated midi skirt. A small vintage tan leather crossbody bag rests naturally against her hip, with a tiny red fabric keychain attached to the strap.\n\nHer body is angled slightly toward the stream while one foot is naturally positioned a little ahead of the other, as if she has just paused during a quiet morning walk. One hand gently holds the strap of her bag while the other lightly touches a strand of hair near her cheek. The pose feels spontaneous, relaxed, and completely unposed rather than like a fashion shoot.\n\nIn the background, a clear shallow mountain stream flows over smooth dark stones, surrounded by moss-covered rocks, bamboo, ferns, flowering shrubs, and tall green trees. A small traditional wooden footbridge crosses the stream in the distance, partially hidden by soft vegetation. A couple of tiny distant pedestrians are naturally present on the pathway, adding subtle scale without distracting from the subject.\n\nThe atmosphere is cool and slightly misty after a light morning rain. The sky is mostly covered with pale gray clouds, creating soft diffused natural daylight with gentle shadows and realistic muted green tones. Small droplets of moisture are visible on nearby leaves, while the wet stones subtly reflect the ambient light.\n\nRAW smartphone photography aesthetic, extremely realistic human skin texture, visible natural pores and tiny facial details, individual hair strands, anatomically accurate hands and fingers, realistic fabric weave and clothing folds, authentic leather texture, physically accurate reflections, natural ambient lighting, subtle smartphone computational photography characteristics, slight lens softness, realistic depth of field, mild background compression, tiny natural imperfections, no beauty filter, no artificial skin smoothing, no exaggerated bokeh, no CGI appearance, no plastic texture, no excessive sharpening, realistic body proportions, authentic candid travel photography, natural color grading, vertical 3:4 composition.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-19T11:29:09.843Z"
-    },
-    {
-      "id": "pv-1792409237147-9516",
-      "title": "Girl 00045",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409237147-9516.webp",
-      "prompt": "Create a vertical 9:16 photorealistic summer portrait of a young East Asian woman in a soft dopamine color palette. \nUse a low-angle composition with a big vivid blue summer sky, clean white clouds, bright natural sunlight, and a light airy film-like feeling. \n\nShe has short dark hair blowing in the wind, fair skin, a slim figure, and a soft natural expression. \n\nThe styling should feel fresh, youthful, and gentle, with light flowing summer clothing in colors such as coral pink, lemon yellow, mint green, pale lilac, or other soft bright tones.\n\nScene options can include:\na wildflower field, a grassy slope, a seaside railing, or a garden pergola.\nAdd natural foreground blur when appropriate, such as flowers, leaves, or grass, to create depth.\nKeep the atmosphere bright, clear, breezy, and full of summer air.\n\nVisual keywords:\nsoft dopamine summer, vivid blue sky, wind-blown hair, low angle, airy light, fresh color accents, gentle motion, realistic photography, cinematic summer portrait, film-like clarity.\n\nAvoid:\nstudio lighting, gray tones, dull colors, heavy makeup, stiff posing, plastic skin, cluttered background, overdesigned fashion editorial styling.",
+      "id": "pv-1792409302570-743",
+      "title": "Girl 00047",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409302570-743.webp",
+      "prompt": "东方年轻少女正面肖像，超近景贴脸特写，镜头距离非常近，画面几乎被脸部填满，人物正面面对镜头，头部端正，视线直视镜头，双眼位于视觉中心，构图高度集中于人脸本身，整体呈现强烈的面部主导感与扑面而来的呼吸感。\n人物气质清纯、温婉、干净、灵动，像校园初恋、温和学妹、气质出众的青春白月光，安静中带着若有所思的少女书卷气，不做冷艳距离感，不做成熟御姐感，不做浓艳攻击性，不做夸张网红感。\n脸型为饱满平顺的窄鹅蛋脸偏微圆鹅蛋脸，脸长中等，脸宽适中偏窄，面部轮廓线条极其流畅平滑，毫无骨骼棱角感，皮相软组织包裹度极高。额头开阔圆润饱满，发际线平顺自然。太阳穴饱满平顺无凹陷，颧弓完全不外扩，苹果肌轻微饱满且自然平整，面中过渡柔和平整，鼻基底饱满平实，法令区干净无沟壑。下颌线柔和清晰且紧致，下颌角极度弱化圆收，下巴小巧圆润微收，骨相轻盈柔润，幼态清秀，极具上镜感。\n五官小巧精致且比例舒展。眉毛为自然深灰棕色柔和微弧平眉，眉头毛流感细腻真实，眉形平缓柔顺，眉峰极低不锐利，眉尾自然渐细微落，眉眼距离适中开阔，毫无压迫感。眼睛为纯净灵动的圆杏眼，正面视角下双眼对称，眼裂中等偏长，纵向开合圆润，内眼角微圆带轻柔内眦，外眼角平顺微扬，双眼皮为秀气的窄开扇形，下眼睑弧度柔和下至，卧蚕饱满圆润、清透自然不过度膨胀，黑眼球占比较大，瞳孔为透亮深棕色。眼神直视镜头，瞳孔稳定聚焦，目光清澈、温和、认真、纯净，带有一丝若有所思的静默感与初恋故事感，不做媚俗挑逗，不做空洞呆滞。睫毛根根分明自然纤长，上睫毛轻盈卷翘成簇，下睫毛细致清晰，下眼睑边缘留有清澈干净的质感。鼻子为秀气挺拔的小直鼻微带小翘鼻感，山根起点自然顺接印堂，鼻梁细直干净，鼻骨窄秀，鼻头小巧微圆且微微翘起，鼻尖精致，鼻翼较窄且自然内收，鼻孔完全不外露，面部中轴稳定端庄，偏东方纯净少女脸，不做夸张欧美高耸鼻。嘴唇为小巧立体花瓣唇偏娇憨M唇，唇峰立体清晰，上唇微薄微翘且带轻微唇珠，下唇饱满圆润，上下唇比例协调自然，唇形温和含蓄，嘴角自然平直微扬，不做刻意嘟唇，不做僵硬大笑。\n皮肤为白皙透亮的自然暖白皮，肤质如剥壳鸡蛋般细腻平滑，底妆为高完成度清透柔雾奶油肌，保留极微弱的健康毛孔与肌肤纹理，肤感通透干净，带轻微自然柔焦感，不做厚重假面粉感，不做油腻高光水光肌。面中、鼻梁小巧高光点、鼻尖与卧蚕处有极为克制细腻的自然提亮，高光柔润不刺眼。面部修容极轻极淡，仅在鼻侧与下颌缘做干净柔和的阴影过渡，立体感完全源自自然的骨相过渡与柔和明暗关系\n妆容为极具呼吸感的清纯校园伪素颜裸妆，明确带妆但妆面清透如天生好皮。眼妆以低饱和裸杏色、浅大地粉棕为主色调，上眼影清淡自然消肿，内眼线纤细填满睫毛根部，外眼线极细且沿眼尾自然顺延不夸张拉长，卧蚕以细腻哑光米粉色轻微提亮。眉妆清淡克制，保留原生态绒毛感。腮红为极其淡雅的柔和蜜桃粉色，位置自然晕染于面中眼下，透出由内而外的少女血色感。唇妆为低饱和蜜桃乌龙色偏浅杏豆沙调，质地为柔润半哑光质感，唇心微深，唇线边缘自然晕染柔化，整体妆容清纯素雅、高级耐看。\n发型为深黑茶色自然微卷长发，发丝柔顺蓬松，发量丰盈健康，头顶颅顶蓬松圆润，前额两侧头发编成精致小巧的侧边麻花发辫向后挽起收拢，固定于耳后侧上方，露出光洁开阔的额头与整张精致面庞，发际线边缘与两鬓留有自然微卷的毛茸茸胎毛碎发自然修饰脸庞，两侧长发顺滑垂落于肩侧，完全不遮挡正面五官与眉眼轮廓。耳垂上佩戴一对极小巧精致的朱砂红圆珠耳钉，色彩温润明亮，质地小巧克制，作为素净面容上的点睛亮点，不抢面部主体，不破坏整体清秀氛围。\n服饰为简约纯净的纯白色短袖衬衫，校园制服质感，棉质面料平整挺括，领口为利落小翻领设计，第一颗纽扣自然扣齐或微解，颈部线条修长干净，风格统一于青春校园、清纯学妹的日常清爽视觉\n光线为柔和纯净的室内自然散射光，主光从正面略微偏上方均匀漫射于额头、鼻梁与双眼，眼眸中映出清澈柔和的高光点，面部阴影极其浅淡柔和，没有任何硬光阴影切割面部。整体色调温润清新，背景大幅虚化压暗为柔和低饱和中性色调，使白皙肤色与红润唇色、红色",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -84,7 +52,8 @@
         "cute girl"
       ],
       "is_premium": true,
-      "created_at": "2026-10-19T11:29:09.844Z"
+      "created_at": "2026-10-19T11:29:09.810Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792409269096-7191",
@@ -100,13 +69,14 @@
         "cute girl"
       ],
       "is_premium": false,
-      "created_at": "2026-10-19T11:29:09.844Z"
+      "created_at": "2026-10-19T11:29:09.806Z",
+      "is_draft": false
     },
     {
-      "id": "pv-1792409302570-743",
-      "title": "Girl 00047",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409302570-743.webp",
-      "prompt": "东方年轻少女正面肖像，超近景贴脸特写，镜头距离非常近，画面几乎被脸部填满，人物正面面对镜头，头部端正，视线直视镜头，双眼位于视觉中心，构图高度集中于人脸本身，整体呈现强烈的面部主导感与扑面而来的呼吸感。\n人物气质清纯、温婉、干净、灵动，像校园初恋、温和学妹、气质出众的青春白月光，安静中带着若有所思的少女书卷气，不做冷艳距离感，不做成熟御姐感，不做浓艳攻击性，不做夸张网红感。\n脸型为饱满平顺的窄鹅蛋脸偏微圆鹅蛋脸，脸长中等，脸宽适中偏窄，面部轮廓线条极其流畅平滑，毫无骨骼棱角感，皮相软组织包裹度极高。额头开阔圆润饱满，发际线平顺自然。太阳穴饱满平顺无凹陷，颧弓完全不外扩，苹果肌轻微饱满且自然平整，面中过渡柔和平整，鼻基底饱满平实，法令区干净无沟壑。下颌线柔和清晰且紧致，下颌角极度弱化圆收，下巴小巧圆润微收，骨相轻盈柔润，幼态清秀，极具上镜感。\n五官小巧精致且比例舒展。眉毛为自然深灰棕色柔和微弧平眉，眉头毛流感细腻真实，眉形平缓柔顺，眉峰极低不锐利，眉尾自然渐细微落，眉眼距离适中开阔，毫无压迫感。眼睛为纯净灵动的圆杏眼，正面视角下双眼对称，眼裂中等偏长，纵向开合圆润，内眼角微圆带轻柔内眦，外眼角平顺微扬，双眼皮为秀气的窄开扇形，下眼睑弧度柔和下至，卧蚕饱满圆润、清透自然不过度膨胀，黑眼球占比较大，瞳孔为透亮深棕色。眼神直视镜头，瞳孔稳定聚焦，目光清澈、温和、认真、纯净，带有一丝若有所思的静默感与初恋故事感，不做媚俗挑逗，不做空洞呆滞。睫毛根根分明自然纤长，上睫毛轻盈卷翘成簇，下睫毛细致清晰，下眼睑边缘留有清澈干净的质感。鼻子为秀气挺拔的小直鼻微带小翘鼻感，山根起点自然顺接印堂，鼻梁细直干净，鼻骨窄秀，鼻头小巧微圆且微微翘起，鼻尖精致，鼻翼较窄且自然内收，鼻孔完全不外露，面部中轴稳定端庄，偏东方纯净少女脸，不做夸张欧美高耸鼻。嘴唇为小巧立体花瓣唇偏娇憨M唇，唇峰立体清晰，上唇微薄微翘且带轻微唇珠，下唇饱满圆润，上下唇比例协调自然，唇形温和含蓄，嘴角自然平直微扬，不做刻意嘟唇，不做僵硬大笑。\n皮肤为白皙透亮的自然暖白皮，肤质如剥壳鸡蛋般细腻平滑，底妆为高完成度清透柔雾奶油肌，保留极微弱的健康毛孔与肌肤纹理，肤感通透干净，带轻微自然柔焦感，不做厚重假面粉感，不做油腻高光水光肌。面中、鼻梁小巧高光点、鼻尖与卧蚕处有极为克制细腻的自然提亮，高光柔润不刺眼。面部修容极轻极淡，仅在鼻侧与下颌缘做干净柔和的阴影过渡，立体感完全源自自然的骨相过渡与柔和明暗关系\n妆容为极具呼吸感的清纯校园伪素颜裸妆，明确带妆但妆面清透如天生好皮。眼妆以低饱和裸杏色、浅大地粉棕为主色调，上眼影清淡自然消肿，内眼线纤细填满睫毛根部，外眼线极细且沿眼尾自然顺延不夸张拉长，卧蚕以细腻哑光米粉色轻微提亮。眉妆清淡克制，保留原生态绒毛感。腮红为极其淡雅的柔和蜜桃粉色，位置自然晕染于面中眼下，透出由内而外的少女血色感。唇妆为低饱和蜜桃乌龙色偏浅杏豆沙调，质地为柔润半哑光质感，唇心微深，唇线边缘自然晕染柔化，整体妆容清纯素雅、高级耐看。\n发型为深黑茶色自然微卷长发，发丝柔顺蓬松，发量丰盈健康，头顶颅顶蓬松圆润，前额两侧头发编成精致小巧的侧边麻花发辫向后挽起收拢，固定于耳后侧上方，露出光洁开阔的额头与整张精致面庞，发际线边缘与两鬓留有自然微卷的毛茸茸胎毛碎发自然修饰脸庞，两侧长发顺滑垂落于肩侧，完全不遮挡正面五官与眉眼轮廓。耳垂上佩戴一对极小巧精致的朱砂红圆珠耳钉，色彩温润明亮，质地小巧克制，作为素净面容上的点睛亮点，不抢面部主体，不破坏整体清秀氛围。\n服饰为简约纯净的纯白色短袖衬衫，校园制服质感，棉质面料平整挺括，领口为利落小翻领设计，第一颗纽扣自然扣齐或微解，颈部线条修长干净，风格统一于青春校园、清纯学妹的日常清爽视觉\n光线为柔和纯净的室内自然散射光，主光从正面略微偏上方均匀漫射于额头、鼻梁与双眼，眼眸中映出清澈柔和的高光点，面部阴影极其浅淡柔和，没有任何硬光阴影切割面部。整体色调温润清新，背景大幅虚化压暗为柔和低饱和中性色调，使白皙肤色与红润唇色、红色",
+      "id": "pv-1792409237147-9516",
+      "title": "Girl 00045",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409237147-9516.webp",
+      "prompt": "Create a vertical 9:16 photorealistic summer portrait of a young East Asian woman in a soft dopamine color palette. \nUse a low-angle composition with a big vivid blue summer sky, clean white clouds, bright natural sunlight, and a light airy film-like feeling. \n\nShe has short dark hair blowing in the wind, fair skin, a slim figure, and a soft natural expression. \n\nThe styling should feel fresh, youthful, and gentle, with light flowing summer clothing in colors such as coral pink, lemon yellow, mint green, pale lilac, or other soft bright tones.\n\nScene options can include:\na wildflower field, a grassy slope, a seaside railing, or a garden pergola.\nAdd natural foreground blur when appropriate, such as flowers, leaves, or grass, to create depth.\nKeep the atmosphere bright, clear, breezy, and full of summer air.\n\nVisual keywords:\nsoft dopamine summer, vivid blue sky, wind-blown hair, low angle, airy light, fresh color accents, gentle motion, realistic photography, cinematic summer portrait, film-like clarity.\n\nAvoid:\nstudio lighting, gray tones, dull colors, heavy makeup, stiff posing, plastic skin, cluttered background, overdesigned fashion editorial styling.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -116,7 +86,42 @@
         "cute girl"
       ],
       "is_premium": true,
-      "created_at": "2026-10-19T11:29:09.844Z"
+      "created_at": "2026-10-19T11:29:09.802Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792409199821-5157",
+      "title": "Girl 00044",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409199821-5157.webp",
+      "prompt": "ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH, vertical 3:4, spontaneous candid travel portrait of a young East Asian woman standing on a quiet stone walkway beside a misty mountain stream in a lush Japanese-inspired garden.\n\nShe has long, softly wavy deep-black hair falling naturally over her shoulders and down her back, with a slightly off-center part and a few loose strands gently framing her face. Her facial features are delicate and youthful, with naturally textured skin, subtle realistic pores, minimal makeup, soft pink lips, and a relaxed thoughtful expression as she looks slightly past the camera.\n\nShe is wearing a cream-colored lightweight knit cardigan over a simple muted sage-green camisole, paired with a flowing dark charcoal pleated midi skirt. A small vintage tan leather crossbody bag rests naturally against her hip, with a tiny red fabric keychain attached to the strap.\n\nHer body is angled slightly toward the stream while one foot is naturally positioned a little ahead of the other, as if she has just paused during a quiet morning walk. One hand gently holds the strap of her bag while the other lightly touches a strand of hair near her cheek. The pose feels spontaneous, relaxed, and completely unposed rather than like a fashion shoot.\n\nIn the background, a clear shallow mountain stream flows over smooth dark stones, surrounded by moss-covered rocks, bamboo, ferns, flowering shrubs, and tall green trees. A small traditional wooden footbridge crosses the stream in the distance, partially hidden by soft vegetation. A couple of tiny distant pedestrians are naturally present on the pathway, adding subtle scale without distracting from the subject.\n\nThe atmosphere is cool and slightly misty after a light morning rain. The sky is mostly covered with pale gray clouds, creating soft diffused natural daylight with gentle shadows and realistic muted green tones. Small droplets of moisture are visible on nearby leaves, while the wet stones subtly reflect the ambient light.\n\nRAW smartphone photography aesthetic, extremely realistic human skin texture, visible natural pores and tiny facial details, individual hair strands, anatomically accurate hands and fingers, realistic fabric weave and clothing folds, authentic leather texture, physically accurate reflections, natural ambient lighting, subtle smartphone computational photography characteristics, slight lens softness, realistic depth of field, mild background compression, tiny natural imperfections, no beauty filter, no artificial skin smoothing, no exaggerated bokeh, no CGI appearance, no plastic texture, no excessive sharpening, realistic body proportions, authentic candid travel photography, natural color grading, vertical 3:4 composition.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T11:29:09.799Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792409167976-7407",
+      "title": "Girl 00043",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409167976-7407.webp",
+      "prompt": "Create a realistic, editorial-style portrait photo set in a cozy and artistic café. The subject is painting a large-scale mural portrait in a professional editorial art style on a textured wall. She is fully focused on painting the mural and is not looking at the camera.\n\nThe subject is wearing blue jeans, a white sleeveless tank top, and a beige Carhartt-style apron. She is crouching beside the rough-textured wall while carefully painting a handcrafted mural that reflects her own face, facial expression, and artistic visual interpretation.\n\nNext to the portrait mural, include the phrase “Love you” written in a cute font with a black outline.\n\nThe environment should feel warm, creative, and cinematic, with scattered paint cans on the floor and visible paint stains on her hands and clothes. Use volumetric lighting, realistic textures, and professional editorial photography aesthetics.\n\nMaintain the original facial proportions, skin tone, and expression from the reference images. Ensure ultra-realistic human anatomy and natural materials. Avoid any plastic-like skin or artificial textures.\n\n8K ultra-high-resolution detail, realistic lighting, fashion magazine quality, vertical portrait composition, authentic handcrafted mural atmosphere.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-19T11:29:09.796Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792409119086-5148",
