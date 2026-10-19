@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T11:10:11.516Z",
+  "updated_at": "2026-10-19T11:10:45.489Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,26 +39,10 @@
   ],
   "items": [
     {
-      "id": "pv-1792408054440-4876",
-      "title": "Girl 00019",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408054440-4876.webp",
-      "prompt": "Asset type: portrait image for social post\nPrimary request: create a photorealistic travel selfie portrait, using the uploaded portrait photo as the appearance reference for the person.\nScene/backdrop: an open alpine meadow under a vivid blue sky, surrounded overhead by hundreds of colorful Tibetan prayer flags arranged in a circular spiral canopy, with distant green hills and bright daylight.\nSubject: a young woman with the recognizable facial structure, eyes, hairline direction, and natural skin texture from the uploaded portrait photo, wearing a bright cyan outdoor jacket, white hiking pants, a mustard yellow knit beanie, sunglasses resting on the hat, and a backpack.\nStyle/medium: ultra-realistic mobile travel photography with a dynamic action-camera feel, crisp but natural detail, lively social-media adventure portrait.\nComposition/framing: vertical 3:4 frame, extreme wide-angle perspective, low-to-high selfie composition, one hand reaching toward the camera in the foreground with strong perspective enlargement, face in the midground, prayer flags forming a colorful radial tunnel above her head, energetic candid smile.\nLighting/mood: brilliant high-altitude midday sun, visible lens flare near the upper left, sparkling backlight, bright optimistic mood, high clarity, realistic shadows on grass.\nColor palette: saturated cyan, mustard yellow, red, orange, green, white, and sky blue, clean contrast, sunlit alpine freshness.\nTextures/retouching: believable fabric texture, natural skin pores, realistic hair strands, clean optical sharpness on the face, shallow foreground hand blur, small falling snowflakes or white petals crossing the lens.\nConstraints: preserve the person's recognizable appearance from the uploaded portrait photo; no watermark; no logo; no text; no caption; no signature.\nAvoid: plastic beauty-filter skin, over-smoothed face, distorted hands, extra fingers, warped prayer flags, unreadable markings on clothing, artificial CGI look",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl"
-      ],
-      "is_premium": true,
-      "created_at": "2026-10-19T11:10:11.172Z"
-    },
-    {
-      "id": "pv-1792408103019-5360",
-      "title": "Girl 00020",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408103019-5360.webp",
-      "prompt": "A photorealistic cinematic portrait of a young woman sitting in a vibrant field of yellow wildflowers with dramatic green mountains rising in the background. She has long, straight dark brown hair gently moving in the breeze, with a few loose strands across her face. She is smiling brightly and looking directly at the camera with a joyful, carefree expression.\nShe wears a soft white off-shoulder long-sleeve top with a simple delicate necklace and a brown plaid mini skirt. She sits naturally among the flowers with her legs bent to one side. One hand rests gently against her cheek while the other extends toward the camera, holding a small bouquet of fresh yellow flowers, creating a beautiful foreground perspective.\nThe foreground flowers are slightly out of focus while the woman remains sharply detailed. Behind her is a vast field of vivid yellow blossoms, followed by lush green hills and a dramatic rugged mountain range beneath a cloudy blue-gray sky.\nComposition: vertical 4:5 portrait, medium-to-full body framing, low natural camera angle, subject centered, bouquet extending toward the lens for depth, mountains clearly visible in the background.\nLighting: soft natural daylight, gentle highlights on her face and hair, diffused sunlight through clouds, realistic shadows, fresh spring atmosphere.\nPhotography style: ultra-realistic outdoor lifestyle photography, natural skin texture, realistic hair strands, detailed flowers, shallow depth of field, cinematic depth, subtle foreground bokeh, natural color grading, high detail, 4K.\nNegative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, distorted face, malformed hands, extra fingers, missing fingers, unnatural anatomy, warped flowers, fake mountains, oversaturated colors, excessive HDR, artificial lighting, excessive blur, low resolution, text, watermark, logo.",
+      "id": "pv-1792408207869-8595",
+      "title": "Girl 00023",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408207869-8595.webp",
+      "prompt": "摄影风格：冷白清透CCD生活照风\n写真方向：清爽生活照\n场景方向：白色甜品店室内 / 玻璃甜品柜 / 白色圆桌 / 蓝白窗光\n服装方向：奶油柠檬黄色修身针织短袖上衣 + 冷白色低腰短裙\n气质标签：明亮、清纯、轻甜、自然、亲近\n五官方向：真实初恋感淡颜，明亮干净，不网红\n五官细节：小巧鹅蛋脸，面中轻微饱满，清亮杏眼，眼神明净有光，鼻梁清秀，唇形柔软自然，淡裸粉唇色\n发型方向：黑色长发半扎或自然披散，发丝轻盈，额前少量碎发\n身形方向：轻盈纤细，上围饱满自然\n线条强调：中\n镜头方向：大腿及上半身\n姿态动作：站在甜品柜边，认真的看着甜品菜单\n光线氛围：白天窗边高色温自然光 + 店内冷白灯 + 极弱柔闪\n滤镜效果：冷白高光 + 清透生活照色彩 + 轻颗粒 + 轻微过曝\n画幅比例：9:16\n补充要求：黄色服装只作为明亮点色，整体不要暖黄，不要奶油黄滤镜；人物皮肤保持冷白通透，服装自然突出胸腰比例",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -68,23 +52,8 @@
         "cute girl"
       ],
       "is_premium": false,
-      "created_at": "2026-10-19T11:10:11.515Z"
-    },
-    {
-      "id": "pv-1792408137245-2110",
-      "title": "Girl 00021",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408137245-2110.webp",
-      "prompt": "摄影风格：柔光CCD风\n写真方向：夏日生活写真\n场景方向：街边花店门口 / 花桶旁 / 玻璃橱窗前\n服装方向：白色修身吊带上衣 + 浅色高腰短裙 + 轻薄针织外搭\n气质标签：元气、温柔、清爽、明亮、亲近、有吸引力\n五官方向：精致元气初恋脸\n五官细节：小巧鹅蛋脸，圆杏眼，卧蚕自然，嘴角天然上扬，脸颊红润，笑容明亮\n发型方向：高马尾\n发型细节：马尾高束，发尾微卷，碎发轻盈，整体有自然风感\n身形方向：丰腴自然曲线\n线条强调：中偏强 \n镜头方向：大腿到上半身\n姿态动作：一只手抱着一小束花，另一只手轻扶包带，身体微微前倾看向镜头\n光线氛围：傍晚自然光 + 花店暖灯 + 柔闪\n滤镜效果：奶白高光 + 柔和发光感 + 轻颗粒 + 明亮清透CCD色彩\n画幅比例：9:16\n补充要求：像街边花店前偶然抓拍的一帧，甜、轻快、元气，带一点夏日晚风感",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl"
-      ],
-      "is_premium": true,
-      "created_at": "2026-10-19T11:10:11.515Z"
+      "created_at": "2026-10-19T11:10:11.147Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792408177092-5934",
@@ -100,13 +69,31 @@
         "cute girl"
       ],
       "is_premium": false,
-      "created_at": "2026-10-19T11:10:11.515Z"
+      "created_at": "2026-10-19T11:10:11.141Z",
+      "is_draft": false
     },
     {
-      "id": "pv-1792408207869-8595",
-      "title": "Girl 00023",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408207869-8595.webp",
-      "prompt": "摄影风格：冷白清透CCD生活照风\n写真方向：清爽生活照\n场景方向：白色甜品店室内 / 玻璃甜品柜 / 白色圆桌 / 蓝白窗光\n服装方向：奶油柠檬黄色修身针织短袖上衣 + 冷白色低腰短裙\n气质标签：明亮、清纯、轻甜、自然、亲近\n五官方向：真实初恋感淡颜，明亮干净，不网红\n五官细节：小巧鹅蛋脸，面中轻微饱满，清亮杏眼，眼神明净有光，鼻梁清秀，唇形柔软自然，淡裸粉唇色\n发型方向：黑色长发半扎或自然披散，发丝轻盈，额前少量碎发\n身形方向：轻盈纤细，上围饱满自然\n线条强调：中\n镜头方向：大腿及上半身\n姿态动作：站在甜品柜边，认真的看着甜品菜单\n光线氛围：白天窗边高色温自然光 + 店内冷白灯 + 极弱柔闪\n滤镜效果：冷白高光 + 清透生活照色彩 + 轻颗粒 + 轻微过曝\n画幅比例：9:16\n补充要求：黄色服装只作为明亮点色，整体不要暖黄，不要奶油黄滤镜；人物皮肤保持冷白通透，服装自然突出胸腰比例",
+      "id": "pv-1792408137245-2110",
+      "title": "Girl 00021",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408137245-2110.webp",
+      "prompt": "摄影风格：柔光CCD风\n写真方向：夏日生活写真\n场景方向：街边花店门口 / 花桶旁 / 玻璃橱窗前\n服装方向：白色修身吊带上衣 + 浅色高腰短裙 + 轻薄针织外搭\n气质标签：元气、温柔、清爽、明亮、亲近、有吸引力\n五官方向：精致元气初恋脸\n五官细节：小巧鹅蛋脸，圆杏眼，卧蚕自然，嘴角天然上扬，脸颊红润，笑容明亮\n发型方向：高马尾\n发型细节：马尾高束，发尾微卷，碎发轻盈，整体有自然风感\n身形方向：丰腴自然曲线\n线条强调：中偏强 \n镜头方向：大腿到上半身\n姿态动作：一只手抱着一小束花，另一只手轻扶包带，身体微微前倾看向镜头\n光线氛围：傍晚自然光 + 花店暖灯 + 柔闪\n滤镜效果：奶白高光 + 柔和发光感 + 轻颗粒 + 明亮清透CCD色彩\n画幅比例：9:16\n补充要求：像街边花店前偶然抓拍的一帧，甜、轻快、元气，带一点夏日晚风感",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T11:10:11.139Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792408103019-5360",
+      "title": "Girl 00020",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408103019-5360.webp",
+      "prompt": "A photorealistic cinematic portrait of a young woman sitting in a vibrant field of yellow wildflowers with dramatic green mountains rising in the background. She has long, straight dark brown hair gently moving in the breeze, with a few loose strands across her face. She is smiling brightly and looking directly at the camera with a joyful, carefree expression.\nShe wears a soft white off-shoulder long-sleeve top with a simple delicate necklace and a brown plaid mini skirt. She sits naturally among the flowers with her legs bent to one side. One hand rests gently against her cheek while the other extends toward the camera, holding a small bouquet of fresh yellow flowers, creating a beautiful foreground perspective.\nThe foreground flowers are slightly out of focus while the woman remains sharply detailed. Behind her is a vast field of vivid yellow blossoms, followed by lush green hills and a dramatic rugged mountain range beneath a cloudy blue-gray sky.\nComposition: vertical 4:5 portrait, medium-to-full body framing, low natural camera angle, subject centered, bouquet extending toward the lens for depth, mountains clearly visible in the background.\nLighting: soft natural daylight, gentle highlights on her face and hair, diffused sunlight through clouds, realistic shadows, fresh spring atmosphere.\nPhotography style: ultra-realistic outdoor lifestyle photography, natural skin texture, realistic hair strands, detailed flowers, shallow depth of field, cinematic depth, subtle foreground bokeh, natural color grading, high detail, 4K.\nNegative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, distorted face, malformed hands, extra fingers, missing fingers, unnatural anatomy, warped flowers, fake mountains, oversaturated colors, excessive HDR, artificial lighting, excessive blur, low resolution, text, watermark, logo.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -116,7 +103,25 @@
         "cute girl"
       ],
       "is_premium": false,
-      "created_at": "2026-10-19T11:10:11.516Z"
+      "created_at": "2026-10-19T11:10:11.135Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1792408054440-4876",
+      "title": "Girl 00019",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408054440-4876.webp",
+      "prompt": "Asset type: portrait image for social post\nPrimary request: create a photorealistic travel selfie portrait, using the uploaded portrait photo as the appearance reference for the person.\nScene/backdrop: an open alpine meadow under a vivid blue sky, surrounded overhead by hundreds of colorful Tibetan prayer flags arranged in a circular spiral canopy, with distant green hills and bright daylight.\nSubject: a young woman with the recognizable facial structure, eyes, hairline direction, and natural skin texture from the uploaded portrait photo, wearing a bright cyan outdoor jacket, white hiking pants, a mustard yellow knit beanie, sunglasses resting on the hat, and a backpack.\nStyle/medium: ultra-realistic mobile travel photography with a dynamic action-camera feel, crisp but natural detail, lively social-media adventure portrait.\nComposition/framing: vertical 3:4 frame, extreme wide-angle perspective, low-to-high selfie composition, one hand reaching toward the camera in the foreground with strong perspective enlargement, face in the midground, prayer flags forming a colorful radial tunnel above her head, energetic candid smile.\nLighting/mood: brilliant high-altitude midday sun, visible lens flare near the upper left, sparkling backlight, bright optimistic mood, high clarity, realistic shadows on grass.\nColor palette: saturated cyan, mustard yellow, red, orange, green, white, and sky blue, clean contrast, sunlit alpine freshness.\nTextures/retouching: believable fabric texture, natural skin pores, realistic hair strands, clean optical sharpness on the face, shallow foreground hand blur, small falling snowflakes or white petals crossing the lens.\nConstraints: preserve the person's recognizable appearance from the uploaded portrait photo; no watermark; no logo; no text; no caption; no signature.\nAvoid: plastic beauty-filter skin, over-smoothed face, distorted hands, extra fingers, warped prayer flags, unreadable markings on clothing, artificial CGI look",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-19T11:10:11.132Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792407927375-7117",
@@ -1590,7 +1595,7 @@
       "id": "pv-1792382225851-1068",
       "title": "Girl 68",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792382225851-1068.webp",
-      "prompt": "这是一张拥有极致细节，超高质量、高清晰的照片，照片中有一位20岁的��国女性，有着迷人的眼睛，真实细腻的肌肤，身穿清新时尚的碎花雪纺上衣，泡泡短袖褶边设计，搭配浅蓝色紧身牛仔裤。她留着黑色长发，头上戴着发箍，右手手腕戴着翡翠手镯。下着大雨，全身湿透，头发贴着皮肤，皮肤上沾满雨水，坐在植物园的长凳上，背后靠着大片盛开的蔷薇花，摆着随机动态的姿势，看着镜头，活泼可爱充满灵气。",
+      "prompt": "这是一张拥有极致细节，超高质量、高清晰的照片，照片中有一位20岁的中国女性，有着迷人的眼睛，真实细腻的肌肤，身穿清新时尚的碎花雪纺上衣，泡泡短袖褶边设计，搭配浅蓝色紧身牛仔裤。她留着黑色长发，头上戴着发箍，右手手腕戴着翡翠手镯。下着大雨，全身湿透，头发贴着皮肤，皮肤上沾满雨水，坐在植物园的长凳上，背后靠着大片盛开的蔷薇花，摆着随机动态的姿势，看着镜头，活泼可爱充满灵气。",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -3422,7 +3427,7 @@
       "id": "pv-1792307404241",
       "title": "Chinese Girl",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792307404241.webp",
-      "prompt": "摄影风格：冷白清透CCD生活照风 \n写真方向：都市艺术生活写真 \n场景方向：美术馆外大台阶 / 极简白色石材 / 户外雕塑区 \n服装方向：黑灰色修身削肩背心 + 燕麦色高腰针织包臀短裙 \n气质标签：清冷、知性、克制、高级、轻微纯欲 \n五官方向：真实清冷淡颜，干净高级，不网红 \n五官细节：偏窄鹅蛋脸，面部轮廓利落但不锐利，面中轻微饱满；细长清亮杏眼，眼神安静克制；鼻梁流畅挺直；唇形自然克制，低饱和裸粉色；整体有高级耐看感，不幼态，不甜妹化 \n发型方向：黑色长发自然披散或低扎，发丝顺滑，脸侧少量碎发，整体利落 \n身形方向：轻盈��细，上围饱满自然 \n线条强调：强 镜头方向：大腿及上半身 \n姿态动作：站在台阶边缘，身体轻微侧向镜头，双手自然放在身前 \n光线氛围：冷白日光主导 + 石材反射光 + 极弱柔闪 \n滤镜效果：冷白高光 + 低饱和蓝灰CCD色彩 + 轻颗粒 + 轻数码噪点 \n画幅比例：9:16 \n补充要求：削肩背心自然突出肩颈、锁骨、胸线，针织短裙强调腰臀衔接与修长比例，人物要清冷耐看，有都市艺术气质",
+      "prompt": "摄影风格：冷白清透CCD生活照风 \n写真方向：都市艺术生活写真 \n场景方向：美术馆外大台阶 / 极简白色石材 / 户外雕塑区 \n服装方向：黑灰色修身削肩背心 + 燕麦色高腰针织包臀短裙 \n气质标签：清冷、知性、克制、高级、轻微纯欲 \n五官方向：真实清冷淡颜，干净高级，不网红 \n五官细节：偏窄鹅蛋脸，面部轮廓利落但不锐利，面中轻微饱满；细长清亮杏眼，眼神安静克制；鼻梁流畅挺直；唇形自然克制，低饱和裸粉色；整体有高级耐看感，不幼态，不甜妹化 \n发型方向：黑色长发自然披散或低扎，发丝顺滑，脸侧少量碎发，整体利落 \n身形方向：轻盈纤细，上围饱满自然 \n线条强调：强 镜头方向：大腿及上半身 \n姿态动作：站在台阶边缘，身体轻微侧向镜头，双手自然放在身前 \n光线氛围：冷白日光主导 + 石材反射光 + 极弱柔闪 \n滤镜效果：冷白高光 + 低饱和蓝灰CCD色彩 + 轻颗粒 + 轻数码噪点 \n画幅比例：9:16 \n补充要求：削肩背心自然突出肩颈、锁骨、胸线，针织短裙强调腰臀衔接与修长比例，人物要清冷耐看，有都市艺术气质",
       "negative_prompt": "",
       "model": "z-image-turbo",
       "category": "Portrait",
