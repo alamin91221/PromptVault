@@ -2,7 +2,7 @@
   "schema_version": 1,
   "app": {
     "maintenance_mode": false,
-    "maintenance_message": "PromptVault is undergoing scheduled maintenance. Please check back shortly!",
+    "maintenance_message": "PicPrompt Hub is undergoing scheduled maintenance. Please check back shortly!",
     "min_version_code": 1,
     "update_url": "https://play.google.com/store/apps/details?id=com.nilasharafi.promptvault",
     "force_update": false
