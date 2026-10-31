@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T13:34:26.783Z",
+  "updated_at": "2026-10-31T13:40:33.259Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,133 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1793453734332-9393",
+      "title": "Boy 00022",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793453734332-9393.webp",
+      "prompt": "A high-end game girl character promotional poster, vertical composition, ultra-close-up half-body portrait. The main subject is a cool and mysterious young male fantasy character with silver-white fluffy tousled hair, delicate and layered strands, with distinct white wolf ears or beast ears on top of his head, exuding a calm, dangerous, and restrained aura. Only half of the character's face is visible, with the other half obscured by a massive futuristic sniper rifle or heavy mechanical weapon, creating a strong sense of visual oppression. Only one eye is revealed, sharp, quiet, and carrying a predator-like sense of pressure.\n\nThe character wears a high-collared combat suit and light armor in deep blue, black, and metallic gold accents, made of premium materials including leather, metal, mechanical armor structures, and faintly glowing energy components. The collar is high and wraps around the neck, the shoulders have hard armor plates, and the outfit feels heavy, cold, and intricate. The weapon is close to the lens, occupying a large area on the right side of the frame, designed as a futuristic sniper rifle with black-gold metal structure, fine engravings, mechanical segmented parts, and a blue glowing energy chamber or aiming module. The details are complex, combining high-tech and regal fantasy styles.\n\nThe background is a hazy cold-toned fantasy battlefield or distant castle ruins, overall blurred, with blue-gray tones, mist, faint light, and distant flames to set the atmosphere. Snowflakes, ice shards, light dust, and white particles float in the air, creating a cold, deadly, and still ambiance. Lighting comes from behind and from above to the side, producing soft backlighting and rim light, illuminating the edges of the silver hair and the metal of the weapon, making the character more three-dimensional. The overall color palette is cold blue, gray-white, deep navy blue, metallic black, and a touch of dark gold, with a cinematic feel.\n\nOn the left side of the poster, large Chinese calligraphy-style title text is added, with sharp brushstrokes and strong ink-splash effect, in deep blue ink texture; next to it, small vertical Roman letters and typographic explanatory text, forming a game character name poster design. Below, a small, thin slogan and English typography are added, giving the overall look of a top-tier MOBA mobile game hero promotional poster. At the top, a subtle gold game brand logo or abstract emblem can be placed, and at the bottom, a centered series tagline layout is added.\n\nStyle keywords: high-end game poster, male hero character, half-face obscured composition, ultra-close-up portrait, silver-white wolf-eared youth, futuristic sniper rifle, cold cinematic feel, Honor of Kings style, Chinese calligraphy title, blue-black-gold color scheme, snow particles, fantasy battlefield background, delicate hair strands, sharp eyes, high-detail materials, top-tier mobile game promotional visual, epic sense, oppressive feel, handsome, mysterious, ultra-clear details.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "boy",
+        "man"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-31T13:40:33.237Z"
+    },
+    {
+      "id": "pv-1793453780813-4625",
+      "title": "Girl 00023",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793453780813-4625.webp",
+      "prompt": "Ultra realistic close-up portrait of a beautiful young East Asian woman with the exact facial structure and soft feminine features from the reference image, natural glowing skin, subtle makeup, glossy peach lips, soft dimples, warm gentle smile, relaxed confident expression, medium-length dark brown wavy hair with natural volume and soft flyaways, direct eye contact with camera.\n\nKeep the exact composition, framing, pose, lighting, shadows, and cinematic mood from the original portrait reference. Warm golden hour sunlight hitting half of the face and body, dramatic soft shadows across the chest and background, dark blurred background with rich contrast and shallow depth of field.\n\nOutfit should be elegant minimal aesthetic fashion: cream ribbed knit top, soft beige wool overcoat casually draped over shoulders, delicate gold necklace, luxury clean-girl aesthetic, cozy premium fashion vibe.\n\nPhoto should feel natural and candid, not overposed. Preserve realistic skin texture, natural facial proportions, cinematic highlights, smooth warm color grading, luxury lifestyle photography look, ultra detailed, DSLR quality, 85mm lens, f/1.8 depth of field, high sharpness on eyes and face, soft background bokeh, premium Instagram aesthetic, realistic lighting, photorealistic, 4k.\n\nNegative prompt: cartoon, anime, exaggerated smile, oversaturated skin, plastic skin, distorted face, bad anatomy, low quality, blurry eyes, extra accessories, text, watermark, overediting, harsh HDR, duplicate features, unnatural pose, fake AI look, over sharpened skin.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "cute girl",
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-31T13:40:33.237Z"
+    },
+    {
+      "id": "pv-1793453814995-3069",
+      "title": "Girl 00024",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793453814995-3069.webp",
+      "prompt": "Dynamic luxury commercial advertisement poster featuring a surreal 3D rendering of a vibrant young woman, using the uploaded female face as reference, wearing premium bright orange designer clothing, luxury accessories, and stylish gold sunglasses, confidently bursting out of a giant golden smartphone screen with vibrant colors. Her pose is powerful and stylish, with one sneaker dramatically breaking through the digital display into reality through strong forced perspective.\n\nThe composition emphasizes her white luxury sneakers with textured gum sole in the foreground, enhanced by cinematic wide-angle lens distortion and shallow depth of field. Floating shiny 3D social media icons, golden geometric elements, and luxury brand graphics surround her, creating a high-end influencer marketing aesthetic.\n\nBright studio lighting creates an energetic premium promotional atmosphere, with rich reflections on the metallic gold phone edges contrasting with matte fabric textures. The dominant orange, white, and gold color palette conveys an ultra-modern luxury X/Twitter advertising vibe. Clean white background with bold editorial typography, premium software brand elements, elegant UI graphics, floating interactive icons, and a stylish QR code area.\n\nSurreal 8K quality, cinematic shadows, refined commercial art direction, luxury female energy, fashion marketing aesthetic, modern social media branding, shiny reflections, and high-end digital advertising style.\n\nAspect ratio: 3:4.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "cute girl",
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-31T13:40:33.249Z"
+    },
+    {
+      "id": "pv-1793453848922-9606",
+      "title": "Girl 00025",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793453848922-9606.webp",
+      "prompt": "Ultra-realistic candid night photography of a beautiful East Asian woman with long black hair wearing a silky white satin slip dress, standing in a dimly lit modern kitchen apartment at night, holding a blue Cass Fresh beer bottle, soft glowing skin, natural makeup, seductive yet casual expression, cinematic flash photography, vintage digital camera aesthetic, grainy film texture, slight motion blur, low-light ambience, open refrigerator light illuminating the scene, cozy late-night vibe, shallow depth of field, realistic shadows, Korean lifestyle photography style, intimate home atmosphere, high detail, 35mm lens, direct flash, soft warm highlights, dark moody background, photorealistic, Instagram aesthetic.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "cute girl",
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-31T13:40:33.250Z"
+    },
+    {
+      "id": "pv-1793453893834-2885",
+      "title": "Girl 00026",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793453893834-2885.webp",
+      "prompt": "ACT AS:\nApple × Nike hybrid product designer (graphic-first, not cinematic)\n\nPROJECT TITLE:\n“BASS, WITHOUT TRYING.”\n\nFORMAT:\n4:5 vertical, ultra-clean, product-first poster\n\nSTYLE DNA:\nFlat minimalism × bold typography × strong color blocking × hyper-clean product\n\n🧠 CORE INTENT:\nEffortless impact.\n\nNot loud visually.\nBut strong.\n\n🎬 LAYOUT (THIS IS KEY):\n\nBACKGROUND:\nPure white canvas\n\nCOLOR BLOCK:\nRounded rectangle (dominant)\n→ JBL orange\n→ flat gradient (very subtle, not glowing)\n\nGIANT TYPE:\n“BASS”\n\n- ultra-bold sans-serif\n- tight kerning\n- fills frame\n- partially cropped\n- sits BEHIND subject\n\ncolor:\nslightly darker orange than block\n\nNO effects.\n\n👤 SUBJECT:\n\n- female model (editorial, calm)\n- neutral face (no hype)\n- slight low angle\n\nPOSE:\n- holding headphones toward camera\n- minimal body twist\n\nOUTFIT:\n- muted tones (off-white / brown)\n\n🎧 PRODUCT:\n\nJBL headphones\n\nPOSITION:\n- extreme foreground (forced perspective)\n- very clean\n- slightly tilted\n\nDETAIL:\n- sharp edges\n- no over-texture\n- no scratches\n- product = hero\n\n✨ LIGHTING:\n\n- flat studio light\n- soft shadow only\n- no rim light drama\n\n🎨 COLOR:\n\n- orange + white\n- minimal palette\n- no saturation spikes\n\n✍️ TYPOGRAPHY:\n\nTOP LEFT:\nJBL logo\n\nTOP RIGHT:\n“Signature JBL Bass.”\n\nMID LEFT (pill):\n“LIVE 770NC”\n\nBOTTOM:\n\n“Power you feel.\nNothing you don’t.”\n\n📊 FEATURES (CLEAN STRIP):\n\nsimple icons, no glass:\n\n- Deep Bass  \n- ANC  \n- 65H Battery  \n- Dual Connect  \n\n📐 RULE:\n\nEverything must feel:\nflat\ncontrolled\nintentional\n\nNO cinematic energy\n\nBoat \n\n4:5 vertical premium headphone campaign poster, ultra-clean high-energy composition, boAt Nirvana 751 ANC\n\nSTYLE:\nNike-level graphic clarity × JBL energy control × Indian Gen-Z identity\n\nBACKGROUND:\npure white canvas\n\nMAIN BLOCK:\nlarge rounded rectangle, deep navy to electric blue gradient, smooth and premium, no texture\n\nTYPOGRAPHY:\ngiant bold “LOUD” text, ultra-bold sans-serif, tight kerning, slightly condensed, cropped edges, flat color, subtle duplication offset\n\nSUBJECT:\nyoung Indian Gen-Z model, confident expression, direct eye contact, slight smirk, relaxed stance, minimal movement, wearing street casual outfit (neutral tones with blue accents)\n\nPRODUCT:\nboAt Nirvana 751 ANC headphones, clean matte black, strong logo visibility, extreme foreground perspective, slight tilt, crisp edges, controlled reflections\n\nSECONDARY PRODUCT:\nworn naturally by subject\n\nLIGHTING:\nsoft frontal key light, electric blue rim light, subtle red accent highlight, medium contrast shadows\n\nSOUND VISUAL:\nminimal waveform arcs in electric blue, clean, subtle glow, no particles or chaos\n\nTYPOGRAPHY DETAILS:\ntop left: boAt logo\ntop right: “Signature boAt Bass.”\nmid left pill: “NIRVANA 751 ANC”\nbottom right text: “Play louder. Own your sound.”\n\nFEATURE STRIP:\nflat clean grid with icons:\n- Beast Mode Bass\n- Active Noise Cancellation\n- 65H Playtime\n- ASAP Charge\n\nCAMERA:\n50mm lens, slight low angle, sharp focus, high clarity, no cinematic blur\n\nRENDER:\nclean, premium, high contrast but controlled, no noise, no over-effects",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "cute girl",
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-31T13:40:33.257Z"
+    },
+    {
+      "id": "pv-1793453927046-9584",
+      "title": "Girl 00027",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793453927046-9584.webp",
+      "prompt": "Use the uploaded portrait only as a face reference. Keep the person’s facial identity, features, skin tone, and overall recognizable look. Remove the original background and unrelated objects.\n\nCreate a cute blueberry-themed poster portrait. The subject wears a large blue bow headband and a white dress with blueberry prints. She tilts her head, smiles, winks, and slightly opens her mouth.\n\nPlace her sitting on a large blueberry plush chair, hugging a blueberry plush toy. Surround her with blueberry plush toys and blueberry cake plushies labeled “BABY”. Use a clean blue-and-white split background with white doodle elements, stars, hearts, and cute graphic decorations.\n\nAdd the text: “!wish you happy everyay!”, “Sweet Blueberry”, and “SHINNING”. Keep the subject centered, with natural proportions, soft bright lighting, clean composition, high detail, and a cute premium poster style. 3:4 ratio.\n\nNegative Prompt:\nwrong face, changed identity, deformed face, bad eyes, bad mouth, bad teeth, bad hands, extra fingers, missing fingers, bad anatomy, oversized head, tiny body, awkward pose, cluttered background, random objects, unreadable text, misspelled text, watermark, logo, blurry, low resolution, overexposed, harsh shadows, plastic skin, cartoon, anime, uncanny, AI-looking.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "cute girl",
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-31T13:40:33.258Z"
+    },
+    {
+      "id": "pv-1793453965812-7669",
+      "title": "Girl 00028",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793453965812-7669.webp",
+      "prompt": "An adult East Asian woman, 9:16 vertical composition, realistic style, full-body slightly from behind portrait. She walks in a classical Chinese-style corridor, with the camera positioned low from behind to capture her figure, making her the absolute visual center. She slightly turns her head, revealing a delicate and soft profile with a calm and enchanting expression. Overall temperament: cool, elegant, mysterious, and highly feminine.\n\nShe has a slender and tall figure, fair and delicate skin, black hair elegantly tied up, smooth hair strands, adorned with a few refined hair accessories. She wears a form-fitting black dress / new Chinese-style evening gown, with a deep V backless design, leaving a large area of the back exposed, clearly showcasing the elegant and smooth lines of the female back, shoulder blade contours, and slender waist. The fabric hugs the body curves, naturally tapering from the waist and extending downward, emphasizing the rounded and full, natural hip curve, as well as the graceful waist-to-hip ratio, presenting a mature woman's subtle and sophisticated sensuality.\n\nOver the dress, a layer of light transparent white gauze shawl drapes, gently fluttering as she walks, adding softness, mistiness, and a dreamy feel. The hem of the skirt features slits or semi-transparent layered designs, showing delicate layers in the interplay of light and shadow. Overall posture is slender and upright, natural and elegant, emphasizing the soft strength of the female body lines.\n\nThe scene is set in a Chinese courtyard corridor under night or moonlight. Wooden pillars and carved railings extend into the distance, creating strong depth. White blooming branches weave into the frame from the foreground and top, with petals gently falling in the air. In the distance, warm-colored lanterns or lights glow. Cool moonlight mingles with warm lighting, creating a serene, ethereal, and poetic atmosphere. Dappled light and shadow scatter on the ground and corridor, with a slight mist and shallow depth of field blur in the background, highlighting the subject.\n\nOverall style requirements:\nHigh-end realistic style, Eastern cinematic feel, art photography quality, beautiful and cool, soft lighting and shadows, realistic skin texture, exquisite fabric details, focus on the elegant curves of the female back and hips, sexy, dreamy atmosphere, ultra-high detail, no text, no watermark.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "cute girl",
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-31T13:40:33.258Z"
+    },
+    {
+      "id": "pv-1793454018991-9581",
+      "title": "Girl 00030",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793454018991-9581.webp",
+      "prompt": "Low-light cinematic portrait, telephoto lens compression, shallow depth of field, intentional soft focus and motion blur, moody nightlife atmosphere, abstract storytelling composition, layered haze and diffusion, imperfect candid capture  a stunning beautiful Korean female idol, ultra high visual appeal, pale porcelain skin, delicate yet seductive features, effortlessly alluring presence, relaxed and slightly tipsy mood, lazy and unguarded body language  outfit: sleek sensual styling — fitted off-shoulder top or thin strap dress subtly revealing collarbone and shoulder line, paired with a short skirt or high-slit silhouette; minimal but intentional accessories (earrings, thin necklace), modern K-idol fashion styling, slightly undone elegance  scene: dimly lit bar or lounge at night, warm tungsten lighting mixed with scattered reflections, frosted glass textures, cocktail glass in hand, blurred figures moving in background, neon hints and shadow gradients, reflective surfaces creating depth  lighting: Rembrandt-style contrast lighting, warm highlights against deep shadows, soft diffusion bloom, light scattering and refraction, cinematic glow  pose: natural candid moment — body slightly leaning or shifting weight, one hand holding a glass loosely, the other brushing hair or resting near waist, subtle torso angle emphasizing silhouette, not posing but captured mid-moment  expression: half-lidded eyes, distant or slightly provocative gaze, lips slightly parted, ambiguous emotion between calm and temptation  visual style: high contrast grayscale-toned palette with controlled color accents, heavy film grain, noise texture, layered blur gradients, imperfect focus transitions, strong negative space, dynamic perspective, avant-garde editorial aesthetic  mood: dreamy, intoxicating, mysterious, sensual but restrained, “moment before something happens”  --2:3",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "cute girl",
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-31T13:40:33.259Z"
+    },
     {
       "id": "pv-1793453650180-6025",
       "title": "Girl 00020",
