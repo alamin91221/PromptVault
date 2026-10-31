@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T13:23:55.388Z",
+  "updated_at": "2026-10-31T13:27:58.903Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,22 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1793453163491-5074",
+      "title": "Girl 00017",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793453163491-5074.webp",
+      "prompt": "Based on the input character image,  \ncreate a single visual \"charm anatomy chart\" of that character.\n\nThis is not a standard character setting sheet, three-view drawing, or profile sheet.  \nThe goal is not to explain the character's information, but to visualize and break down  \n\"What makes this character cute\", \"Why are you drawn to them\", \"What parts make you like them\"  \nfrom both a design and emotional perspective.\n\nCarefully extract the following charm elements of the character from the input image:\n\n- Eye shape, eye color, impression of the gaze  \n- Hair flow, bangs, hair ends, cuteness of silhouette  \n- Expression quirks, way of smiling, shyness, emotion in a blank expression  \n- Hand gestures, fingertips, relationship with cuffs  \n- Favorite parts of the costume, ribbons, frills, decorations, accessories  \n- Highlights of the neck, shoulders, sleeves, skirt, shoes, etc.  \n- The angle where the character looks cutest  \n- Overall personality and atmosphere felt, points that make you want to protect them, reasons you are drawn to them  \n\nPlace the character large in the center.  \nDo not just make them stand; draw them in the angle, pose, and expression that best conveys their charm.  \nForbidden: a composition like a too-frontal ID photo.  \nUse natural and attractive poses that capture a \"moment of falling in love\" —  \nslightly turning around, placing a hand near the mouth, pinching the sleeve, lightly holding the hair, shifting the gaze slightly.\n\nAround the character, place small close-up panels that break down the character's charm points.  \nHowever, do not arrange them mechanically like setting materials;  \ninstead, make the layout beautiful, cute, and slightly obsessive, like a magazine feature page, design anatomy chart, or a fan-made love-filled analysis board.\n\nExample panels to place:\n- Close-up of the eyes: the gaze that embodies the character's essence  \n- Hair flow: the locks that define the silhouette  \n- Hands: personality shown through gestures  \n- Expression variations: smile, shy, slightly grumpy, defenseless face  \n- Favorite costume details: ribbons, sleeves, collar, decorations, texture  \n- Best angle: face direction, gaze, head tilt  \n- Accessories or motifs: elements symbolizing the character's world  \n\nEach panel should be drawn as an enlarged cut to emphasize the character's charm.  \nDo not cut out parts lifelessly — present them with a warmth that makes you think \"I love this part.\"\n\nYou may include short annotation-style labels within the frame,  \nbut keep them as short headings or symbolic design, not long explanations.  \nExamples:  \n“eyes”  \n“hair flow”  \n“gesture”  \n“best angle”  \n“favorite detail”  \n“charm point”  \n“soft expression”  \n“tiny habit”\n\nDo not let text dominate; treat it purely as a design element.  \nCreate a visual that conveys \"This character is cute\" at first glance, not something to be read and understood.\n\nThe overall design should blend the feel of a cute research notebook, a character love anatomy chart, a fashion magazine analysis page, and a feature page from an official art book.  \nThe background should be simple and clean, with a pale gradient matching the character's colors, paper-like margins, thin ruled lines, semi-transparent panels, hand-drawn circles, arrows, hearts, and small decorations.\n\nImportant:  \nDo not simply describe the character.  \nInformation such as height, age, abilities, affiliation, weapon descriptions — none of that is needed.  \nWhat should be depicted is not specs,  \nbut \"reasons to love them.\"\n\nThe character's own charm comes first.  \nMake sure the main subject is not buried by too many panels or annotations.  \nThe central character must always be drawn as the cutest and with the highest level of completion.\n\nOverall impression:  \ncute character charm analysis sheet,  \nvisual breakdown of cuteness,  \nnot a character profile,  \nnot a model sheet,  \naesthetic design board,  \nfan-favorite details,  \nemotional attraction map,  \nsoft editorial layout,  \nofficial artbook style,  \nclean anime illustration,  \nbeautiful eyes,  \nexpressive hands,  \nflowing hair,  \nadorable pose,  \nbest angle,  \nlovable expression,  \nfashion detail close-ups,  \ndelicate annotations,  \nsoft pastel panels,  \nrefined graphic design,  \nhigh-quality anime illustration,  \ncommercial-level finish.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "cute girl",
+        "girl",
+        "woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-10-31T13:27:58.902Z"
+    },
     {
       "id": "pv-1793452973562-1889",
       "title": "Girl 00016",
