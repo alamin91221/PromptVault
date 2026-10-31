@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T13:33:00.494Z",
+  "updated_at": "2026-10-31T13:34:15.414Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,22 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1793453650180-6025",
+      "title": "Girl 00020",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793453650180-6025.webp",
+      "prompt": "Based on the uploaded image, create a high-saturation trendy anime illustration. Preserve the basic recognizability of the character, including face shape, facial feature relationships, hairstyle foundation, and overall temperament, but the overall style must be obviously anime-ified and non-realistic. The art style should reference energetic and quirky popular anime illustrations: lines should be confident and powerful, with slight variations in thickness; coloring should use simple cel-shading style with large color block shadows; colors should be bright, high-saturation, and high-contrast. The character's expression and action can be bold and exaggerated, with simpler facial features and more emotional tension; limbs and perspective allow moderate stretching and distortion. The scene can be freely imagined apart from the original photo, reconstructed into a cartoon world with interesting wide-angle perspective and slight spatial distortion, and add elements such as stickers, hearts, stars, onomatopoeia, speech bubbles, small animals, or fun props. The overall composition should be dynamic, lively, funny, and impactful, like a vibrant trendy anime poster.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "cute girl",
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-31T13:34:15.414Z"
+    },
     {
       "id": "pv-1793453559395-4924",
       "title": "Girl 00019",
