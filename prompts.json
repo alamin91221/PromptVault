@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T13:05:53.589Z",
+  "updated_at": "2026-10-31T13:08:21.165Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,38 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1793452028066-642",
+      "title": "Girl 00008",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793452028066-642.webp",
+      "prompt": "Hyper-photorealistic portrait of a fashionable young woman, ultra-detailed facial features, visible pores, rosy dewy skin, high identity consistency.\n\nSubject: leaning slightly forward, shoulders angled, wearing a beige varsity jacket slipping off one shoulder, layered styling visible underneath.\n\nExpression: confident, slightly aloof, chin tilted up, relaxed lips with a hint of attitude.\n\nCamera: old CCD digital camera, early-2000s digicam aesthetic, on-camera flash, harsh flash falloff, grain and digital noise, slightly overexposed highlights, flattened shadows, soft contrast, washed colors, neutral white balance, subtle motion blur, candid snapshot feel, nostalgic compact-camera look.\n\nMakeup: Douyin/Korean glass-skin finish, pink lip gloss, aegyosal, soft blush, grey contacts, wispy lashes, brushed-up brows.\n\nHair: straight medium-length, face-framing strands, slightly windswept, ends curled inward and upward.\n\nOutfit: beige varsity jacket with embroidered patches, black inner top, street-style aesthetic.\n\nBackground: clean studio backdrop with subtle gradient.\n\nComposition: three-quarter angle, shoulder dropped, head tilted back slightly, off-center framing with diagonal posture.\n\nNegative: cartoonish, AI-looking, plastic skin, distorted anatomy, over-smoothed face, blurry face, heavy bokeh, stiff pose, center-facing ID-photo.",
+      "negative_prompt": "",
+      "model": "z-image-turbo",
+      "category": "Portrait",
+      "tags": [
+        "cute girl",
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-31T13:08:21.158Z"
+    },
+    {
+      "id": "pv-1793452091988-7375",
+      "title": "Girl 00010",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793452091988-7375.webp",
+      "prompt": "Vertical close-up profile portrait, Chinese opera beauty girl, exquisite Peking opera stage makeup, red eye makeup patterns, red flower mole on forehead, full red lips, gorgeous kingfisher phoenix headdress decorated with red beads, pearls and golden feather tassels, long pearl fringe earrings, heavy embroidered red opera costume, soft golden backlight forming glowing rim light on hair and shoulder, dark indoor stage background with blurred bokeh lights, tiny sparkling particles floating in air, warm red-gold cinematic atmosphere, translucent delicate skin, realistic CG portrait, ultra detailed hair, jewelry and embroidery, 8K high definition --ar 9:16",
+      "negative_prompt": "",
+      "model": "z-image-turbo",
+      "category": "Portrait",
+      "tags": [
+        "cute girl",
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-31T13:08:21.165Z"
+    },
     {
       "id": "pv-1793451924178-5877",
       "title": "Girl 00006",
@@ -475,7 +507,7 @@
       "id": "pv-1792409673174-4057",
       "title": "Girl 00053",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409673174-4057.webp",
-      "prompt": "以年轻成年女性的普通日常为主体，用环境人像而非商业肖像的方式拍摄；人物置于真实生活空间中，通过偏心构图、大量环境留白、前景遮挡与框景建立观察距离，在伸手、回头、整理衣物、坐下、发呆等未完成动作中抓取瞬间；人物很少刻意直视镜头，表情保持克制和若有所思。使用自然窗光、逆光、侧逆光或局部硬质阳光，允许脸部明暗不均、高光溢出与阴影丢失；画面保持胶片式轻微偏色、低至中饱和、柔和反差、细颗粒、泛光、轻微失焦和不完全锐利的光学质感。空间保留普通家具、生活杂物、植物、窗帘等真实生活证据，让整张照片看起来不像一场写真，而像多年以后偶然翻到的一张私人照片。",
+      "prompt": "以年轻成年女性的普通日常为主体，用环境人像而非商业肖像的方式拍摄；人物置于真实生活空间中，通过偏心构图、大量环境留白、前景遮挡���框景建立观察距离，在伸手、回头、整理衣物、坐下、发呆等未完成动作中抓取瞬间；人物很少刻意直视镜头，表情保持克制和若有所思。使用自然窗光、逆光、侧逆光或局部硬质阳光，允许脸部明暗不均、高光溢出与阴影丢失；画面保持胶片式轻微偏色、低至中饱和、柔和反差、细颗粒、泛光、轻微失焦和不完全锐利的光学质感。空间保留普通家具、生活杂物、植物、窗帘等真实生活证据，让整张照片看起来不像一场写真，而像多年以后偶然翻到的一张私人照片。",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
