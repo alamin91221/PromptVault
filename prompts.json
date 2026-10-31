@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T13:05:28.487Z",
+  "updated_at": "2026-10-31T13:05:53.589Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,10 +39,10 @@
   ],
   "items": [
     {
-      "id": "pv-1793451675575-4605",
-      "title": "Girl 00001",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793451675575-4605.webp",
-      "prompt": "Use the girl from the reference image and preserve her face, identity, proportions, and overall appearance exactly. Ultra-realistic 9:16 chest-up editorial portrait. She sits with a slight head tilt, looking directly at the camera with a calm, confident expression. Long straight glossy hair with a clean center part. \n\nWearing a structured oversized black blazer with broad shoulders. Natural luxury makeup with luminous skin, soft brown eyeshadow, subtle eyeliner, defined lashes, and nude glossy lips. Clean white minimalist background with soft side sunlight creating elegant shadows. Shot on a Sony A7R IV, 85mm f/1.4, shallow depth of field, cinematic lighting, realistic skin texture, 8K RAW, premium fashion editorial, no facial changes, no distortion, no plastic skin, no text, logo, or watermark.",
+      "id": "pv-1793451924178-5877",
+      "title": "Girl 00006",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793451924178-5877.webp",
+      "prompt": "A high-fidelity lifestyle photography portrait of a beautiful young East Asian woman with a soft Douyin aesthetic, sitting thoughtfully at a round dark wood table inside a sunlit cafe. \n\nShe is wearing round black-rimmed glasses, a sleeveless cream-colored silk blouse with a large elegant pussy-bow tie at the neckline, and high-waisted, pleated wide-leg trousers in a muted lavender hue with a matching belt. Her hair is styled in a soft, effortless low bun with delicate face-framing bangs and loose strands. \n\nShe is looking away in a pensive gaze, holding a classic yellow pencil up near her cheek with one hand, while her other hand rests on an open book on the table. In front of her are scattered open study books and a clear glass of layered iced coffee with a straw, capturing a cozy afternoon study vibe. \n\nNatural, bright sunlight streams through a large window on the left, casting soft shadows across the wooden table. The background features a clean, airy cafe interior with warm brick walls and wooden stools, softly blurred. Shot on an 85mm lens, f/1.4 aperture, photorealistic, cinematic lighting, 8K resolution, editorial fashion style.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -52,39 +52,8 @@
         "woman"
       ],
       "is_premium": false,
-      "created_at": "2026-10-31T13:05:28.456Z"
-    },
-    {
-      "id": "pv-1793451778686-7370",
-      "title": "Girl 00003",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793451778686-7370.webp",
-      "prompt": "A 3×2 vertical editorial portrait collage featuring six candid lifestyle photographs of a beautiful young East Asian woman with long glossy black hair styled in a loose high ponytail, soft wispy bangs, fair luminous skin, delicate feminine features, expressive eyes, and a naturally elegant appearance.\n\nShe is photographed inside a cozy modern bedroom with warm ambient lighting, cream-colored bedding, soft curtains, framed photos on the wall, a glowing bedside lamp, and a calm minimalist Korean interior aesthetic.\n\nOutfit: matching luxury loungewear set in warm oatmeal-beige tones, consisting of a soft ribbed cropped camisole, relaxed high-waisted lounge pants, and an oversized textured knit cardigan draped casually off one shoulder. Premium knit fabrics with visible texture and natural folds.\n\nEach frame captures a different relaxed pose and expression:\n\n1. Sitting cross-legged on the bed, shoulders slightly forward, looking directly into the camera with a gentle soft smile.\n\n2. Sitting comfortably with one sleeve partially covering her hand, eyes closed while smiling naturally as if reacting to a pleasant thought.\n\n3. Leaning slightly to one side, chin resting lightly on her hand, gazing thoughtfully out of frame.\n\n4. Looking toward the window with warm sunlight illuminating her profile, relaxed posture and natural expression.\n\n5. Resting her cheek against one hand while giving a playful wink and subtle smile.\n\n6. Sitting sideways on the bed with knees drawn in slightly, gazing into the distance with a calm contemplative expression.\n\nLighting: soft morning and golden-hour window light, warm practical lamp glow, subtle highlights on skin, realistic shadows, cozy atmospheric illumination.\n\nPhotography style: candid lifestyle portraiture, Korean fashion editorial, intimate bedroom photography, authentic expressions, relaxed body language, natural skin texture, visible fabric detail, shallow depth of field, cinematic warmth, realistic color grading.\n\nComposition: six evenly spaced vertical portrait panels arranged in a clean 3×2 collage layout, each frame offering a unique pose and mood while maintaining visual consistency.\n\nMood: cozy, intimate, feminine, peaceful, inviting, relaxed luxury, quiet weekend morning aesthetic.\n\nUltra-realistic, photorealistic, high detail, premium editorial photography, Vogue Korea inspired, natural beauty, soft focus background, 8K quality.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "cute girl",
-        "girl",
-        "woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-31T13:05:28.460Z"
-    },
-    {
-      "id": "pv-1793451816728-2419",
-      "title": "Girl 00004",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793451816728-2419.webp",
-      "prompt": "Create a vertical 9:16 high-end fashion campaign poster for [Brand Name], featuring [Theme Or Product].\n\nMain title: [Main Title]\nSubtitle: [Subtitle]\nColor palette: [Main Colors]\nOutfit: [Outfit Style]\nAccessories / props: [Accessories Or Props]\nScene: [Scene]\nAction: [Model Action]\n\nStyle: premium, elegant, retro-luxury, editorial, magazine-style, cinematic, soft-focus photography.\n\nUse a mirror-based composition: the model appears through a mirror reflection, with a blurred foreground, soft light leaks, warm retro tones, realistic fabric texture, subtle reflections, and a polished luxury campaign feel.\n\nThe model should look like an adult woman with realistic skin texture, refined styling, and a natural elegant pose, such as adjusting earrings, touching a necklace, fixing hair, holding a perfume bottle, or looking into the mirror.\n\nInclude clean magazine-style typography: small editorial text at the top, a large serif headline in the lower-middle area, and small CTA / season text at the bottom.\n\nAvoid cheap commercial styling, flat lighting, plastic skin, messy typography, distorted jewelry, awkward hands, and generic e-commerce poster layouts.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "cute girl",
-        "girl",
-        "woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-10-31T13:05:28.461Z"
+      "created_at": "2026-10-31T13:05:28.330Z",
+      "is_draft": false
     },
     {
       "id": "pv-1793451856102-5404",
@@ -100,13 +69,14 @@
         "woman"
       ],
       "is_premium": true,
-      "created_at": "2026-10-31T13:05:28.467Z"
+      "created_at": "2026-10-31T13:05:28.324Z",
+      "is_draft": false
     },
     {
-      "id": "pv-1793451924178-5877",
-      "title": "Girl 00006",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793451924178-5877.webp",
-      "prompt": "A high-fidelity lifestyle photography portrait of a beautiful young East Asian woman with a soft Douyin aesthetic, sitting thoughtfully at a round dark wood table inside a sunlit cafe. \n\nShe is wearing round black-rimmed glasses, a sleeveless cream-colored silk blouse with a large elegant pussy-bow tie at the neckline, and high-waisted, pleated wide-leg trousers in a muted lavender hue with a matching belt. Her hair is styled in a soft, effortless low bun with delicate face-framing bangs and loose strands. \n\nShe is looking away in a pensive gaze, holding a classic yellow pencil up near her cheek with one hand, while her other hand rests on an open book on the table. In front of her are scattered open study books and a clear glass of layered iced coffee with a straw, capturing a cozy afternoon study vibe. \n\nNatural, bright sunlight streams through a large window on the left, casting soft shadows across the wooden table. The background features a clean, airy cafe interior with warm brick walls and wooden stools, softly blurred. Shot on an 85mm lens, f/1.4 aperture, photorealistic, cinematic lighting, 8K resolution, editorial fashion style.",
+      "id": "pv-1793451816728-2419",
+      "title": "Girl 00004",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793451816728-2419.webp",
+      "prompt": "Create a vertical 9:16 high-end fashion campaign poster for [Brand Name], featuring [Theme Or Product].\n\nMain title: [Main Title]\nSubtitle: [Subtitle]\nColor palette: [Main Colors]\nOutfit: [Outfit Style]\nAccessories / props: [Accessories Or Props]\nScene: [Scene]\nAction: [Model Action]\n\nStyle: premium, elegant, retro-luxury, editorial, magazine-style, cinematic, soft-focus photography.\n\nUse a mirror-based composition: the model appears through a mirror reflection, with a blurred foreground, soft light leaks, warm retro tones, realistic fabric texture, subtle reflections, and a polished luxury campaign feel.\n\nThe model should look like an adult woman with realistic skin texture, refined styling, and a natural elegant pose, such as adjusting earrings, touching a necklace, fixing hair, holding a perfume bottle, or looking into the mirror.\n\nInclude clean magazine-style typography: small editorial text at the top, a large serif headline in the lower-middle area, and small CTA / season text at the bottom.\n\nAvoid cheap commercial styling, flat lighting, plastic skin, messy typography, distorted jewelry, awkward hands, and generic e-commerce poster layouts.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -116,7 +86,42 @@
         "woman"
       ],
       "is_premium": false,
-      "created_at": "2026-10-31T13:05:28.487Z"
+      "created_at": "2026-10-31T13:05:28.322Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793451778686-7370",
+      "title": "Girl 00003",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793451778686-7370.webp",
+      "prompt": "A 3×2 vertical editorial portrait collage featuring six candid lifestyle photographs of a beautiful young East Asian woman with long glossy black hair styled in a loose high ponytail, soft wispy bangs, fair luminous skin, delicate feminine features, expressive eyes, and a naturally elegant appearance.\n\nShe is photographed inside a cozy modern bedroom with warm ambient lighting, cream-colored bedding, soft curtains, framed photos on the wall, a glowing bedside lamp, and a calm minimalist Korean interior aesthetic.\n\nOutfit: matching luxury loungewear set in warm oatmeal-beige tones, consisting of a soft ribbed cropped camisole, relaxed high-waisted lounge pants, and an oversized textured knit cardigan draped casually off one shoulder. Premium knit fabrics with visible texture and natural folds.\n\nEach frame captures a different relaxed pose and expression:\n\n1. Sitting cross-legged on the bed, shoulders slightly forward, looking directly into the camera with a gentle soft smile.\n\n2. Sitting comfortably with one sleeve partially covering her hand, eyes closed while smiling naturally as if reacting to a pleasant thought.\n\n3. Leaning slightly to one side, chin resting lightly on her hand, gazing thoughtfully out of frame.\n\n4. Looking toward the window with warm sunlight illuminating her profile, relaxed posture and natural expression.\n\n5. Resting her cheek against one hand while giving a playful wink and subtle smile.\n\n6. Sitting sideways on the bed with knees drawn in slightly, gazing into the distance with a calm contemplative expression.\n\nLighting: soft morning and golden-hour window light, warm practical lamp glow, subtle highlights on skin, realistic shadows, cozy atmospheric illumination.\n\nPhotography style: candid lifestyle portraiture, Korean fashion editorial, intimate bedroom photography, authentic expressions, relaxed body language, natural skin texture, visible fabric detail, shallow depth of field, cinematic warmth, realistic color grading.\n\nComposition: six evenly spaced vertical portrait panels arranged in a clean 3×2 collage layout, each frame offering a unique pose and mood while maintaining visual consistency.\n\nMood: cozy, intimate, feminine, peaceful, inviting, relaxed luxury, quiet weekend morning aesthetic.\n\nUltra-realistic, photorealistic, high detail, premium editorial photography, Vogue Korea inspired, natural beauty, soft focus background, 8K quality.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "cute girl",
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-31T13:05:28.320Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793451675575-4605",
+      "title": "Girl 00001",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793451675575-4605.webp",
+      "prompt": "Use the girl from the reference image and preserve her face, identity, proportions, and overall appearance exactly. Ultra-realistic 9:16 chest-up editorial portrait. She sits with a slight head tilt, looking directly at the camera with a calm, confident expression. Long straight glossy hair with a clean center part. \n\nWearing a structured oversized black blazer with broad shoulders. Natural luxury makeup with luminous skin, soft brown eyeshadow, subtle eyeliner, defined lashes, and nude glossy lips. Clean white minimalist background with soft side sunlight creating elegant shadows. Shot on a Sony A7R IV, 85mm f/1.4, shallow depth of field, cinematic lighting, realistic skin texture, 8K RAW, premium fashion editorial, no facial changes, no distortion, no plastic skin, no text, logo, or watermark.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "cute girl",
+        "girl",
+        "woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-10-31T13:05:28.317Z",
+      "is_draft": false
     },
     {
       "id": "pv-1792411110763-8821",
