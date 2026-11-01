@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-01T14:49:17.877Z",
+  "updated_at": "2026-11-01T14:56:05.756Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,128 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1793544648748-2107",
+      "title": "Girl 00140",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793544648748-2107.webp",
+      "prompt": "Dramatic anime portrait of a woman with long wavy silver-violet hair, glowing magenta eyes, a black feathered shoulder cape, half face behind a flowing sheer purple scarf, floating glitter and soft light beams, dark stage background with spotlights, purple and black palette, glamorous mood, extreme detail, vertical 9:16. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T14:56:05.751Z"
+    },
+    {
+      "id": "pv-1793544684873-7246",
+      "title": "Girl 00141",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793544684873-7246.webp",
+      "prompt": "Sweet anime portrait of a girl with long light-pink hair, big blue eyes, a bow-shaped hair accessory with pearls, half face behind a giant swirl macaron tower, floating sugar sparkles, soft pastel bakery lighting, pink and mint palette, cute dreamy mood, high detail, vertical wallpaper. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T14:56:05.753Z"
+    },
+    {
+      "id": "pv-1793544716276-2765",
+      "title": "Girl 00142",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793544716276-2765.webp",
+      "prompt": "Heroic anime portrait of a female samurai with long black hair in a high tie, sharp crimson eyes, red and black armor with gold trim, half face behind a katana blade reflecting moonlight, falling cherry blossoms, dark night sky with a huge pale moon, strong cinematic contrast, ultra detailed, vertical 9:16. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T14:56:05.753Z"
+    },
+    {
+      "id": "pv-1793544759283-8165",
+      "title": "Girl 00143",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793544759283-8165.webp",
+      "prompt": "Mystical anime portrait of a woman with long emerald and gold hair, glowing amber eyes, a crown of golden leaves and tiny gems, half face behind a giant glowing fern frond, floating fireflies and light orbs, enchanted forest mist, green and gold palette, magical serene mood, extreme detail, vertical wallpaper. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "anime",
+        "anime girl",
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T14:56:05.753Z"
+    },
+    {
+      "id": "pv-1793544800077-2318",
+      "title": "Girl 00144",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793544800077-2318.webp",
+      "prompt": "Luxurious anime portrait of a woman with long curly copper hair, hazel eyes, a gold and ruby headchain, sheer red veil over half of her face, layered gold necklaces, floating rose petals and golden dust, warm candlelight, red and gold palette, opulent romantic mood, ultra detailed, vertical 9:16. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-01T14:56:05.754Z"
+    },
+    {
+      "id": "pv-1793544876738-3719",
+      "title": "Girl 00145",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793544876738-3719.webp",
+      "prompt": "Gothic anime portrait of a woman with long jet-black hair with white streaks, pale lavender eyes, a black lace hat with silver spider-web details, half face behind a cracked porcelain mask piece, floating silver dust and dark petals, moonlit mist, black and silver palette, eerie elegant mood, extreme detail, vertical 9:16. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "anime",
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T14:56:05.756Z"
+    },
+    {
+      "id": "pv-1793544959637-5558",
+      "title": "Girl 00148",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793544959637-5558.webp",
+      "prompt": "Enchanting anime portrait of a woman with long rose-pink and white gradient hair, glowing violet-pink eyes, a jeweled hair ornament with hanging pearls and ribbons, half face behind cascading pink crystal beads, floating petals and sparkles, soft magenta bokeh, pink, white and gold palette, glamorous dreamy mood, ultra detailed, vertical wallpaper. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-01T14:56:05.756Z"
+    },
     {
       "id": "pv-1793544535193-102",
       "title": "Girl 00139",
@@ -2858,7 +2980,7 @@
       "id": "pv-1792409018089-5146",
       "title": "Girl 00040",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409018089-5146.webp",
-      "prompt": "Create a high-quality Y2K kawaii street-style collage poster based on the uploaded portrait.\n\nUse the uploaded portrait ONLY as the facial identity and hairstyle reference. Preserve the person’s real facial structure, skin tone, eye shape, nose, lips, face contour, hairstyle, hair length, bangs, and natural expression. Do not copy the original outfit, background, lighting, or pose from the uploaded portrait.\n\nGenerate a cute young female fashion portrait collage in a clean white studio background, inspired by Japanese Y2K idol magazine layouts and Korean photo booth sticker aesthetics. The overall visual style should be playful, sweet, stylish, and slightly rebellious.\n\nThe character wears a soft pastel blue off-shoulder cropped top, a black pleated mini skirt with pink belt details, white knee-high socks, black chunky boots, layered silver necklaces, small accessories, and a purple plaid beret with a small pink hair clip. The outfit should look fashionable, youthful, cute, and street-style.\n\nCreate a multi-frame collage layout with several different shots of the same person:\n1. one full-body standing pose in the center-left, slightly dynamic, one leg lifted, peace sign gesture;\n2. one sitting full-body pose in the bottom-left, knees close to the camera, cute relaxed expression;\n3. several close-up portrait frames on the right side, including smiling, winking, eyes closed, and peace sign poses;\n4. two horizontal eye-detail close-up frames on the upper-left side;\n5. one cropped upper-body fashion detail frame.\n\nUse irregular black sketch frame lines, magazine cutout borders, layered photo stickers, white negative space, and pink-purple graffiti decorations around the photos. Add hand-drawn stars, sparkle marks, arrows, hearts, doodle symbols, brush strokes, and neon pink outline glows. The collage should feel handmade, energetic, and trendy, but still clean and premium.\n\nReplace all random or meaningless text with stylish English words that fit the image. Add small handwritten graffiti-style words such as:\n“SHEENA”\n“Y2K GIRL”\n“CUTE ENERGY”\n“PINK MOOD”\n“DREAMY”\n“PLAYFUL”\n“SOFT REBEL”\n“STAY CUTE”\n“STYLE SNAP”\n“GLAM POP”\n\nUse these words as decorative graffiti elements only, not large readable poster titles. The text should look like hand-drawn stickers and street doodles, integrated naturally into the layout.\n\nLighting should be bright, soft, and clean, like a professional studio photo booth. Skin texture should remain realistic and natural, not plastic or over-smoothed. Keep realistic facial proportions, natural eyes, correct hands, clean hair details, and believable body anatomy.\n\nColor palette: white background, pastel blue outfit, lavender purple beret, pink-purple graffiti, black sketch lines, silver accessories. The final image should be sharp, detailed, fashionable, cute, and highly shareable for social media.\n\nAspect ratio: vertical 3:4 or 4:5.\nHigh-resolution, ultra-clean composition, no watermark, no logo, no AI-generated watermark, no brand marks.\n\nNegative Prompt：\n\nwatermark, logo, AI generated watermark, Chinese watermark, random text, unreadable messy text, distorted letters, wrong spelling, low resolution, blurry, over-smoothed skin, plastic skin, fake face, doll-like face, face mismatch, different identity, different hairstyle, deformed hands, extra fingers, missing fingers, broken fingers, unnatural pose, bad anatomy, duplicated face, duplicated body, messy layout, cluttered composition, dirty background, harsh shadows, heavy makeup, old-fashioned outfit, realistic brand logo, cropped head, distorted eyes, asymmetrical face, bad teeth, strange neck, broken limbs",
+      "prompt": "Create a high-quality Y2K kawaii street-style collage poster based on the uploaded portrait.\n\nUse the uploaded portrait ONLY as the facial identity and hairstyle reference. Preserve the person’s real facial structure, skin tone, eye shape, nose, lips, face contour, hairstyle, hair length, bangs, and natural expression. Do not copy the original outfit, background, lighting, or pose from the uploaded portrait.\n\nGenerate a cute young female fashion portrait collage in a clean white studio background, inspired by Japanese Y2K idol magazine layouts and Korean photo booth sticker aesthetics. The overall visual style should be playful, sweet, stylish, and slightly rebellious.\n\nThe character wears a soft pastel blue off-shoulder cropped top, a black pleated mini skirt with pink belt details, white knee-high socks, black chunky boots, layered silver necklaces, small accessories, and a purple plaid beret with a small pink hair clip. The outfit should look fashionable, youthful, cute, and street-style.\n\nCreate a multi-frame collage layout with several different shots of the same person:\n1. one full-body standing pose in the center-left, slightly dynamic, one leg lifted, peace sign gesture;\n2. one sitting full-body pose in the bottom-left, knees close to the camera, cute relaxed expression;\n3. several close-up portrait frames on the right side, including smiling, winking, eyes closed, and peace sign poses;\n4. two horizontal eye-detail close-up frames on the upper-left side;\n5. one cropped upper-body fashion detail frame.\n\nUse irregular black sketch frame lines, magazine cutout borders, layered photo stickers, white negative space, and pink-purple graffiti decorations around the photos. Add hand-drawn stars, sparkle marks, arrows, hearts, doodle symbols, brush strokes, and neon pink outline glows. The collage should feel handmade, energetic, and trendy, but still clean and premium.\n\nReplace all random or meaningless text with stylish English words that fit the image. Add small handwritten graffiti-style words such as:\n“SHEENA”\n“Y2K GIRL��\n“CUTE ENERGY”\n“PINK MOOD”\n“DREAMY”\n“PLAYFUL”\n“SOFT REBEL”\n“STAY CUTE”\n“STYLE SNAP”\n“GLAM POP”\n\nUse these words as decorative graffiti elements only, not large readable poster titles. The text should look like hand-drawn stickers and street doodles, integrated naturally into the layout.\n\nLighting should be bright, soft, and clean, like a professional studio photo booth. Skin texture should remain realistic and natural, not plastic or over-smoothed. Keep realistic facial proportions, natural eyes, correct hands, clean hair details, and believable body anatomy.\n\nColor palette: white background, pastel blue outfit, lavender purple beret, pink-purple graffiti, black sketch lines, silver accessories. The final image should be sharp, detailed, fashionable, cute, and highly shareable for social media.\n\nAspect ratio: vertical 3:4 or 4:5.\nHigh-resolution, ultra-clean composition, no watermark, no logo, no AI-generated watermark, no brand marks.\n\nNegative Prompt：\n\nwatermark, logo, AI generated watermark, Chinese watermark, random text, unreadable messy text, distorted letters, wrong spelling, low resolution, blurry, over-smoothed skin, plastic skin, fake face, doll-like face, face mismatch, different identity, different hairstyle, deformed hands, extra fingers, missing fingers, broken fingers, unnatural pose, bad anatomy, duplicated face, duplicated body, messy layout, cluttered composition, dirty background, harsh shadows, heavy makeup, old-fashioned outfit, realistic brand logo, cropped head, distorted eyes, asymmetrical face, bad teeth, strange neck, broken limbs",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
