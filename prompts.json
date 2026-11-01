@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-01T14:45:09.471Z",
+  "updated_at": "2026-11-01T14:45:37.291Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,91 +39,6 @@
   ],
   "items": [
     {
-      "id": "pv-1793544026059-2315",
-      "title": "Girl 00131",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793544026059-2315.webp",
-      "prompt": "Delicate anime portrait of a woman with long lilac-gray hair, soft violet eyes, half of her face covered by cascading wisteria and glowing butterflies, a silver comb with amethyst gems, drifting petals, soft twilight light, lavender and silver palette, graceful calm mood, extreme detail, vertical wallpaper. No text, no letters, no watermark, no logo.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Anime",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl",
-        "cute woman"
-      ],
-      "is_premium": true,
-      "created_at": "2026-11-01T14:45:09.130Z"
-    },
-    {
-      "id": "pv-1793544075700-9626",
-      "title": "Girl 00132",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793544075700-9626.webp",
-      "prompt": "Glamorous anime portrait of a woman with short platinum-blonde bob, ice-blue eyes, red lips, a black satin headband with a diamond brooch, half face behind a sparkling champagne glass, floating glitter and golden bokeh, black and gold party lighting, high fashion mood, ultra detailed, vertical 9:16. No text, no letters, no watermark, no logo.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl",
-        "cute woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-01T14:45:09.470Z"
-    },
-    {
-      "id": "pv-1793544117784-5309",
-      "title": "Girl 00133",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793544117784-5309.webp",
-      "prompt": "Fantasy anime portrait of a woman with long flowing aqua-green hair, glowing sea-green eyes, pearl and coral hair ornaments, half face behind a large translucent fish-fin veil, floating bubbles and light rays through water, teal and gold palette, ethereal underwater mood, ultra detailed, vertical wallpaper. No text, no letters, no watermark, no logo.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl",
-        "cute woman"
-      ],
-      "is_premium": true,
-      "created_at": "2026-11-01T14:45:09.471Z"
-    },
-    {
-      "id": "pv-1793544170395-3167",
-      "title": "Girl 00134",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793544170395-3167.webp",
-      "prompt": "Soft anime portrait of a girl with long cream-blonde hair, honey-brown eyes, a lace headband with tiny flowers, half face behind a large white rabbit plush, floating dandelion seeds and sparkles, warm morning light, cream and soft pink palette, innocent cozy mood, high detail, vertical 9:16. No text, no letters, no watermark, no logo.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Anime",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl",
-        "cute woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-01T14:45:09.471Z"
-    },
-    {
-      "id": "pv-1793544211096-7870",
-      "title": "Girl 00135",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793544211096-7870.webp",
-      "prompt": "Powerful anime portrait of a woman with long fiery red hair, glowing yellow eyes, black armor with glowing orange cracks, half face behind a massive flaming axe blade, swirling sparks and ash, dark volcanic sky, strong orange rim light, intense epic mood, extreme detail, vertical wallpaper. No text, no letters, no watermark, no logo.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Anime",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl",
-        "cute woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-01T14:45:09.471Z"
-    },
-    {
       "id": "pv-1793544296127-5913",
       "title": "Girl 00136",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793544296127-5913.webp",
@@ -140,7 +55,98 @@
         "cute woman"
       ],
       "is_premium": false,
-      "created_at": "2026-11-01T14:45:09.471Z"
+      "created_at": "2026-11-01T14:45:09.094Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793544211096-7870",
+      "title": "Girl 00135",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793544211096-7870.webp",
+      "prompt": "Powerful anime portrait of a woman with long fiery red hair, glowing yellow eyes, black armor with glowing orange cracks, half face behind a massive flaming axe blade, swirling sparks and ash, dark volcanic sky, strong orange rim light, intense epic mood, extreme detail, vertical wallpaper. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T14:45:09.091Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793544170395-3167",
+      "title": "Girl 00134",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793544170395-3167.webp",
+      "prompt": "Soft anime portrait of a girl with long cream-blonde hair, honey-brown eyes, a lace headband with tiny flowers, half face behind a large white rabbit plush, floating dandelion seeds and sparkles, warm morning light, cream and soft pink palette, innocent cozy mood, high detail, vertical 9:16. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T14:45:09.083Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793544117784-5309",
+      "title": "Girl 00133",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793544117784-5309.webp",
+      "prompt": "Fantasy anime portrait of a woman with long flowing aqua-green hair, glowing sea-green eyes, pearl and coral hair ornaments, half face behind a large translucent fish-fin veil, floating bubbles and light rays through water, teal and gold palette, ethereal underwater mood, ultra detailed, vertical wallpaper. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-01T14:45:09.080Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793544075700-9626",
+      "title": "Girl 00132",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793544075700-9626.webp",
+      "prompt": "Glamorous anime portrait of a woman with short platinum-blonde bob, ice-blue eyes, red lips, a black satin headband with a diamond brooch, half face behind a sparkling champagne glass, floating glitter and golden bokeh, black and gold party lighting, high fashion mood, ultra detailed, vertical 9:16. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T14:45:09.078Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793544026059-2315",
+      "title": "Girl 00131",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793544026059-2315.webp",
+      "prompt": "Delicate anime portrait of a woman with long lilac-gray hair, soft violet eyes, half of her face covered by cascading wisteria and glowing butterflies, a silver comb with amethyst gems, drifting petals, soft twilight light, lavender and silver palette, graceful calm mood, extreme detail, vertical wallpaper. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-01T14:45:09.075Z",
+      "is_draft": false
     },
     {
       "id": "pv-1793543978566-3348",
@@ -6503,7 +6509,7 @@
       "id": "pv-1792305788080",
       "title": "Sakura Girl",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792305788080.webp",
-      "prompt": "subject: an adult Chinese woman in her mid-20s, smooth pale skin, delicate oval face, dark expressive eyes, soft matte rose-red lips, delicate lashes, elegant collarbones, and long silky black hair\n超写实电影级人像摄影。竖幅9:16构图。低角度仰拍，聚焦于人物面部。拍摄对象站在春日盛开的樱花树下。柔和的自然光透过枝叶，在脸庞、颈项和白色T恤上投下斑驳的光影。略显凌乱的头发随风飘动，几缕发丝在微风中摇曳。拍摄对象仰望天空，神情宁静而梦幻。肌肤柔和透亮���妆容自然，纹理逼真，双眸栩栩如生。使用85mm人像镜头拍摄，浅景深，奶油般的背景虚化，前景和背景中樱花花瓣的柔和虚化。明亮轻盈的氛围，柔和的粉彩色调，透过枝叶隐约可见的蔚蓝天空。自然光，高动态范围，电影级光线，头发上细腻的高光，柔和的阴影过渡，逼真的肌肤纹理，微妙的电影级色彩调校，梦幻般的春日氛围，充满情感的叙事性摄影。前景花朵部分遮盖画面，景深强，构图层次丰富，专业人像摄影，捕捉自然瞬间，展现生活方式类杂志美学，细节极其丰富，品质卓越，照片级真实感，逼真的镜头虚化，顶级相机品质。无过度修图，无美颜滤镜，无夸张妆容，无奇幻效果，无卡通风格，无额外配饰，无面部或身体改变。精确参考风格：仰视，樱花盛开，柔和的阳光透过树叶，梦幻般的春日氛围，浅景深，电影般的自然人像，写实摄影。",
+      "prompt": "subject: an adult Chinese woman in her mid-20s, smooth pale skin, delicate oval face, dark expressive eyes, soft matte rose-red lips, delicate lashes, elegant collarbones, and long silky black hair\n超写实电影级人像摄影。竖幅9:16构图。低角度仰拍，聚焦于人物面部。拍摄对象站在春日盛开的樱花树下。柔和的自然光透过枝叶，在脸庞、颈项和白色T恤上投下斑驳的光影。略显凌乱的头发随风飘动，几缕发丝在微风中摇曳。拍摄对象仰望天空，神情宁静而梦幻。肌肤柔和透亮，妆容自然，纹理逼真，双眸栩栩如生。使用85mm人像镜头拍摄，浅景深，奶油般的背景虚化，前景和背景中樱花花瓣的柔和虚化。明亮轻盈的氛围，柔和的粉彩色调，透过枝叶隐约可见的蔚蓝天空。自然光，高动态范围，电影级光线，头发上细腻的高光，柔和的阴影过渡，逼真的肌肤纹理，微妙的电影级色彩调校，梦幻般的春日氛围，充满情感的叙事性摄影。前景花朵部分遮盖画面，景深强，构图层次丰富，专业人像摄影，捕捉自然瞬间，展现生活方式类杂志美学，细节极其丰富，品质卓越，照片级真实感，逼真的镜头虚化，顶级相机品质。无过度修图，无美颜滤镜，无夸张妆容，无奇幻效果，无卡通风格，无额外配饰，无面部或身体改变。精确参考风格：仰视，樱花盛开，柔和的阳光透过树叶，梦幻般的春日氛围，浅景深，电影般的自然人像，写实摄影。",
       "negative_prompt": "",
       "model": "z-image-turbo",
       "category": "Portrait",
