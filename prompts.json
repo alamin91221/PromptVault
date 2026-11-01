@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-01T14:28:19.476Z",
+  "updated_at": "2026-11-01T14:28:47.483Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,61 +39,10 @@
   ],
   "items": [
     {
-      "id": "pv-1793543044222-7939",
-      "title": "Girl 00111",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793543044222-7939.webp",
-      "prompt": "Elegant noir anime portrait of a woman with sleek silver-gray bob hair, steel-blue eyes, a black feathered fascinator, half face behind a black lace fan, long black gloves, pearl earrings, cigarette-smoke-like soft haze and floating glitter, dark gray and silver palette, dramatic spotlight, vintage glamour mood, ultra detailed, vertical wallpaper. No text, no letters, no watermark, no logo.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl",
-        "cute woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-01T14:28:19.131Z"
-    },
-    {
-      "id": "pv-1793543079002-4035",
-      "title": "Girl 00112",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793543079002-4035.webp",
-      "prompt": "Sweet anime portrait of a girl with long strawberry-pink hair, red-pink eyes, a small heart-shaped crown, half face behind a large glossy strawberry, floating tiny strawberries and sparkles, soft pink and cream gradient, glowing highlights, cute dessert-themed mood, high detail, vertical 9:16. No text, no letters, no watermark, no logo.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Anime",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl",
-        "cute woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-01T14:28:19.131Z"
-    },
-    {
-      "id": "pv-1793543157246-2980",
-      "title": "Girl 00113",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793543157246-2980.webp",
-      "prompt": "Traditional anime portrait of a woman with long black hair, brown eyes, red kimono with golden chrysanthemum patterns, half face behind a red paper parasol, falling maple leaves, soft autumn sunlight, warm red and gold tones, calm nostalgic mood, ultra detailed, vertical 9:16. No text, no letters, no watermark, no logo.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl",
-        "cute woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-01T14:28:19.469Z"
-    },
-    {
-      "id": "pv-1793543227592-2066",
-      "title": "Girl 00114",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793543227592-2066.webp",
-      "prompt": "Ethereal anime portrait of a girl with long white hair and pale blue tips, closed eyes with sparkling lashes, a crown of ice flowers, half face behind falling snow-covered branches, soft blue-white light, floating snowflakes and glitter, serene frozen mood, ultra detailed, vertical 9:16. No text, no letters, no watermark, no logo.",
+      "id": "pv-1793543293969-7830",
+      "title": "Girl 00116",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793543293969-7830.webp",
+      "prompt": "Dreamy anime portrait of a girl with long coral-pink hair in soft waves, turquoise eyes, a seashell hair clip, half face behind a large pink conch shell, sparkling sea foam and floating pearls, soft sunset beach glow, pink and aqua palette, gentle romantic mood, high detail, vertical 9:16. No text, no letters, no watermark, no logo.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Anime",
@@ -104,7 +53,8 @@
         "cute woman"
       ],
       "is_premium": true,
-      "created_at": "2026-11-01T14:28:19.469Z"
+      "created_at": "2026-11-01T14:28:19.101Z",
+      "is_draft": false
     },
     {
       "id": "pv-1793543262749-2386",
@@ -121,13 +71,14 @@
         "cute woman"
       ],
       "is_premium": false,
-      "created_at": "2026-11-01T14:28:19.469Z"
+      "created_at": "2026-11-01T14:28:19.099Z",
+      "is_draft": false
     },
     {
-      "id": "pv-1793543293969-7830",
-      "title": "Girl 00116",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793543293969-7830.webp",
-      "prompt": "Dreamy anime portrait of a girl with long coral-pink hair in soft waves, turquoise eyes, a seashell hair clip, half face behind a large pink conch shell, sparkling sea foam and floating pearls, soft sunset beach glow, pink and aqua palette, gentle romantic mood, high detail, vertical 9:16. No text, no letters, no watermark, no logo.",
+      "id": "pv-1793543227592-2066",
+      "title": "Girl 00114",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793543227592-2066.webp",
+      "prompt": "Ethereal anime portrait of a girl with long white hair and pale blue tips, closed eyes with sparkling lashes, a crown of ice flowers, half face behind falling snow-covered branches, soft blue-white light, floating snowflakes and glitter, serene frozen mood, ultra detailed, vertical 9:16. No text, no letters, no watermark, no logo.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Anime",
@@ -138,7 +89,62 @@
         "cute woman"
       ],
       "is_premium": true,
-      "created_at": "2026-11-01T14:28:19.476Z"
+      "created_at": "2026-11-01T14:28:19.096Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793543157246-2980",
+      "title": "Girl 00113",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793543157246-2980.webp",
+      "prompt": "Traditional anime portrait of a woman with long black hair, brown eyes, red kimono with golden chrysanthemum patterns, half face behind a red paper parasol, falling maple leaves, soft autumn sunlight, warm red and gold tones, calm nostalgic mood, ultra detailed, vertical 9:16. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T14:28:19.093Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793543079002-4035",
+      "title": "Girl 00112",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793543079002-4035.webp",
+      "prompt": "Sweet anime portrait of a girl with long strawberry-pink hair, red-pink eyes, a small heart-shaped crown, half face behind a large glossy strawberry, floating tiny strawberries and sparkles, soft pink and cream gradient, glowing highlights, cute dessert-themed mood, high detail, vertical 9:16. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T14:28:19.086Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793543044222-7939",
+      "title": "Girl 00111",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793543044222-7939.webp",
+      "prompt": "Elegant noir anime portrait of a woman with sleek silver-gray bob hair, steel-blue eyes, a black feathered fascinator, half face behind a black lace fan, long black gloves, pearl earrings, cigarette-smoke-like soft haze and floating glitter, dark gray and silver palette, dramatic spotlight, vintage glamour mood, ultra detailed, vertical wallpaper. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T14:28:19.084Z",
+      "is_draft": false
     },
     {
       "id": "pv-1793542982327-4373",
@@ -4272,7 +4278,7 @@
       "id": "pv-1792382225851-1068",
       "title": "Girl 68",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792382225851-1068.webp",
-      "prompt": "这是一张拥有极致细节，超高质量、高清晰的照片，照片中有一位20岁的中国女性，有着迷人的眼睛，真实细腻的肌肤，身穿清新时尚的碎花雪纺上衣��泡泡短袖褶边设计，搭配浅蓝色紧身牛仔裤。她留着黑色长发，头上戴着发箍，右手手腕戴着翡翠手镯。下着大雨，全身湿透，头发贴着皮肤，皮肤上沾满雨水，坐在植物园的长凳上，背后靠着大片盛开的蔷薇花，摆着随机动态的姿势，看着镜头，活泼可爱充满灵气。",
+      "prompt": "这是一张拥有极致细节，超高质量、高清晰的照片，照片中有一位20岁的中国女性，有着迷人的眼睛，真实细腻的肌肤，身穿清新时尚的碎花雪纺上衣，泡泡短袖褶边设计，搭配浅蓝色紧身牛仔裤。她留着黑色长发，头上戴着发箍，右手手腕戴着翡翠手镯。下着大雨，全身湿透，头发贴着皮肤，皮肤上沾满雨水，坐在植物园的长凳上，背后靠着大片盛开的蔷薇花，摆着随机动态的姿势，看着镜头，活泼可爱充满灵气。",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -6104,7 +6110,7 @@
       "id": "pv-1792307404241",
       "title": "Chinese Girl",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792307404241.webp",
-      "prompt": "摄影风格：冷白清透CCD生活照风 \n写真方向：都市艺术生活写真 \n场景方向：美术馆外大台阶 / 极简白色石材 / 户外雕塑区 \n服装方向：黑灰色修身削肩背心 + 燕麦色高腰针织包臀短裙 \n气质标签：清冷、知性、克制、高级、轻微纯欲 \n五官方向：真实清冷淡颜，干净高级，不网红 \n五官细节：偏窄鹅蛋脸，面部轮廓利落但不锐利，面中轻微饱满；细长清亮杏眼，眼神安静克制；鼻梁流畅挺直；唇形自然克制，低饱和裸粉色；整体有高级耐看感，不幼态，不甜妹化 \n发型方向：黑色长发自然披散或低扎，发丝顺滑，脸侧少量碎发，整体利落 \n身形方向：轻盈纤细，上围饱满自然 \n线条强调：强 镜头方向：大腿及上半身 \n姿态动作：站���台阶边缘，身体轻微侧向镜头，双手自然放在身前 \n光线氛围：冷白日光主导 + 石材反射光 + 极弱柔闪 \n滤镜效果：冷白高光 + 低饱和蓝灰CCD色彩 + 轻颗粒 + 轻数码噪点 \n画幅比例：9:16 \n补充要求：削肩背心自然突出肩颈、锁骨、胸线，针织短裙强调腰臀衔接与修长比例，人物要清冷耐看，有都市艺术气质",
+      "prompt": "摄影风格：冷白清透CCD生活照风 \n写真方向：都市艺术生活写真 \n场景方向：美术馆外大台阶 / 极简白色石材 / 户外雕塑区 \n服装方向：黑灰色修身削肩背心 + 燕麦色高腰针织包臀短裙 \n气质标签：清冷、知性、克制、高级、轻微纯欲 \n五官方向：真实清冷淡颜，干净高级，不网红 \n五官细节：偏窄鹅蛋脸，面部轮廓利落但不锐利，面中轻微饱满；细长清亮杏眼，眼神安静克制；鼻梁流畅挺直；唇形自然克制，低饱和裸粉色；整体有高级耐看感，不幼态，不甜妹化 \n发型方向：黑色长发自然披散或低扎，发丝顺滑，脸侧少量碎发，整体利落 \n身形方向：轻盈纤细，上围饱满自然 \n线条强调：强 镜头方向：大腿及上半身 \n姿态动作：站在台阶边缘，身体轻微侧向镜头，双手自然放在身前 \n光线氛围：冷白日光主导 + 石材反射光 + 极弱柔闪 \n滤镜效果：冷白高光 + 低饱和蓝灰CCD色彩 + 轻颗粒 + 轻数码噪点 \n画幅比例：9:16 \n补充要求：削肩背心自然突出肩颈、锁骨、胸线，针织短裙强调腰臀衔接与修长比例，人物要清冷耐看，有都市艺术气质",
       "negative_prompt": "",
       "model": "z-image-turbo",
       "category": "Portrait",
