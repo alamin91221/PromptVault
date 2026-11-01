@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-01T15:17:36.415Z",
+  "updated_at": "2026-11-01T15:19:37.216Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,40 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1793546268417-9500",
+      "title": "Girl 00152",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793546268417-9500.webp",
+      "prompt": "Full-body anime fashion illustration of a stylish girl with pastel pink twin-tails wearing a futuristic white and holographic jacket, pleated skirt, chunky boots, standing in a neon-lit rainy Tokyo-style alley, glowing reflections on wet pavement, vibrant pink and cyan lights, dynamic pose, sharp cinematic detail, 9:16. No text, no letters, no watermark, no logo, no signs.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T15:19:37.216Z"
+    },
+    {
+      "id": "pv-1793546365678-2408",
+      "title": "Girl 00153",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793546365678-2408.webp",
+      "prompt": "Cozy medium shot of a girl with messy brown hair wearing an oversized knit sweater, sitting by a rain-streaked window with a cup of tea and a sleeping cat on her lap, warm lamp glow against cool blue rainy evening outside, soft bokeh city lights, gentle lo-fi atmosphere, semi-realistic soft shading, highly detailed, 9:16. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T15:19:37.216Z"
+    },
     {
       "id": "pv-1793546233393-1285",
       "title": "Girl 00151",
