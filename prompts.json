@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-01T13:32:51.062Z",
+  "updated_at": "2026-11-01T13:33:20.904Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,27 +39,10 @@
   ],
   "items": [
     {
-      "id": "pv-1793539679664-3836",
-      "title": "Girl 00040",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793539679664-3836.webp",
-      "prompt": "Ultra-detailed semi-realistic anime portrait, close-up of a beautiful woman with long flowing deep purple hair, one half of her face hidden behind an ornate red folding fan with golden cherry blossom patterns, glowing crimson eyes, golden hair ornament with purple fan-shaped accessory, red ribbons, drifting petals, soft dappled sunlight across her face, dreamy bokeh foreground, rich red and violet palette, cinematic lighting, vertical wallpaper, 9:16. No text, no letters, no watermark, no logo.",
-      "negative_prompt": "",
-      "model": "z-image-turbo",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl",
-        "cute woman"
-      ],
-      "is_premium": true,
-      "created_at": "2026-11-01T13:32:51.042Z"
-    },
-    {
-      "id": "pv-1793539808947-7874",
-      "title": "Girl 00041",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793539808947-7874.webp",
-      "prompt": "Fantasy anime portrait of an elegant woman with short lavender-silver hair, glowing violet eyes, beauty mark under the eye, half of her face peeking from behind sharp crystalline black and purple armor, glowing iridescent blue-purple butterflies perched on her hair and cheek, sparkling crystal shards, dark night background, magical purple glow, extreme detail, cinematic depth of field, vertical wallpaper. No text, no letters, no watermark, no logo, no signature.",
+      "id": "pv-1793539961793-4456",
+      "title": "Girl 00045",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793539961793-4456.webp",
+      "prompt": "Soft kawaii anime portrait of a girl with fluffy pastel pink-white windblown hair, half face covered by hair, big violet-blue eyes with pink eyeshadow, glossy pink heart-shaped hair clips, small gold ring earring, hugging a giant plush bunny with pink scales and pearly flower decoration, dappled sunlight, floating petals, dreamy pink haze, glowing highlights, ultra detailed romantic mood, vertical wallpaper. No text, no letters, no watermark, no logo.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -70,41 +53,8 @@
         "cute woman"
       ],
       "is_premium": false,
-      "created_at": "2026-11-01T13:32:51.053Z"
-    },
-    {
-      "id": "pv-1793539854337-6152",
-      "title": "Girl 00042",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793539854337-6152.webp",
-      "prompt": "Gothic elegant anime portrait, close-up of a young woman with wavy reddish-brown hair, a small black hat with burgundy satin ribbon and black lace veil covering half of her face, hanging crystal and pearl ornaments, pearl earrings with chains, black choker with a ruby gem, layered pearl necklaces, floating burgundy ribbons, warm cinematic rim light, glittering sparkles, dark romantic mood, ultra detailed, vertical 9:16 wallpaper. No text, no letters, no watermark, no logo.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl",
-        "cute woman"
-      ],
-      "is_premium": true,
-      "created_at": "2026-11-01T13:32:51.058Z"
-    },
-    {
-      "id": "pv-1793539891620-5359",
-      "title": "Girl 00043",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793539891620-5359.webp",
-      "prompt": "Dreamy pastel anime portrait of a girl with silky white hair with pink gradient tips and straight bangs, large glowing pink-violet eyes, looking upward, shadow patterns across her face, framed by hanging pink crystal beads and translucent pink ribbons, fan-shaped pink earring, black military-style jacket with white frilly collar and flower brooch, magenta bead hair ornament, soft glowing light, luxurious sparkle, vertical wallpaper. No text, no letters, no watermark, no logo.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl",
-        "cute woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-01T13:32:51.059Z"
+      "created_at": "2026-11-01T13:32:50.972Z",
+      "is_draft": false
     },
     {
       "id": "pv-1793539928651-492",
@@ -121,13 +71,14 @@
         "cute woman"
       ],
       "is_premium": true,
-      "created_at": "2026-11-01T13:32:51.062Z"
+      "created_at": "2026-11-01T13:32:50.969Z",
+      "is_draft": false
     },
     {
-      "id": "pv-1793539961793-4456",
-      "title": "Girl 00045",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793539961793-4456.webp",
-      "prompt": "Soft kawaii anime portrait of a girl with fluffy pastel pink-white windblown hair, half face covered by hair, big violet-blue eyes with pink eyeshadow, glossy pink heart-shaped hair clips, small gold ring earring, hugging a giant plush bunny with pink scales and pearly flower decoration, dappled sunlight, floating petals, dreamy pink haze, glowing highlights, ultra detailed romantic mood, vertical wallpaper. No text, no letters, no watermark, no logo.",
+      "id": "pv-1793539891620-5359",
+      "title": "Girl 00043",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793539891620-5359.webp",
+      "prompt": "Dreamy pastel anime portrait of a girl with silky white hair with pink gradient tips and straight bangs, large glowing pink-violet eyes, looking upward, shadow patterns across her face, framed by hanging pink crystal beads and translucent pink ribbons, fan-shaped pink earring, black military-style jacket with white frilly collar and flower brooch, magenta bead hair ornament, soft glowing light, luxurious sparkle, vertical wallpaper. No text, no letters, no watermark, no logo.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -138,7 +89,62 @@
         "cute woman"
       ],
       "is_premium": false,
-      "created_at": "2026-11-01T13:32:51.062Z"
+      "created_at": "2026-11-01T13:32:50.966Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793539854337-6152",
+      "title": "Girl 00042",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793539854337-6152.webp",
+      "prompt": "Gothic elegant anime portrait, close-up of a young woman with wavy reddish-brown hair, a small black hat with burgundy satin ribbon and black lace veil covering half of her face, hanging crystal and pearl ornaments, pearl earrings with chains, black choker with a ruby gem, layered pearl necklaces, floating burgundy ribbons, warm cinematic rim light, glittering sparkles, dark romantic mood, ultra detailed, vertical 9:16 wallpaper. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-01T13:32:50.960Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793539808947-7874",
+      "title": "Girl 00041",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793539808947-7874.webp",
+      "prompt": "Fantasy anime portrait of an elegant woman with short lavender-silver hair, glowing violet eyes, beauty mark under the eye, half of her face peeking from behind sharp crystalline black and purple armor, glowing iridescent blue-purple butterflies perched on her hair and cheek, sparkling crystal shards, dark night background, magical purple glow, extreme detail, cinematic depth of field, vertical wallpaper. No text, no letters, no watermark, no logo, no signature.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T13:32:50.957Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793539679664-3836",
+      "title": "Girl 00040",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793539679664-3836.webp",
+      "prompt": "Ultra-detailed semi-realistic anime portrait, close-up of a beautiful woman with long flowing deep purple hair, one half of her face hidden behind an ornate red folding fan with golden cherry blossom patterns, glowing crimson eyes, golden hair ornament with purple fan-shaped accessory, red ribbons, drifting petals, soft dappled sunlight across her face, dreamy bokeh foreground, rich red and violet palette, cinematic lighting, vertical wallpaper, 9:16. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "z-image-turbo",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-01T13:32:50.954Z",
+      "is_draft": false
     },
     {
       "id": "pv-1793454389933-9016",
