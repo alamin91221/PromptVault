@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-01T13:53:58.455Z",
+  "updated_at": "2026-11-01T13:54:33.861Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,27 +39,10 @@
   ],
   "items": [
     {
-      "id": "pv-1793540888514-6523",
-      "title": "Girl 00068",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540888514-6523.webp",
-      "prompt": "Semi-realistic anime portrait of a woman with long wavy coral-pink hair, amber eyes, half of her face hidden behind a large translucent pink lotus petal, golden hairpins with dangling pearl tassels, soft sunrise glow, floating lotus petals, water droplets sparkling in the air, creamy peach and rose palette, shallow depth of field, ultra detailed, vertical 9:16 wallpaper. No text, no letters, no watermark, no logo.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl",
-        "cute woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-01T13:53:58.432Z"
-    },
-    {
-      "id": "pv-1793540919484-8947",
-      "title": "Girl 00069",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540919484-8947.webp",
-      "prompt": "Dark elegant anime portrait of a woman with long silver-black ombre hair, glowing ice-blue eyes, half of her face behind a black feathered fan edged with silver, crystal drop earrings, black lace gloves, floating snowflakes and tiny sparkles, moody navy and silver palette, dramatic rim light, high detail, cinematic vertical wallpaper. No text, no letters, no watermark, no logo.",
+      "id": "pv-1793541234666-6320",
+      "title": "Girl 00076",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793541234666-6320.webp",
+      "prompt": "Romantic anime portrait of a woman with long burgundy hair, deep brown eyes, half of her face covered by a bouquet of red roses and baby’s breath, pearl hairpins, soft velvet dress with off-shoulder neckline, warm window light, floating petals, golden bokeh, rich red and gold tones, elegant mood, ultra detailed, vertical 9:16. No text, no letters, no watermark, no logo.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -70,92 +53,8 @@
         "cute woman"
       ],
       "is_premium": true,
-      "created_at": "2026-11-01T13:53:58.446Z"
-    },
-    {
-      "id": "pv-1793540960904-9124",
-      "title": "Girl 00070",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540960904-9124.webp",
-      "prompt": "Dreamy anime portrait of a girl with fluffy lilac hair, large sparkling violet eyes, oversized bow hair accessory made of satin and pearls, half face peeking behind a giant plush teddy bear, floating glitter and soft bokeh hearts, pastel purple and pink haze, glowing highlights, sweet romantic mood, ultra detailed, vertical 9:16. No text, no letters, no watermark, no logo.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl",
-        "cute woman"
-      ],
-      "is_premium": true,
-      "created_at": "2026-11-01T13:53:58.447Z"
-    },
-    {
-      "id": "pv-1793541012781-6890",
-      "title": "Girl 00071",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793541012781-6890.webp",
-      "prompt": "Epic fantasy anime portrait of a female knight with short messy platinum hair, sharp golden eyes, polished silver armor with blue gemstones, half of her face behind a gleaming longsword, windswept blue cape, drifting embers and light particles, stormy dawn sky, strong cinematic backlight, heroic mood, extreme detail, vertical wallpaper. No text, no letters, no watermark, no logo.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl",
-        "cute woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-01T13:53:58.447Z"
-    },
-    {
-      "id": "pv-1793541074597-2363",
-      "title": "Girl 00072",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793541074597-2363.webp",
-      "prompt": "Elegant Chinese palace anime portrait of a woman with glossy black hair in an elaborate updo, gold phoenix hairpiece with red gemstones, deep crimson silk robe with gold embroidery, half face behind a round silk fan, calm dark eyes with red eyeliner, floating plum blossoms, warm lantern glow, rich red and gold palette, ultra detailed, vertical 9:16. No text, no letters, no watermark, no logo, no calligraphy.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl",
-        "cute woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-01T13:53:58.447Z"
-    },
-    {
-      "id": "pv-1793541113249-6051",
-      "title": "Girl 00073",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793541113249-6051.webp",
-      "prompt": "Glamorous gothic lolita anime portrait of a girl with twin-tail dark brown hair with pink ribbons, rose-colored eyes, black frilly headdress with a tiny crown, lace veil covering half her face, pearl chains and heart-shaped crystals hanging around, floating pink petals, dark pink and black palette, soft bokeh, high detail, vertical wallpaper. No text, no letters, no watermark, no logo.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl",
-        "cute woman"
-      ],
-      "is_premium": true,
-      "created_at": "2026-11-01T13:53:58.448Z"
-    },
-    {
-      "id": "pv-1793541143103-1079",
-      "title": "Girl 00074",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793541143103-1079.webp",
-      "prompt": "Mystical anime portrait of a woman with long emerald-green hair, glowing gold eyes, half of her face behind a large glowing jade leaf, vines with tiny white flowers in her hair, fireflies floating around, misty enchanted forest, soft green and gold light beams, dreamy bokeh, delicate details, vertical 9:16 wallpaper. No text, no letters, no watermark, no logo.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl",
-        "cute woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-01T13:53:58.455Z"
+      "created_at": "2026-11-01T13:53:58.376Z",
+      "is_draft": false
     },
     {
       "id": "pv-1793541172927-3431",
@@ -172,13 +71,32 @@
         "cute woman"
       ],
       "is_premium": false,
-      "created_at": "2026-11-01T13:53:58.455Z"
+      "created_at": "2026-11-01T13:53:58.371Z",
+      "is_draft": false
     },
     {
-      "id": "pv-1793541234666-6320",
-      "title": "Girl 00076",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793541234666-6320.webp",
-      "prompt": "Romantic anime portrait of a woman with long burgundy hair, deep brown eyes, half of her face covered by a bouquet of red roses and baby’s breath, pearl hairpins, soft velvet dress with off-shoulder neckline, warm window light, floating petals, golden bokeh, rich red and gold tones, elegant mood, ultra detailed, vertical 9:16. No text, no letters, no watermark, no logo.",
+      "id": "pv-1793541143103-1079",
+      "title": "Girl 00074",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793541143103-1079.webp",
+      "prompt": "Mystical anime portrait of a woman with long emerald-green hair, glowing gold eyes, half of her face behind a large glowing jade leaf, vines with tiny white flowers in her hair, fireflies floating around, misty enchanted forest, soft green and gold light beams, dreamy bokeh, delicate details, vertical 9:16 wallpaper. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T13:53:58.367Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793541113249-6051",
+      "title": "Girl 00073",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793541113249-6051.webp",
+      "prompt": "Glamorous gothic lolita anime portrait of a girl with twin-tail dark brown hair with pink ribbons, rose-colored eyes, black frilly headdress with a tiny crown, lace veil covering half her face, pearl chains and heart-shaped crystals hanging around, floating pink petals, dark pink and black palette, soft bokeh, high detail, vertical wallpaper. No text, no letters, no watermark, no logo.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -189,7 +107,98 @@
         "cute woman"
       ],
       "is_premium": true,
-      "created_at": "2026-11-01T13:53:58.455Z"
+      "created_at": "2026-11-01T13:53:58.363Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793541074597-2363",
+      "title": "Girl 00072",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793541074597-2363.webp",
+      "prompt": "Elegant Chinese palace anime portrait of a woman with glossy black hair in an elaborate updo, gold phoenix hairpiece with red gemstones, deep crimson silk robe with gold embroidery, half face behind a round silk fan, calm dark eyes with red eyeliner, floating plum blossoms, warm lantern glow, rich red and gold palette, ultra detailed, vertical 9:16. No text, no letters, no watermark, no logo, no calligraphy.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T13:53:58.361Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793541012781-6890",
+      "title": "Girl 00071",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793541012781-6890.webp",
+      "prompt": "Epic fantasy anime portrait of a female knight with short messy platinum hair, sharp golden eyes, polished silver armor with blue gemstones, half of her face behind a gleaming longsword, windswept blue cape, drifting embers and light particles, stormy dawn sky, strong cinematic backlight, heroic mood, extreme detail, vertical wallpaper. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T13:53:58.358Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793540960904-9124",
+      "title": "Girl 00070",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540960904-9124.webp",
+      "prompt": "Dreamy anime portrait of a girl with fluffy lilac hair, large sparkling violet eyes, oversized bow hair accessory made of satin and pearls, half face peeking behind a giant plush teddy bear, floating glitter and soft bokeh hearts, pastel purple and pink haze, glowing highlights, sweet romantic mood, ultra detailed, vertical 9:16. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-01T13:53:58.356Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793540919484-8947",
+      "title": "Girl 00069",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540919484-8947.webp",
+      "prompt": "Dark elegant anime portrait of a woman with long silver-black ombre hair, glowing ice-blue eyes, half of her face behind a black feathered fan edged with silver, crystal drop earrings, black lace gloves, floating snowflakes and tiny sparkles, moody navy and silver palette, dramatic rim light, high detail, cinematic vertical wallpaper. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-01T13:53:58.354Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793540888514-6523",
+      "title": "Girl 00068",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540888514-6523.webp",
+      "prompt": "Semi-realistic anime portrait of a woman with long wavy coral-pink hair, amber eyes, half of her face hidden behind a large translucent pink lotus petal, golden hairpins with dangling pearl tassels, soft sunrise glow, floating lotus petals, water droplets sparkling in the air, creamy peach and rose palette, shallow depth of field, ultra detailed, vertical 9:16 wallpaper. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T13:53:58.351Z",
+      "is_draft": false
     },
     {
       "id": "pv-1793540812686-1722",
@@ -2697,7 +2706,7 @@
       "id": "pv-1792391595802-2466",
       "title": "Girl 90",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792391595802-2466.webp",
-      "prompt": "中景，约21 year-old女子黑双马尾系骷髅蝴蝶结，穿黑白骨骼印花吊带蓬裙，戴银链和十字耳环，上臂有条码图案。一手捻���梢，一手垂在裙前，直视镜头。身旁锈管与剥落灰墙，厂房背景虚化，柔和冷光。",
+      "prompt": "中景，约21 year-old女子黑双马尾系骷髅蝴蝶结，穿黑白骨骼印花吊带蓬裙，戴银链和十字耳环，上臂有条码图案。一手捻发梢，一手垂在裙前，直视镜头。身旁锈管与剥落灰墙，厂房背景虚化，柔和冷光。",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -5382,7 +5391,7 @@
       "id": "pv-1792307696627",
       "title": "Chinese Girl Assassin",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792307696627.webp",
-      "prompt": "生成一张角色卡。图片提示词如下国风女刺客，冷冽气质，超写实��像，8K高清， 极致细节。年轻女子，面容精致，眼神凌厉冷冽，微侧头回眸看向镜头，表情肃杀疏离。黑发高束，发丝飞散，发饰为黑银色金属发簪与流苏，耳饰为长链条耳坠，多耳洞。身穿黑白渐变古风刺客服饰，白色轻纱与黑色皮革拼接， 肩部有金属环扣与绑带，颈部佩戴黑色项圈。 逆光+侧逆光，发丝与衣料边缘高光明显，背景暗色虚化，冷色调，氛围感强，武侠东方美学，超写实，电影级质感，浅景深，细节丰富， 皮肤质感细腻，睫毛根根分明，眼妆精致，唇色暗红，风轻微吹动发丝。\n镜头:85mm定焦镜头，光圈f/1.8 构图:近景人像，三分法构图，人物占画面70% 色彩风格:冷色调(蓝灰为主)，低饱和，高对比画面风格:超写实摄影，电影质感，武侠氛围",
+      "prompt": "生成一张角色卡。图片提示词如下国风女刺客，冷冽气质，超写实肖像，8K高清， 极致细节。年轻女子，面容精致，眼神凌厉冷冽，微侧头回眸看向镜头，表情肃杀疏离。黑发高束，发丝飞散，发饰为黑银色金属发簪与流苏，耳饰为长链条耳坠，多耳洞。身穿黑白渐变古风刺客服饰，白色轻纱与黑色皮革拼接， 肩部有金属环扣与绑带，颈部佩戴黑色项圈。 逆光+侧逆光，发丝与衣料边缘高光明显，背景暗色虚化，冷色调，氛围感强，武侠东方美学，超写实，电影级质感，浅景深，细节丰富， 皮肤质感细腻，睫毛根根分明，眼妆精致，唇色暗红，风轻微吹动发丝。\n镜头:85mm定焦镜头，光圈f/1.8 构图:近景人像，三分法构图，人物占画面70% 色彩风格:冷色调(蓝灰为主)，低饱和，高对比画面风格:超写实摄影，电影质感，武侠氛围",
       "negative_prompt": "卡通，动漫，3D,CG,插画，低清，模糊，噪点， 过度磨皮，塑料感，失真，畸形手指，多余手指， 脸部扭曲，五官变形，眼睛变形，色彩过艳和饱和， 过曝，穿模，水印，文字，logo,边框，二维码， 拼接图，重复人物，背景杂乱，光线混乱，色彩脏， HDR过度，锐化过度，AI痕迹，假发感，皮肤像蜡",
       "model": "z-image-turbo",
       "category": "Anime",
