@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-01T13:37:40.724Z",
+  "updated_at": "2026-11-01T13:38:09.756Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,27 +39,10 @@
   ],
   "items": [
     {
-      "id": "pv-1793540046220-203",
-      "title": "Girl 00046",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540046220-203.webp",
-      "prompt": "Epic Chinese-style warrior anime portrait, a fierce young heroine with dark brown high ponytail and loose strands, red and gold crown headpiece with a green jade gem, half of her face hidden behind a golden spear with long red tassel, intense copper-red eyes, black choker, red and gold armor, floating embers and sparks, falling petals, dark crimson background, dramatic warm cinematic light, extreme detail, vertical wallpaper. No text, no letters, no watermark, no logo, no calligraphy.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl",
-        "cute woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-01T13:37:40.689Z"
-    },
-    {
-      "id": "pv-1793540076921-6066",
-      "title": "Girl 00047",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540076921-6066.webp",
-      "prompt": "Stylish futuristic military-fashion anime portrait of a woman with long silver-white hair and side braid, glowing violet-blue eyes, tilting a black glossy peaked cap with silver star emblem and crystal studs, white gloves, pearl necklace, small gem on forehead, blurred silver chain in foreground, crescent moon glow behind, cool white-lavender tones, sparkling highlights, sharp cinematic focus, vertical 9:16. No text, no letters, no watermark, no logo.",
+      "id": "pv-1793540256073-9179",
+      "title": "Girl 00052",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540256073-9179.webp",
+      "prompt": "Elegant Hanfu-inspired anime portrait of a woman with long black hair, jade hairpins and tassels, cream and pale green silk robes, half face covered by a round silk palace fan with painted bamboo, calm amber eyes, misty bamboo forest behind, soft morning light rays, floating leaves, delicate and serene mood, highly detailed, vertical wallpaper. No text, no letters, no watermark, no logo, no calligraphy.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -70,58 +53,8 @@
         "cute woman"
       ],
       "is_premium": true,
-      "created_at": "2026-11-01T13:37:40.689Z"
-    },
-    {
-      "id": "pv-1793540118335-619",
-      "title": "Girl 00048",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540118335-619.webp",
-      "prompt": "Ethereal ice queen anime portrait, a woman with long pale blue hair, frosted eyelashes, glowing icy cyan eyes, half face hidden behind a translucent ice crystal fan, silver tiara with snowflake gems, falling snow particles, cold blue and white palette, soft backlight, sparkling frost bokeh, high detail skin and hair, cinematic vertical wallpaper. No text, no letters, no watermark, no logo.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl",
-        "cute woman"
-      ],
-      "is_premium": true,
-      "created_at": "2026-11-01T13:37:40.689Z"
-    },
-    {
-      "id": "pv-1793540149850-1371",
-      "title": "Girl 00049",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540149850-1371.webp",
-      "prompt": "Dark fantasy anime portrait of a sorceress with long black hair with violet streaks, glowing magenta eyes, half face veiled by sheer black fabric with gold embroidery, floating arcane runes made of light (no readable characters), purple magical flames around her hands, dramatic low-key lighting, deep purple and black palette, glittering dust, ultra detailed, vertical wallpaper. No text, no letters, no watermark, no logo.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl",
-        "cute woman"
-      ],
-      "is_premium": true,
-      "created_at": "2026-11-01T13:37:40.722Z"
-    },
-    {
-      "id": "pv-1793540183984-6142",
-      "title": "Girl 00050",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540183984-6142.webp",
-      "prompt": "Romantic anime portrait of a girl with long rose-gold hair, soft green eyes, a delicate flower crown of pink peonies, half of her face behind a large blooming peony, petals floating in warm sunset light, golden hour glow, shallow depth of field, creamy pastel tones, shimmering particles, elegant and dreamy, vertical 9:16 wallpaper. No text, no letters, no watermark, no logo.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl",
-        "cute woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-01T13:37:40.723Z"
+      "created_at": "2026-11-01T13:37:40.536Z",
+      "is_draft": false
     },
     {
       "id": "pv-1793540223690-6292",
@@ -138,13 +71,32 @@
         "cute woman"
       ],
       "is_premium": false,
-      "created_at": "2026-11-01T13:37:40.723Z"
+      "created_at": "2026-11-01T13:37:40.533Z",
+      "is_draft": false
     },
     {
-      "id": "pv-1793540256073-9179",
-      "title": "Girl 00052",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540256073-9179.webp",
-      "prompt": "Elegant Hanfu-inspired anime portrait of a woman with long black hair, jade hairpins and tassels, cream and pale green silk robes, half face covered by a round silk palace fan with painted bamboo, calm amber eyes, misty bamboo forest behind, soft morning light rays, floating leaves, delicate and serene mood, highly detailed, vertical wallpaper. No text, no letters, no watermark, no logo, no calligraphy.",
+      "id": "pv-1793540183984-6142",
+      "title": "Girl 00050",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540183984-6142.webp",
+      "prompt": "Romantic anime portrait of a girl with long rose-gold hair, soft green eyes, a delicate flower crown of pink peonies, half of her face behind a large blooming peony, petals floating in warm sunset light, golden hour glow, shallow depth of field, creamy pastel tones, shimmering particles, elegant and dreamy, vertical 9:16 wallpaper. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T13:37:40.530Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793540149850-1371",
+      "title": "Girl 00049",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540149850-1371.webp",
+      "prompt": "Dark fantasy anime portrait of a sorceress with long black hair with violet streaks, glowing magenta eyes, half face veiled by sheer black fabric with gold embroidery, floating arcane runes made of light (no readable characters), purple magical flames around her hands, dramatic low-key lighting, deep purple and black palette, glittering dust, ultra detailed, vertical wallpaper. No text, no letters, no watermark, no logo.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -155,7 +107,62 @@
         "cute woman"
       ],
       "is_premium": true,
-      "created_at": "2026-11-01T13:37:40.724Z"
+      "created_at": "2026-11-01T13:37:40.526Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793540118335-619",
+      "title": "Girl 00048",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540118335-619.webp",
+      "prompt": "Ethereal ice queen anime portrait, a woman with long pale blue hair, frosted eyelashes, glowing icy cyan eyes, half face hidden behind a translucent ice crystal fan, silver tiara with snowflake gems, falling snow particles, cold blue and white palette, soft backlight, sparkling frost bokeh, high detail skin and hair, cinematic vertical wallpaper. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-01T13:37:40.519Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793540076921-6066",
+      "title": "Girl 00047",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540076921-6066.webp",
+      "prompt": "Stylish futuristic military-fashion anime portrait of a woman with long silver-white hair and side braid, glowing violet-blue eyes, tilting a black glossy peaked cap with silver star emblem and crystal studs, white gloves, pearl necklace, small gem on forehead, blurred silver chain in foreground, crescent moon glow behind, cool white-lavender tones, sparkling highlights, sharp cinematic focus, vertical 9:16. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-01T13:37:40.516Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793540046220-203",
+      "title": "Girl 00046",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540046220-203.webp",
+      "prompt": "Epic Chinese-style warrior anime portrait, a fierce young heroine with dark brown high ponytail and loose strands, red and gold crown headpiece with a green jade gem, half of her face hidden behind a golden spear with long red tassel, intense copper-red eyes, black choker, red and gold armor, floating embers and sparks, falling petals, dark crimson background, dramatic warm cinematic light, extreme detail, vertical wallpaper. No text, no letters, no watermark, no logo, no calligraphy.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T13:37:40.513Z",
+      "is_draft": false
     },
     {
       "id": "pv-1793539961793-4456",
@@ -1176,7 +1183,7 @@
       "id": "pv-1792409302570-743",
       "title": "Girl 00047",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792409302570-743.webp",
-      "prompt": "东方年轻少女正面肖像，超近景贴脸特写，镜头距离非常近，画面几乎被脸部填满，人物正面面对镜头，头部端正，视线直视镜头，双眼位于视觉中心，构图高度集中于人脸本身，整体呈现强烈的面部主导感与扑面而来的呼吸感。\n人物气质清纯、温婉、干净、灵动，像校园初恋、温和学妹、气质出众的青春白月光，安静中带着若有所思的少女书卷气，不做冷艳距离感，不做成熟御姐感，不做浓艳攻击性，不做夸张网红感。\n脸型为饱满平顺的窄鹅蛋脸偏微圆鹅蛋脸，脸长中等，脸宽适中偏窄，面部轮廓线条极其流畅平滑，毫无骨骼棱角感，皮相软组织包裹度极高。额头开阔圆润饱满，发际线平顺自然。太阳穴饱满平顺无凹陷，颧弓完全不外扩，苹果肌轻微饱满且自然平整，面中过渡柔和平整，鼻基底饱满平实，法令区干净无沟壑。下颌线柔和清晰且紧致，下颌角极度弱化圆收，下巴小巧圆润微收，骨相轻盈柔润，幼态清秀，极具上镜感。\n五官小巧精致且比例舒展。眉毛为自然深灰棕色柔和微弧平眉，眉头毛流感细腻真实，眉形平缓柔顺，眉峰极低不锐利，眉尾自然渐细微落，眉眼距离适中开阔，毫无压迫感。眼睛为纯净灵动的圆杏眼，正面视角下双眼对称，眼裂中等偏长，纵向��合圆润，内眼角微圆带轻柔内眦，外眼角平顺微扬，双眼皮为秀气的窄开扇形，下眼睑弧度柔和下至，卧蚕饱满圆润、清透自然不过度膨胀，黑眼球占比较大，瞳孔为透亮深棕色。眼神直视镜头，瞳孔稳定聚焦，目光清澈、温和、认真、纯净，带有一丝若有所思的静默感与初恋故事感，不做媚俗挑逗，不做空洞呆滞。睫毛根根分明自然纤长，上睫毛轻盈卷翘成簇，下睫毛细致清晰，下眼睑边缘留有清澈干净的质感。鼻子为秀气挺拔的小直鼻微带小翘鼻感，山根起点自然顺接印堂，鼻梁细直干净，鼻骨窄秀，鼻头小巧微圆且微微翘起，鼻尖精致，鼻翼较窄且自然内收，鼻孔完全不外露，面部中轴稳定端庄，偏东方纯净少女脸，不做夸张欧美高耸鼻。嘴唇为小巧立体花瓣唇偏娇憨M唇，唇峰立体清晰，上唇微薄微翘且带轻微唇珠，下唇饱满圆润，上下唇比例协调自然，唇形温和含蓄，嘴角自然平直微扬，不做刻意嘟唇，不做僵硬大笑。\n皮肤为白皙透亮的自然暖白皮，肤质如剥壳鸡蛋般细腻平滑，底妆为高完成度清透柔雾奶油肌，保留极微弱的健康毛孔与肌��纹理，肤感通透干净，带轻微自然柔焦感，不做厚重假面粉感，不做油腻高光水光肌。面中、鼻梁小巧高光点、鼻尖与卧蚕处有极为克制细腻的自然提亮，高光柔润不刺眼。面部修容极轻极淡，仅在鼻侧与下颌缘做干净柔和的阴影过渡，立体感完全源自自然的骨相过渡与柔和明暗关系\n妆容为极具呼吸感的清纯校园伪素颜裸妆，明确带妆但妆面清透如天生好皮。眼妆以低饱和裸杏色、浅大地粉棕为主色调，上眼影清淡自然消肿，内眼线纤细填满睫毛根部，外眼线极细且沿眼尾自然顺延不夸张拉长，卧蚕以细腻哑光米粉色轻微提亮。眉妆清淡克制，保留原生态绒毛感。腮红为极其淡雅的柔和蜜桃粉色，位置自然晕染于面中眼下，透出由内而外的少女血色感。唇妆为低饱和蜜桃乌龙色偏浅杏豆沙调，质地为柔润半哑光质感，唇心微深，唇线边缘自然晕染柔化，整体妆容清纯素雅、高级耐看。\n发型为深黑茶色自然微卷长发，发丝柔顺蓬松，发量丰盈健康，头顶颅顶蓬松圆润，前额两侧头发编成精致小巧的侧边麻花发辫向后挽起收拢，固定于耳后侧上方，露出光洁开阔的额头与整张精致面庞，发际线边缘与两鬓留有自然微卷的毛茸茸胎毛碎发自然修饰脸庞，两侧长发顺滑垂落于肩侧，完全不遮挡正面五官与眉眼轮廓。耳垂上佩戴一对极小巧精致的朱砂红圆珠耳钉，色彩温润明亮，质地小巧克制，作为素净面容上的点睛亮点，不抢面部主体，不破坏整体清秀氛围。\n服饰为简约纯净的纯白色短袖衬衫，校园制服质感，棉质面料平整挺括，领口为利落小翻领设计，第一颗纽扣自然扣齐或微解，颈部线条修长干净，风格统一于青春校园、清纯学妹的日常清爽视觉\n光线为柔和纯净的室内自然散射光，主光从正面略微偏上方均匀漫射于额头、鼻梁与双眼，眼眸中映出清澈柔和的高光点，面部阴影极其浅淡柔和，没有任何硬光阴影切割面部。整体色调温润清新，背景大幅虚化压暗为柔和低饱和中性色调，使白皙肤色与红润唇色、红色",
+      "prompt": "东方年轻少女正面肖像，超近景贴脸特写，镜头距离非常近，画面几乎被脸部填满，人物正面面对镜头，头部端正，视线直视镜头，双眼位于视觉中心，构图高度集中于人脸本身，整体呈现强烈的面部主导感与扑面而来的呼吸感。\n人物气质清纯、温婉、干净、灵动，像校园初恋、温和学妹、气质出众的青春白月光，安静中带着若有所思的少女书卷气，不做冷艳距离感，不做成熟御姐感，不做浓艳攻击性，不做夸张网红感。\n脸型为饱满平顺的窄鹅蛋脸偏微圆鹅蛋脸，脸长中等，脸宽适中偏窄，面部轮廓线条极其流畅平滑，毫无骨骼棱角感，皮相软组织包裹度极高。额头开阔圆润饱满，发际线平顺自然。太阳穴饱满平顺无凹陷，颧弓完全不外扩，苹果肌轻微饱满且自然平整，面中过渡柔和平整，鼻基底饱满平实，法令区干净无沟壑。下颌线柔和清晰且紧致，下颌角极度弱化圆收，下巴小巧圆润微收，骨相轻盈柔润，幼态清秀，极具上镜感。\n五官小巧精致且比例舒展。眉毛为自然深灰棕色柔和微弧平眉，眉头毛流感细腻真实，眉形平缓柔顺，眉峰极低不锐利，眉尾自然渐细微落，眉眼距离适中开阔，毫无压迫感。眼睛为纯净灵动的圆杏眼，正面视角下双眼对称，眼裂中等偏长，纵向��合圆润，内眼角微圆带轻柔内眦，外眼角平顺微扬，双眼皮为秀气的窄开扇形，下眼睑弧度柔和下至，卧蚕饱满圆润、清透自然不过度膨胀，黑眼球占比较大，瞳孔为透亮深棕色。眼神直视镜头，瞳孔稳定聚焦，目光清澈、温和、认真、纯净，带有一丝若有所思的静默感与初恋故事感，不做媚俗挑逗，不做空洞呆滞。睫毛根根分明自然纤长，上睫毛轻盈卷翘成簇，下睫毛细致清晰，下眼睑边缘留有清澈干净的质感。鼻子为秀气挺拔的小直鼻微带小翘鼻感，山根起点自然顺接印堂，鼻梁细直干净，鼻骨窄秀，鼻头小巧微圆且微微翘起，鼻尖精致，鼻翼较窄且自然内收，鼻孔完全不外露，面部中轴稳定端庄，偏东方纯净少女脸，不做夸张欧美高耸鼻。嘴唇为小巧立体花瓣唇偏娇憨M唇，唇峰立体清晰，上唇微薄微翘且带轻微唇珠，下唇饱满圆润，上下唇比例协调自然，唇形温和含蓄，嘴角自然平直微扬，不做刻意嘟唇，不做僵硬大笑。\n皮肤为白皙透亮的自然暖白皮，肤质如剥壳鸡蛋般细腻平滑，底妆为高完成度清透柔雾奶油肌，保留极微弱的健康毛孔与肌肤纹理，肤感通透干净，带轻微自然柔焦感，不做厚重假面粉感，不做油腻高光水光肌。面中、鼻梁小巧高光点、鼻尖与卧蚕处有极为克制细腻的自然提亮，高光柔润不刺眼。面部修容极轻极淡，仅在鼻侧与下颌缘做干净柔和的阴影过渡，立体感完全源自自然的骨相过渡与柔和明暗关系\n妆容为极具呼吸感的清纯校园伪素颜裸妆，明确带妆但妆面清透如天生好皮。眼妆以低饱和裸杏色、浅大地粉棕为主色调，上眼影清淡自然消肿，内眼线纤细填满睫毛根部，外眼线极细且沿眼尾自然顺延不夸张拉长，卧蚕以细腻哑光米粉色轻微提亮。眉妆清淡克制，保留原生态绒毛感。腮红为极其淡雅的柔和蜜桃粉色，位置自然晕染于面中眼下，透出由内而外的少女血色感。唇妆为低饱和蜜桃乌龙色偏浅杏豆沙调，质地为柔润半哑光质感，唇心微深，唇线边缘自然晕染柔化，整体妆容清纯素雅、高级耐看。\n发型为深黑茶色自然微卷长发，发丝柔顺蓬松，发量丰盈健康，头顶颅顶蓬松圆润，前额两侧头发编成精致小巧的侧边麻花发辫向后挽起收拢，固定于耳后侧上方，露出光洁开阔的额头与整张精致面庞，发际线边缘与两鬓留有自然微卷的毛茸茸胎毛碎发自然修饰脸庞，两侧长发顺滑垂落于肩侧，完全不遮挡正面五官与眉眼轮廓。耳垂上佩戴一对极小巧精致的朱砂红圆珠耳钉，色彩温润明亮，质地小巧克制，作为素净面容上的点睛亮点，不抢面部主体，不破坏整体清秀氛围。\n服饰为简约纯净的纯白色短袖衬衫，校园制服质感，棉质面料平整挺括，领口为利落小翻领设计，第一颗纽扣自然扣齐或微解，颈部线条修长干净，风格统一于青春校园、清纯学妹的日常清爽视觉\n光线为柔和纯净的室内自然散射光，主光从正面略微偏上方均匀漫射于额头、鼻梁与双眼，眼眸中映出清澈柔和的高光点，面部阴影极其浅淡柔和，没有任何硬光阴影切割面部。整体色调温润清新，背景大幅虚化压暗为柔和低饱和中性色调，使白皙肤色与红润唇色、红色",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
