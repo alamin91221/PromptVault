@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-01T14:56:36.180Z",
+  "updated_at": "2026-11-01T15:17:17.115Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,57 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1793546063885-7825",
+      "title": "Girl 00149",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793546063885-7825.webp",
+      "prompt": "Wide shot of a girl in a pale blue hanfu sitting on a wooden bridge over a lotus pond at twilight, hundreds of floating paper lanterns rising into a violet sky, reflections shimmering on the water, soft glowing fireflies, serene and nostalgic mood, semi-realistic donghua style, rich atmospheric depth, ultra detailed, 9:16. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-01T15:17:17.115Z"
+    },
+    {
+      "id": "pv-1793546177186-6683",
+      "title": "Girl 00150",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793546177186-6683.webp",
+      "prompt": "Medium shot of an elegant woman in a deep emerald satin gown standing at a grand marble staircase inside a golden-lit ballroom, glittering crystal chandeliers blurred behind, long wavy dark hair with pearl pins, confident gaze over her shoulder, warm bokeh lights, luxurious romantic atmosphere, semi-realistic illustration, ultra detailed, 9:16. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T15:17:17.115Z"
+    },
+    {
+      "id": "pv-1793546233393-1285",
+      "title": "Girl 00151",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793546233393-1285.webp",
+      "prompt": "Over-the-shoulder view of a girl in a white dress and straw hat walking through an endless field of lavender toward a distant glowing sunset, wind-blown hair, floating petals, long soft shadows, purple and golden orange palette, peaceful dreamy mood, Studio-style painterly background with realistic lighting, high detail, 9:16. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T15:17:17.115Z"
+    },
     {
       "id": "pv-1793544959637-5558",
       "title": "Girl 00148",
