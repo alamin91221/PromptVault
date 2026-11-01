@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-01T14:09:51.006Z",
+  "updated_at": "2026-11-01T14:10:13.324Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,27 +39,10 @@
   ],
   "items": [
     {
-      "id": "pv-1793542065327-8636",
-      "title": "Girl 00088",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793542065327-8636.webp",
-      "prompt": "Cozy winter anime portrait of a girl with long light-brown hair, hazel eyes, white fluffy earmuffs and knit scarf, half face behind a mug of steaming cocoa, falling snow, warm string lights glowing in the blurred background, soft orange and blue contrast, gentle cinematic light, heartwarming mood, high detail, vertical wallpaper. No text, no letters, no watermark, no logo.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Anime",
-      "tags": [
-        "girl",
-        "woman",
-        "cute girl",
-        "cute woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-01T14:09:50.669Z"
-    },
-    {
-      "id": "pv-1793542102461-7391",
-      "title": "Girl 00089",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793542102461-7391.webp",
-      "prompt": "Regal anime portrait of a woman with long wavy deep-blue hair, golden eyes, sapphire crown with pearls, half face behind a lace and silk hand fan, navy and gold royal gown, floating golden dust, grand palace blurred behind, rich blue and gold palette, elegant dramatic light, ultra detailed, vertical 9:16. No text, no letters, no watermark, no logo.",
+      "id": "pv-1793542185362-6181",
+      "title": "Girl 00091",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793542185362-6181.webp",
+      "prompt": "Mythic anime portrait of a woman with long crimson hair, glowing golden dragon-like eyes, small curved horns with gold rings, half face behind a coiled red-and-gold dragon tail, ember sparks, dark smoky background, rich red and black palette, fierce elegant mood, cinematic lighting, extreme detail, vertical wallpaper. No text, no letters, no watermark, no logo.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -69,8 +52,9 @@
         "cute girl",
         "cute woman"
       ],
-      "is_premium": false,
-      "created_at": "2026-11-01T14:09:51.005Z"
+      "is_premium": true,
+      "created_at": "2026-11-01T14:09:50.640Z",
+      "is_draft": false
     },
     {
       "id": "pv-1793542130976-8369",
@@ -87,13 +71,14 @@
         "cute woman"
       ],
       "is_premium": false,
-      "created_at": "2026-11-01T14:09:51.005Z"
+      "created_at": "2026-11-01T14:09:50.637Z",
+      "is_draft": false
     },
     {
-      "id": "pv-1793542185362-6181",
-      "title": "Girl 00091",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793542185362-6181.webp",
-      "prompt": "Mythic anime portrait of a woman with long crimson hair, glowing golden dragon-like eyes, small curved horns with gold rings, half face behind a coiled red-and-gold dragon tail, ember sparks, dark smoky background, rich red and black palette, fierce elegant mood, cinematic lighting, extreme detail, vertical wallpaper. No text, no letters, no watermark, no logo.",
+      "id": "pv-1793542102461-7391",
+      "title": "Girl 00089",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793542102461-7391.webp",
+      "prompt": "Regal anime portrait of a woman with long wavy deep-blue hair, golden eyes, sapphire crown with pearls, half face behind a lace and silk hand fan, navy and gold royal gown, floating golden dust, grand palace blurred behind, rich blue and gold palette, elegant dramatic light, ultra detailed, vertical 9:16. No text, no letters, no watermark, no logo.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -103,8 +88,27 @@
         "cute girl",
         "cute woman"
       ],
-      "is_premium": true,
-      "created_at": "2026-11-01T14:09:51.006Z"
+      "is_premium": false,
+      "created_at": "2026-11-01T14:09:50.634Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793542065327-8636",
+      "title": "Girl 00088",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793542065327-8636.webp",
+      "prompt": "Cozy winter anime portrait of a girl with long light-brown hair, hazel eyes, white fluffy earmuffs and knit scarf, half face behind a mug of steaming cocoa, falling snow, warm string lights glowing in the blurred background, soft orange and blue contrast, gentle cinematic light, heartwarming mood, high detail, vertical wallpaper. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T14:09:50.631Z",
+      "is_draft": false
     },
     {
       "id": "pv-1793541665763-2489",
@@ -1210,7 +1214,7 @@
       "id": "pv-1793453163491-5074",
       "title": "Girl 00017",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793453163491-5074.webp",
-      "prompt": "Based on the input character image,  \ncreate a single visual \"charm anatomy chart\" of that character.\n\nThis is not a standard character setting sheet, three-view drawing, or profile sheet.  \nThe goal is not to explain the character's information, but to visualize and break down  \n\"What makes this character cute\", \"Why are you drawn to them\", \"What parts make you like them\"  \nfrom both a design and emotional perspective.\n\nCarefully extract the following charm elements of the character from the input image:\n\n- Eye shape, eye color, impression of the gaze  \n- Hair flow, bangs, hair ends, cuteness of silhouette  \n- Expression quirks, way of smiling, shyness, emotion in a blank expression  \n- Hand gestures, fingertips, relationship with cuffs  \n- Favorite parts of the costume, ribbons, frills, decorations, accessories  \n- Highlights of the neck, shoulders, sleeves, skirt, shoes, etc.  \n- The angle where the character looks cutest  \n- Overall personality and atmosphere felt, points that make you want to protect them, reasons you are drawn to them  \n\nPlace the character large in the center.  \nDo not just make them stand; draw them in the angle, pose, and expression that best conveys their charm.  \nForbidden: a composition like a too-frontal ID photo.  \nUse natural and attractive poses that capture a \"moment of falling in love\" —  \nslightly turning around, placing a hand near the mouth, pinching the sleeve, lightly holding the hair, shifting the gaze slightly.\n\nAround the character, place small close-up panels that break down the character's charm points.  \nHowever, do not arrange them mechanically like setting materials;  \ninstead, make the layout beautiful, cute, and slightly obsessive, like a magazine feature page, design anatomy chart, or a fan-made love-filled analysis board.\n\nExample panels to place:\n- Close-up of the eyes: the gaze that embodies the character's essence  \n- Hair flow: the locks that define the silhouette  \n- Hands: personality shown through gestures  \n- Expression variations: smile, shy, slightly grumpy, defenseless face  \n- Favorite costume details: ribbons, sleeves, collar, decorations, texture  \n- Best angle: face direction, gaze, head tilt  \n- Accessories or motifs: elements symbolizing the character's world  \n\nEach panel should be drawn as an enlarged cut to emphasize the character's charm.  \nDo not cut out parts lifelessly — present them with a warmth that makes you think \"I love this part.\"\n\nYou may include short annotation-style labels within the frame,  \nbut keep them as short headings or symbolic design, not long explanations.  \nExamples:  \n“eyes”  \n“hair flow”  \n“gesture��  \n“best angle”  \n“favorite detail”  \n“charm point”  \n“soft expression”  \n“tiny habit”\n\nDo not let text dominate; treat it purely as a design element.  \nCreate a visual that conveys \"This character is cute\" at first glance, not something to be read and understood.\n\nThe overall design should blend the feel of a cute research notebook, a character love anatomy chart, a fashion magazine analysis page, and a feature page from an official art book.  \nThe background should be simple and clean, with a pale gradient matching the character's colors, paper-like margins, thin ruled lines, semi-transparent panels, hand-drawn circles, arrows, hearts, and small decorations.\n\nImportant:  \nDo not simply describe the character.  \nInformation such as height, age, abilities, affiliation, weapon descriptions — none of that is needed.  \nWhat should be depicted is not specs,  \nbut \"reasons to love them.\"\n\nThe character's own charm comes first.  \nMake sure the main subject is not buried by too many panels or annotations.  \nThe central character must always be drawn as the cutest and with the highest level of completion.\n\nOverall impression:  \ncute character charm analysis sheet,  \nvisual breakdown of cuteness,  \nnot a character profile,  \nnot a model sheet,  \naesthetic design board,  \nfan-favorite details,  \nemotional attraction map,  \nsoft editorial layout,  \nofficial artbook style,  \nclean anime illustration,  \nbeautiful eyes,  \nexpressive hands,  \nflowing hair,  \nadorable pose,  \nbest angle,  \nlovable expression,  \nfashion detail close-ups,  \ndelicate annotations,  \nsoft pastel panels,  \nrefined graphic design,  \nhigh-quality anime illustration,  \ncommercial-level finish.",
+      "prompt": "Based on the input character image,  \ncreate a single visual \"charm anatomy chart\" of that character.\n\nThis is not a standard character setting sheet, three-view drawing, or profile sheet.  \nThe goal is not to explain the character's information, but to visualize and break down  \n\"What makes this character cute\", \"Why are you drawn to them\", \"What parts make you like them\"  \nfrom both a design and emotional perspective.\n\nCarefully extract the following charm elements of the character from the input image:\n\n- Eye shape, eye color, impression of the gaze  \n- Hair flow, bangs, hair ends, cuteness of silhouette  \n- Expression quirks, way of smiling, shyness, emotion in a blank expression  \n- Hand gestures, fingertips, relationship with cuffs  \n- Favorite parts of the costume, ribbons, frills, decorations, accessories  \n- Highlights of the neck, shoulders, sleeves, skirt, shoes, etc.  \n- The angle where the character looks cutest  \n- Overall personality and atmosphere felt, points that make you want to protect them, reasons you are drawn to them  \n\nPlace the character large in the center.  \nDo not just make them stand; draw them in the angle, pose, and expression that best conveys their charm.  \nForbidden: a composition like a too-frontal ID photo.  \nUse natural and attractive poses that capture a \"moment of falling in love\" —  \nslightly turning around, placing a hand near the mouth, pinching the sleeve, lightly holding the hair, shifting the gaze slightly.\n\nAround the character, place small close-up panels that break down the character's charm points.  \nHowever, do not arrange them mechanically like setting materials;  \ninstead, make the layout beautiful, cute, and slightly obsessive, like a magazine feature page, design anatomy chart, or a fan-made love-filled analysis board.\n\nExample panels to place:\n- Close-up of the eyes: the gaze that embodies the character's essence  \n- Hair flow: the locks that define the silhouette  \n- Hands: personality shown through gestures  \n- Expression variations: smile, shy, slightly grumpy, defenseless face  \n- Favorite costume details: ribbons, sleeves, collar, decorations, texture  \n- Best angle: face direction, gaze, head tilt  \n- Accessories or motifs: elements symbolizing the character's world  \n\nEach panel should be drawn as an enlarged cut to emphasize the character's charm.  \nDo not cut out parts lifelessly — present them with a warmth that makes you think \"I love this part.\"\n\nYou may include short annotation-style labels within the frame,  \nbut keep them as short headings or symbolic design, not long explanations.  \nExamples:  \n“eyes”  \n“hair flow”  \n“gesture”  \n“best angle”  \n“favorite detail”  \n“charm point”  \n“soft expression”  \n“tiny habit”\n\nDo not let text dominate; treat it purely as a design element.  \nCreate a visual that conveys \"This character is cute\" at first glance, not something to be read and understood.\n\nThe overall design should blend the feel of a cute research notebook, a character love anatomy chart, a fashion magazine analysis page, and a feature page from an official art book.  \nThe background should be simple and clean, with a pale gradient matching the character's colors, paper-like margins, thin ruled lines, semi-transparent panels, hand-drawn circles, arrows, hearts, and small decorations.\n\nImportant:  \nDo not simply describe the character.  \nInformation such as height, age, abilities, affiliation, weapon descriptions — none of that is needed.  \nWhat should be depicted is not specs,  \nbut \"reasons to love them.\"\n\nThe character's own charm comes first.  \nMake sure the main subject is not buried by too many panels or annotations.  \nThe central character must always be drawn as the cutest and with the highest level of completion.\n\nOverall impression:  \ncute character charm analysis sheet,  \nvisual breakdown of cuteness,  \nnot a character profile,  \nnot a model sheet,  \naesthetic design board,  \nfan-favorite details,  \nemotional attraction map,  \nsoft editorial layout,  \nofficial artbook style,  \nclean anime illustration,  \nbeautiful eyes,  \nexpressive hands,  \nflowing hair,  \nadorable pose,  \nbest angle,  \nlovable expression,  \nfashion detail close-ups,  \ndelicate annotations,  \nsoft pastel panels,  \nrefined graphic design,  \nhigh-quality anime illustration,  \ncommercial-level finish.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -1679,7 +1683,7 @@
       "id": "pv-1792410019056-2316",
       "title": "ad 5",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792410019056-2316.webp",
-      "prompt": "【角色设定】你是世界级 FMCG 商业摄影师 + 旺旺集团品牌创意总监 + 顶级广告修图师，专注国民食品品牌视觉营销，输出须达到国际一线品牌广告大片质感。【品牌基因配比】- 55% 魔性欢乐能量（quirky joyful energy）：一眼识别的旺仔式喜庆与搞怪- 25% 高端快消品写实感（premium FMCG realism）：专业产品摄影级真实质感- 20% 皮克斯式工厂童话（Pixar-like factory fantasy）：微缩牛奶欢乐工厂【核心创意】「开罐即欢乐工厂」：一罐旺仔牛奶的拉环被拉开，浓郁奶液涌出的瞬间化作一座微缩欢乐工厂——旺仔小人儿在牛奶河流旁生产糖果、红色传送带运送奶滴、彩虹从工厂烟囱中升起，仿佛罐中藏着一台永不停歇的快乐制造机。【产品还原度 · 最高优先级】1. 产品绝对精准： - 标志性红色罐身 + 旺仔大头娃娃形象，官方 logo 与字体完全准确 - 经典 red can 的高光金属质感与真实反光 - 拉环开启瞬间的奶液飞溅动态2. 微缩世界细节： - 微缩旺仔小人儿（比例与产品一致） - 牛奶河流、红色管道、糖果传送带⚠️ 禁止任何结构性���误或臆造细节，必须与真实产品完全一致。【场景环境】干净大红色渐变摄影棚背景，漂浮奶滴、白色气泡与金色光斑，营造喜庆热闹的品牌氛围。【灯光系统】明亮喜庆的高端商业布光（bright festive commercial lighting），红色环境光呼应罐身，奶液表面通透高光（glossy milk reflections），饱和色彩 + 干净阴影。【构图规范】- 画幅：4:5 竖版（小红书/朋友圈 hero 版位）- 焦段：85mm- 构图：产品居中英雄式构图（hero-centered），奶液飞溅形成动态视觉引导- 留白：高端负空间（luxury negative space），为文案预留呼吸感【文案排版】- 主标题（Headline）：一罐装不下的快乐- 行动号召（CTA）：拉开。干杯。旺起来。排版要求：简洁现代高级感字体，主标题醒目居上，CTA 弱化置底。【画质标准】ultra photorealistic / 8K / premium retouch（无噪点、无瑕疵、无 AI 痕迹）【执行检查清单】✓ 产品结构与真实旺仔牛奶完全一致✓ 情绪符合 55/25/20 基因配比✓ 4:5 竖版、85mm、居中构图✓ 含主标题与 CTA 文案✓ 红色影棚 + 奶滴/气泡/金光漂浮元素✓ 8K 超写实商业修图质感",
+      "prompt": "【角色设定】你是世界级 FMCG 商业摄影师 + 旺旺集团品牌创意总监 + 顶级广告修图师，专注国民食品品牌视觉营销，输出须达到国际一线品牌广告大片质感。【品牌基因配比】- 55% 魔性欢乐能量（quirky joyful energy）：一眼识别的旺仔式喜庆与搞怪- 25% 高端快消品写实感（premium FMCG realism）：专业产品摄影级真实质感- 20% 皮克斯式工厂童话（Pixar-like factory fantasy）：微缩牛奶欢乐工厂【核心创意】「开罐即欢乐工厂」：一罐旺仔牛奶的拉环被拉开，浓郁奶液涌出的瞬间化作一座微缩欢乐工厂——旺仔小人儿在牛奶河流旁生产糖果、红色传送带运送奶滴、彩虹从工厂烟囱中升起，仿佛罐中藏着一台永不停歇的快乐制造机。【产品还原度 · 最高优先级】1. 产品绝对精准： - 标志性红色罐身 + 旺仔大头娃娃形象，官方 logo 与字体完全准确 - 经典 red can 的高光金属质感与真实反光 - 拉环开启瞬间的奶液飞溅动态2. 微缩世界细节： - 微缩旺仔小人儿（比例与产品一致） - 牛奶河流、红色管道、糖果传送带⚠️ 禁止任何结构性错误或臆造细节，必须与真实产品完全一致。【场景环境】干净大红色渐变摄影棚背景，漂浮奶滴、白色气泡与金色光斑，营造喜庆热闹的品牌氛围。【灯光系统】明亮喜庆的高端商业布光（bright festive commercial lighting），红色环境光呼应罐身，奶液表面通透高光（glossy milk reflections），饱和色彩 + 干净阴影。【构图规范】- 画幅：4:5 竖版（小红书/朋友圈 hero 版位）- 焦段：85mm- 构图：产品居中英雄式构图（hero-centered），奶液飞溅形成动态视觉引导- 留白：高端负空间（luxury negative space），为文案预留呼吸感【文案排版】- 主标题（Headline）：一罐装不下的快乐- 行动号召（CTA）：拉开。干杯。旺起来。排版要求：简洁现代高级感字体，主标题醒目居上，CTA 弱化置底。【画质标准】ultra photorealistic / 8K / premium retouch（无噪点、无瑕疵、无 AI 痕迹）【执行检查清单】✓ 产品结构与真实旺仔牛奶完全一致✓ 情绪符合 55/25/20 基因配比✓ 4:5 竖版、85mm、居中构图✓ 含主标题与 CTA 文案✓ 红色影棚 + 奶滴/气泡/金光漂浮元素✓ 8K 超写实商业修图质感",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Advertising",
