@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-01T13:38:09.756Z",
+  "updated_at": "2026-11-01T13:41:40.390Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,125 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1793540313104-7052",
+      "title": "Girl 00053",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540313104-7052.webp",
+      "prompt": "Vampire-style gothic anime portrait of a pale woman with long wine-red hair, crimson glowing eyes, black lace veil over half of her face, small fangs slightly visible, dark velvet dress with silver filigree, floating red rose petals and drops of light, candlelit bokeh, moody burgundy and black palette, dramatic chiaroscuro lighting, vertical 9:16. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-01T13:41:40.143Z"
+    },
+    {
+      "id": "pv-1793540348827-8335",
+      "title": "Girl 00054",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540348827-8335.webp",
+      "prompt": "Celestial anime portrait of a girl with long midnight-blue hair filled with tiny stars, galaxy-colored eyes, silver crescent moon hair ornament, half of her face hidden behind translucent star-dust fabric, floating glowing stars and small planets, deep blue and gold palette, soft glow, magical atmosphere, ultra detailed, vertical wallpaper. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T13:41:40.388Z"
+    },
+    {
+      "id": "pv-1793540378169-4451",
+      "title": "Girl 00055",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540378169-4451.webp",
+      "prompt": "Cute idol-style anime portrait of a girl with twin-tail pastel mint and white hair, sparkling aqua eyes, big ribbon hair bows, glitter makeup, holding a transparent heart-shaped crystal in front of her face, soft pastel bokeh, floating bubbles, candy-colored gradient background, bright dreamy light, glossy details, vertical 9:16. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T13:41:40.388Z"
+    },
+    {
+      "id": "pv-1793540408207-9178",
+      "title": "Girl 00056",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540408207-9178.webp",
+      "prompt": "Heroic female swordmaster anime portrait, short wind-swept black hair with a red streak, sharp golden eyes, half face behind the glinting blade of a katana, red scarf flowing in the wind, black and crimson armor with gold trim, falling cherry blossoms, dramatic sunset sky, strong rim light, dynamic composition, extreme detail, vertical wallpaper. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-01T13:41:40.389Z"
+    },
+    {
+      "id": "pv-1793540436881-7843",
+      "title": "Girl 00057",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540436881-7843.webp",
+      "prompt": "Luxury golden-themed anime portrait of a woman with wavy champagne-gold hair, honey-colored eyes, ornate gold filigree headpiece with pearls, sheer golden veil covering half of her face, shimmering gold dust and floating pearls, warm glowing background, soft highlights on skin, rich opulent mood, cinematic depth of field, vertical 9:16. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-01T13:41:40.389Z"
+    },
+    {
+      "id": "pv-1793540465348-4399",
+      "title": "Girl 00058",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540465348-4399.webp",
+      "prompt": "Mysterious masquerade anime portrait of a woman with silver-lavender curly hair, violet eyes, half of her face covered by a feathered venetian mask with crystals, black satin gloves holding the mask edge, floating feathers and sparkles, deep purple velvet background, glamorous dramatic light, ultra detailed, vertical wallpaper. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-01T13:41:40.390Z"
+    },
+    {
+      "id": "pv-1793540496061-5242",
+      "title": "Girl 00059",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793540496061-5242.webp",
+      "prompt": "Forest spirit anime portrait of a girl with long light-green hair, glowing emerald eyes, small antlers decorated with flowers and vines, half face peeking through large glowing leaves, fireflies and floating light orbs, mossy magical forest, soft green-gold sunbeams, dreamy bokeh, delicate detail, vertical 9:16 wallpaper. No text, no letters, no watermark, no logo.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cute girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-01T13:41:40.390Z"
+    },
     {
       "id": "pv-1793540256073-9179",
       "title": "Girl 00052",
