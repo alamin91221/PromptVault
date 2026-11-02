@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-02T13:47:58.625Z",
+  "updated_at": "2026-11-02T13:48:28.786Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,55 +39,19 @@
   ],
   "items": [
     {
-      "id": "pv-1793627110513-314",
-      "title": "Girl 00188",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793627110513-314.webp",
-      "prompt": "竖屏手机壁纸，二次元动漫插画，粉色长发年轻少女坐在室外楼梯上，超长粉发高马尾，发丝柔顺飘散，金棕色眼睛，温柔微笑， 侧身坐姿，一只手托腮，一只手自然垂下，穿浅粉色短袖T恤、白色短裤、白色过膝袜、白色高跟鞋，清新甜美风格，背景为深色 金属楼梯与栏杆，阳光从左侧洒入，强烈明暗对比，柔和高光，浅色皮肤，干净画面，细腻发丝，精致五官，日系赛璐璐与厚涂结 合，高细节，治愈氛围，夏日午后，主体居中偏左，人物占画面主体，顶部与底部保留手机壁纸留白，portrait mobile wallpaper, anime girl, pink hair, sitting on stairs, soft sunlight, cinematic lighting, highly detailed, clean composition, 9:16",
+      "id": "pv-1793627266395-6048",
+      "title": "Girl 00193",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793627266395-6048.webp",
+      "prompt": "Pixar-style movie poster reimagining of the video game [Video Game]. Feature the main characters as charming 3D CGI caricature characters with exaggerated, expressive features, big expressive eyes, and warm glossy Pixar-quality rendering. Compose it as an actual movie poster layout: main characters grouped in a dynamic hero pose, consistent with the game's iconic visual themes, color palette, and setting. Add a bold, playful animated-movie-style title logo at the top or bottom using a font and color treatment that matches the video game’s tone. Include a tagline in small text. Cinematic lighting, vibrant background that reflects the game's world. Professional studio-quality poster composition, high detail, glossy finish.",
       "negative_prompt": "",
       "model": "Moss Image",
-      "category": "Anime",
+      "category": "3D",
       "tags": [
-        "girl",
-        "woman",
-        "cut girl",
-        "cute woman"
-      ],
-      "is_premium": true,
-      "created_at": "2026-11-02T13:47:58.622Z"
-    },
-    {
-      "id": "pv-1793627149017-5466",
-      "title": "Girl 00189",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793627149017-5466.webp",
-      "prompt": "生成一张9:16 竖版高清图片，极具美学张力的数码艺术作品呈现了一位拥有梦幻般粉色长发的少女。她处于画面的中心位置，近景特写捕捉了少女精致的面部轮廓和优雅的侧影。她闭着双眼，神情宁静而超脱，微风吹拂着她如丝绸般轻盈蓬松的长发，发丝在柔和的逆光中呈现出半透明的质感，周围漂浮着细碎的粉色花瓣，增添了 ethereal（空灵）的氛围。人物为精致东方淡颜，柔和小鹅蛋脸，面部轮廓流畅细腻，清亮含水的杏眼，小巧秀气的鼻型，柔软饱满的唇形，神情安静温柔，妆容清新透亮，展现出青春活力。她身穿一件缀满复杂花卉装饰的连衣长裙，裙摆与周围的绚烂花朵融为一体，质感轻盈飘逸，仿佛由光影和花瓣编织而成。构图上采用了中心透视法，强调人物的动态交互感。光影效果呈现出一种柔和的漫反射光，色彩基调以梦幻粉、香槟金和柔和的乳白色为主，营造出一种高级、温柔、唯美的视觉盛宴。创造出一种温暖、治愈且富有生命力的艺术氛围。背景中流动着抽象的色彩线条，如同飘带般环绕着主体，使得画面具有极强的空间深度和梦幻质感。画质极高，每一朵花瓣的纹理和人物的发丝细节都清晰可见，整体呈现出一种现代数码绘画与唯美插画风格的完美融合，2k",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cut girl",
-        "cute woman"
+        "3d"
       ],
       "is_premium": false,
-      "created_at": "2026-11-02T13:47:58.623Z"
-    },
-    {
-      "id": "pv-1793627177537-6390",
-      "title": "Girl 00190",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793627177537-6390.webp",
-      "prompt": "真人摄影，竖版9:16国风幻想写真，手机闪光灯近景半身肖像；年轻女性居中偏右，冷白到象牙白肤调，窄脸尖下巴、浅色美瞳、细长眼型，上眼睑略压低，直视镜头，嘴唇微张带粉色水润光。身体微侧，肩颈纤细清晰，右手抬起食指轻触下巴，亮面指甲反光。黑色长发后梳，佩戴巨大金色珠链头冠，粉蓝花瓣与蝴蝶装饰、水钻珍珠串、流苏和额饰垂坠，脸侧有泪滴贴钻。粉色半透明薄纱与欧根纱花瓣服装包裹肩胸，金色刺绣和亮片叠压，薄纱褶皱柔软透亮。纯黑背景压暗，正面近距离闪光使脸部和手部高亮，金属饰件锐利反光，整体高美颜磨皮、轻微过曝、暗部噪点和手机压缩质感",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cut girl",
-        "cute woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-02T13:47:58.624Z"
+      "created_at": "2026-11-02T13:47:58.590Z",
+      "is_draft": false
     },
     {
       "id": "pv-1793627233600-7964",
@@ -104,21 +68,62 @@
         "cute woman"
       ],
       "is_premium": false,
-      "created_at": "2026-11-02T13:47:58.625Z"
+      "created_at": "2026-11-02T13:47:58.585Z",
+      "is_draft": false
     },
     {
-      "id": "pv-1793627266395-6048",
-      "title": "Girl 00193",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793627266395-6048.webp",
-      "prompt": "Pixar-style movie poster reimagining of the video game [Video Game]. Feature the main characters as charming 3D CGI caricature characters with exaggerated, expressive features, big expressive eyes, and warm glossy Pixar-quality rendering. Compose it as an actual movie poster layout: main characters grouped in a dynamic hero pose, consistent with the game's iconic visual themes, color palette, and setting. Add a bold, playful animated-movie-style title logo at the top or bottom using a font and color treatment that matches the video game’s tone. Include a tagline in small text. Cinematic lighting, vibrant background that reflects the game's world. Professional studio-quality poster composition, high detail, glossy finish.",
+      "id": "pv-1793627177537-6390",
+      "title": "Girl 00190",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793627177537-6390.webp",
+      "prompt": "真人摄影，竖版9:16国风幻想写真，手机闪光灯近景半身肖像；年轻女性居中偏右，冷白到象牙白肤调，窄脸尖下巴、浅色美瞳、细长眼型，上眼睑略压低，直视镜头，嘴唇微张带粉色水润光。身体微侧，肩颈纤细清晰，右手抬起食指轻触下巴，亮面指甲反光。黑色长发后梳，佩戴巨大金色珠链头冠，粉蓝花瓣与蝴蝶装饰、水钻珍珠串、流苏和额饰垂坠，脸侧有泪滴贴钻。粉色半透明薄纱与欧根纱花瓣服装包裹肩胸，金色刺绣和亮片叠压，薄纱褶皱柔软透亮。纯黑背景压暗，正面近距离闪光使脸部和手部高亮，金属饰件锐利反光，整体高美颜磨皮、轻微过曝、暗部噪点和手机压缩质感",
       "negative_prompt": "",
       "model": "Moss Image",
-      "category": "3D",
+      "category": "Portrait",
       "tags": [
-        "3d"
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
       ],
       "is_premium": false,
-      "created_at": "2026-11-02T13:47:58.625Z"
+      "created_at": "2026-11-02T13:47:58.582Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793627149017-5466",
+      "title": "Girl 00189",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793627149017-5466.webp",
+      "prompt": "生成一张9:16 竖版高清图片，极具美学张力的数码艺术作品呈现了一位拥有梦幻般粉色长发的少女。她处于画面的中心位置，近景特写捕捉了少女精致的面部轮廓和优雅的侧影。她闭着双眼，神情宁静而超脱，微风吹拂着她如丝绸般轻盈蓬松的长发，发丝在柔和的逆光中呈现出半透明的质感，周围漂浮着细碎的粉色花瓣，增添了 ethereal（空灵）的氛围。人物为精致东方淡颜，柔和小鹅蛋脸，面部轮廓流畅细腻，清亮含水的杏眼，小巧秀气的鼻型，柔软饱满的唇形，神情安静温柔，妆容清新透亮，展现出青春活力。她身穿一件缀满复杂花卉装饰的连衣长裙，裙摆与周围的绚烂花朵融为一体，质感轻盈飘逸，仿佛由光影和花瓣编织而成。构图上采用了中心透视法，强调人物的动态交互感。光影效果呈现出一种柔和的漫反射光，色彩基调以梦幻粉、香槟金和柔和的乳白色为主，营造出一种高级、温柔、唯美的视觉盛宴。创造出一种温暖、治愈且富有生命力的艺术氛围。背景中流动着抽象的色彩线条，如同飘带般环绕着主体，使得画面具有极强的空间深度和梦幻质感。画质极高，每一朵花瓣的纹理和人物的发丝细节都清晰可见，整体呈现出一种现代数码绘画与唯美插画风格的完美融合，2k",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:47:58.580Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793627110513-314",
+      "title": "Girl 00188",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793627110513-314.webp",
+      "prompt": "竖屏手机壁纸，二次元动漫插画，粉色长发年轻少女坐在室外楼梯上，超长粉发高马尾，发丝柔顺飘散，金棕色眼睛，温柔微笑， 侧身坐姿，一只手托腮，一只手自然垂下，穿浅粉色短袖T恤、白色短裤、白色过膝袜、白色高跟鞋，清新甜美风格，背景为深色 金属楼梯与栏杆，阳光从左侧洒入，强烈明暗对比，柔和高光，浅色皮肤，干净画面，细腻发丝，精致五官，日系赛璐璐与厚涂结 合，高细节，治愈氛围，夏日午后，主体居中偏左，人物占画面主体，顶部与底部保留手机壁纸留白，portrait mobile wallpaper, anime girl, pink hair, sitting on stairs, soft sunlight, cinematic lighting, highly detailed, clean composition, 9:16",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-02T13:47:58.577Z",
+      "is_draft": false
     },
     {
       "id": "pv-1793627018837-6796",
@@ -4096,7 +4101,7 @@
       "id": "pv-1792407739049-4179",
       "title": "Girl 00013",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792407739049-4179.webp",
-      "prompt": "主題：\n夜街の白と長靴\n\n主体：\n夕暮れの商店街で、成人女性が金属の歩道柵へ腰掛け、肩越しに振り向く縦位置の全身写真。 人物は画面中央を基準に配置する。\n\n人物・表情：\n腰近くまでの濃茶のストレート髪と薄い前髪。卵形輪郭、横長の茶色い目、自然な細眉、小ぶりな鼻、桃色の艶唇。背中側からカメラを見返す静かな表情。 顔を肩越しにカメラへ向ける。\n\n服装・ポーズ：\n白いノースリーブの身体に沿うミニワンピース、淡い灰褐色の膝丈ハイヒールブーツは側面に二本のバックル。白いキルティング風チェーンリュック。柵へ横向きに座り、片脚を下ろす。\n\n背景・光：\n看板の灯る店、歩行者、走る車、奥へ続く街路。正面の硬いフラッシュが人物を明るくし、背景の街灯は橙色の玉ぼけ。 画面背景の主光はカメラ正面からの硬い直射。\n\n構図・カメラ：\n2:3の縦構図、カメラは腰より少し低い後方斜めの全身写真。人物を中央右、柵を水平��通し、白いリュックと長いブーツを明瞭に収める。人物に焦点、街は大きくぼかす。 人物を大きく収め、主役へ焦点を合わせ、背景は軽いボケ。\n\n質感・スタイル：\nフォトリアルな夜間スナップ。白い布、キルティング、灰褐色のブーツ、髪の艶を直射フラッシュでくっきり写す。\n\nネガティブ：\n膝丈バックルブーツと白いリュックを省かない；昼景にしない",
+      "prompt": "主題：\n夜街の白と長靴\n\n主体：\n夕暮れの商店街で、成人女性が金属の歩道柵へ腰掛け、肩越しに振り向く縦位置の全身写真。 人物は画面中央を基準に配置する。\n\n人物・表情：\n腰近くまでの濃茶のストレート髪と薄い前髪。卵形輪郭、横長の茶色い目、自然な細眉、小ぶりな鼻、桃色の艶唇。背中側からカメラを見返す静かな表情。 顔を肩越しにカメラへ向ける。\n\n服装・ポーズ：\n白いノースリーブの身体に沿うミニワンピース、淡い灰褐色の膝丈ハイヒールブーツは側面に二本のバックル。白いキルティング風チェーンリュック。柵へ横向きに座り、片脚を下ろす。\n\n背景・光：\n看板の灯る店、歩行者、走る車、奥へ続く街路。正面の硬いフラッシュが人物を明るくし、背景の街灯は橙色の玉ぼけ。 画面背景の主光はカメラ正面からの硬い直射。\n\n構図・カメラ：\n2:3の縦構図、カメラは腰より少し低い後方斜めの全身写真。人物を中央右、柵を水平に通し、白いリュックと長いブーツを明瞭に収める。人物に焦点、街は大きくぼかす。 人物を大きく収め、主役へ焦点を合わせ、背景は軽いボケ。\n\n質感・スタイル：\nフォトリアルな夜間スナップ。白い布、キルティング、灰褐色のブーツ、髪の艶を直射フラッシュでくっきり写す。\n\nネガティブ：\n膝丈バックルブーツと白いリュックを省かない；昼景にしない",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
