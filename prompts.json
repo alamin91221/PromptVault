@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-02T13:24:20.166Z",
+  "updated_at": "2026-11-02T13:43:44.002Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,229 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1793626377701-7726",
+      "title": "man 00171",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793626377701-7726.webp",
+      "prompt": "A MAN WITH LIGHT-MEDIUM SKIN, SHORT DARK CURLY HAIR WITH A FADE HAIRCUT,BROWN EYES,\nAND A WELL-GROOMED SHORT BEARD, WEARING A GLOSSY OVERSIZED RED PUFFER JACKET AND\nLOOSE RED PANTS WITH WHITE AND RED NIKE SNEAKERS, CROUCHING LOW WITH ONE KNEE UP AND\nONE LEG FORWARD, LEFT ARM RESTING CASUALLY OVER THE RAISED KNEE AND RIGHT HAND\nRELAXED NEAR THE OTHER LEG, BODY ANGLED SLIGHTLY TO THE SIDE WHILE HEAD TILTS\nFORWARD LOOKING DIRECTLY AT THE CAMERA WITH A CONFIDENT EXPRESSION, ULTRA WIDE-ANGLE\nLOW PERSPECTIVE SHOT EMPHASIZING THE FRONT SNEAKER APPEARING LARGE AND DOMINANT IN\nTHE FOREGROUND, SET IN A FULLY RED ENVIRONMENT WITH SMOOTH FLOOR AND BACKDROP\nFEATURING LARGE WHITE NIKE SWOOSH LOGOS BEHIND AND FLOWING RIBBON-LIKE RED SHAPES\nAROUND, HYPER-REALISTIC PHOTOGRAPHY, EXTREMELY SHARP DETAILS ON FABRIC SHINE AND\nSNEAKER TEXTURE, DRAMATIC STUDIO LIGHTING WITH STRONG HIGHLIGHTS AND SOFT SHADOWS\nSATURATED MONOCHROMATIC RED COLOR PALETTE WITH WHITE ACCENTS, MODERN STREETWEAR\nCAMPAIGN STYLE, NO BLUR, NO DISTORTION, NO EXTRA LIMBS, NO ARTIFACTS",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "man",
+        "boy"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:43:43.968Z"
+    },
+    {
+      "id": "pv-1793626419355-8618",
+      "title": "man00172",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793626419355-8618.webp",
+      "prompt": "A young man with a slight smile see the uploaded picture as reference for the face wearing outfit: oversized white sweatshirt, lemon green oversized combat jean, styled with footwear: lemon green neutral Nike sneakers and white ribbed socks. Environment: futuristic lemon green-tone studio background. Lighting: soft cinematic glow highlighting skin and fabric textures. Style: fashion editorial x futuristic. Model seats on lemon green bench elegantly with a relaxed posture.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "man",
+        "boy"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-02T13:43:43.978Z"
+    },
+    {
+      "id": "pv-1793626456427-38",
+      "title": "man00173",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793626456427-38.webp",
+      "prompt": "Create a premium vertical 9:16 streetwear editorial advertising poster with the polished visual language of a high-end fashion campaign.\n\nSubject and styling\n\nA young male model strides confidently toward the camera through a narrow corridor lined with full-height mirrors. Capture him mid-step, shoulders relaxed, posture assured, eyes directly locked on the lens. He wears an oversized neon-lime hoodie, black baggy trousers, and clean white sneakers. Preserve natural anatomy, realistic fabric drape, and a distinct, clearly readable primary figure.\n\nComposition and camera\n\nLow-angle tracking-shot perspective from knee height, using a 28mm lens. Strong central vanishing point and symmetrical corridor geometry draw the eye through the frame. The model dominates the foreground while repeating mirror reflections create layered depth and rhythm. Keep the primary figure crisp and easy to distinguish; reflections may repeat him naturally without obscuring his face or producing confusing duplicate limbs. Compose with a striking magazine-cover hierarchy and generous visual impact.\n\nTypography and graphic design\n\nDisplay the exact phrase “MOVE DIFFERENT” in huge, bold, condensed sans-serif lettering. Integrate the typography across the corridor walls so that letters recede in perspective and are partially interrupted by mirror edges and reflections, while keeping the full phrase legible. Add minimal sticker graphics, narrow barcode strips, subtle motion arrows, and restrained paper-cut textures as supporting details. Maintain a deliberate editorial grid and clear hierarchy; avoid any additional readable copy.\n\nLighting and atmosphere\n\nBright commercial fashion lighting with crisp, controlled highlights on the mirror surfaces, clean luminous reflections, and balanced exposure across the model’s face and outfit. Chrome reflections add depth without distracting glare. The mood is forward-thinking, urban, and confident, with a sense of momentum and movement.\n\nColor and finish\n\nRestrict the palette to neon lime, black, white, and chrome silver. Rich but controlled contrast, precise fashion-editorial retouching, tactile paper-cut details, realistic mirror reflections, sharp garment texture, and ultra-detailed 8K finish.\n\nConstraints\n\nNo watermarks, logos, or unintended text. No cluttered graphics, oversaturated colors beyond the neon-lime garment, plastic-looking fabric, muddy reflections, distorted anatomy, duplicated or malformed limbs, or obscured face.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "man",
+        "boy"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:43:43.979Z"
+    },
+    {
+      "id": "pv-1793626549218-4595",
+      "title": "Man 00176",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793626549218-4595.webp",
+      "prompt": "A dynamic sportswear advertisement featuring a young athletic male model captured mid-air in an explosive jump toward the camera. Dramatic low-angle shot with strong foreshortening, making the sneakers appear oversized and dominant in the foreground. The model wears a monochrome beige tracksuit (hoodie and joggers) with white socks.\nFocus on ultra-detailed white running shoes with bold orange accents and textured mesh, sharp branding elements, and realistic materials. Dust and energy particles burst beneath the feet, creating a sense of motion and impact.\nBackground is a clean, vibrant orange gradient with subtle glow, minimal studio environment. Bold oversized typography faintly integrated in the background for a modern commercial look.\nHigh contrast studio lighting, crisp shadows, rim light outlining the subject, ultra-realistic textures, 8K resolution, professional product photography, Nike/Adidas campaign style",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "man",
+        "boy"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:43:43.979Z"
+    },
+    {
+      "id": "pv-1793626588952-2537",
+      "title": "Girl 00177",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793626588952-2537.webp",
+      "prompt": "Create a jaw-dropping premium advertising poster in 9:16 vertical format for a fictional ultra-limited Adidas sneaker called \"ADIDAS AEROBLADE X - LIMITED DROP\". The design must feel like a world-class campaign by a top creative agency, highly original, futuristic, visually explosive, and impossible to ignore.\n\nMain visual:\nA single hero sneaker floating in the center, shot from a dramatic low angle, as if it is levitating above a black obsidian running track split by glowing energy cracks. The shoe should look ultra-premium, highly engineered, sleek, aerodynamic, and fashion-forward. Its material should combine knit mesh, sculpted foam, translucent panels, reflective stripes, and a carbon-fiber sole plate. Neon light trails swirl around the shoe like captured speed. Small particles and mist add motion and intensity. In the background, use faint silhouettes of elite runners frozen mid-sprint, blurred just enough to keep all attention on the shoe.\n\nColor palette:\nMatte black, electric red, silver, deep charcoal, with subtle neon blue highlights.\n\nTypography and poster copy:\nRender all text cleanly, sharply, and professionally with strong hierarchy.\nMain headline:\n\"OWN THE SPEED\"\nProduct title:\n\"ADIDAS AEROBLADE X\"\nSubheadline:\n\"Built for the ones who never run ordinary.\"\nFeature callouts in elegant boxed layout:\n- \"Featherlight Adaptive Knit Upper\"\n- \"Carbon Energy Return Plate\"\n- \"Precision Grip Traction\"\n- \"Limited Collector Release\"\nPrice line:\n\"$280\"\nCTA:\n\"DROP LIVE NOW\"\nSecondary CTA:\n\"Only at https://t.co/xuQ7Pl8fga\"\nSmall footer text:\n\"Performance innovation meets futuristic street identity.\"\n\nLayout direction:\nThe headline should be bold and oversized, partially integrated into the background. Product name should sit near the shoe in a refined premium layout. Feature callouts should be clean, readable, and arranged vertically along one side. Add a subtle badge reading \"LIMITED SERIES\". The overall composition should feel like a luxury sports campaign mixed with futuristic editorial design.\n\nStyle:\nUltra-detailed, hyper-realistic product photography, cinematic studio lighting, premium advertising aesthetics, sharp focus, rich textures, subtle atmosphere, dynamic motion energy, high-end commercial poster, no clutter, no generic template look.\n\nMake the aspect ratio 9:16",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Advertising",
+      "tags": [
+        "ad",
+        "ads"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:43:43.980Z"
+    },
+    {
+      "id": "pv-1793626679306-4077",
+      "title": "Girl 00178",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793626679306-4077.webp",
+      "prompt": "Create a high-detail 3D semi-realistic chibi character with slightly exaggerated cute proportions but with photorealistic facial rendering, natural skin pores, realistic lighting, and finely detailed hair strands. The character should look like a collectible designer toy figure with smooth surfaces, high-end materials, and ultra-clean edges. The character is styled in an fashion look: A tailored designer jacket in deep emerald green with gold stitching accents A sleek black silk fitted top underneath High-fashion tapered trousers in matte ivory tone  designer sneakers / footwear in white and gold with polished details Accessories must feel ultra- and fashionable:  oversized sunglasses with glossy black lenses and gold frame   wristwatch with metallic gold case and elegant dial Subtle designer bracelet and minimal accents The character stands confidently on top of a giant modern smartphone, like a collectible display piece. They are wearing stylish wireless over-ear headphones in metallic rose gold and holding the phone slightly forward while taking a playful joyful selfie, smiling and laughing with energetic expression. The smartphone screen displays a realistic modern music-player interface with colorful waveform animations and elegant UI elements. Scene style and lighting: Background: deep cinematic dark brown gradient studio backdrop Lighting: soft studio lighting with subtle reflections and rim light Materials: high-quality fabric textures, polished metals, and realistic plastics Style: collectible toy aesthetic mixed with semi-realistic chibi design Camera perspective: Aerial / top-down camera angle Slight cinematic depth of field for realism Rendering quality: Ultra-detailed 3D render 8K resolution smooth shading hyper-clean edges high clarity Add a small elegant watermark text “Naik Nelofar ” at the bottom of the image, subtle but clearly readable. Aspect ratio: 3:4 vertical composition",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "3D",
+      "tags": [],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:43:43.980Z"
+    },
+    {
+      "id": "pv-1793626721521-7451",
+      "title": "Girl 00179",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793626721521-7451.webp",
+      "prompt": "Ultra-realistic close-up fashion portrait of a young Asian woman, centered composition, looking directly into the camera with a calm confident expression, fair skin with warm undertones, soft glossy lips, subtle natural makeup, long dark hair styled into two neat braided pigtails with vibrant orange flower hair accessories, oversized deep orange eyeglasses, bright neon-orange over-ear headphones with one hand gently touching the earcup, vivid monochromatic orange aesthetic.Wearing a fitted neon-orange t-shirt, black leather choker with metallic details and circular emblem, layered necklaces with orange and gold beads and pendant, orange bracelet, small gold hoop earrings. Studio beauty photography, high-end commercial advertising style, hyper-detailed skin texture, sharp eyes, realistic hair strands, premium fashion editorial quality.Background completely covered in glossy orange liquid droplets and fluid splash shapes, monochromatic orange color palette, vibrant reflections, clean modern design, soft diffused studio lighting mixed with directional light, subtle shadows, ultra-sharp focus, HDR, 8K resolution, beauty campaign, luxury eyewear and headphone advertisement, shallow depth of field, photorealistic, perfect symmetry, highly detailed, magazine cover quality.Negative Prompt (Giữ nguyên vì vẫn phù hợp): blurry, low resolution, extra fingers, deformed hands, asymmetrical face, crossed eyes, bad anatomy, duplicate accessories, messy background, text, watermark, logo, overexposed skin, underexposed shadows, noise, cartoon, painting, CGI, unrealistic proportions, distorted glasses, cropped head, missing braid, dull colors.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:43:43.981Z"
+    },
+    {
+      "id": "pv-1793626753395-6121",
+      "title": "Girl 00180",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793626753395-6121.webp",
+      "prompt": "画面核心视觉逻辑是Y2K复古波普风+ 闪光灯自拍 + 2D贴纸与荧光文字叠加。画面细节拆解姿势： [image1]人物单手持机自拍视角，另一只手在脸旁举着橘子汽水罐。服装/配饰： 黄色吊带背心，牛仔裤，复古棕色头戴式耳机，叠戴项链。背景： 橙色系复古房间，包含老式CRT电视机和散落的真实橘子。妆容： 元气女团妆，高光明显，果汁唇釉。摄影手法： 强闪光灯直射（Flash photography），高饱和度，硬阴影。特效元素： 画面悬浮着2D扁平化白色描边不同颜色的贴纸（橘子、五角星、橙子切片）和彩色荧光手写英文字体（Cool、Summer、Free will、vitality）",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:43:43.981Z"
+    },
+    {
+      "id": "pv-1793626792550-6692",
+      "title": "Girl 00181",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793626792550-6692.webp",
+      "prompt": "Create a highly realistic full-body fashion photo of a beautiful young woman with porcelain fair skin, balanced proportions, and a stylish streetwear aesthetic. She has soft glass-skin makeup with a natural glow, light foundation, subtle light-pink eyeshadow, delicate eyeliner, long separated lashes, rosy cheeks, a softly highlighted nose, and glossy nude-pink lips. Her expression is relaxed, friendly, and natural.\nHer hair is long, silky dark brown, extending well past the waist with natural volume, glossy shine, feathered layers, and a few strands gently falling across her face. The hairstyle feels effortless, healthy, and realistic with a Korean-Japanese fashion magazine vibe.\nShe is standing casually beside a brightly lit beverage refrigerator inside a modern convenience store, lightly leaning against it while holding a chilled soda can. The environment features neatly stocked colorful drinks, realistic store lighting, polished floors, and an authentic grocery-store atmosphere.\nOutfit: an oversized white-and-yellow varsity-inspired sports jersey with long sleeves, front buttons, utility-style pockets, and subtle athletic details. Paired with a stylish white frayed-hem denim mini skirt, clean white sneakers with yellow accents, a matching yellow backpack worn over one shoulder, a coordinated headband, and a minimalist fashion lanyard. Her nails are extra-long almond-shaped acrylics with a translucent milky-white finish.\nPhotography style: ultra-realistic fashion photography, full-body composition, eye-level camera angle, natural pose, high-detail skin texture, realistic hair strands, professional retail lighting, shallow depth of field, lifestyle editorial aesthetic, premium street-fashion campaign, 85mm lens, sharp focus, photorealistic, 8K quality.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:43:43.981Z"
+    },
+    {
+      "id": "pv-1793626830426-6315",
+      "title": "Girl 00182",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793626830426-6315.webp",
+      "prompt": "[Subject] An adult young woman with a natural, realistic appearance  \n[Outfit] Specify clothing, shoes, and accessories  \n[Scene] Specify an urban bridge, plaza, tennis court, subway steps, etc.  \n[Action] Specify reaching toward the camera, leaning closer, extending one leg, or presenting an object  \n[Foreground Object] Specify a hand, sunglasses, tennis racket, shoe, drink, etc.  \n[Aspect Ratio] 9:16  \n\nCreate a 9:16 vertical, photorealistic 0.5x ultra wide-angle fashion portrait.\n\nUse a smartphone-like 14–18mm ultra-wide lens from a low angle, creating strong but believable near-large / far-small perspective.\n\nPlace the [Foreground Object] very close to the lens, taking up around 20%–35% of the frame. It should feel enlarged and appear to extend out of the image.\n\nKeep the subject’s face clear in the upper-middle area. The body should follow a diagonal, S-curve, or C-curve instead of standing stiffly. Hair, arms, legs, clothing, or accessories can extend toward the edges to create movement.\n\nUse a real urban background with strong perspective lines, such as railings, steps, roads, bridges, court markings, or building edges. The sky may fill 30%–50% of the frame.\n\nThe subject is performing [Action] and naturally interacting with the camera. The expression should feel lively and spontaneous, like a friend capturing the moment with a phone.\n\nUse bright natural daylight with realistic shadows. Preserve natural skin texture, loose hair strands, fabric wrinkles, and real material details. Keep the image crisp, youthful, energetic, and slightly editorial while still looking like a real smartphone photo.\n\nThe ultra-wide effect should be obvious but not extreme fisheye. Keep the face, hands, limbs, shoes, and props anatomically correct and structurally complete.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:43:43.982Z"
+    },
+    {
+      "id": "pv-1793626890237-2679",
+      "title": "Girl 00184",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793626890237-2679.webp",
+      "prompt": "生成一张 9:16 竖版真实摄影质感女性写真，画面为高级都市露台写真风格，整体清透、明亮、精致，带有现代城市高层建筑背景与时尚街拍质感。\n\n画面中是一位 20–26 岁年轻成年东方女性，背对镜头站在高层露台玻璃栏杆前，双手自然扶在栏杆上，身体微微前倾，像是在阳光下眺望远处城市。人物具有明确成年女性气质，不幼态，不低俗，不夸张。她拥有一头浅蓝色长卷发，发丝柔顺蓬松，自然垂落到腰部附近，发尾带有柔和波浪卷，头发在阳光下呈现轻盈通透的蓝色光泽，两侧佩戴黑色蝴蝶结发饰，增加精致梦幻感。\n\n人物身形为成熟丰腴但协调自然的曲线型体态，肩颈线柔和舒展，腰线清晰，腰胯转折自然，腿部比例修长，整体呈现优雅的 S 型背影轮廓。画面重点表现整体身体轮廓、服装剪裁、腿部线条、发丝质感、阳光反射和都市空间关系，而不是身体局部。\n\n她穿着干净的白色长袖上衣，搭配灰白色格纹高腰短裙，裙摆具有轻微不规则层次与自然褶皱，材质轻盈但保持完整覆盖，整体造型年轻、时尚、清爽。腿部穿着高光泽感的浅肤色丝袜，呈现细腻、顺滑、带反光的马油袜质感，光线沿腿部形成自然高光线条，质感真实但克制。脚穿黑色漆皮高跟鞋，鞋底带深红色细节，强化都市时尚感。\n\n场景位于现代城市高层露台，前方是透明玻璃栏杆，远处是高楼立面与窗格反射，阳光从侧上方照射进画面，在地面形成清晰光影。整体背景干净、现代、有空间层次，玻璃栏杆带轻微反射，城市建筑略微虚化但保留真实结构。\n\n构图为全身背影构图，镜头位于人物身后略低角度，突出长发、腰线、裙摆层次、腿部比例和高跟鞋线条。人物占画面中下部，城市建筑占据背景，形成强烈的都市时尚氛围。画面允许高级商业写真精修质感，皮肤与丝袜高光细腻真实，服装有真实褶皱，头发有自然发丝层次，整体精致、清透、吸睛但不低俗。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-02T13:43:43.992Z"
+    },
+    {
+      "id": "pv-1793626948674-6138",
+      "title": "Girl 00185",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793626948674-6138.webp",
+      "prompt": "生成一张 3:4 竖版写实摄影质感的创意时尚女性写真。\n\n画面中是一位 20–26 岁的年轻成年东方女性，具有明确东方女性特征，五官真实协调，皮肤清透自然，妆容干净精致，整体气质可爱、时尚、灵动、有传播感。人物必须明确为成年人，不要未成年感，不要幼态性感，不要低俗。\n\n核心创意是“原创萌系小怪兽涂鸦服装”：服装不是普通衣服，而是像一只原创可爱小怪兽变成了她身上的连衣短裙。裙子具有手绘涂鸦、蜡笔、粉笔、马克笔、炭笔混合质感，线条自由、粗细不均、带有手作感和童趣感，同时仍然像真实可穿戴的时尚服装。\n\n小怪兽必须是完全原创设计，不参考任何已有 IP 或版权角色。怪兽形象圆润、软萌、呆萌，拥有大大的圆眼睛、小尖牙、短短小爪子、圆滚滚身体、毛茸茸轮廓、锯齿形裙摆、小尾巴、侧边小背刺或小角，但整体非常可爱，不恐怖，不攻击性。怪兽脸部图案位于裙身正面，眼睛、嘴巴、小爪子与裙身结构自然融合，像一件完整的原创艺术服装。\n\n重要安全边界：这是一件完整服装，不是身体涂鸦，不是裸体彩绘，不是透明暴露。裙子必须清楚覆盖胸部、 torso、腰腹、臀部与胯部区域，整体像一件得体的 sleeveless mini dress / A-line mini dress / fashion-art dress。裙长可以偏短，但必须保持时尚、可爱、得体，不出现过度暴露或身体局部聚焦。\n\n人物姿态自然有趣，可以做可爱小怪兽爪子动作、回头微笑、轻盈转身、街头摆拍、走路抓拍或时尚杂志姿势。动作要自然，不僵硬，不挑逗。表情可以是甜美微笑、俏皮眨眼、轻微歪头、开心回望或冷静可爱。\n\n画面风格为真实摄影与手绘服装融合，人物、皮肤、头发、环境、光影都是真实照片质感，服装上的怪兽图案呈现手绘涂鸦质感。整体画面清透、高级、干净、吸睛，有社交平台爆款传播感。\n\n禁止使用任何宝可梦、皮卡丘、吉卜力、迪士尼、三丽鸥、Chiikawa、Labubu 或其他已有 IP 角色元素。必须是原创萌系小怪兽。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:43:43.993Z"
+    },
+    {
+      "id": "pv-1793626984408-5423",
+      "title": "Girl 00186",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793626984408-5423.webp",
+      "prompt": "Southeast Asian beautiful girl, cool fair porcelain skin, doll-like exquisite and lovely facial features, breathtakingly gorgeous, waist-length wavy dark brown hair styled into two cat-ear-shaped double buns. She wears a light blue Lolita dress, holding a long-haired cat in her arms, striking a sweet and warm pose against a minimalist backdrop. Shot in a close-up slightly high-angle overlook perspective to boost visual impact and artistic sense. Full emotional atmospheric tone, soft bokeh blur, dim hazy glow, gentle overexposure, shallow depth of field, heavy film grain texture, rich color layers, subtle vignetting edges, freehand stylized dark tone palette, vivid and perfectly balanced hues, abundant intricate details, full natural skin texture. Lit with Rembrandt lighting, rim light on hair, side profile fill light, glossy shiny strands of hair. Ultra-high resolution rendering to capture every facial feature, supremely delicate texture, rendered in sharp 32K pixel clarity, blue manicured fingernails.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:43:44.001Z"
+    },
+    {
+      "id": "pv-1793627018837-6796",
+      "title": "Girl 00187",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793627018837-6796.webp",
+      "prompt": "9:16 竖版，高精度 3D CG 东方幻想少女角色写真，3D CG oriental fantasy beauty portrait，anime-style 3D CG character art，semi-realistic 3D character render，full body / 大腿以上坐姿构图，画面主体是一位明确成年的年轻东方幻想系女性，视觉年龄约 20–24 岁，整体气质甜美、元气、俏皮、清新、轻盈，带有夏日童话与东方幻想少女感。整体不是平面插画，而是高完成度 3D CG 角色渲染，具有精致角色建模、真实材质表现、电影级柔光、通透色彩与高级虚拟角色海报质感。\n\n人物拥有精致甜美的东方美型脸，小巧鹅蛋脸，皮肤白皙细腻，带轻微通透感与柔和皮肤着色。眼睛大而清澈，瞳色为暖橙棕色与蜜糖琥珀色混合，瞳孔有细腻玻璃高光，眼神俏皮明亮，带一点撒娇与亲近感。睫毛纤长，眼妆清透自然，鼻梁秀气小巧，嘴唇柔软，唇色为低饱和蜜桃粉，嘴里轻轻含着一支浅蓝色冰棒，表情轻松可爱，充满夏日感。\n\n发型为浅金棕色长双马尾，发量丰盈，发丝柔顺卷翘，具有高精度发丝建模与柔亮高光。双马尾位置偏高，发尾自然卷曲蓬松，额前有轻盈空气刘海与脸侧碎发修饰脸型。头顶佩戴可爱的东方幻想兽耳风发饰，猫耳 / 狐耳造型的装饰性头饰，搭配红色蝴蝶结、金属发夹与细小装饰，增强角色辨识度与甜酷感。\n\n服装为夏日东方幻想轻便少女礼装，上身为橘红色到珊瑚橙色渐变的修身连衣短裙 / 一体式轻礼服，布料带柔和丝缎光泽，剪裁贴身但不过分夸张，突出纤细腰线与自然饱满的身材曲线。外层披一件白色半透明轻薄外搭或薄纱小外套，自然滑落在肩臂处，带清凉透气感。颈部佩戴黑色 choker 项圈与小型宝石装饰，增加一点俏皮幻想感。整体服装色彩鲜明，兼具夏日甜美与轻幻想角色设定感。\n\n人物姿态为坐在窗边木质平台或榻台上，双腿自然屈起或轻松分侧放置，身体微微侧向镜头，一只手拿着冰棒靠近嘴边，另一只手自然放松撑在身侧或搭在腿边，肩颈舒展，姿态慵懒轻松，像夏日午后在窗边纳凉休息的一瞬间。整体氛围亲切、生活化，但又带有高级幻想写真感。\n\n背景为充满夏日气息的东方幻想室内窗边场景，人物坐在木质窗框前，窗外是一片被阳光照亮的明亮翠绿色庭院 / 花房 / 林间景色，充满层叠树叶与金色日光。室内可见复古电风扇、茶杯、木窗框、窗边绿植与花盆，营造清凉、安静、生活感十足的夏日午后氛围。绿色植物从画面前景和边缘探入，增强空间层次与自然气息。\n\n光线采用明亮的夏日自然光，从窗外照入形成大片暖金与黄绿色透光感，人物面部、发丝、肩颈和腿部带柔和高光，局部有被叶影筛下的斑驳光影。皮肤、头发、薄纱外套、丝缎裙料、金属发饰、冰棒和植物叶片都具有真实细腻的 PBR 材质表现。整体色调以嫩绿色、阳光黄、橘红色、奶白色和浅金色为主，画面清新、通透、甜美、明亮、唯美，具有高端收藏级 3D CG 东方幻想少女角色海报质感。\n\nhigh detail 3D CG render, Unreal Engine quality, Octane render look, cinematic lighting, PBR materials, subsurface scattering skin, realistic hair strands, glossy satin fabric, translucent chiffon jacket, summer window scene, lush green garden outside, electric fan, popsicle, cute fantasy animal ear accessories, volumetric sunlight, cinematic depth of field, soft bloom, ultra detailed, polished anime realism, premium virtual character portrait",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Anime",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-02T13:43:44.002Z"
+    },
     {
       "id": "pv-1793625821126-1319",
       "title": "Girl 00170",
