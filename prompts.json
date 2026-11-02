@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-02T13:48:28.786Z",
+  "updated_at": "2026-11-02T13:51:43.206Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,89 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1793627324312-5042",
+      "title": "Man 00194",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793627324312-5042.webp",
+      "prompt": "Use 100% the uploaded image as a layout, composition, typography, fashion-advertisement, and camera-angle reference only. Use my uploaded portrait as a STRICT facial reference with absolute identity preservation. Maintain my exact facial structure, eyes, nose, lips, skin tone, hairstyle, and recognizable identity with zero facial drift.\nCreate a luxury fashion-editorial style poster for my brand:\nFUTURE VIBES AI\nThe poster should feature me standing confidently in the center of the frame in a full-body fashion pose, hands casually in pockets, looking directly at the camera with calm confidence and visionary energy.\nOutfit\nFuturistic creator-fashion aesthetic:\noversized premium bomber jacket\nAI-inspired streetwear\ncargo pants\nluxury sneakers\nsubtle techwear details\ncinematic creator aesthetic\ncream, beige, black, silver, and electric-blue accents\nBackground\nSolid premium gradient background in:\nFuture Vibes AI signature colors\nglowing purple\nelectric blue\nteal\nsoft neon accents\nMassive oversized typography behind me:\nFUTURE VIBES AI\nThe typography should occupy most of the background exactly like a luxury fashion campaign.\nHeader Text\nNEW ERA OF CREATIVITY\nMAY • 2026\nPREMIUM AI CREATOR COLLECTION\nSide Text\nCREATE WITHOUT LIMITS.\nTHINK BIGGER.\nBUILD THE FUTURE.\nBottom Brand Section\nFUTURE VIBES AI\nCREATE. AUTOMATE. INSPIRE.CREATER \"HASSAN\"\nAdditional Elements\nsubtle holographic UI graphics\nfloating AI particles\ncinematic glow\nluxury magazine aesthetic\nApple keynote quality design\nfuturistic startup branding\npremium campaign photography\nMood\nThe poster should feel like:\nNike campaign\nApple keynote launch\nluxury fashion magazine cover\nAI startup branding\ncreator movement manifesto\nCamera\nlow-angle fashion photography\nfull-body portrait\nstudio lighting\nsharp focus\ndramatic perspective\nprofessional commercial photography\nQuality\nultra-realistic, luxury editorial poster, fashion campaign, billboard quality, magazine cover quality, cinematic lighting, premium typography, hyper-detailed, 8K masterpiece, professional advertising photography, high-end brand identity design, social-media-ready, award-winning creative direction.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "man",
+        "boy"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:51:43.204Z"
+    },
+    {
+      "id": "pv-1793627367580-253",
+      "title": "Girl 00195",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793627367580-253.webp",
+      "prompt": "生成一张高端奢侈品彩妆广告大片海报\n\n镜头 & 构图 & 机位\n超近距离广角透视构图，低机位广角仰拍，极端透视但构图优雅，浅景深，戏剧化透视，前景产品清晰，人物面部清晰，背景轻微虚化，画面具有充足留白\n\n人物造型 & 妆容 & 姿态\n一位时尚亚洲女性模特穿着飘逸的红色礼服，红色口红妆容，红色指甲，金色耳环，长款凌乱湿发。模特身体轻微后仰，脖颈线条优雅，眼神冷艳自信。红色丝绸裙摆从腰部向右侧大幅展开，形成流动的波浪曲线\n\n产品动作 & 细节 & 位置\n模特伸手将一支红色 YSL 口红递向镜头，手部自然握住产品底部，口红位于画面最前景并被夸张放大，产品占据画面中心偏左。金色高反光金属口红管身，YSL 黑金奢华徽标装饰，红色膏体质感细腻\n\n背景 & 色彩搭配\n背景为干净的深红色渐变摄影棚，整体采用红色、酒红色、金色和黑色高级配色\n\n整体风格 & 光影 & 画质参数\n奢侈品美妆广告风格，时尚杂志封面质感，高级商业摄影，强烈红金配色，高级时尚杂志风格，商业广告摄影，奢华感，柔和棚拍灯光，金属高光反射，真实皮肤质感，超清细节，电影级调色，8K，高端美妆海报\n\n负面提示词（禁止出现内容）\n不要出现以下负面问题：低清晰度，模糊，噪点，手指畸形，多余手指，少手指，融合手指，断手，手掌变形，手指过长，手指过短，关节错误，指甲变形，产品和手融合，产品边缘混乱，口红变形，口红弯曲，管身扭曲，金属反射脏乱，logo 乱码，错误文字，水印，脸部变形，五官崩坏，眼睛不对称，皮肤塑料感，过度磨皮，廉价广告感，背景杂乱，构图拥挤，产品过度贴脸，人物被遮挡过多，颜色脏，过曝，欠曝，动漫风，卡通风，3D 渲染感",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-02T13:51:43.205Z"
+    },
+    {
+      "id": "pv-1793627397062-7575",
+      "title": "Girl 00196",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793627397062-7575.webp",
+      "prompt": "Fashion editorial where hundreds of luxury magazine pages appear frozen mid-air around a Korean female model. Pages curl, twist, and flow through the composition creating movement and depth. Vibrant fashion colors, premium editorial styling, cinematic lighting, luxury advertising aesthetic, fashion campaign masterpiece, highly detailed photography.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:51:43.206Z"
+    },
+    {
+      "id": "pv-1793627453157-5141",
+      "title": "Girl 00198",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793627453157-5141.webp",
+      "prompt": "Ultra-realistic photography, inspired by classical Chinese fantasy fashion. A beautiful young woman with a youthful, delicate face and long flowing black hair wears a vibrant crimson-red traditional Hanfu robe with wide sleeves and lightweight, elegant fabric that moves gracefully in the wind. She holds a red oil-paper umbrella, adding a timeless Eastern aesthetic.\n\nThe entire scene is dominated by warm orange-red tones, creating a visually striking and harmonious color palette. The atmosphere blends classical Chinese elegance, minimalist composition, and traditional ink-painting aesthetics. Dynamic tilted composition, photographed from a dramatic low-angle perspective, creating a powerful and cinematic visual impact.\n\nThe model displays a refined professional fashion expression with subtle emotions, natural beauty, and affectionate, captivating eyes. Her gaze is soft, poetic, and deeply expressive, creating a strong emotional connection and immersive mood.\n\nStrong visual contrast, bold editorial composition, exaggerated cinematic perspective, and dramatic color collision. Rich interplay of light and shadow enhances the scene. Soft facial fill light, gentle side lighting, luminous hair highlights, golden reflections on individual strands of hair, and striking contrast between light and darkness.\n\nThe darker background creates a tranquil and mysterious atmosphere with layered depth and dappled lighting effects. The face remains crystal clear and sharply focused. Beautiful three-dimensional facial features, delicate makeup, smooth cool-toned fair skin, realistic skin texture, naturally tousled voluminous hair, and elegant feminine beauty.\n\nLuxury fashion editorial quality, cinematic mood, ultra-high-definition photography, realistic skin pores and texture, foreground bokeh, background bokeh, shallow depth of field, professional color grading, masterpiece composition, 8K, hyper-realistic, premium fashion photography.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-02T13:51:43.206Z"
+    },
+    {
+      "id": "pv-1793627493943-9922",
+      "title": "Girl 00199",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793627493943-9922.webp",
+      "prompt": "中国古典婚纱摄影，中国古代风格美女肖像，唐式婚纱，年轻成年女性，精致的古典妆容，乌黑长发，饰以华丽的金色花冠和传统的凤凰头饰，金银串珠流苏垂下，额头上淡淡的金色前额装饰，层次丰富的发饰，散发着东方贵族少女的气质。 身着红色中国传统婚纱，深红色锦巾，精致刺绣图案，淡粉色内衬，银白色云纹刺绣衣领，金线花朵图案和珠宝装饰，面料丝滑光泽，奢华而优雅。 半身特写肖像构图，身体微微向镜头倾斜，头轻轻转向脸前，眼睛直视镜头，表情温柔内敛，含情脉脉，嘴角带着淡淡的微笑，一把精致的圆扇部分覆盖在脸的下半部分，把绣花扇放在嘴唇附近，做出一个害羞、互动的姿势，让人想起古典闺房女士，姿势端庄、优雅、宁静。 高级中式新娘风格的化妆，清透透亮的基底，细腻的瓷质地，柔和融合的粉红色眼影，纤细的眼线笔，清澈明亮的大眼妆，微红的外眼角，淡粉色的红晕，湿润的红色唇色，唤起古典的温柔感，带着东方美人的气场。 背景为中国传统婚礼空间，红色宫殿墙壁，古典屏风，金色装饰图案，柔和的室内照明，传统的东方建筑元素，红色和金色配色方案，高端古典氛围。 采用先进的肖像风格摄影，50mm肖像镜头，景深浅，精确聚焦于被摄者的面部，眼睛锐利清晰，发饰和刺绣细节丰富，背景柔和模糊。 灯光和阴影使用柔和温暖的侧光，红色环境反射光，面部明亮半透明，皮肤纹理细腻柔软，金色发饰产生精致的亮点，丝绸服装具有自然光泽，整体低对比度，高质感，电影感。 整体纹理： 高品质的中式婚纱摄影，古典宫廷美绘画美学，现代商业肖像摄影，东方美学，细节精致，柔和高档，真实的摄影质量。 图像干净清晰，尽量减少不必要的噪音和颗粒感，抑制颗粒效果，避免大面积漂浮颗粒和杂质，手部结构自然准确，手指数量正确，比例正常，关节清晰，姿势自然稳定。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:51:43.206Z"
+    },
     {
       "id": "pv-1793627266395-6048",
       "title": "Girl 00193",
