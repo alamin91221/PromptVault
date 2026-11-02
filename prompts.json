@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-02T14:05:48.069Z",
+  "updated_at": "2026-11-02T14:06:13.389Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,49 +39,21 @@
   ],
   "items": [
     {
-      "id": "pv-1793628097342-2966",
-      "title": "ad 00206",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793628097342-2966.webp",
-      "prompt": "Ultra-premium Pringles commercial advertising poster, luxury snack food campaign, award-winning Behance-style product advertisement, Photoshop-quality commercial design, high-end food photography, premium CGI compositing, ultra-realistic 8K, vertical 3:4 poster. Create a bold, energetic, premium commercial advertisement for the iconic Pringles Sour Cream & Onion flavor that feels like an official global Pringles campaign with cinematic lighting, dynamic floating ingredients, and luxury advertising aesthetics, instantly communicating freshness, crunch, and irresistible flavor while maintaining a clean premium visual hierarchy. Use a luxury green background with deep emerald green edges, vibrant lime green center glow, dark forest green vignette, radial spotlight behind the product, soft volumetric lighting, subtle particle dust, floating green seasoning particles, soft smoke texture, premium gradient transitions, abstract light streaks, and tiny glowing green energy sparks, keeping the composition modern, energetic, and uncluttered. Position the authentic Pringles Sour Cream & Onion can as the hero object floating diagonally at approximately a 20° angle, slightly left of center, occupying around 70% of the canvas height, with accurate packaging, realistic metallic rim, glossy reflections, sharp label details, realistic shadows, ambient occlusion, and professional studio-quality appearance without redesigning the packaging. Place bold editorial typography on the right reading \"PRINGLES SOUR CREAM & ONION\" in ultra bold condensed white sans-serif with subtle distressed texture, premium kerning, modern spacing, and commercial hierarchy, with \"FLAVOUR\" below in bright lime green. Surround the can with dynamic floating ingredients including golden Pringles chips, fresh green onion rings, chopped chives, spring onion pieces, white sour cream droplets, cream splashes, seasoning particles, floating herbs, and small green cubes swirling naturally with realistic motion. Show several chips bursting upward from the opened can while others rotate around it with realistic motion blur, allowing some ingredients to overlap the typography for depth. At the bottom place a luxury blue and white ceramic bowl filled with fresh sour cream topped with chopped chives, with a dramatic cream splash exploding behind the bowl and interacting naturally with the floating ingredients. Illuminate everything using premium commercial studio HDR lighting with a soft top key light, strong green rim light, subtle backlight, glossy highlights, realistic shadows, and luxury advertising finish. Use a color palette of emerald green, lime green, forest green, white, silver, cream white, fresh onion green, and golden potato chip tones. Maintain professional visual hierarchy, rule of thirds, strong focal point, foreground, middle ground and background separation, balanced composition, negative space optimization, premium typography alignment, and award-winning Behance advertising layout. Apply advanced Photoshop retouching, professional compositing, masking, luxury color grading, dodge and burn, micro-contrast sharpening, premium reflections, natural shadows, realistic depth of field, and atmospheric enhancement for an advertising agency quality finish. Add floating particles, light rays, motion streaks, tiny green sparks, cream droplets, ingredient fragments, soft glow, lens bloom, depth fog, and subtle vignette. Style references include Official Pringles Global Campaign, PepsiCo Product Advertising, Behance Featured Product Posters, Adobe Photoshop Commercial Artwork, Luxury FMCG Advertising, Modern Packaging Campaigns, and High-End CGI Product Photography. Simulate Sony A7R V commercial product photography with a 100mm macro lens, ultra-realistic HDR, premium CGI plus photography blend, award-winning advertising quality, extreme detail, magazine cover quality, and hyper-sharp finish in a vertical 3:4 8K composition. Negative prompt: low quality, blurry packaging, incorrect Pringles logo, distorted can, wrong proportions, duplicate chips, unrealistic ingredients, poor typography, weak composition, oversaturated colors, flat lighting, cluttered design, cartoon style, watermark, low detail, messy reflections, bad shadows, incorrect perspective, cheap advertisement.",
+      "id": "pv-1793628324884-1418",
+      "title": "3D 00212",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793628324884-1418.webp",
+      "prompt": "A cute stylized 3D cartoon character (boy/girl) with big expressive eyes, soft smooth skin, and round facial features, wearing glasses and a casual striped t-shirt, holding a professional DSLR camera. The character is emerging through a torn paper hole in a clean white wall, with realistic ripped paper edges and depth. Behind the hole is a bright blue gradient background, creating contrast. The character is smiling directly at the viewer, vibrant and friendly mood, Pixar-style rendering, ultra-detailed textures, soft studio lighting, high realism, 8K resolution.",
       "negative_prompt": "",
       "model": "Moss Image",
-      "category": "Advertising",
+      "category": "3D",
       "tags": [
-        "ad",
-        "ads"
+        "3D",
+        "cartoon",
+        "boy"
       ],
-      "is_premium": false,
-      "created_at": "2026-11-02T14:05:48.067Z"
-    },
-    {
-      "id": "pv-1793628141926-9270",
-      "title": "ad00207",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793628141926-9270.webp",
-      "prompt": "Create a premium commercial product advertisement featuring a floating can of Pringles Flame Extra Hot Cheese & Chilli as the hero subject. The can is positioned diagonally, tilted about 30 to 40 degrees, suspended in mid air with a dynamic, energetic composition. The packaging is perfectly sharp, highly detailed, glossy, and photorealistic with realistic reflections and clean label typography.\n\nSeveral golden curved potato crisps burst out from the open top of the can, frozen in motion with natural rotation and varying depth. Additional crisps float around the product to create movement and depth.\n\nLarge Swiss cheese cubes with realistic holes are scattered around the can, some closer to the camera and others farther away, each featuring detailed texture, soft highlights, and subtle shadows.\n\nA vibrant red chili pepper curves dramatically across the lower right side of the composition, appearing to fly around the product. Another fiery chili graphic appears on the can artwork, reinforcing the spicy theme.\n\nThe background is a smooth deep red to bright crimson gradient, illuminated with a soft radial glow behind the product to naturally draw attention toward the center. The background is clean, minimal, and free of distractions.\n\nAt the bottom foreground, include a large out of focus potato crisp crossing the frame with heavy depth of field blur, creating a cinematic foreground element and enhancing three dimensional depth.\n\nAdd a soft floating shadow directly beneath the can to reinforce the illusion that it is suspended in the air.\n\nPlace bold white promotional typography in the upper right corner, aligned diagonally to match the product angle:\n\nPRINGLES\nFLAME EXTRA HOT\nCHEESE & CHILLI\n\nUse a clean, modern, bold sans serif font with strong spacing and crisp edges.\n\nLighting should resemble a professional advertising studio setup with:\n\nSoft key light from the upper left\n\nBright rim lighting around the can\n\nSubtle reflections on the packaging\n\nVibrant color contrast\n\nHigh dynamic range\n\nRich saturation\n\nGlossy commercial finish\n\nRendering style:\n\nUltra photorealistic\n\nPremium food advertisement\n\nLuxury FMCG marketing campaign\n\nHyper detailed packaging\n\nRealistic floating objects\n\nDramatic composition\n\nCinematic depth of field\n\nSharp focus on the can\n\nHDR lighting\n\nGlobal illumination\n\nRay traced reflections\n\n8K resolution\n\nCommercial product photography\n\nModern branding aesthetic\n\nMagazine quality\n\nInstagram advertisement style\n\nClean premium composition\n\nVibrant red, yellow, orange, and black color palette\n\nDynamic motion frozen in time\n\nProfessional retail campaign quality",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Advertising",
-      "tags": [
-        "ad",
-        "ads"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-02T14:05:48.068Z"
-    },
-    {
-      "id": "pv-1793628209583-1209",
-      "title": "ad00208",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793628209583-1209.webp",
-      "prompt": "FORMAT:4:5 竖版超商业感零食 campaign 海报，超高分辨率（8K），户外大牌 + 社交媒体广告级出品Style: bold FMCG 广告 × 现代薯片 campaign × 高能量商业海报设计 × 高冲击力产品摄影核心主张：所有人都能听见——那一撕。围绕酥脆感、期待感、满足的咔嚓声构建画面。构图中的一切元素都在回应那个标志性的乐事撕袋动作。主构图：背景：深邃的乐事黄环境层次叠加：- 浓郁黄色渐变- 土豆纹理叠层- 动态速度线条- 细微盐晶粒子- 重复排版的文字底纹- 光泽感棚拍反射氛围感受：bold、充满食欲、高能量、商业级爆发力。人物主体：Z 世代年轻男女模特表情：俏皮、自信、正在享受的瞬间动作：将乐事袋伸向镜头正在撕开的动作中镜头角度：微仰 + 近距离视角强化产品统治力着装：现代街头风，中性色调让黄色主调占据绝对主导视觉爆破点：撕开（TEAR）成为视觉爆炸中心。在撕裂点：- 土豆薯片向外飞溅- 盐晶颗粒悬浮半空- 金黄油脂拉丝- 从撕口处辐射出的动态线条字体随撕袋动作物理性撕裂跟随乐事的撕袋轨迹。感受：满足、有冲击力、商业级夸张。产品主角：乐事经典薯片袋 + 薯片位置：前景中右角度：极限 3/4 英雄视角产品细节：- 超写实薯片纹理- 可见的波浪纹路- 光泽感金黄油脂高光- 逼真的盐晶- 浮雕 Lay's 标识- 高级包装袋反射薯片应传递：酥脆、轻盈、不可抗拒。字体系统：主标题：\"撕开开吃。\"字体风格：- 超粗体压缩无衬线- 超大堆叠式排版- 白色字体- 极紧凑字距- 在撕口点处撕裂/扭曲变形副文案：\"没人能只吃一片。\"背景文字：低透明度重复词汇：撕开咔嚓酥脆土豆盐粒金黄融入背景层次中卖点信息条：底部高级卖点条：□ 真薯原切□ 轻薄酥脆□ 标志性撕袋□ 完美咔嚓极简现代图标系统。行动号召区：左下角：\"新口味系列上市\"CTA 按钮：纯白矩形按钮按钮文字：\"立即抢购\"次级微文案：\"线上线下均有售\"网址与品牌信息：底部居中：www.lays.com底部微字：\"乐事 · 2026 限定版\"色彩系统：主色：乐事黄深邃土豆金辅色：白色字体点缀色：暖调土豆高光金黄油脂色调色板感受：bold、美味、高能量、商业感。灯光系统：主光：强劲商业棚拍主光源轮廓光：产品周围暖调土豆高光氛围光：撕袋动作后方的柔和黄光环境光：细微悬浮盐粒受光反射：FMCG 级光泽反射灯光感受：高级零食广告 × 现代商业摄影。超精细细节：- 超写实土豆纹理- 锐利薯片撕袋细节- 悬浮盐晶真实感- 金黄油脂反射- 高级包装袋纹理- 保持户外大牌可读性- 超干净字体边缘- 高端 FMCG 渲染品质构图动线：上区：巨型字体主导中区：撕袋爆破 + 人物互动前景：产品主角左下：CTA + 卖点视线动线：标题 → 撕袋 → 产品 → 薯片动态 → CTA镜头与渲染：- 商业美食摄影- Phase One 中画幅质感- 35–50mm 镜头- HDR 商业渲染- 超干净锐度- 高级 FMCG 调色最终调性：像什么：Nike 能量 campaign × 高端零食首发 × 现代 Behance 商业美食海报。",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Advertising",
-      "tags": [
-        "ad",
-        "ads"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-02T14:05:48.068Z"
+      "is_premium": true,
+      "created_at": "2026-11-02T14:05:48.036Z",
+      "is_draft": false
     },
     {
       "id": "pv-1793628273908-5383",
@@ -98,23 +70,56 @@
         "cute woman"
       ],
       "is_premium": true,
-      "created_at": "2026-11-02T14:05:48.068Z"
+      "created_at": "2026-11-02T14:05:48.032Z",
+      "is_draft": false
     },
     {
-      "id": "pv-1793628324884-1418",
-      "title": "3D 00212",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793628324884-1418.webp",
-      "prompt": "A cute stylized 3D cartoon character (boy/girl) with big expressive eyes, soft smooth skin, and round facial features, wearing glasses and a casual striped t-shirt, holding a professional DSLR camera. The character is emerging through a torn paper hole in a clean white wall, with realistic ripped paper edges and depth. Behind the hole is a bright blue gradient background, creating contrast. The character is smiling directly at the viewer, vibrant and friendly mood, Pixar-style rendering, ultra-detailed textures, soft studio lighting, high realism, 8K resolution.",
+      "id": "pv-1793628209583-1209",
+      "title": "ad00208",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793628209583-1209.webp",
+      "prompt": "FORMAT:4:5 竖版超商业感零食 campaign 海报，超高分辨率（8K），户外大牌 + 社交媒体广告级出品Style: bold FMCG 广告 × 现代薯片 campaign × 高能量商业海报设计 × 高冲击力产品摄影核心主张：所有人都能听见——那一撕。围绕酥脆感、期待感、满足的咔嚓声构建画面。构图中的一切元素都在回应那个标志性的乐事撕袋动作。主构图：背景：深邃的乐事黄环境层次叠加：- 浓郁黄色渐变- 土豆纹理叠层- 动态速度线条- 细微盐晶粒子- 重复排版的文字底纹- 光泽感棚拍反射氛围感受：bold、充满食欲、高能量、商业级爆发力。人物主体：Z 世代年轻男女模特表情：俏皮、自信、正在享受的瞬间动作：将乐事袋伸向镜头正在撕开的动作中镜头角度：微仰 + 近距离视角强化产品统治力着装：现代街头风，中性色调让黄色主调占据绝对主导视觉爆破点：撕开（TEAR）成为视觉爆炸中心。在撕裂点：- 土豆薯片向外飞溅- 盐晶颗粒悬浮半空- 金黄油脂拉丝- 从撕口处辐射出的动态线条字体随撕袋动作物理性撕裂跟随乐事的撕袋轨迹。感受：满足、有冲击力、商业级夸张。产品主角：乐事经典薯片袋 + 薯片位置：前景中右角度：极限 3/4 英雄视角产品细节：- 超写实薯片纹理- 可见的波浪纹路- 光泽感金黄油脂高光- 逼真的盐晶- 浮雕 Lay's 标识- 高级包装袋反射薯片应传递：酥脆、轻盈、不可抗拒。字体系统：主标题：\"撕开开吃。\"字体风格：- 超粗体压缩无衬线- 超大堆叠式排版- 白色字体- 极紧凑字距- 在撕口点处撕裂/扭曲变形副文案：\"没人能只吃一片。\"背景文字：低透明度重复词汇：撕开咔嚓酥脆土豆盐粒金黄融入背景层次中卖点信息条：底部高级卖点条：□ 真薯原切□ 轻薄酥脆□ 标志性撕袋□ 完美咔嚓极简现代图标系统。行动号召区：左下角：\"新口味系列上市\"CTA 按钮：纯白矩形按钮按钮文字：\"立即抢购\"次级微文案：\"线上线下均有售\"网址与品牌信息：底部居中：www.lays.com底部微字：\"乐事 · 2026 限定版\"色彩系统：主色：乐事黄深邃土豆金辅色：白色字体点缀色：暖调土豆高光金黄油脂色调色板感受：bold、美味、高能量、商业感。灯光系统：主光：强劲商业棚拍主光源轮廓光：产品周围暖调土豆高光氛围光：撕袋动作后方的柔和黄光环境光：细微悬浮盐粒受光反射：FMCG 级光泽反射灯光感受：高级零食广告 × 现代商业摄影。超精细细节：- 超写实土豆纹理- 锐利薯片撕袋细节- 悬浮盐晶真实感- 金黄油脂反射- 高级包装袋纹理- 保持户外大牌可读性- 超干净字体边缘- 高端 FMCG 渲染品质构图动线：上区：巨型字体主导中区：撕袋爆破 + 人物互动前景：产品主角左下：CTA + 卖点视线动线：标题 → 撕袋 → 产品 → 薯片动态 → CTA镜头与渲染：- 商业美食摄影- Phase One 中画幅质感- 35–50mm 镜头- HDR 商业渲染- 超干净锐度- 高级 FMCG 调色最终调性：像什么：Nike 能量 campaign × 高端零食首发 × 现代 Behance 商业美食海报。",
       "negative_prompt": "",
       "model": "Moss Image",
-      "category": "3D",
+      "category": "Advertising",
       "tags": [
-        "3D",
-        "cartoon",
-        "boy"
+        "ad",
+        "ads"
       ],
-      "is_premium": true,
-      "created_at": "2026-11-02T14:05:48.069Z"
+      "is_premium": false,
+      "created_at": "2026-11-02T14:05:48.029Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793628141926-9270",
+      "title": "ad00207",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793628141926-9270.webp",
+      "prompt": "Create a premium commercial product advertisement featuring a floating can of Pringles Flame Extra Hot Cheese & Chilli as the hero subject. The can is positioned diagonally, tilted about 30 to 40 degrees, suspended in mid air with a dynamic, energetic composition. The packaging is perfectly sharp, highly detailed, glossy, and photorealistic with realistic reflections and clean label typography.\n\nSeveral golden curved potato crisps burst out from the open top of the can, frozen in motion with natural rotation and varying depth. Additional crisps float around the product to create movement and depth.\n\nLarge Swiss cheese cubes with realistic holes are scattered around the can, some closer to the camera and others farther away, each featuring detailed texture, soft highlights, and subtle shadows.\n\nA vibrant red chili pepper curves dramatically across the lower right side of the composition, appearing to fly around the product. Another fiery chili graphic appears on the can artwork, reinforcing the spicy theme.\n\nThe background is a smooth deep red to bright crimson gradient, illuminated with a soft radial glow behind the product to naturally draw attention toward the center. The background is clean, minimal, and free of distractions.\n\nAt the bottom foreground, include a large out of focus potato crisp crossing the frame with heavy depth of field blur, creating a cinematic foreground element and enhancing three dimensional depth.\n\nAdd a soft floating shadow directly beneath the can to reinforce the illusion that it is suspended in the air.\n\nPlace bold white promotional typography in the upper right corner, aligned diagonally to match the product angle:\n\nPRINGLES\nFLAME EXTRA HOT\nCHEESE & CHILLI\n\nUse a clean, modern, bold sans serif font with strong spacing and crisp edges.\n\nLighting should resemble a professional advertising studio setup with:\n\nSoft key light from the upper left\n\nBright rim lighting around the can\n\nSubtle reflections on the packaging\n\nVibrant color contrast\n\nHigh dynamic range\n\nRich saturation\n\nGlossy commercial finish\n\nRendering style:\n\nUltra photorealistic\n\nPremium food advertisement\n\nLuxury FMCG marketing campaign\n\nHyper detailed packaging\n\nRealistic floating objects\n\nDramatic composition\n\nCinematic depth of field\n\nSharp focus on the can\n\nHDR lighting\n\nGlobal illumination\n\nRay traced reflections\n\n8K resolution\n\nCommercial product photography\n\nModern branding aesthetic\n\nMagazine quality\n\nInstagram advertisement style\n\nClean premium composition\n\nVibrant red, yellow, orange, and black color palette\n\nDynamic motion frozen in time\n\nProfessional retail campaign quality",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Advertising",
+      "tags": [
+        "ad",
+        "ads"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T14:05:48.026Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793628097342-2966",
+      "title": "ad 00206",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793628097342-2966.webp",
+      "prompt": "Ultra-premium Pringles commercial advertising poster, luxury snack food campaign, award-winning Behance-style product advertisement, Photoshop-quality commercial design, high-end food photography, premium CGI compositing, ultra-realistic 8K, vertical 3:4 poster. Create a bold, energetic, premium commercial advertisement for the iconic Pringles Sour Cream & Onion flavor that feels like an official global Pringles campaign with cinematic lighting, dynamic floating ingredients, and luxury advertising aesthetics, instantly communicating freshness, crunch, and irresistible flavor while maintaining a clean premium visual hierarchy. Use a luxury green background with deep emerald green edges, vibrant lime green center glow, dark forest green vignette, radial spotlight behind the product, soft volumetric lighting, subtle particle dust, floating green seasoning particles, soft smoke texture, premium gradient transitions, abstract light streaks, and tiny glowing green energy sparks, keeping the composition modern, energetic, and uncluttered. Position the authentic Pringles Sour Cream & Onion can as the hero object floating diagonally at approximately a 20° angle, slightly left of center, occupying around 70% of the canvas height, with accurate packaging, realistic metallic rim, glossy reflections, sharp label details, realistic shadows, ambient occlusion, and professional studio-quality appearance without redesigning the packaging. Place bold editorial typography on the right reading \"PRINGLES SOUR CREAM & ONION\" in ultra bold condensed white sans-serif with subtle distressed texture, premium kerning, modern spacing, and commercial hierarchy, with \"FLAVOUR\" below in bright lime green. Surround the can with dynamic floating ingredients including golden Pringles chips, fresh green onion rings, chopped chives, spring onion pieces, white sour cream droplets, cream splashes, seasoning particles, floating herbs, and small green cubes swirling naturally with realistic motion. Show several chips bursting upward from the opened can while others rotate around it with realistic motion blur, allowing some ingredients to overlap the typography for depth. At the bottom place a luxury blue and white ceramic bowl filled with fresh sour cream topped with chopped chives, with a dramatic cream splash exploding behind the bowl and interacting naturally with the floating ingredients. Illuminate everything using premium commercial studio HDR lighting with a soft top key light, strong green rim light, subtle backlight, glossy highlights, realistic shadows, and luxury advertising finish. Use a color palette of emerald green, lime green, forest green, white, silver, cream white, fresh onion green, and golden potato chip tones. Maintain professional visual hierarchy, rule of thirds, strong focal point, foreground, middle ground and background separation, balanced composition, negative space optimization, premium typography alignment, and award-winning Behance advertising layout. Apply advanced Photoshop retouching, professional compositing, masking, luxury color grading, dodge and burn, micro-contrast sharpening, premium reflections, natural shadows, realistic depth of field, and atmospheric enhancement for an advertising agency quality finish. Add floating particles, light rays, motion streaks, tiny green sparks, cream droplets, ingredient fragments, soft glow, lens bloom, depth fog, and subtle vignette. Style references include Official Pringles Global Campaign, PepsiCo Product Advertising, Behance Featured Product Posters, Adobe Photoshop Commercial Artwork, Luxury FMCG Advertising, Modern Packaging Campaigns, and High-End CGI Product Photography. Simulate Sony A7R V commercial product photography with a 100mm macro lens, ultra-realistic HDR, premium CGI plus photography blend, award-winning advertising quality, extreme detail, magazine cover quality, and hyper-sharp finish in a vertical 3:4 8K composition. Negative prompt: low quality, blurry packaging, incorrect Pringles logo, distorted can, wrong proportions, duplicate chips, unrealistic ingredients, poor typography, weak composition, oversaturated colors, flat lighting, cluttered design, cartoon style, watermark, low detail, messy reflections, bad shadows, incorrect perspective, cheap advertisement.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Advertising",
+      "tags": [
+        "ad",
+        "ads"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T14:05:48.023Z",
+      "is_draft": false
     },
     {
       "id": "pv-1793627822213-8003",
