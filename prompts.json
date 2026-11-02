@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-02T13:57:45.413Z",
+  "updated_at": "2026-11-02T13:58:11.936Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,10 +39,10 @@
   ],
   "items": [
     {
-      "id": "pv-1793627586516-8507",
-      "title": "Girl 00200",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793627586516-8507.webp",
-      "prompt": "Create a high-quality full-body Y2K fashion editorial photograph of the same female character from the reference image.\n\nThe character is sitting on a clean white studio floor in a relaxed, cute pose, leaning slightly forward while tying the bright neon-pink shoelaces of a chunky white sneaker. Her head is tilted slightly downward and she is looking at the shoe with a focused, gentle expression, subtly biting her lower lip in concentration.\n\nCHARACTER:\n- Young woman with short, wavy purple bob hair\n- Soft purple bangs framing the forehead\n- Cute pastel pink and purple hair clips\n- Natural fair skin with visible freckles across the cheeks and nose\n- Soft makeup, subtle eyeliner and natural pink lips\n- Keep the character's facial features, hairstyle, skin tone and overall identity consistent with the reference image\n\nOUTFIT:\n- Oversized white long-sleeved crew-neck sweatshirt\n- Cute colorful pastel Y2K graphic printed on the front\n- Matching white and pastel-pink shorts\n- Sheer white patterned tights with small cute bow motifs\n- Pastel ruffled scrunchie bracelet around the wrist\n- Chunky white sneakers with holographic/iridescent panels\n- Pastel mint-green accents on the sneakers\n- Bright vibrant neon-pink shoelaces\n\nPOSE AND COMPOSITION:\n- Full-body composition\n- Sitting naturally on the floor\n- One leg bent upward and the other positioned comfortably to the side\n- Hands actively tying the pink shoelaces\n- One sneaker prominently visible in the foreground\n- Camera positioned slightly low and front-facing\n- Fashion editorial photography\n- Natural anatomy and realistic hands and fingers\n- Balanced composition with the character as the main focus\n\nBACKGROUND:\nClean bright white studio background with a playful Y2K pop aesthetic.\nSurround the character with colorful decorative elements:\n- Pastel purple, pink, mint and lavender doodles\n- Hearts\n- Stars\n- Sparkles\n- Shoe-print graphics\n- Cute arrows\n- Planet/ring doodles\n- Floating sneaker illustrations\n- Pastel shoeboxes stacked around the scene\n- Cute sneaker-cleaning bottles and brushes\n- Small decorative text bubbles saying “Sneaker Game” and “Lace Up",
+      "id": "pv-1793627822213-8003",
+      "title": "Girl 00203",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793627822213-8003.webp",
+      "prompt": "五官精致，皮肤白皙，表情自然放松，温柔微笑，眼神看向镜头。发型与妆容，黑直长发，搭配空气刘海，带着浅浅的笑，整体造型时尚休闲，展现出青春感和文艺范；妆容是伪素颜感的清透甜妹妆，重点是粉嫩的腮红、自然的卧蚕和水光感唇釉，妆面干净不假白，弱化了浓重色彩，初恋感，突出少女的元气感。服装造型-核心色系：身穿白色吊带短裙，白色板鞋。身型：超模身材，完美身材比例。构图：四宫格拼接，包含近景正面、全身正面、侧面、背面，全方位呈现角色造型与体型。布光：棚拍均匀柔光，光线精准勾勒面料的精致纹理、肌肤的通透感与发型的蓬松感，最大化突出角色的清新气质。 成一张4K超高清三视图角色设计图，背景为白色。内容必须包含：从左往右依次是肩部以上与头部的大特写（突出面部特征和发型细节）、正面全身视图、左侧面全身视图、背面全身视图。严格确保所有视角的形象、服装、身体比例绝对一致，并以专业、均衡的布局呈现，角色居中，画面饱满，真人写实风格，五官超高清，不模糊，不扭曲变形 。",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -53,24 +53,8 @@
         "cute woman"
       ],
       "is_premium": false,
-      "created_at": "2026-11-02T13:57:45.083Z"
-    },
-    {
-      "id": "pv-1793627634428-1295",
-      "title": "Girl 00201",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793627634428-1295.webp",
-      "prompt": "Theme: [Theme]\nMain title: [Title]\nSubject: [Subject]\nOutfit: [Outfit]\nPose & props: [Pose And Props]\nMain color: [Main Color]\nAccent color: [Accent Color]\nCover lines: [Cover Lines]\n\nCreate a 9:16 cute youth magazine cover with a clean white or soft cream graphic background.\n\nUse one young adult character as the main photographic subject, framed in a 3/4 body composition with natural skin texture, expressive eyes, relaxed body language, and a lively candid feel.\n\nPlace an oversized glossy bubble title across the upper 30–38% of the poster. The letters should feel soft, inflated and playful, with bold outlines, subtle offset shadows, curved white highlights, and slight hand-drawn irregularity. Let the character naturally overlap part of the title.\n\nBehind the character, add one large organic graphic shape in the secondary color to build depth without creating a realistic environment.\n\nKeep the editorial information clear and moderate: use only 3–4 small text areas, with strong contrast between the huge display title and tiny supporting typography.\n\nAdd 6–10 lightweight graphic accents such as dots, curves, open frames, checker patterns, brush marks, brackets or simple hand-drawn icons. Keep them playful but visually controlled.\n\nUse only 2–3 real props related to the theme. Let props communicate the story instead of building a full realistic scene.\n\nOverall look: sweet, youthful, playful, polished, graphic editorial, visually rich but never cluttered.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Advertising",
-      "tags": [
-        "girl",
-        "woman",
-        "cut girl",
-        "cute woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-02T13:57:45.083Z"
+      "created_at": "2026-11-02T13:57:45.063Z",
+      "is_draft": false
     },
     {
       "id": "pv-1793627759242-3703",
@@ -87,13 +71,32 @@
         "cute woman"
       ],
       "is_premium": false,
-      "created_at": "2026-11-02T13:57:45.412Z"
+      "created_at": "2026-11-02T13:57:45.061Z",
+      "is_draft": false
     },
     {
-      "id": "pv-1793627822213-8003",
-      "title": "Girl 00203",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793627822213-8003.webp",
-      "prompt": "五官精致，皮肤白皙，表情自然放松，温柔微笑，眼神看向镜头。发型与妆容，黑直长发，搭配空气刘海，带着浅浅的笑，整体造型时尚休闲，展现出青春感和文艺范；妆容是伪素颜感的清透甜妹妆，重点是粉嫩的腮红、自然的卧蚕和水光感唇釉，妆面干净不假白，弱化了浓重色彩，初恋感，突出少女的元气感。服装造型-核心色系：身穿白色吊带短裙，白色板鞋。身型：超模身材，完美身材比例。构图：四宫格拼接，包含近景正面、全身正面、侧面、背面，全方位呈现角色造型与体型。布光：棚拍均匀柔光，光线精准勾勒面料的精致纹理、肌肤的通透感与发型的蓬松感，最大化突出角色的清新气质。 成一张4K超高清三视图角色设计图，背景为白色。内容必须包含：从左往右依次是肩部以上与头部的大特写（突出面部特征和发型细节）、正面全身视图、左侧面全身视图、背面全身视图。严格确保所有视角的形象、服装、身体比例绝对一致，并以专业、均衡的布局呈现，角色居中，画面饱满，真人写实风格，五官超高清，不模糊，不扭曲变形 。",
+      "id": "pv-1793627634428-1295",
+      "title": "Girl 00201",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793627634428-1295.webp",
+      "prompt": "Theme: [Theme]\nMain title: [Title]\nSubject: [Subject]\nOutfit: [Outfit]\nPose & props: [Pose And Props]\nMain color: [Main Color]\nAccent color: [Accent Color]\nCover lines: [Cover Lines]\n\nCreate a 9:16 cute youth magazine cover with a clean white or soft cream graphic background.\n\nUse one young adult character as the main photographic subject, framed in a 3/4 body composition with natural skin texture, expressive eyes, relaxed body language, and a lively candid feel.\n\nPlace an oversized glossy bubble title across the upper 30–38% of the poster. The letters should feel soft, inflated and playful, with bold outlines, subtle offset shadows, curved white highlights, and slight hand-drawn irregularity. Let the character naturally overlap part of the title.\n\nBehind the character, add one large organic graphic shape in the secondary color to build depth without creating a realistic environment.\n\nKeep the editorial information clear and moderate: use only 3–4 small text areas, with strong contrast between the huge display title and tiny supporting typography.\n\nAdd 6–10 lightweight graphic accents such as dots, curves, open frames, checker patterns, brush marks, brackets or simple hand-drawn icons. Keep them playful but visually controlled.\n\nUse only 2–3 real props related to the theme. Let props communicate the story instead of building a full realistic scene.\n\nOverall look: sweet, youthful, playful, polished, graphic editorial, visually rich but never cluttered.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Advertising",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:57:45.053Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793627586516-8507",
+      "title": "Girl 00200",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793627586516-8507.webp",
+      "prompt": "Create a high-quality full-body Y2K fashion editorial photograph of the same female character from the reference image.\n\nThe character is sitting on a clean white studio floor in a relaxed, cute pose, leaning slightly forward while tying the bright neon-pink shoelaces of a chunky white sneaker. Her head is tilted slightly downward and she is looking at the shoe with a focused, gentle expression, subtly biting her lower lip in concentration.\n\nCHARACTER:\n- Young woman with short, wavy purple bob hair\n- Soft purple bangs framing the forehead\n- Cute pastel pink and purple hair clips\n- Natural fair skin with visible freckles across the cheeks and nose\n- Soft makeup, subtle eyeliner and natural pink lips\n- Keep the character's facial features, hairstyle, skin tone and overall identity consistent with the reference image\n\nOUTFIT:\n- Oversized white long-sleeved crew-neck sweatshirt\n- Cute colorful pastel Y2K graphic printed on the front\n- Matching white and pastel-pink shorts\n- Sheer white patterned tights with small cute bow motifs\n- Pastel ruffled scrunchie bracelet around the wrist\n- Chunky white sneakers with holographic/iridescent panels\n- Pastel mint-green accents on the sneakers\n- Bright vibrant neon-pink shoelaces\n\nPOSE AND COMPOSITION:\n- Full-body composition\n- Sitting naturally on the floor\n- One leg bent upward and the other positioned comfortably to the side\n- Hands actively tying the pink shoelaces\n- One sneaker prominently visible in the foreground\n- Camera positioned slightly low and front-facing\n- Fashion editorial photography\n- Natural anatomy and realistic hands and fingers\n- Balanced composition with the character as the main focus\n\nBACKGROUND:\nClean bright white studio background with a playful Y2K pop aesthetic.\nSurround the character with colorful decorative elements:\n- Pastel purple, pink, mint and lavender doodles\n- Hearts\n- Stars\n- Sparkles\n- Shoe-print graphics\n- Cute arrows\n- Planet/ring doodles\n- Floating sneaker illustrations\n- Pastel shoeboxes stacked around the scene\n- Cute sneaker-cleaning bottles and brushes\n- Small decorative text bubbles saying “Sneaker Game” and “Lace Up",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -104,7 +107,8 @@
         "cute woman"
       ],
       "is_premium": false,
-      "created_at": "2026-11-02T13:57:45.412Z"
+      "created_at": "2026-11-02T13:57:45.046Z",
+      "is_draft": false
     },
     {
       "id": "pv-1793627493943-9922",
@@ -4104,7 +4108,7 @@
       "id": "pv-1792408207869-8595",
       "title": "Girl 00023",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792408207869-8595.webp",
-      "prompt": "摄影风格：冷白清透CCD生活照风\n写真方向：清爽生活照\n场景方向：白色甜品店室内 / 玻璃甜品柜 / 白色圆桌 / 蓝白窗光\n服装方向：奶油柠檬黄色修身针织短袖上衣 + 冷白色低腰短裙\n气质标签：明亮、清纯、轻甜、自然、亲近\n五官方向：真实初恋感淡颜，明亮干净，不网红\n五官细节：小巧鹅蛋脸，面中轻微饱满，清亮杏眼，眼神明净有光，鼻梁清秀，唇形柔软自然，淡裸粉唇色\n发型方向：黑色长发半扎或自然披散，发丝轻盈，额前少量碎发\n身形方向：轻盈纤��，上围饱满自然\n线条强调：中\n镜头方向：大腿及上半身\n姿态动作：站在甜品柜边，认真的看着甜品菜单\n光线氛围：白天窗边高色温自然光 + 店内冷白灯 + 极弱柔闪\n滤镜效果：冷白高光 + 清透生活照色彩 + 轻颗粒 + 轻微过曝\n画幅比例：9:16\n补充要求：黄色服装只作为明亮点色，整体不要暖黄，不要奶油黄滤镜；人物皮肤保持冷白通透，服装自然突出胸腰比例",
+      "prompt": "摄影风格：冷白清透CCD生活照风\n写真方向：清爽生活照\n场景方向：白色甜品店室内 / 玻璃甜品柜 / 白色圆桌 / 蓝白窗光\n服装方向：奶油柠檬黄色修身针织短袖上衣 + 冷白色低腰短裙\n气质标签：明亮、清纯、轻甜、自然、亲近\n五官方向：真实初恋感淡颜，明亮干净，不网红\n五官细节：小巧鹅蛋脸，面中轻微饱满，清亮杏眼，眼神明净有光，鼻梁清秀，唇形柔软自然，淡裸粉唇色\n发型方向：黑色长发半扎或自然披散，发丝轻盈，额前少量碎发\n身形方向：轻盈纤细，上围饱满自然\n线条强调：中\n镜头方向：大腿及上半身\n姿态动作：站在甜品柜边，认真的看着甜品菜单\n光线氛围：白天窗边高色温自然光 + 店内冷白灯 + 极弱柔闪\n滤镜效果：冷白高光 + 清透生活照色彩 + 轻颗粒 + 轻微过曝\n画幅比例：9:16\n补充要求：黄色服装只作为明亮点色，整体不要暖黄，不要奶油黄滤镜；人物皮肤保持冷白通透，服装自然突出胸腰比例",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
