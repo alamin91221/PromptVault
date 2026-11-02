@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-02T13:17:55.293Z",
+  "updated_at": "2026-11-02T13:18:22.434Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,64 +39,20 @@
   ],
   "items": [
     {
-      "id": "pv-1793625221312-3195",
-      "title": "ad 00155",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625221312-3195.webp",
-      "prompt": "Create a visually brilliant 9:16 premium advertising poster for \"DYSON GEN5DETECT\". The concept should transform cleaning into futuristic power and elegant control. The result must look like a world-class commercial poster - premium, inventive, clean, and visually irresistible.\n\nMain visual:\nThe Dyson vacuum stands heroically in the foreground inside a luxurious modern home interior with polished floors, soft daylight, and minimal premium decor. A dramatic beam of precision light reveals microscopic dust particles on the floor, while the vacuum is shown pulling those particles upward into a swirling vortex of glowing dust, light, and airflow. The suction effect should feel advanced and powerful, almost scientific, but still visually elegant. The machine should look sleek, premium, and beautifully engineered.\n\nColor palette:\nSilver, graphite, subtle gold, icy blue light accents, clean white interior tones.\n\nTypography and poster copy:\nMain headline:\n\"SEE DIRT. REMOVE DOUBT.\"\nProduct title:\n\"DYSON GEN5DETECT\"\nSubheadline:\n\"Intelligent cleaning power, redefined.\"\nFeature callouts:\n- \"Reveals Invisible Dust\"\n- \"Advanced HEPA Filtration\"\n- \"Powerful Fade-Free Suction\"\n- \"Up to 70 Minutes Run Time\"\n- \"Precision Engineered Performance\"\nCTA:\n\"Clean smarter\"\nSupporting line:\n\"The future of home care starts now.\"\nSmall footer copy:\n\"From visible dirt to microscopic particles - engineered to capture what others leave behind.\"\n\nLayout:\nKeep the product large and dominant. Use the laser dust reveal as the key visual storytelling element. Make the text layout modern, premium, and easy to read. Add a refined technical feel with minimal micro-lines and precision accents. This should look like a luxury technology ad, not a basic home appliance poster.\n\nStyle:\nHyper-detailed commercial product photography, cinematic premium lighting, elegant modern design, scientific sophistication, polished advertising finish, luxurious and clean.",
+      "id": "pv-1793625469114-6347",
+      "title": "Girl 00160",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625469114-6347.webp",
+      "prompt": "9:16 vertical, ultra realistic candid bridal portrait, intimate Korean private photobook aesthetic, cinematic youth romance film still. Adult East Asian bride, mid 20s, small delicate face, luminous fair skin, expressive eyes, soft dark hair, translucent Korean makeup. Lightweight white wedding dress, long airy veil, small blush pink bouquet loosely at her side. She moves quickly through a sunlit European stone corridor, turning halfway back with a subtle playful almost smile, hair sweeping across her face, veil trailing behind. Handheld framing, off center composition, wider lens, slight motion blur, awkwardly cropped edges, veil partially crossing lens. Strong afternoon sunlight on her face, cheek, collarbone, and dress; deep shadows from stone architecture behind. Wind tousled hair, natural fabric wrinkles, soft overexposed highlights, fleeting in between expression. Kodak Portra 160 look: warm luminous skin, creamy whites, delicate blush tones, low contrast, restrained saturation, subtle highlight bloom, fine organic grain. No text, no watermark.",
       "negative_prompt": "",
       "model": "Moss Image",
-      "category": "Advertising",
+      "category": "Portrait",
       "tags": [
-        "ads",
-        "ad"
+        "girl",
+        "woman"
       ],
       "is_premium": false,
-      "created_at": "2026-11-02T13:17:55.268Z"
-    },
-    {
-      "id": "pv-1793625313029-5303",
-      "title": "ad00156",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625313029-5303.webp",
-      "prompt": "ACT AS:\nA senior automotive advertising art director and high-performance poster designer. \nYour task is to recreate a viral-level automotive poster using the exact composition logic, typography dominance, and motion energy — but with a different car.\n\nPROJECT TITLE: “MOTION DOMINANCE”\n\nBRAND: Supra\n\nFORMAT:\n4:5 vertical, ultra-realistic, 8K resolution, poster design  \nDesigned for: Instagram + portfolio + automotive campaign  \n\nSTYLE DNA:\nCinematic motion × aggressive perspective × neon accents × bold typography hierarchy × premium automotive ad  \n\nCORE RULE:\nMatch composition and impact — NOT the exact car or copy  \n\nPHASE 1: HERO COMPOSITION\n\n- Car angle: Extreme low-angle front 3/4 perspective  \n- Position: Slightly tilted, moving toward viewer  \n- Scale: Car dominates 70% of frame  \n\nMOTION:\n- Road streaking beneath  \n- Background warped slightly (speed illusion)  \n\nCAR DETAIL:\n- Hyper-real reflections  \n- Headlights glowing (warm tone)  \n- Wheel motion blur (controlled)\n\nPHASE 2: TYPOGRAPHY DOMINANCE\n\nMAIN TEXT:\n- Large bold word (top area, behind car)\n\nExample:\n“PORSCHE” / “SUPRA” / “RS7”\n\nSTYLE:\n- Heavy italic / condensed / stretched  \n- Slight perspective distortion  \n\nSECONDARY TAG:\n- Model name (e.g. “911 GT3” / “GR SUPRA”)\n- Smaller but sharp placement near main text  \n\nPHASE 3: BACKGROUND SYSTEM\n\n- Abstract racing environment  \n- Dark base (black / deep brown / charcoal)  \n\nGRAPHICS:\n- Subtle X marks / racing patterns  \n- Neon strokes (yellow / orange / magenta)\n\nDEPTH:\n- Layered gradients + light bloom  \n\nPHASE 4: COLOR STRATEGY\n\nPRIMARY:\n- Dark cinematic base  \n\nACCENT:\n- Neon yellow / orange glow  \n\nHIGHLIGHTS:\n- Reflections on car edges  \n\nCONTRAST:\n- High separation between car and background  \n\nPHASE 5: LIGHTING\n\n- Strong front light (car clarity)\n- Rim lighting (edges glowing)\n- Ground reflection subtle  \n\nFEEL:\nPremium + aggressive  \n\nPHASE 6: LOWER INFORMATION BLOCK\n\n- Title:\n  → “[CAR MODEL NAME]” (bold, clean)\n\n- Paragraph:\n  → Small lorem-style automotive text  \n\n- Footer:\n  → “Posted by [Studio Name]”\n\nALIGNMENT:\n- Center or slight left  \n\nPHASE 7: CAMERA & RENDER\n\n- Lens: 24–35mm (dynamic distortion)\n- Depth of field:\n  → Car sharp  \n  → Background motion blur  \n\nQUALITY:\n- Ultra-sharp\n- No noise\n- High contrast  \n\nPHASE 8: FINAL OUTPUT\n\n- Feels like Behance-level automotive poster  \n- Strong Instagram impact  \n- Clean but aggressive  \n- Not cluttered",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Advertising",
-      "tags": [
-        "ads",
-        "ad"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-02T13:17:55.281Z"
-    },
-    {
-      "id": "pv-1793625356854-1906",
-      "title": "ad 00157",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625356854-1906.webp",
-      "prompt": "Ultra-premium automotive advertising poster on a dark cinematic background. A breathtaking exotic supercar dominates the center composition, photographed from a dramatic low-angle perspective. The vehicle features aggressive aerodynamic bodywork, glossy paint reflections, carbon fiber details, razor-sharp LED headlights, and ultra-detailed performance wheels.Massive bold typography reading \"UNLEASH\" spans across the background in oversized modern sans-serif lettering. In front of it, dynamic metallic chrome typography spells \"THE BEAST\", featuring reflective surfaces, futuristic styling, and luxury performance branding aesthetics.The supercar is illuminated by cinematic neon lighting with atmospheric fog, creating dramatic reflections across the body panels. Motion blur effects, glowing light trails, and subtle tire smoke add a sense of speed and power. The vehicle slightly overlaps the typography, creating depth and a premium editorial composition.Small luxury branding text above reads:\"PERFORMANCE REDEFINED\"Side captions include:\"ENGINEERED FOR SPEED\"\n\"LIMITLESS POWER\"\n\"LUXURY PERFORMANCE\"Large statement headline near the bottom:\"BORN TO DOMINATE\"Short slogan beneath:\"More than a machine. A statement of power, precision, and passion.\"Include subtle technical specifications, minimalist grid lines, crop marks, performance data graphics, racing-inspired symbols, and premium automotive editorial elements. Bottom branding area displays:\"DREAMLAB AUTOMOTIVE\"with a small production code beneath.Style combines luxury automotive advertising, modern editorial design, futuristic typography, premium sports car marketing, cinematic photography, high-end magazine cover aesthetics, hyper-realistic rendering, dramatic lighting, reflections, ultra-sharp details, professional graphic design, 8K resolution, print-ready quality.Color Palette:Matte black backgroundMetallic silver typographyElectric blue neon accentsCarbon fiber texturesGlossy reflectionsWhite LED highlightsKeywords:\nsupercar, luxury automotive, hypercar poster, sports car advertisement, cinematic lighting, futuristic typography, automotive branding, performance vehicle, premium marketing, magazine cover design, racing culture, luxury lifestyle, editorial poster, high-end automotive photography, 8K ultra realistic.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Advertising",
-      "tags": [
-        "ads",
-        "ad"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-02T13:17:55.282Z"
-    },
-    {
-      "id": "pv-1793625399754-8619",
-      "title": "Girl 00158",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625399754-8619.webp",
-      "prompt": "Ultra-premium automotive fashion poster featuring a stunning glossy red sports car parked in a futuristic urban environment at night. The vehicle dominates the composition with aggressive aerodynamic styling, carbon fiber details, glowing LED headlights, polished alloy wheels, and mirror-like reflections across its flawless paintwork.Standing confidently beside the car is a high-fashion female model wearing a luxurious designer outfit. She poses elegantly against the vehicle with a powerful and sophisticated attitude, showcasing luxury lifestyle aesthetics. Her outfit combines modern street luxury and high-end fashion, featuring premium fabrics, statement accessories, and runway-inspired styling.Massive bold typography reading \"REDLINE\" dominates the upper composition in oversized metallic lettering. Layered in front, sleek chrome typography spells \"ELEGANCE\", featuring reflective surfaces, subtle neon glows, and premium automotive branding aesthetics.The scene is illuminated by cinematic city lights, neon reflections, and dramatic shadows. The wet pavement reflects both the sports car and model, creating a visually stunning editorial composition. The model slightly overlaps the typography while the car extends beyond the frame, creating depth and luxury magazine-cover appeal.Small luxury text above reads:\"POWER MEETS BEAUTY\"Side captions include:\"LUXURY PERFORMANCE\"\n\"LIMITLESS STYLE\"\n\"ENGINEERED TO IMPRESS\"Large statement headline near the bottom:\"DRIVE THE DREAM\"Luxury slogan beneath:\"Where performance, passion, and elegance become one.\"Include premium editorial elements, automotive specifications graphics, subtle speed indicators, geometric design accents, crop marks, luxury branding details, fashion magazine layouts, and modern advertising visuals.Bottom branding section:\"DREAMLAB AUTOMOTIVE\"with a premium production code underneath.Style:\nLuxury automotive advertising, Vogue fashion editorial, high-end lifestyle campaign, cinematic photography, premium sports car marketing, luxury magazine cover design, hyper-realistic rendering, dramatic lighting, glossy reflections, sophisticated composition, award-winning commercial photography, 8K ultra-detailed masterpiece, print-ready quality.Color Palette:Deep metallic redGloss blackChrome silverNeon blue highlightsLuxury gold accentsDark urban tonesKeywords:\nred sports car, luxury automotive, fashion model, automotive poster, luxury lifestyle, cinematic lighting, sports car advertisement, fashion editorial, premium branding, exotic vehicle, luxury campaign, magazine cover, hyper realistic, urban nightscape, high-end photography, 8K masterpiece.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Advertising",
-      "tags": [
-        "ads",
-        "ad"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-02T13:17:55.291Z"
+      "created_at": "2026-11-02T13:17:54.825Z",
+      "is_draft": false
     },
     {
       "id": "pv-1793625435818-613",
@@ -111,22 +67,72 @@
         "woman"
       ],
       "is_premium": false,
-      "created_at": "2026-11-02T13:17:55.292Z"
+      "created_at": "2026-11-02T13:17:54.822Z",
+      "is_draft": false
     },
     {
-      "id": "pv-1793625469114-6347",
-      "title": "Girl 00160",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625469114-6347.webp",
-      "prompt": "9:16 vertical, ultra realistic candid bridal portrait, intimate Korean private photobook aesthetic, cinematic youth romance film still. Adult East Asian bride, mid 20s, small delicate face, luminous fair skin, expressive eyes, soft dark hair, translucent Korean makeup. Lightweight white wedding dress, long airy veil, small blush pink bouquet loosely at her side. She moves quickly through a sunlit European stone corridor, turning halfway back with a subtle playful almost smile, hair sweeping across her face, veil trailing behind. Handheld framing, off center composition, wider lens, slight motion blur, awkwardly cropped edges, veil partially crossing lens. Strong afternoon sunlight on her face, cheek, collarbone, and dress; deep shadows from stone architecture behind. Wind tousled hair, natural fabric wrinkles, soft overexposed highlights, fleeting in between expression. Kodak Portra 160 look: warm luminous skin, creamy whites, delicate blush tones, low contrast, restrained saturation, subtle highlight bloom, fine organic grain. No text, no watermark.",
+      "id": "pv-1793625399754-8619",
+      "title": "Girl 00158",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625399754-8619.webp",
+      "prompt": "Ultra-premium automotive fashion poster featuring a stunning glossy red sports car parked in a futuristic urban environment at night. The vehicle dominates the composition with aggressive aerodynamic styling, carbon fiber details, glowing LED headlights, polished alloy wheels, and mirror-like reflections across its flawless paintwork.Standing confidently beside the car is a high-fashion female model wearing a luxurious designer outfit. She poses elegantly against the vehicle with a powerful and sophisticated attitude, showcasing luxury lifestyle aesthetics. Her outfit combines modern street luxury and high-end fashion, featuring premium fabrics, statement accessories, and runway-inspired styling.Massive bold typography reading \"REDLINE\" dominates the upper composition in oversized metallic lettering. Layered in front, sleek chrome typography spells \"ELEGANCE\", featuring reflective surfaces, subtle neon glows, and premium automotive branding aesthetics.The scene is illuminated by cinematic city lights, neon reflections, and dramatic shadows. The wet pavement reflects both the sports car and model, creating a visually stunning editorial composition. The model slightly overlaps the typography while the car extends beyond the frame, creating depth and luxury magazine-cover appeal.Small luxury text above reads:\"POWER MEETS BEAUTY\"Side captions include:\"LUXURY PERFORMANCE\"\n\"LIMITLESS STYLE\"\n\"ENGINEERED TO IMPRESS\"Large statement headline near the bottom:\"DRIVE THE DREAM\"Luxury slogan beneath:\"Where performance, passion, and elegance become one.\"Include premium editorial elements, automotive specifications graphics, subtle speed indicators, geometric design accents, crop marks, luxury branding details, fashion magazine layouts, and modern advertising visuals.Bottom branding section:\"DREAMLAB AUTOMOTIVE\"with a premium production code underneath.Style:\nLuxury automotive advertising, Vogue fashion editorial, high-end lifestyle campaign, cinematic photography, premium sports car marketing, luxury magazine cover design, hyper-realistic rendering, dramatic lighting, glossy reflections, sophisticated composition, award-winning commercial photography, 8K ultra-detailed masterpiece, print-ready quality.Color Palette:Deep metallic redGloss blackChrome silverNeon blue highlightsLuxury gold accentsDark urban tonesKeywords:\nred sports car, luxury automotive, fashion model, automotive poster, luxury lifestyle, cinematic lighting, sports car advertisement, fashion editorial, premium branding, exotic vehicle, luxury campaign, magazine cover, hyper realistic, urban nightscape, high-end photography, 8K masterpiece.",
       "negative_prompt": "",
       "model": "Moss Image",
-      "category": "Portrait",
+      "category": "Advertising",
       "tags": [
-        "girl",
-        "woman"
+        "ads",
+        "ad"
       ],
       "is_premium": false,
-      "created_at": "2026-11-02T13:17:55.293Z"
+      "created_at": "2026-11-02T13:17:54.816Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793625356854-1906",
+      "title": "ad 00157",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625356854-1906.webp",
+      "prompt": "Ultra-premium automotive advertising poster on a dark cinematic background. A breathtaking exotic supercar dominates the center composition, photographed from a dramatic low-angle perspective. The vehicle features aggressive aerodynamic bodywork, glossy paint reflections, carbon fiber details, razor-sharp LED headlights, and ultra-detailed performance wheels.Massive bold typography reading \"UNLEASH\" spans across the background in oversized modern sans-serif lettering. In front of it, dynamic metallic chrome typography spells \"THE BEAST\", featuring reflective surfaces, futuristic styling, and luxury performance branding aesthetics.The supercar is illuminated by cinematic neon lighting with atmospheric fog, creating dramatic reflections across the body panels. Motion blur effects, glowing light trails, and subtle tire smoke add a sense of speed and power. The vehicle slightly overlaps the typography, creating depth and a premium editorial composition.Small luxury branding text above reads:\"PERFORMANCE REDEFINED\"Side captions include:\"ENGINEERED FOR SPEED\"\n\"LIMITLESS POWER\"\n\"LUXURY PERFORMANCE\"Large statement headline near the bottom:\"BORN TO DOMINATE\"Short slogan beneath:\"More than a machine. A statement of power, precision, and passion.\"Include subtle technical specifications, minimalist grid lines, crop marks, performance data graphics, racing-inspired symbols, and premium automotive editorial elements. Bottom branding area displays:\"DREAMLAB AUTOMOTIVE\"with a small production code beneath.Style combines luxury automotive advertising, modern editorial design, futuristic typography, premium sports car marketing, cinematic photography, high-end magazine cover aesthetics, hyper-realistic rendering, dramatic lighting, reflections, ultra-sharp details, professional graphic design, 8K resolution, print-ready quality.Color Palette:Matte black backgroundMetallic silver typographyElectric blue neon accentsCarbon fiber texturesGlossy reflectionsWhite LED highlightsKeywords:\nsupercar, luxury automotive, hypercar poster, sports car advertisement, cinematic lighting, futuristic typography, automotive branding, performance vehicle, premium marketing, magazine cover design, racing culture, luxury lifestyle, editorial poster, high-end automotive photography, 8K ultra realistic.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Advertising",
+      "tags": [
+        "ads",
+        "ad"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:17:54.814Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793625313029-5303",
+      "title": "ad00156",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625313029-5303.webp",
+      "prompt": "ACT AS:\nA senior automotive advertising art director and high-performance poster designer. \nYour task is to recreate a viral-level automotive poster using the exact composition logic, typography dominance, and motion energy — but with a different car.\n\nPROJECT TITLE: “MOTION DOMINANCE”\n\nBRAND: Supra\n\nFORMAT:\n4:5 vertical, ultra-realistic, 8K resolution, poster design  \nDesigned for: Instagram + portfolio + automotive campaign  \n\nSTYLE DNA:\nCinematic motion × aggressive perspective × neon accents × bold typography hierarchy × premium automotive ad  \n\nCORE RULE:\nMatch composition and impact — NOT the exact car or copy  \n\nPHASE 1: HERO COMPOSITION\n\n- Car angle: Extreme low-angle front 3/4 perspective  \n- Position: Slightly tilted, moving toward viewer  \n- Scale: Car dominates 70% of frame  \n\nMOTION:\n- Road streaking beneath  \n- Background warped slightly (speed illusion)  \n\nCAR DETAIL:\n- Hyper-real reflections  \n- Headlights glowing (warm tone)  \n- Wheel motion blur (controlled)\n\nPHASE 2: TYPOGRAPHY DOMINANCE\n\nMAIN TEXT:\n- Large bold word (top area, behind car)\n\nExample:\n“PORSCHE” / “SUPRA” / “RS7”\n\nSTYLE:\n- Heavy italic / condensed / stretched  \n- Slight perspective distortion  \n\nSECONDARY TAG:\n- Model name (e.g. “911 GT3” / “GR SUPRA”)\n- Smaller but sharp placement near main text  \n\nPHASE 3: BACKGROUND SYSTEM\n\n- Abstract racing environment  \n- Dark base (black / deep brown / charcoal)  \n\nGRAPHICS:\n- Subtle X marks / racing patterns  \n- Neon strokes (yellow / orange / magenta)\n\nDEPTH:\n- Layered gradients + light bloom  \n\nPHASE 4: COLOR STRATEGY\n\nPRIMARY:\n- Dark cinematic base  \n\nACCENT:\n- Neon yellow / orange glow  \n\nHIGHLIGHTS:\n- Reflections on car edges  \n\nCONTRAST:\n- High separation between car and background  \n\nPHASE 5: LIGHTING\n\n- Strong front light (car clarity)\n- Rim lighting (edges glowing)\n- Ground reflection subtle  \n\nFEEL:\nPremium + aggressive  \n\nPHASE 6: LOWER INFORMATION BLOCK\n\n- Title:\n  → “[CAR MODEL NAME]” (bold, clean)\n\n- Paragraph:\n  → Small lorem-style automotive text  \n\n- Footer:\n  → “Posted by [Studio Name]”\n\nALIGNMENT:\n- Center or slight left  \n\nPHASE 7: CAMERA & RENDER\n\n- Lens: 24–35mm (dynamic distortion)\n- Depth of field:\n  → Car sharp  \n  → Background motion blur  \n\nQUALITY:\n- Ultra-sharp\n- No noise\n- High contrast  \n\nPHASE 8: FINAL OUTPUT\n\n- Feels like Behance-level automotive poster  \n- Strong Instagram impact  \n- Clean but aggressive  \n- Not cluttered",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Advertising",
+      "tags": [
+        "ads",
+        "ad"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:17:54.811Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793625221312-3195",
+      "title": "ad 00155",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625221312-3195.webp",
+      "prompt": "Create a visually brilliant 9:16 premium advertising poster for \"DYSON GEN5DETECT\". The concept should transform cleaning into futuristic power and elegant control. The result must look like a world-class commercial poster - premium, inventive, clean, and visually irresistible.\n\nMain visual:\nThe Dyson vacuum stands heroically in the foreground inside a luxurious modern home interior with polished floors, soft daylight, and minimal premium decor. A dramatic beam of precision light reveals microscopic dust particles on the floor, while the vacuum is shown pulling those particles upward into a swirling vortex of glowing dust, light, and airflow. The suction effect should feel advanced and powerful, almost scientific, but still visually elegant. The machine should look sleek, premium, and beautifully engineered.\n\nColor palette:\nSilver, graphite, subtle gold, icy blue light accents, clean white interior tones.\n\nTypography and poster copy:\nMain headline:\n\"SEE DIRT. REMOVE DOUBT.\"\nProduct title:\n\"DYSON GEN5DETECT\"\nSubheadline:\n\"Intelligent cleaning power, redefined.\"\nFeature callouts:\n- \"Reveals Invisible Dust\"\n- \"Advanced HEPA Filtration\"\n- \"Powerful Fade-Free Suction\"\n- \"Up to 70 Minutes Run Time\"\n- \"Precision Engineered Performance\"\nCTA:\n\"Clean smarter\"\nSupporting line:\n\"The future of home care starts now.\"\nSmall footer copy:\n\"From visible dirt to microscopic particles - engineered to capture what others leave behind.\"\n\nLayout:\nKeep the product large and dominant. Use the laser dust reveal as the key visual storytelling element. Make the text layout modern, premium, and easy to read. Add a refined technical feel with minimal micro-lines and precision accents. This should look like a luxury technology ad, not a basic home appliance poster.\n\nStyle:\nHyper-detailed commercial product photography, cinematic premium lighting, elegant modern design, scientific sophistication, polished advertising finish, luxurious and clean.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Advertising",
+      "tags": [
+        "ads",
+        "ad"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:17:54.809Z",
+      "is_draft": false
     },
     {
       "id": "pv-1793546365678-2408",
