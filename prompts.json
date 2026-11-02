@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-02T14:09:55.585Z",
+  "updated_at": "2026-11-02T14:13:05.652Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,23 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1793628779689-6457",
+      "title": "Girl 00223",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793628779689-6457.webp",
+      "prompt": "Ultra-premium K-pop comeback concept featuring a four-member global girl group embodying luxury chaos, emotional power, and futuristic femininity.\n\nThe album visual identity blends:\n\nCyberpunk neon nights + high fashion couture\nWatercolor ink sketch fusion with hyper-real lighting\nGlobal city symbolism (Seoul × Tokyo × Paris × NYC)\nThemes: power, fame, identity, rebellion, elegance\n\nEach member represents a “realm”:\n\nThe Flame (Red / Power / Stage dominance)\nThe Mirror (Silver / Mystery / Emotionless beauty)\nThe Bloom (Pink / Soft power / Charisma)\nThe Storm (Blue / Control / Cool intensity)\n\nTypography: sharp luxury serif + glitch distortion\nColor language: neon magenta, black obsidian, electric blue, chrome gold\nMood: “Runway meets apocalypse + idol goddess energy”",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-02T14:13:05.652Z"
+    },
     {
       "id": "pv-1793628559133-678",
       "title": "Girl 00217",
@@ -323,7 +340,7 @@
       "id": "pv-1793627367580-253",
       "title": "Girl 00195",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793627367580-253.webp",
-      "prompt": "生成一张高端奢侈品彩妆广告大片海报\n\n镜头 & 构图 & 机位\n超近距离广角透视构图，低机位广角仰拍，极端透视但构图优雅，浅景深，戏剧化透视，前景产品清晰，人物面部清晰，背景轻微虚化，画面具有充足留白\n\n人物造型 & 妆容 & 姿态\n一位时尚亚洲女性模特穿着飘逸的红色礼服，红色口红妆容，红色指甲，金色耳环，长款凌乱湿发。模特身体轻微后仰，脖颈线条优雅，眼神冷艳自信。红色丝绸裙摆从腰部向右侧大幅展开，形成流动的波浪曲线\n\n产品动作 & 细节 & 位置\n模特伸手将一支红色 YSL 口红递向镜头，手部自然握住产品底部，口红位于画面最前景并被夸张放大，产品占据画面中心偏左。金色高反光金属口红管身，YSL 黑金奢华徽标装饰，红色膏体质感细腻\n\n背景 & 色彩搭配\n背景为干净的深红色渐变摄影棚，整体采用红色、酒红色、金色和黑色高级配色\n\n整体风格 & 光影 & 画质参数\n奢侈品美妆广告风格，时尚杂志封面质感，高级商业摄影，强烈红金配色，高级时尚杂志风格，商业广告摄影，奢华感，柔和棚拍灯光，金属高光反射，真实皮肤质感，超清细节，电影级调色，8K，高端美妆海报\n\n负面提示词（禁止出现内容）\n不要出现以下负面问题：低清晰度，模糊，噪点，手指畸形，多余手指，少手指，融合手指，断手，手掌变形，手指过长，手指过短，关节错误，指甲变形，产品和手融合，产品边缘混乱，口红变形，口红弯曲，管身扭曲，金属反射脏乱，logo 乱码，错误文字，水印，脸部变形，五官崩坏，眼睛不对称，皮肤塑料感，过度磨皮，廉价广告感，背景杂乱，构图拥挤，产品过度贴脸，人物被遮挡过多，颜色脏，过曝，欠曝，动漫风，卡通风，3D 渲染感",
+      "prompt": "生成一张高端奢侈品彩妆广告大片海报\n\n镜头 & 构图 & 机位\n超近距离广角透视构图，低机位广角仰拍，极端透视但构图优雅，浅景深，戏剧化透视，前景产品清晰，人物面部清晰，背景轻微虚化，画面具有充足留白\n\n人物造型 & 妆容 & 姿态\n一位时尚亚洲女性模特穿着飘逸的红色礼服，红色口红妆容，红色指甲，金色耳环，长款凌乱湿发。模特身体轻微后仰，脖颈线条优雅，眼神冷艳自信。红色丝绸裙摆从腰部向右侧大幅展开，形成流动的波浪曲线\n\n产品动作 & 细节 & 位置\n模特伸手将一支红色 YSL 口红递向镜头，手部自然握住产品底部，口红位于画面最前景并被夸张放大，产品占据画面中心偏左。金色高反光金属口红管身，YSL 黑金奢华徽标装饰，红色膏体质感细腻\n\n背景 & 色彩搭配\n背景为干净的深红色渐变摄影棚，整体采��红色、酒红色、金色和黑色高级配色\n\n整体风格 & 光影 & 画质参数\n奢侈品美妆广告风格，时尚杂志封面质感，高级商业摄影，强烈红金配色，高级时尚杂志风格，商业广告摄影，奢华感，柔和棚拍灯光，金属高光反射，真实皮肤质感，超清细节，电影级调色，8K，高端美妆海报\n\n负面提示词（禁止出现内容）\n不要出现以下负面问题：低清晰度，模糊，噪点，手指畸形，多余手指，少手指，融合手指，断手，手掌变形，手指过长，手指过短，关节错误，指甲变形，产品和手融合，产品边缘混乱，口红变形，口红弯曲，管身扭曲，金属反射脏乱，logo 乱码，错误文字，水印，脸部变形，五官崩坏，眼睛不对称，皮肤塑料感，过度磨皮，廉价广告感，背景杂乱，构图拥挤，产品过度贴脸，人物被遮挡过多，颜色脏，过曝，欠曝，动漫风，卡通风，3D 渲染感",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -7681,7 +7698,7 @@
       "id": "pv-1792305788080",
       "title": "Sakura Girl",
       "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1792305788080.webp",
-      "prompt": "subject: an adult Chinese woman in her mid-20s, smooth pale skin, delicate oval face, dark expressive eyes, soft matte rose-red lips, delicate lashes, elegant collarbones, and long silky black hair\n超写实电影级人像摄影。竖幅9:16构图。低角度仰拍，聚焦于人物面部。拍摄对象站在春日盛开的樱花树下。柔和的自然光透过枝叶，在脸庞、颈项和白色T恤上投下斑驳的光影。略显凌乱的头发随风飘动，几缕发丝在微风中摇曳。拍摄对象仰望天空，神情宁静而梦幻。肌肤柔和透亮，妆容自然，纹理逼真，双眸栩栩如生。使用85mm人像镜头拍摄，浅景深，奶油般的背景虚化，前景和背景中樱花花瓣的柔和虚化。明亮轻盈的氛围，柔和的粉彩色调，透过枝叶隐约可见的蔚蓝天空。自然光，高动态范围，电影级光线，头发上细腻的高光，柔和的阴影过渡，逼真的肌肤纹理，微妙的电影级色彩调校，梦幻般的春日氛围，充满情感的叙事性摄影。前景花朵部分遮盖画面，景深强，构图层次丰富，专业人像摄影，捕捉自然瞬间，展现生活方式类杂志美学，细节极其丰富，品质���越，照片级真实感，逼真的镜头虚化，顶级相机品质。无过度修图，无美颜滤镜，无夸张妆容，无奇幻效果，无卡通风格，无额外配饰，无面部或身体改变。精确参考风格：仰视，樱花盛开，柔和的阳光透过树叶，梦幻般的春日氛围，浅景深，电影般的自然人像，写实摄影。",
+      "prompt": "subject: an adult Chinese woman in her mid-20s, smooth pale skin, delicate oval face, dark expressive eyes, soft matte rose-red lips, delicate lashes, elegant collarbones, and long silky black hair\n超写实电影级人像摄影。竖幅9:16构图。低角度仰拍，聚焦于人物面部。拍摄对象站在春日盛开的樱花树下。柔和的自然光透过枝叶，在脸庞、颈项和白色T恤上投下斑驳的光影。略显凌乱的头发随风飘动，几缕发丝在微风中摇曳。拍摄对象仰望天空，神情宁静而梦幻。肌肤柔和透亮，妆容自然，纹理逼真���双眸栩栩如生。使用85mm人像镜头拍摄，浅景深，奶油般的背景虚化，前景和背景中樱花花瓣的柔和虚化。明亮轻盈的氛围，柔和的粉彩色调，透过枝叶隐约可见的蔚蓝天空。自然光，高动态范围，电影级光线，头发上细腻的高光，柔和的阴影过渡，逼真的肌肤纹理，微妙的电影级色彩调校，梦幻般的春日氛围，充满情感的叙事性摄影。前景花朵部分遮盖画面，景深强，构图层次丰富，专业人像摄影，捕捉自然瞬间，展现生活方式类杂志美学，细节极其丰富，品质���越，照片级真实感，逼真的镜头虚化，顶级相机品质。无过度修图，无美颜滤镜，无夸张妆容，无奇幻效果，无卡通风格，无额外配饰，无面部或身体改变。精确参考风格：仰视，樱花盛开，柔和的阳光透过树叶，梦幻般的春日氛围，浅景深，电影般的自然人像，写实摄影。",
       "negative_prompt": "",
       "model": "z-image-turbo",
       "category": "Portrait",
