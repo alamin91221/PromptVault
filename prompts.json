@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-02T14:06:13.389Z",
+  "updated_at": "2026-11-02T14:09:28.452Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -38,6 +38,74 @@
     "Recraft V3"
   ],
   "items": [
+    {
+      "id": "pv-1793628397625-5175",
+      "title": "3D00213",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793628397625-5175.webp",
+      "prompt": "3D Pixar-style expression sheet, cute stylized avatar with wavy dark hair and round glasses, 3x3 grid layout, peeking through torn paper circles, emotions: wink, sunglasses cool, thinking, happy smile, thumbs up, drinking boba tea, friendly wave, laughing, cute pout, different outfits: green sweater, red jacket, yellow hoodie, striped tee, orange shirt, blue top, purple vest, pink cardigan, teal pullover. Soft cinematic lighting, clean white background, vibrant colors, high detail, adorable cartoon character, playful expressions, consistent character design across all poses",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "3D",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T14:09:28.441Z"
+    },
+    {
+      "id": "pv-1793628438111-2561",
+      "title": "Girl 00214",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793628438111-2561.webp",
+      "prompt": "3D Pixar-style animated girl shown in a 6-panel grid, same character with short brown hair and big blue eyes, different emotions (happy, shocked, angry, caring, confident, thumbs up), colorful solid backgrounds (yellow, blue, red, pink, purple, green), soft studio lighting, smooth 3D render, vibrant colors, ultra-detailed, 4K, animated movie quality.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "3D",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T14:09:28.451Z"
+    },
+    {
+      "id": "pv-1793628474633-7429",
+      "title": "Girl 00215",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793628474633-7429.webp",
+      "prompt": "A clean 4-panel grid art collage featuring four distinct, stylish chibi girls in a Korean webtoon aesthetic. The illustration uses a minimalist flat vector design with bold, crisp black outlines and a pop-art comic vibe. Each panel features a unique solid color backdrop, including vibrant teal, bright sun yellow, and deep royal blue. The characters have large glossy anime-style dark eyes, softly blushed pink cheeks, and trendy hairstyles such as neat side-braids and elegant low buns. They wear fashionable high-contrast striped turtlenecks and sleek black sweaters, accessorized with oversized colorful hoop earrings. Perfect symmetry, high resolution, graphic art style. --ar 3:4",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "3D",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-02T14:09:28.451Z"
+    },
+    {
+      "id": "pv-1793628559133-678",
+      "title": "Girl 00217",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793628559133-678.webp",
+      "prompt": "3D cartoon avatar character showing different emotions arranged in a 3x3 grid, same male/female character, Pixar-style animation, each square showing a different expression (happy, shocked, angry, caring with a puppy, confident, thumbs up, sad, thinking, professional), colorful gradient backgrounds for each panel, soft studio lighting, smooth 3D rendering, expressive eyes and facial expressions, modern emoji-style character design, clean composition, ultra-detailed, vibrant colors, 8K.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "3D",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T14:09:28.452Z"
+    },
     {
       "id": "pv-1793628324884-1418",
       "title": "3D 00212",
