@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-02T13:23:44.323Z",
+  "updated_at": "2026-11-02T13:24:20.166Z",
   "categories": [
     "Portrait",
     "Anime",
@@ -39,27 +39,10 @@
   ],
   "items": [
     {
-      "id": "pv-1793625531216-4960",
-      "title": "Girl 00161",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625531216-4960.webp",
-      "prompt": "上传人像作为面部参考，生成雨后窗边的电影感人像。人物低头沉思，黑色松散盘发，保留自然神态与动作，穿优雅黑色轻薄吊带长裙，微透但不暴露。隔着带雨滴的玻璃拍摄，冷蓝背景与暖金色光影交错，浅景深、朦胧倒影、复古胶片质感。加入少量极简英文排版，画面自然高级，9:16竖图。\n\n避免：脸部变形、动作僵硬、过度磨皮、低俗性感、文字过多、手机界面、水印。",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cut girl",
-        "cute woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-02T13:23:44.320Z"
-    },
-    {
-      "id": "pv-1793625579567-2483",
-      "title": "Girl 00162",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625579567-2483.webp",
-      "prompt": "Ultra-cinematic close-up portrait of a young woman sitting inside a dark urban café, photographed from outside through a large reflective glass window. She has a sleek chin-length black bob with a center part, soft loose strands falling naturally across her face, pale realistic skin with subtle freckles, light green-gray eyes, soft natural lips, minimal makeup, and a quiet, distant, melancholic expression. She wears an elegant all-black outfit with sheer black sleeves.\nHer face is visible beneath multiple layers of glass reflections: blue streaks from passing cars, blurred city buildings, warm orange lights, street silhouettes and abstract urban shapes flowing across the frame. The reflections partially obscure her face, creating a dreamy double-exposure effect. Warm golden-hour sunlight gently cuts across sections of her face and glossy hair while the café interior remains dark and atmospheric.\nIntimate candid composition, subject looking sideways or subtly toward the camera, natural unposed body language, shallow depth of field, creamy bokeh, realistic glass scratches and faint dust, soft lens flare, subtle highlight bloom, cool blue reflections mixed with warm amber tones, rich blacks, cinematic color grading, 85mm lens, f/1.4, Kodak Portra 400 film aesthetic, fine 35mm grain, soft halation, natural skin texture, poetic urban solitude, luxury fashion editorial meets documentary street photography, photorealistic, vertical 4:5, no text, no watermark.",
+      "id": "pv-1793625821126-1319",
+      "title": "Girl 00170",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625821126-1319.webp",
+      "prompt": "A cinematic ethereal underwater portrait of a young adult woman gracefully swimming underwater, surrounded by delicate pink cherry blossoms floating on the water surface above her, soft bubbles drifting around her, sunlight filtering through the water and creating beautiful caustic refraction patterns across her face and body, eyes gently closed, peaceful dreamlike expression, flowing dark hair floating naturally in the water, translucent flowing fabric moving gracefully with the current, realistic natural skin texture, detailed facial features, soft pink and lavender tones, dreamy atmospheric lighting, shallow depth of field, delicate highlights, surreal fine-art photography, poetic and melancholic mood, highly realistic water physics, volumetric underwater light rays, subtle film grain, editorial photography, no text, no watermark, vertical composition, 2160×3840 px.",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -70,92 +53,8 @@
         "cute woman"
       ],
       "is_premium": true,
-      "created_at": "2026-11-02T13:23:44.320Z"
-    },
-    {
-      "id": "pv-1793625611625-2122",
-      "title": "Girl 00163",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625611625-2122.webp",
-      "prompt": "Vertical film aesthetic close-up portrait, elegant East Asian woman, sleek low pulled-back black hair, wispy stray hairs across face, tiny pearl stud earrings, sleeveless black turtleneck knit top, blurred vertical metal railing as foreground frame, strong depth of field, soft warm indoor diffused lighting, heavily blurred bokeh background, natural film grain texture, subtle light makeup, realistic skin texture, eyes gazing gently sideways, calm intellectual relaxed vibe, vintage warm brown tone, ultra realistic portrait photo, 8K --ar 9:16 --v 6.0 --style raw --s 230",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cut girl",
-        "cute woman"
-      ],
-      "is_premium": true,
-      "created_at": "2026-11-02T13:23:44.321Z"
-    },
-    {
-      "id": "pv-1793625675520-1511",
-      "title": "Girl 00165",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625675520-1511.webp",
-      "prompt": "成年年轻女性，清透桃粉甜美妆，深棕长直发与自然风吹碎发，白色蕾丝吊带搭配宽松浅蓝条纹衬衫、深蓝格纹下装；盛夏城市街巷实景，人物处于强烈日照中，皮肤与浅色服装局部高曝光，背景保留冷青色阴影与真实街景杂乱感；竖版人像，以近景、半身和三分之二身体为主，人物直视镜头或闭眼甜笑，动作轻松俏皮；整体呈低锐度、轻柔焦、亮部 bloom、低饱和蓝白色调的便携数码相机抓拍质感。",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cut girl",
-        "cute woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-02T13:23:44.321Z"
-    },
-    {
-      "id": "pv-1793625709125-6559",
-      "title": "Girl 00166",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625709125-6559.webp",
-      "prompt": "主題：\n青空をつかむ指\n\n主体：\n真夏の日本の住宅街で、20代の成人女性が地面近くまで腰を落とし、両手をカメラへ大きく伸ばしている。人物は画面中央やや右に配置し、上半身が画面の約4割。画面左下には曲げた膝、左上には極端に大きく写る手を置き、澄んだ青空を広く見せる。\n\n人物・表情：\n自然な日系の顔立ち。黒髪を高めの小さなお団子にまとめ、薄いシースルーバングと頬に沿う後れ毛を残す。淡いピンクのチーク、繊細なブラウンのアイメイク、自然な涙袋、透け感のあるコーラルピンクのリップ。顔をわずかに下へ傾け、片目を閉じてウインクし、もう片方の目はレンズを見る。口元は力を抜いた静かな表情。\n\n服装・ポーズ：\n白い細リブ素材のショート丈キャミソールに、薄手の白いレースカーディガンを肩からゆるく落として重ねる。ボトムは淡いブルーのハイウエストデニムショートパンツ。人物自身の右腕を画面左上へ伸ばし、手のひらをレンズ直前まで近づけ、親指と人差し指を大きく開く。人物自身の左手は画面右下から差し出し、手のひらを上向きにして指を自然に広げる。両膝を曲げた低い姿勢で、身体の重心は後方。\n\n背景・光：\n夏の昼下がりの日本の静かな住宅街。低い戸建て、コンクリート塀、街路樹、電柱、細い電線が奥へ続く。看板文字は小さくぼかし、読めない状態にする。背景の約半分以上を鮮やかな青空と少量の白い雲が占める。強い太陽光が画面左上から差し、顔、肩、腕、膝の上面を明るく照らす。影は右下へ落ち、地面と白い服に青空の冷たい反射光が入る。\n\n構図・カメラ：\n縦4:5。地面すれすれの超ローアングルから見上げる超広角撮影。カメラに最も近い右手を画面左上で巨大に写し、遠近感を大胆に誇張する。もう一方の手は画面右下、顔は中央右、左膝は左下に配置。上部には広い青空の余白を残す。顔と手にピントを合わせ、住宅街の奥行きは軽くぼかす。\n\n質感・スタイル：\n夏の日差しを感じるリアルなスナップ写真。自然な肌理、細かな産毛、布の編み目、デニムの繊維を残す。明るく爽やかな発色、やや高めのコントラスト、青空は深いコバルトブルー。過度な美肌補正を避け、広角レンズ特有の大胆な遠近感と、偶然撮れたような躍動感を持たせる。\n\nネガティブ：\n未成年に見える人物、不自然な顔、不自然な視線、余分な指、欠けた指、融合した手、左右の手の混同、関節の破綻、手のひらの変形、不自然な重力、誤った遠近法、衣服の崩れ、光源と矛盾する影、読める文字、文字化け、ロゴ、透かし、過度な美肌補正、プラスチックのような肌。",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cut girl",
-        "cute woman"
-      ],
-      "is_premium": true,
-      "created_at": "2026-11-02T13:23:44.321Z"
-    },
-    {
-      "id": "pv-1793625738084-7217",
-      "title": "Girl 00167",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625738084-7217.webp",
-      "prompt": "Presented in a casual smartphone snapshot style with a trendy social-media aesthetic. The overall color palette is soft and gentle, enhanced with subtle glow and low-light effects to create a dreamy, almost fateful atmosphere.The image features a close-up portrait of a stunning 18-year-old Asian girl with cool fair skin and delicate, porcelain-like, dewy skin. Her facial features are refined, dimensional, soft, and beautifully balanced. Her long light-pink hair flows naturally in the breeze, with loose strands gently brushing across her cheeks and body.She has slender, elegant fingers and poses naturally with a graceful yet youthful and playful energy. She is wearing a flowing white long dress, creating a fresh, pure, and ethereal appearance.The background features a vivid blue sky with soft white clouds under bright sunshine. She stands beneath blooming bougainvillea, surrounded by vibrant flowers and naturally scattered light and shadows. Strong yet organic contrast between sunlight and shade enhances her fresh, delicate, and otherworldly presence.The composition should feel spontaneous and unplanned, like a beautiful moment casually captured on a smartphone rather than a professionally staged photoshoot. Avoid overly polished composition or artificial studio lighting. Preserve a natural snapshot quality, subtle imperfections, gentle highlights, soft atmospheric glow, and an authentic social-media photography aesthetic.Aspect ratio: 9:16 vertical.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cut girl",
-        "cute woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-02T13:23:44.322Z"
-    },
-    {
-      "id": "pv-1793625766942-7312",
-      "title": "Girl 00168",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625766942-7312.webp",
-      "prompt": "Ultra-realistic cinematic portrait of a beautiful young East Asian woman outdoors in a lush green garden, blowing soap bubbles with a bubble wand held near her lips, dreamy gaze directly into camera, long wavy dark brown hair flowing naturally with soft wind-blown strands across forehead, flawless glowing skin, subtle peach makeup, natural pink lips slightly parted, wearing an elegant white vintage lace blouse with intricate embroidery and puffed sleeves. Dozens of floating iridescent soap bubbles surrounding her at various depths, some large foreground bubbles creating depth and bokeh. Golden hour sunlight filtering through trees, warm backlighting on hair, shallow depth of field, creamy green background blur, cinematic color grading, ultra detailed eyes, realistic skin texture, professional fashion photography, 85mm lens, f/1.4, HDR, natural sunlight, high-end magazine editorial, vertical composition, masterpiece, photorealistic, extremely sharp focus on face, soft dreamy atmosphere.",
-      "negative_prompt": "",
-      "model": "Moss Image",
-      "category": "Portrait",
-      "tags": [
-        "girl",
-        "woman",
-        "cut girl",
-        "cute woman"
-      ],
-      "is_premium": false,
-      "created_at": "2026-11-02T13:23:44.322Z"
+      "created_at": "2026-11-02T13:23:44.276Z",
+      "is_draft": false
     },
     {
       "id": "pv-1793625795082-2368",
@@ -172,13 +71,50 @@
         "cute woman"
       ],
       "is_premium": false,
-      "created_at": "2026-11-02T13:23:44.323Z"
+      "created_at": "2026-11-02T13:23:44.274Z",
+      "is_draft": false
     },
     {
-      "id": "pv-1793625821126-1319",
-      "title": "Girl 00170",
-      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625821126-1319.webp",
-      "prompt": "A cinematic ethereal underwater portrait of a young adult woman gracefully swimming underwater, surrounded by delicate pink cherry blossoms floating on the water surface above her, soft bubbles drifting around her, sunlight filtering through the water and creating beautiful caustic refraction patterns across her face and body, eyes gently closed, peaceful dreamlike expression, flowing dark hair floating naturally in the water, translucent flowing fabric moving gracefully with the current, realistic natural skin texture, detailed facial features, soft pink and lavender tones, dreamy atmospheric lighting, shallow depth of field, delicate highlights, surreal fine-art photography, poetic and melancholic mood, highly realistic water physics, volumetric underwater light rays, subtle film grain, editorial photography, no text, no watermark, vertical composition, 2160×3840 px.",
+      "id": "pv-1793625766942-7312",
+      "title": "Girl 00168",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625766942-7312.webp",
+      "prompt": "Ultra-realistic cinematic portrait of a beautiful young East Asian woman outdoors in a lush green garden, blowing soap bubbles with a bubble wand held near her lips, dreamy gaze directly into camera, long wavy dark brown hair flowing naturally with soft wind-blown strands across forehead, flawless glowing skin, subtle peach makeup, natural pink lips slightly parted, wearing an elegant white vintage lace blouse with intricate embroidery and puffed sleeves. Dozens of floating iridescent soap bubbles surrounding her at various depths, some large foreground bubbles creating depth and bokeh. Golden hour sunlight filtering through trees, warm backlighting on hair, shallow depth of field, creamy green background blur, cinematic color grading, ultra detailed eyes, realistic skin texture, professional fashion photography, 85mm lens, f/1.4, HDR, natural sunlight, high-end magazine editorial, vertical composition, masterpiece, photorealistic, extremely sharp focus on face, soft dreamy atmosphere.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:23:44.271Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793625738084-7217",
+      "title": "Girl 00167",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625738084-7217.webp",
+      "prompt": "Presented in a casual smartphone snapshot style with a trendy social-media aesthetic. The overall color palette is soft and gentle, enhanced with subtle glow and low-light effects to create a dreamy, almost fateful atmosphere.The image features a close-up portrait of a stunning 18-year-old Asian girl with cool fair skin and delicate, porcelain-like, dewy skin. Her facial features are refined, dimensional, soft, and beautifully balanced. Her long light-pink hair flows naturally in the breeze, with loose strands gently brushing across her cheeks and body.She has slender, elegant fingers and poses naturally with a graceful yet youthful and playful energy. She is wearing a flowing white long dress, creating a fresh, pure, and ethereal appearance.The background features a vivid blue sky with soft white clouds under bright sunshine. She stands beneath blooming bougainvillea, surrounded by vibrant flowers and naturally scattered light and shadows. Strong yet organic contrast between sunlight and shade enhances her fresh, delicate, and otherworldly presence.The composition should feel spontaneous and unplanned, like a beautiful moment casually captured on a smartphone rather than a professionally staged photoshoot. Avoid overly polished composition or artificial studio lighting. Preserve a natural snapshot quality, subtle imperfections, gentle highlights, soft atmospheric glow, and an authentic social-media photography aesthetic.Aspect ratio: 9:16 vertical.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:23:44.269Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793625709125-6559",
+      "title": "Girl 00166",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625709125-6559.webp",
+      "prompt": "主題：\n青空をつかむ指\n\n主体：\n真夏の日本の住宅街で、20代の成人女性が地面近くまで腰を落とし、両手をカメラへ大きく伸ばしている。人物は画面中央やや右に配置し、上半身が画面の約4割。画面左下には曲げた膝、左上には極端に大きく写る手を置き、澄んだ青空を広く見せる。\n\n人物・表情：\n自然な日系の顔立ち。黒髪を高めの小さなお団子にまとめ、薄いシースルーバングと頬に沿う後れ毛を残す。淡いピンクのチーク、繊細なブラウンのアイメイク、自然な涙袋、透け感のあるコーラルピンクのリップ。顔をわずかに下へ傾け、片目を閉じてウインクし、もう片方の目はレンズを見る。口元は力を抜いた静かな表情。\n\n服装・ポーズ：\n白い細リブ素材のショート丈キャミソールに、薄手の白いレースカーディガンを肩からゆるく落として重ねる。ボトムは淡いブルーのハイウエストデニムショートパンツ。人物自身の右腕を画面左上へ伸ばし、手のひらをレンズ直前まで近づけ、親指と人差し指を大きく開く。人物自身の左手は画面右下から差し出し、手のひらを上向きにして指を自然に広げる。両膝を曲げた低い姿勢で、身体の重心は後方。\n\n背景・光：\n夏の昼下がりの日本の静かな住宅街。低い戸建て、コンクリート塀、街路樹、電柱、細い電線が奥へ続く。看板文字は小さくぼかし、読めない状態にする。背景の約半分以上を鮮やかな青空と少量の白い雲が占める。強い太陽光が画面左上から差し、顔、肩、腕、膝の上面を明るく照らす。影は右下へ落ち、地面と白い服に青空の冷たい反射光が入る。\n\n構図・カメラ：\n縦4:5。地面すれすれの超ローアングルから見上げる超広角撮影。カメラに最も近い右手を画面左上で巨大に写し、遠近感を大胆に誇張する。もう一方の手は画面右下、顔は中央右、左膝は左下に配置。上部には広い青空の余白を残す。顔と手にピントを合わせ、住宅街の奥行きは軽くぼかす。\n\n質感・スタイル：\n夏の日差しを感じるリアルなスナップ写真。自然な肌理、細かな産毛、布の編み目、デニムの繊維を残す。明るく爽やかな発色、やや高めのコントラスト、青空は深いコバルトブルー。過度な美肌補正を避け、広角レンズ特有の大胆な遠近感と、偶然撮れたような躍動感を持たせる。\n\nネガティブ：\n未成年に見える人物、不自然な顔、不自然な視線、余分な指、欠けた指、融合した手、左右の手の混同、関節の破綻、手のひらの変形、不自然な重力、誤った遠近法、衣服の崩れ、光源と矛盾する影、読める文字、文字化け、ロゴ、透かし、過度な美肌補正、プラスチックのような肌。",
       "negative_prompt": "",
       "model": "Moss Image",
       "category": "Portrait",
@@ -189,7 +125,80 @@
         "cute woman"
       ],
       "is_premium": true,
-      "created_at": "2026-11-02T13:23:44.323Z"
+      "created_at": "2026-11-02T13:23:44.262Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793625675520-1511",
+      "title": "Girl 00165",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625675520-1511.webp",
+      "prompt": "成年年轻女性，清透桃粉甜美妆，深棕长直发与自然风吹碎发，白色蕾丝吊带搭配宽松浅蓝条纹衬衫、深蓝格纹下装；盛夏城市街巷实景，人物处于强烈日照中，皮肤与浅色服装局部高曝光，背景保留冷青色阴影与真实街景杂乱感；竖版人像，以近景、半身和三分之二身体为主，人物直视镜头或闭眼甜笑，动作轻松俏皮；整体呈低锐度、轻柔焦、亮部 bloom、低饱和蓝白色调的便携数码相机抓拍质感。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:23:44.260Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793625611625-2122",
+      "title": "Girl 00163",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625611625-2122.webp",
+      "prompt": "Vertical film aesthetic close-up portrait, elegant East Asian woman, sleek low pulled-back black hair, wispy stray hairs across face, tiny pearl stud earrings, sleeveless black turtleneck knit top, blurred vertical metal railing as foreground frame, strong depth of field, soft warm indoor diffused lighting, heavily blurred bokeh background, natural film grain texture, subtle light makeup, realistic skin texture, eyes gazing gently sideways, calm intellectual relaxed vibe, vintage warm brown tone, ultra realistic portrait photo, 8K --ar 9:16 --v 6.0 --style raw --s 230",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-02T13:23:44.257Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793625579567-2483",
+      "title": "Girl 00162",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625579567-2483.webp",
+      "prompt": "Ultra-cinematic close-up portrait of a young woman sitting inside a dark urban café, photographed from outside through a large reflective glass window. She has a sleek chin-length black bob with a center part, soft loose strands falling naturally across her face, pale realistic skin with subtle freckles, light green-gray eyes, soft natural lips, minimal makeup, and a quiet, distant, melancholic expression. She wears an elegant all-black outfit with sheer black sleeves.\nHer face is visible beneath multiple layers of glass reflections: blue streaks from passing cars, blurred city buildings, warm orange lights, street silhouettes and abstract urban shapes flowing across the frame. The reflections partially obscure her face, creating a dreamy double-exposure effect. Warm golden-hour sunlight gently cuts across sections of her face and glossy hair while the café interior remains dark and atmospheric.\nIntimate candid composition, subject looking sideways or subtly toward the camera, natural unposed body language, shallow depth of field, creamy bokeh, realistic glass scratches and faint dust, soft lens flare, subtle highlight bloom, cool blue reflections mixed with warm amber tones, rich blacks, cinematic color grading, 85mm lens, f/1.4, Kodak Portra 400 film aesthetic, fine 35mm grain, soft halation, natural skin texture, poetic urban solitude, luxury fashion editorial meets documentary street photography, photorealistic, vertical 4:5, no text, no watermark.",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": true,
+      "created_at": "2026-11-02T13:23:44.255Z",
+      "is_draft": false
+    },
+    {
+      "id": "pv-1793625531216-4960",
+      "title": "Girl 00161",
+      "image_url": "https://raw.githubusercontent.com/alamin91221/PromptVault/main/images/pv-1793625531216-4960.webp",
+      "prompt": "上传人像作为面部参考，生成雨后窗边的电影感人像。人物低头沉思，黑色松散盘发，保留自然神态与动作，穿优雅黑色轻薄吊带长裙，微透但不暴露。隔着带雨滴的玻璃拍摄，冷蓝背景与暖金色光影交错，浅景深、朦胧倒影、复古胶片质感。加入少量极简英文排版，画面自然高级，9:16竖图。\n\n避免：脸部变形、动作僵硬、过度磨皮、低俗性感、文字过多、手机界面、水印。",
+      "negative_prompt": "",
+      "model": "Moss Image",
+      "category": "Portrait",
+      "tags": [
+        "girl",
+        "woman",
+        "cut girl",
+        "cute woman"
+      ],
+      "is_premium": false,
+      "created_at": "2026-11-02T13:23:44.252Z",
+      "is_draft": false
     },
     {
       "id": "pv-1793625469114-6347",
